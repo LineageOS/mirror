@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7a23299d_f976f3d7",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2016-12-29T01:19:14Z",
+      "side": 1,
+      "message": "No. The path /path/to/mirror is equal to http://www.github.com/\nYou also cant do \"repo init -u http://www.github.com/ -b whatever\"\nbut you have to do \"repo init -u http://www.github.com/LineageOS/android -b whatever\"\nElse repo wouldn\u0027t know where the manifest is stored",
+      "parentUuid": "7a23299d_d9ac5738",
+      "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a23299d_b9a99b26",
         "filename": "default.xml",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2016-12-29T00:54:29Z",
       "side": 1,
       "message": "master branch doesn\u0027t seem right",
+      "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a23299d_1972cfe5",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2016-12-29T01:19:14Z",
+      "side": 1,
+      "message": "Master branch is correct. If the master branch is present, the master branch will be fetched (Most  projects with a master branch don\u0027t have other branches). If the master branch is missing, all branches are fetched.",
+      "parentUuid": "7a23299d_b9a99b26",
       "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
