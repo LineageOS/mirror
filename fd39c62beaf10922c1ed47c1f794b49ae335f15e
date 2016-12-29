@@ -2,6 +2,52 @@
   "comments": [
     {
       "key": {
+        "uuid": "7a23299d_3cb0d9dc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-12-29T03:49:27Z",
+      "side": 1,
+      "message": "nitpick, spelling \u003d)",
+      "range": {
+        "startLine": 9,
+        "startChar": 18,
+        "endLine": 9,
+        "endChar": 28
+      },
+      "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a23299d_bcc3c937",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-12-29T03:49:27Z",
+      "side": 1,
+      "message": "would it make sense to put these in separate commits? its kind of nice to have them separate from the rebrand in my opinion",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 81
+      },
+      "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a23299d_d9ac5738",
         "filename": "README.md",
         "patchSetId": 2
