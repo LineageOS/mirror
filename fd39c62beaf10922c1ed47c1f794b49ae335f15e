@@ -115,6 +115,24 @@
       "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a23299d_9cd7eded",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2016-12-29T03:51:05Z",
+      "side": 1,
+      "message": "what if you left it out completely? would it just fetch everything from every repo? maybe that\u0027s a better option?",
+      "parentUuid": "7a23299d_1972cfe5",
+      "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
