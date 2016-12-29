@@ -1,7 +1,5 @@
-#CyanogenMod Mirror Manifest
+#LineageOS Mirror Manifest
 
-Usage: `repo init -u http://github.com/CyanogenMod/mirror --mirror`
+Usage: `repo init -u http://github.com/LineageOS/mirror --mirror`
 
-Once the mirror is synced you can then run `repo init -u /path/to/mirror -b $BRANCHNAME` and sync normally. 
-
-
+Once the mirror is synced you can then run `repo init -u /path/to/mirror/LineageOS/android.git -b $BRANCHNAME` and sync normally.
