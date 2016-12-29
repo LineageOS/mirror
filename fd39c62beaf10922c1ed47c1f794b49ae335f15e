@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a23299d_d9ac5738",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-12-29T00:54:29Z",
+      "side": 1,
+      "message": "Doesn\u0027t /path/to/mirror/ already cover /path/to/mirror/LineageOS/ ?",
+      "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a23299d_b9a99b26",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 7880
+      },
+      "writtenOn": "2016-12-29T00:54:29Z",
+      "side": 1,
+      "message": "master branch doesn\u0027t seem right",
+      "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
