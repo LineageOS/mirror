@@ -133,6 +133,41 @@
       "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a23299d_ffaed3e6",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2016-12-29T06:21:43Z",
+      "side": 1,
+      "message": "Everything on AOSP has a master branch that\u0027s distinct from the release branches (e.g. https://android.googlesource.com/platform/sdk/+refs), so this won\u0027t work there.",
+      "parentUuid": "7a23299d_1972cfe5",
+      "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a23299d_dfab17d5",
+        "filename": "default.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2016-12-29T06:21:43Z",
+      "side": 1,
+      "message": "This doesn\u0027t seem to be publicly accessible (or it doesn\u0027t exist)",
+      "revId": "fd39c62beaf10922c1ed47c1f794b49ae335f15e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
