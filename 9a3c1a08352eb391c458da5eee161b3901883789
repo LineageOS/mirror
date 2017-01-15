@@ -25,6 +25,52 @@
     },
     {
       "key": {
+        "uuid": "ba3e81b7_d9c0c77e",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-01-15T19:25:15Z",
+      "side": 1,
+      "message": "\"copy all the data\" sounds a little more fluent",
+      "range": {
+        "startLine": 7,
+        "startChar": 245,
+        "endLine": 7,
+        "endChar": 260
+      },
+      "revId": "9a3c1a08352eb391c458da5eee161b3901883789",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3e81b7_3941130c",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-01-15T19:25:15Z",
+      "side": 1,
+      "message": "synced. It will fallback to GitHub if\n\n(no comma needed. break sentence into smaller fragments)",
+      "range": {
+        "startLine": 7,
+        "startChar": 297,
+        "endLine": 7,
+        "endChar": 335
+      },
+      "revId": "9a3c1a08352eb391c458da5eee161b3901883789",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba3e81b7_799b1bca",
         "filename": "README.md",
         "patchSetId": 2
