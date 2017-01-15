@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3e81b7_995ebf11",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-01-15T19:13:06Z",
+      "side": 1,
+      "message": "s/fast/quickly\n\nSounds a bit more elegant",
+      "range": {
+        "startLine": 7,
+        "startChar": 31,
+        "endLine": 7,
+        "endChar": 35
+      },
+      "revId": "9a3c1a08352eb391c458da5eee161b3901883789",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3e81b7_799b1bca",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 16082
+      },
+      "writtenOn": "2017-01-15T19:13:06Z",
+      "side": 1,
+      "message": "Perhaps explain why this bappens (briefly), so it sounds like we know what we\u0027re doing",
+      "range": {
+        "startLine": 15,
+        "startChar": 95,
+        "endLine": 15,
+        "endChar": 116
+      },
+      "revId": "9a3c1a08352eb391c458da5eee161b3901883789",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
