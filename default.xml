@@ -95,6 +95,7 @@
   <project name="LineageOS/android_device_google_accessory_arduino" />
   <project name="LineageOS/android_device_google_accessory_demokit" />
   <project name="LineageOS/android_device_google_atv" />
+  <project name="LineageOS/android_device_google_dragon" />
   <project name="LineageOS/android_device_google_marlin" />
   <project name="LineageOS/android_device_google_msm8952-common" />
   <project name="LineageOS/android_device_google_sailfish" />
@@ -211,6 +212,7 @@
   <project name="LineageOS/android_device_huawei_u8220" />
   <project name="LineageOS/android_device_intel_mixins" />
   <project name="LineageOS/android_device_leeco_s2" />
+  <project name="LineageOS/android_device_lenovo_kingdom" />
   <project name="LineageOS/android_device_letv_x1na" />
   <project name="LineageOS/android_device_lge_bullhead" />
   <project name="LineageOS/android_device_lge_c660" />
@@ -293,6 +295,7 @@
   <project name="LineageOS/android_device_lge_v490" />
   <project name="LineageOS/android_device_lge_v4xx-common" />
   <project name="LineageOS/android_device_lge_v500" />
+  <project name="LineageOS/android_device_lge_v521" />
   <project name="LineageOS/android_device_lge_v909" />
   <project name="LineageOS/android_device_lge_victor-common" />
   <project name="LineageOS/android_device_lge_vs840" />
@@ -328,6 +331,7 @@
   <project name="LineageOS/android_device_motorola_lux" />
   <project name="LineageOS/android_device_motorola_maserati" />
   <project name="LineageOS/android_device_motorola_mb886" />
+  <project name="LineageOS/android_device_motorola_merlin" />
   <project name="LineageOS/android_device_motorola_morrison" />
   <project name="LineageOS/android_device_motorola_moto_msm8960" />
   <project name="LineageOS/android_device_motorola_moto_msm8960dt" />
@@ -451,7 +455,11 @@
   <project name="LineageOS/android_device_samsung_galaxysmtd" />
   <project name="LineageOS/android_device_samsung_golden" />
   <project name="LineageOS/android_device_samsung_gts210ltexx" />
+  <project name="LineageOS/android_device_samsung_gts210vewifi" />
   <project name="LineageOS/android_device_samsung_gts210wifi" />
+  <project name="LineageOS/android_device_samsung_gts28ltexx" />
+  <project name="LineageOS/android_device_samsung_gts28vewifi" />
+  <project name="LineageOS/android_device_samsung_gts28wifi" />
   <project name="LineageOS/android_device_samsung_gts2-common" />
   <project name="LineageOS/android_device_samsung_hercules" />
   <project name="LineageOS/android_device_samsung_hero2lte" />
@@ -491,6 +499,7 @@
   <project name="LineageOS/android_device_samsung_jflteusc" />
   <project name="LineageOS/android_device_samsung_jfltevzw" />
   <project name="LineageOS/android_device_samsung_jfltexx" />
+  <project name="LineageOS/android_device_samsung_jfvelte" />
   <project name="LineageOS/android_device_samsung_k3gxx" />
   <project name="LineageOS/android_device_samsung_klimt-common" />
   <project name="LineageOS/android_device_samsung_klimtlte" />
@@ -524,6 +533,7 @@
   <project name="LineageOS/android_device_samsung_msm8930-common" />
   <project name="LineageOS/android_device_samsung_msm8960-common" />
   <project name="LineageOS/android_device_samsung_msm8974-common" />
+  <project name="LineageOS/android_device_samsung_msm8976-common" />
   <project name="LineageOS/android_device_samsung_n1awifi" />
   <project name="LineageOS/android_device_samsung_n5100" />
   <project name="LineageOS/android_device_samsung_n5110" />
@@ -706,6 +716,7 @@
   <project name="LineageOS/android_device_xiaomi_hydrogen" />
   <project name="LineageOS/android_device_xiaomi_ido" />
   <project name="LineageOS/android_device_xiaomi_kenzo" />
+  <project name="LineageOS/android_device_xiaomi_libra" />
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project name="LineageOS/android_device_yuhua_x2" />
   <project name="LineageOS/android_device_yu_jalebi" />
@@ -1110,6 +1121,7 @@
   <project name="LineageOS/android_hardware_amlogic_usbctrl" />
   <project name="LineageOS/android_hardware_amlogic_wifi" />
   <project name="LineageOS/android_hardware_atheros_wlan" />
+  <project name="LineageOS/android_hardware_broadcom_fm" />
   <project name="LineageOS/android_hardware_broadcom_libbt" />
   <project name="LineageOS/android_hardware_broadcom_wlan" />
   <project name="LineageOS/android_hardware_cm" />
@@ -1231,6 +1243,7 @@
   <project name="LineageOS/android_kernel_cyanogen_msm8994" />
   <project name="LineageOS/android_kernel_cyanogen_mt6735" />
   <project name="LineageOS/android_kernel_goldfish" />
+  <project name="LineageOS/android_kernel_google_dragon" />
   <project name="LineageOS/android_kernel_google_marlin" />
   <project name="LineageOS/android_kernel_google_msm" />
   <project name="LineageOS/android_kernel_google_seed" />
@@ -1254,6 +1267,7 @@
   <project name="LineageOS/android_kernel_huawei_msm8928" />
   <project name="LineageOS/android_kernel_leeco_msm8952" />
   <project name="LineageOS/android_kernel_leeco_msm8976" />
+  <project name="LineageOS/android_kernel_lenovo_msm8974" />
   <project name="LineageOS/android_kernel_letv_msm8994" />
   <project name="LineageOS/android_kernel_lge_bullhead" />
   <project name="LineageOS/android_kernel_lge_dory" />
@@ -1261,6 +1275,7 @@
   <project name="LineageOS/android_kernel_lge_hammerhead" />
   <project name="LineageOS/android_kernel_lge_ls970" />
   <project name="LineageOS/android_kernel_lge_msm8226" />
+  <project name="LineageOS/android_kernel_lge_msm8952" />
   <project name="LineageOS/android_kernel_lge_msm8974" />
   <project name="LineageOS/android_kernel_lge_msm8992" />
   <project name="LineageOS/android_kernel_lge_msm8996" />
@@ -1325,6 +1340,7 @@
   <project name="LineageOS/android_kernel_samsung_msm8660-common" />
   <project name="LineageOS/android_kernel_samsung_msm8660-q1" />
   <project name="LineageOS/android_kernel_samsung_msm8930-common" />
+  <project name="LineageOS/android_kernel_samsung_msm8976" />
   <project name="LineageOS/android_kernel_samsung_n1" />
   <project name="LineageOS/android_kernel_samsung_noblelte" />
   <project name="LineageOS/android_kernel_samsung_p1" />
@@ -1366,6 +1382,7 @@
   <project name="LineageOS/android_kernel_xiaomi_ferrari" />
   <project name="LineageOS/android_kernel_xiaomi_msm8916" />
   <project name="LineageOS/android_kernel_xiaomi_msm8956" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8992" />
   <project name="LineageOS/android_kernel_xiaomi_msm8996" />
   <project name="LineageOS/android_kernel_yu_msm8916" />
   <project name="LineageOS/android_kernel_zte_msm8994" />
@@ -1658,6 +1675,7 @@
   <project name="LineageOS/lge-kernel-star" />
   <project name="LineageOS/libbt-hci" />
   <project name="LineageOS/lineageos_updater" />
+  <project name="LineageOS/lineage_wiki" />
   <project name="LineageOS/mirror" />
   <project name="LineageOS/mirrorbits" />
   <project name="LineageOS/motorola-kernel-stingray" />
@@ -1670,7 +1688,6 @@
   <project name="LineageOS/sony-kernel-msm8960" />
   <project name="LineageOS/sony-kernel-u8500" />
   <project name="LineageOS/Superuser" />
-  <project name="LineageOS/temp_infra_tracker" />
   <project name="LineageOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project name="LineageOS/tools_repo" />
   <project name="LineageOS/tribble-tracker" />
