@@ -72,6 +72,7 @@
   <project name="LineageOS/android_device_bq_msm8916-common" />
   <project name="LineageOS/android_device_bq_paella" />
   <project name="LineageOS/android_device_bq_piccolo" />
+  <project name="LineageOS/android_device_bq_tenshi" />
   <project name="LineageOS/android_device_bq_vegetalte" />
   <project name="LineageOS/android_device_common" />
   <project name="LineageOS/android_device_commtiva_z71" />
@@ -211,7 +212,11 @@
   <project name="LineageOS/android_device_huawei_u8160" />
   <project name="LineageOS/android_device_huawei_u8220" />
   <project name="LineageOS/android_device_intel_mixins" />
+  <project name="LineageOS/android_device_leeco_msm8996-common" />
   <project name="LineageOS/android_device_leeco_s2" />
+  <project name="LineageOS/android_device_leeco_x2" />
+  <project name="LineageOS/android_device_leeco_zl1" />
+  <project name="LineageOS/android_device_lenovo_A6020" />
   <project name="LineageOS/android_device_lenovo_kingdom" />
   <project name="LineageOS/android_device_letv_x1na" />
   <project name="LineageOS/android_device_lge_bullhead" />
@@ -244,6 +249,8 @@
   <project name="LineageOS/android_device_lge_g3-common" />
   <project name="LineageOS/android_device_lge_g4-common" />
   <project name="LineageOS/android_device_lge_g5-common" />
+  <project name="LineageOS/android_device_lge_g6-common" />
+  <project name="LineageOS/android_device_lge_gpad83-common" />
   <project name="LineageOS/android_device_lge_gproj-common" />
   <project name="LineageOS/android_device_lge_h811" />
   <project name="LineageOS/android_device_lge_h815" />
@@ -324,6 +331,7 @@
   <project name="LineageOS/android_device_motorola_edison" />
   <project name="LineageOS/android_device_motorola_falcon" />
   <project name="LineageOS/android_device_motorola_ghost" />
+  <project name="LineageOS/android_device_motorola_griffin" />
   <project name="LineageOS/android_device_motorola_harpia" />
   <project name="LineageOS/android_device_motorola_jordan" />
   <project name="LineageOS/android_device_motorola_jordan-common" />
@@ -430,6 +438,7 @@
   <project name="LineageOS/android_device_samsung_d2cri" />
   <project name="LineageOS/android_device_samsung_d2lte" />
   <project name="LineageOS/android_device_samsung_d2mtr" />
+  <project name="LineageOS/android_device_samsung_d2refreshspr" />
   <project name="LineageOS/android_device_samsung_d2spr" />
   <project name="LineageOS/android_device_samsung_d2tmo" />
   <project name="LineageOS/android_device_samsung_d2usc" />
@@ -443,6 +452,7 @@
   <project name="LineageOS/android_device_samsung_exhilarate" />
   <project name="LineageOS/android_device_samsung_expressatt" />
   <project name="LineageOS/android_device_samsung_exynos5420-common" />
+  <project name="LineageOS/android_device_samsung_exynos-common" />
   <project name="LineageOS/android_device_samsung_fascinate" />
   <project name="LineageOS/android_device_samsung_fascinatemtd" />
   <project name="LineageOS/android_device_samsung_galaxy5" />
@@ -535,6 +545,7 @@
   <project name="LineageOS/android_device_samsung_msm8974-common" />
   <project name="LineageOS/android_device_samsung_msm8976-common" />
   <project name="LineageOS/android_device_samsung_n1awifi" />
+  <project name="LineageOS/android_device_samsung_n2awifi" />
   <project name="LineageOS/android_device_samsung_n5100" />
   <project name="LineageOS/android_device_samsung_n5110" />
   <project name="LineageOS/android_device_samsung_n5120" />
@@ -544,6 +555,7 @@
   <project name="LineageOS/android_device_samsung_n8013" />
   <project name="LineageOS/android_device_samsung_n80xx-common" />
   <project name="LineageOS/android_device_samsung_noblelte-common" />
+  <project name="LineageOS/android_device_samsung_nobleltejv" />
   <project name="LineageOS/android_device_samsung_nobleltetmo" />
   <project name="LineageOS/android_device_samsung_omap4-common" />
   <project name="LineageOS/android_device_samsung_p1" />
@@ -680,6 +692,7 @@
   <project name="LineageOS/android_device_sony_pollux_windy" />
   <project name="LineageOS/android_device_sony_qcom-common" />
   <project name="LineageOS/android_device_sony_rhine-common" />
+  <project name="LineageOS/android_device_sony_satsuki" />
   <project name="LineageOS/android_device_sony_scorpion" />
   <project name="LineageOS/android_device_sony_scorpion_windy" />
   <project name="LineageOS/android_device_sony_seagull" />
@@ -718,6 +731,8 @@
   <project name="LineageOS/android_device_xiaomi_kenzo" />
   <project name="LineageOS/android_device_xiaomi_libra" />
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
+  <project name="LineageOS/android_device_xiaomi_msm8996-common" />
+  <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_yuhua_x2" />
   <project name="LineageOS/android_device_yu_jalebi" />
   <project name="LineageOS/android_device_yu_lettuce" />
@@ -1267,6 +1282,8 @@
   <project name="LineageOS/android_kernel_huawei_msm8928" />
   <project name="LineageOS/android_kernel_leeco_msm8952" />
   <project name="LineageOS/android_kernel_leeco_msm8976" />
+  <project name="LineageOS/android_kernel_leeco_msm8996" />
+  <project name="LineageOS/android_kernel_lenovo_msm8916" />
   <project name="LineageOS/android_kernel_lenovo_msm8974" />
   <project name="LineageOS/android_kernel_letv_msm8994" />
   <project name="LineageOS/android_kernel_lge_bullhead" />
@@ -1294,6 +1311,7 @@
   <project name="LineageOS/android_kernel_motorola_msm8960dt-common" />
   <project name="LineageOS/android_kernel_motorola_msm8974" />
   <project name="LineageOS/android_kernel_motorola_msm8992" />
+  <project name="LineageOS/android_kernel_motorola_msm8996" />
   <project name="LineageOS/android_kernel_motorola_omap4-common" />
   <project name="LineageOS/android_kernel_motorola_omap4-kexec-common" />
   <project name="LineageOS/android_kernel_motorola_otus" />
@@ -1421,6 +1439,7 @@
   <project name="LineageOS/android_packages_apps_CMWimaxSettings" />
   <project name="LineageOS/android_packages_apps_Contacts" />
   <project name="LineageOS/android_packages_apps_ContactsCommon" />
+  <project name="LineageOS/android_packages_apps_CustomTiles" />
   <project name="LineageOS/android_packages_apps_DesignerTools" />
   <project name="LineageOS/android_packages_apps_DeskClock" />
   <project name="LineageOS/android_packages_apps_Dialer" />
@@ -1582,6 +1601,7 @@
   <project name="LineageOS/android_system_sepolicy" />
   <project name="LineageOS/android_system_su" />
   <project name="LineageOS/android_system_tools_aidl" />
+  <project name="LineageOS/android_system_tools_dtbtool" />
   <project name="LineageOS/android_system_vold" />
   <project name="LineageOS/android_system_wlan_ti" />
   <project name="LineageOS/android_tools_base" />
@@ -1646,6 +1666,7 @@
   <project name="LineageOS/external_android_support-prebuilt" />
   <project name="LineageOS/external_cyanogen_cmhomeapi" />
   <project name="LineageOS/geeksphone-kernel-zero" />
+  <project name="LineageOS/gello_channel" />
   <project name="LineageOS/getcm-translations" />
   <project name="LineageOS/hardkernel-kernel-4412" />
   <project name="LineageOS/hp-kernel-tenderloin" />
