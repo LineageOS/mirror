@@ -256,6 +256,7 @@
   <project name="LineageOS/android_device_lge_h815" />
   <project name="LineageOS/android_device_lge_h830" />
   <project name="LineageOS/android_device_lge_h850" />
+  <project name="LineageOS/android_device_lge_h872" />
   <project name="LineageOS/android_device_lge_h901" />
   <project name="LineageOS/android_device_lge_h918" />
   <project name="LineageOS/android_device_lge_hammerhead" />
@@ -420,6 +421,7 @@
   <project name="LineageOS/android_device_sample" />
   <project name="LineageOS/android_device_samsung_amazing3gcri" />
   <project name="LineageOS/android_device_samsung_apexqtmo" />
+  <project name="LineageOS/android_device_samsung_apq8084-common" />
   <project name="LineageOS/android_device_samsung_aries-common" />
   <project name="LineageOS/android_device_samsung_bmlunlock" />
   <project name="LineageOS/android_device_samsung_c1-common" />
@@ -511,6 +513,7 @@
   <project name="LineageOS/android_device_samsung_jfltexx" />
   <project name="LineageOS/android_device_samsung_jfvelte" />
   <project name="LineageOS/android_device_samsung_k3gxx" />
+  <project name="LineageOS/android_device_samsung_kccat6" />
   <project name="LineageOS/android_device_samsung_klimt-common" />
   <project name="LineageOS/android_device_samsung_klimtlte" />
   <project name="LineageOS/android_device_samsung_klimtwifi" />
@@ -531,6 +534,7 @@
   <project name="LineageOS/android_device_samsung_kyleprods" />
   <project name="LineageOS/android_device_samsung_kyleve" />
   <project name="LineageOS/android_device_samsung_l900" />
+  <project name="LineageOS/android_device_samsung_lentislte" />
   <project name="LineageOS/android_device_samsung_lt03lte" />
   <project name="LineageOS/android_device_samsung_lt03wifi" />
   <project name="LineageOS/android_device_samsung_maguro" />
@@ -1335,6 +1339,7 @@
   <project name="LineageOS/android_kernel_oppo_n1" />
   <project name="LineageOS/android_kernel_oppo_n3" />
   <project name="LineageOS/android_kernel_qcom_msm8996" />
+  <project name="LineageOS/android_kernel_samsung_apq8084" />
   <project name="LineageOS/android_kernel_samsung_aries" />
   <project name="LineageOS/android_kernel_samsung_crespo" />
   <project name="LineageOS/android_kernel_samsung_d2" />
