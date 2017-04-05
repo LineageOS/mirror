@@ -1172,8 +1172,10 @@
   <project name="LineageOS/android_hardware_libhardware_legacy" />
   <project name="LineageOS/android_hardware_msm7k" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
+  <project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
   <project name="LineageOS/android_hardware_nvidia_power" />
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
+  <project name="LineageOS/android_hardware_nvidia_thermal" />
   <project name="LineageOS/android_hardware_qcom_audio" />
   <project name="LineageOS/android_hardware_qcom_audio-bfam" />
   <project name="LineageOS/android_hardware_qcom_audio-caf" />
