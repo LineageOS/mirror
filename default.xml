@@ -610,8 +610,7 @@
   <project name="LineageOS/android_device_samsung_t0lte" />
   <project name="LineageOS/android_device_samsung_t0lteatt" />
   <project name="LineageOS/android_device_samsung_t0ltecdma" />
-  <project name="LineageOS/android_device_samsung_t0ltektt" />
-  <project name="LineageOS/android_device_samsung_t0lteskt" />
+  <project name="LineageOS/android_device_samsung_t0ltekor" />
   <project name="LineageOS/android_device_samsung_t0ltespr" />
   <project name="LineageOS/android_device_samsung_t0ltetmo" />
   <project name="LineageOS/android_device_samsung_t0ltevzw" />
