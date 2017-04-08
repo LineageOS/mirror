@@ -931,6 +931,7 @@
   <project name="LineageOS/android_external_libgsm" />
   <project name="LineageOS/android_external_libhevc" />
   <project name="LineageOS/android_external_liblzf" />
+  <project name="LineageOS/android_external_libmpeg2" />
   <project name="LineageOS/android_external_libmtp" />
   <project name="LineageOS/android_external_libncurses" />
   <project name="LineageOS/android_external_libnetfilter_conntrack" />
@@ -1659,6 +1660,7 @@
   <project name="LineageOS/android_vendor_tmobile_providers_ThemeManager" />
   <project name="LineageOS/android_vendor_tmobile_themes_Androidian" />
   <project name="LineageOS/android_vendor_tmobile_themes_Cyanbread" />
+  <project name="LineageOS/ansible" />
   <project name="LineageOS/AR6kSDK.3.1" />
   <project name="LineageOS/bugproxy" />
   <project name="LineageOS/CMAccountWebsite" />
