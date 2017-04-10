@@ -1721,6 +1721,7 @@
   <project name="LineageOS/sony-kernel-msm8660" />
   <project name="LineageOS/sony-kernel-msm8960" />
   <project name="LineageOS/sony-kernel-u8500" />
+  <project name="LineageOS/stats" />
   <project name="LineageOS/Superuser" />
   <project name="LineageOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project name="LineageOS/tools_repo" />
