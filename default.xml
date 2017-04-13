@@ -321,6 +321,7 @@
   <project name="LineageOS/android_device_malata_smb-common" />
   <project name="LineageOS/android_device_moto_common" />
   <project name="LineageOS/android_device_moto_everest" />
+  <project name="LineageOS/android_device_motorola_addison" />
   <project name="LineageOS/android_device_motorola_asanti" />
   <project name="LineageOS/android_device_motorola_athene" />
   <project name="LineageOS/android_device_motorola_backflip" />
@@ -535,6 +536,8 @@
   <project name="LineageOS/android_device_samsung_kyleve" />
   <project name="LineageOS/android_device_samsung_l900" />
   <project name="LineageOS/android_device_samsung_lentislte" />
+  <project name="LineageOS/android_device_samsung_lt02lte-common" />
+  <project name="LineageOS/android_device_samsung_lt02ltespr" />
   <project name="LineageOS/android_device_samsung_lt03lte" />
   <project name="LineageOS/android_device_samsung_lt03wifi" />
   <project name="LineageOS/android_device_samsung_maguro" />
@@ -1317,6 +1320,7 @@
   <project name="LineageOS/android_kernel_motorola_msm8610" />
   <project name="LineageOS/android_kernel_motorola_msm8916" />
   <project name="LineageOS/android_kernel_motorola_msm8952" />
+  <project name="LineageOS/android_kernel_motorola_msm8953" />
   <project name="LineageOS/android_kernel_motorola_msm8960-common" />
   <project name="LineageOS/android_kernel_motorola_msm8960dt-common" />
   <project name="LineageOS/android_kernel_motorola_msm8974" />
