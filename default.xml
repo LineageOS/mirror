@@ -927,6 +927,7 @@
   <project name="LineageOS/android_external_ksoap2" />
   <project name="LineageOS/android_external_libavc" />
   <project name="LineageOS/android_external_libcap-ng" />
+  <project name="LineageOS/android_external_libchrome" />
   <project name="LineageOS/android_external_libcxx" />
   <project name="LineageOS/android_external_libcxxabi" />
   <project name="LineageOS/android_external_libedit" />
