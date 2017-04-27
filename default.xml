@@ -258,6 +258,7 @@
   <project name="LineageOS/android_device_lge_h850" />
   <project name="LineageOS/android_device_lge_h872" />
   <project name="LineageOS/android_device_lge_h901" />
+  <project name="LineageOS/android_device_lge_h910" />
   <project name="LineageOS/android_device_lge_h918" />
   <project name="LineageOS/android_device_lge_hammerhead" />
   <project name="LineageOS/android_device_lge_hammerheadcaf" />
@@ -271,6 +272,7 @@
   <project name="LineageOS/android_device_lge_ls970-common" />
   <project name="LineageOS/android_device_lge_ls980" />
   <project name="LineageOS/android_device_lge_ls990" />
+  <project name="LineageOS/android_device_lge_ls997" />
   <project name="LineageOS/android_device_lge_mako" />
   <project name="LineageOS/android_device_lge_ms695" />
   <project name="LineageOS/android_device_lge_ms910" />
@@ -311,6 +313,7 @@
   <project name="LineageOS/android_device_lge_vs920" />
   <project name="LineageOS/android_device_lge_vs980" />
   <project name="LineageOS/android_device_lge_vs985" />
+  <project name="LineageOS/android_device_lge_vs995" />
   <project name="LineageOS/android_device_lge_w5" />
   <project name="LineageOS/android_device_lge_w7" />
   <project name="LineageOS/android_device_lge_zee" />
@@ -474,6 +477,7 @@
   <project name="LineageOS/android_device_samsung_gts28vewifi" />
   <project name="LineageOS/android_device_samsung_gts28wifi" />
   <project name="LineageOS/android_device_samsung_gts2-common" />
+  <project name="LineageOS/android_device_samsung_ha3g" />
   <project name="LineageOS/android_device_samsung_hercules" />
   <project name="LineageOS/android_device_samsung_hero2lte" />
   <project name="LineageOS/android_device_samsung_hero-common" />
