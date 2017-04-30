@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a486d77_78441b74",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2017-04-30T19:34:39Z",
+      "side": 1,
+      "message": "Missed this change to https :/",
+      "range": {
+        "startLine": 7,
+        "startChar": 130,
+        "endLine": 7,
+        "endChar": 134
+      },
+      "revId": "892f549b076fe4296e9562d85b4bca3daae11697",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
