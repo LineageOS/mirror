@@ -738,6 +738,7 @@
   <project name="LineageOS/android_device_xiaomi_aries" />
   <project name="LineageOS/android_device_xiaomi_armani" />
   <project name="LineageOS/android_device_xiaomi_cancro" />
+  <project name="LineageOS/android_device_xiaomi_capricorn" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
   <project name="LineageOS/android_device_xiaomi_gemini" />
   <project name="LineageOS/android_device_xiaomi_hydrogen" />
@@ -1681,6 +1682,7 @@
   <project name="LineageOS/cm-less" />
   <project name="LineageOS/cm_platform_sdk" />
   <project name="LineageOS/CMStatsServer" />
+  <project name="LineageOS/contributors-cloud-generator" />
   <project name="LineageOS/ctso_supplicant" />
   <project name="LineageOS/cve_tracker" />
   <project name="LineageOS/device_htc_marvel" />
@@ -1727,6 +1729,7 @@
   <project name="LineageOS/samsung-kernel-c1" />
   <project name="LineageOS/samsung-kernel-galaxys" />
   <project name="LineageOS/samsung-kernel-hercules" />
+  <project name="LineageOS/scripts" />
   <project name="LineageOS/semc-kernel-msm7x30" />
   <project name="LineageOS/snapdragon_swe_engine" />
   <project name="LineageOS/sony-kernel-msm8660" />
