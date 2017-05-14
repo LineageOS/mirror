@@ -19,7 +19,7 @@ except KeyError:
 orgName = "LineageOS"
 org = Github(u, p).get_user(orgName)
 
-file = open("default.xml","w")
+file = open("default.xml", "w")
 file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
 file.write("<manifest>\n")
 file.write("\n")
@@ -31,8 +31,13 @@ file.write("           remote=\"github\"\n")
 file.write("           sync-j=\"4\" />\n")
 file.write("\n")
 
+repos = []
+
 for repo in org.get_repos():
-  file.write("  <project name=\"" + repo.full_name + "\" />\n")
+    repos.append(repo.full_name)
+
+for repo in sorted(repos):
+    file.write("  <project name=\"" + repo + "\" />\n")
 
 file.write("</manifest>\n")
 file.close()
