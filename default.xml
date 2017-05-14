@@ -745,9 +745,11 @@
   <project name="LineageOS/android_device_xiaomi_ido" />
   <project name="LineageOS/android_device_xiaomi_kenzo" />
   <project name="LineageOS/android_device_xiaomi_libra" />
+  <project name="LineageOS/android_device_xiaomi_lithium" />
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project name="LineageOS/android_device_xiaomi_msm8996-common" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
+  <project name="LineageOS/android_device_xiaomi_scorpio" />
   <project name="LineageOS/android_device_yuhua_x2" />
   <project name="LineageOS/android_device_yu_jalebi" />
   <project name="LineageOS/android_device_yu_lettuce" />
