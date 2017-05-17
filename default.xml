@@ -1278,6 +1278,7 @@
   <project name="LineageOS/android_kernel_bn_encore" />
   <project name="LineageOS/android_kernel_bn_omap" />
   <project name="LineageOS/android_kernel_bq_msm8916" />
+  <project name="LineageOS/android_kernel_bq_msm8937" />
   <project name="LineageOS/android_kernel_bq_msm8939" />
   <project name="LineageOS/android_kernel_bq_msm8976" />
   <project name="LineageOS/android_kernel_cyanogen_msm8916" />
