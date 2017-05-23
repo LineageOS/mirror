@@ -149,6 +149,7 @@
   <project name="LineageOS/android_device_htc_hiae-common" />
   <project name="LineageOS/android_device_htc_hiaeuhl" />
   <project name="LineageOS/android_device_htc_hiaeul" />
+  <project name="LineageOS/android_device_htc_hiaewhl" />
   <project name="LineageOS/android_device_htc_hima-common" />
   <project name="LineageOS/android_device_htc_himaul" />
   <project name="LineageOS/android_device_htc_himawhl" />
@@ -1736,6 +1737,7 @@
   <project name="LineageOS/samsung-kernel-hercules" />
   <project name="LineageOS/scripts" />
   <project name="LineageOS/semc-kernel-msm7x30" />
+  <project name="LineageOS/slackbot" />
   <project name="LineageOS/snapdragon_swe_engine" />
   <project name="LineageOS/sony-kernel-msm8660" />
   <project name="LineageOS/sony-kernel-msm8960" />
