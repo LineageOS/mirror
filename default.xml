@@ -645,6 +645,7 @@
   <project name="LineageOS/android_device_samsung_trltexx" />
   <project name="LineageOS/android_device_samsung_tuna" />
   <project name="LineageOS/android_device_samsung_v1awifi" />
+  <project name="LineageOS/android_device_samsung_v2awifi" />
   <project name="LineageOS/android_device_samsung_v2wifixx" />
   <project name="LineageOS/android_device_samsung_vibrant" />
   <project name="LineageOS/android_device_samsung_vibrantmtd" />
