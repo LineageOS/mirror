@@ -225,6 +225,7 @@
   <project name="LineageOS/android_device_leeco_zl1" />
   <project name="LineageOS/android_device_lenovo_A6020" />
   <project name="LineageOS/android_device_lenovo_kingdom" />
+  <project name="LineageOS/android_device_lenovo_kuntao" />
   <project name="LineageOS/android_device_letv_x1na" />
   <project name="LineageOS/android_device_lge_bullhead" />
   <project name="LineageOS/android_device_lge_c660" />
@@ -477,6 +478,13 @@
   <project name="LineageOS/android_device_samsung_galaxysbmtd" />
   <project name="LineageOS/android_device_samsung_galaxysmtd" />
   <project name="LineageOS/android_device_samsung_golden" />
+  <project name="LineageOS/android_device_samsung_gprimelte" />
+  <project name="LineageOS/android_device_samsung_gprimelte-common" />
+  <project name="LineageOS/android_device_samsung_gprimeltespr" />
+  <project name="LineageOS/android_device_samsung_gprimeltexx" />
+  <project name="LineageOS/android_device_samsung_gte-common" />
+  <project name="LineageOS/android_device_samsung_gtelwifiue" />
+  <project name="LineageOS/android_device_samsung_gtesqltespr" />
   <project name="LineageOS/android_device_samsung_gts2-common" />
   <project name="LineageOS/android_device_samsung_gts210ltexx" />
   <project name="LineageOS/android_device_samsung_gts210vewifi" />
@@ -558,6 +566,7 @@
   <project name="LineageOS/android_device_samsung_ms013g" />
   <project name="LineageOS/android_device_samsung_msm8226-common" />
   <project name="LineageOS/android_device_samsung_msm8660-common" />
+  <project name="LineageOS/android_device_samsung_msm8916-common" />
   <project name="LineageOS/android_device_samsung_msm8930-common" />
   <project name="LineageOS/android_device_samsung_msm8960-common" />
   <project name="LineageOS/android_device_samsung_msm8974-common" />
@@ -754,6 +763,7 @@
   <project name="LineageOS/android_device_xiaomi_kenzo" />
   <project name="LineageOS/android_device_xiaomi_libra" />
   <project name="LineageOS/android_device_xiaomi_lithium" />
+  <project name="LineageOS/android_device_xiaomi_mido" />
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project name="LineageOS/android_device_xiaomi_msm8996-common" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
@@ -1314,6 +1324,7 @@
   <project name="LineageOS/android_kernel_leeco_msm8976" />
   <project name="LineageOS/android_kernel_leeco_msm8996" />
   <project name="LineageOS/android_kernel_lenovo_msm8916" />
+  <project name="LineageOS/android_kernel_lenovo_msm8953" />
   <project name="LineageOS/android_kernel_lenovo_msm8974" />
   <project name="LineageOS/android_kernel_letv_msm8994" />
   <project name="LineageOS/android_kernel_lge_bullhead" />
@@ -1389,6 +1400,7 @@
   <project name="LineageOS/android_kernel_samsung_ms013g" />
   <project name="LineageOS/android_kernel_samsung_msm8660-common" />
   <project name="LineageOS/android_kernel_samsung_msm8660-q1" />
+  <project name="LineageOS/android_kernel_samsung_msm8916" />
   <project name="LineageOS/android_kernel_samsung_msm8930-common" />
   <project name="LineageOS/android_kernel_samsung_msm8976" />
   <project name="LineageOS/android_kernel_samsung_n1" />
@@ -1431,6 +1443,7 @@
   <project name="LineageOS/android_kernel_xiaomi_cancro" />
   <project name="LineageOS/android_kernel_xiaomi_ferrari" />
   <project name="LineageOS/android_kernel_xiaomi_msm8916" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8953" />
   <project name="LineageOS/android_kernel_xiaomi_msm8956" />
   <project name="LineageOS/android_kernel_xiaomi_msm8992" />
   <project name="LineageOS/android_kernel_xiaomi_msm8996" />
