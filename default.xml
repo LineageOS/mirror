@@ -1374,6 +1374,8 @@
   <project name="LineageOS/android_kernel_oppo_msm8974" />
   <project name="LineageOS/android_kernel_oppo_n1" />
   <project name="LineageOS/android_kernel_oppo_n3" />
+  <project name="LineageOS/android_kernel_qcom_msm8916" />
+  <project name="LineageOS/android_kernel_qcom_msm8994" />
   <project name="LineageOS/android_kernel_qcom_msm8996" />
   <project name="LineageOS/android_kernel_samsung_apq8084" />
   <project name="LineageOS/android_kernel_samsung_aries" />
