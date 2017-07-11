@@ -405,6 +405,7 @@
   <project name="LineageOS/android_device_nvidia_shield-common" />
   <project name="LineageOS/android_device_nvidia_shieldtablet" />
   <project name="LineageOS/android_device_oneplus_bacon" />
+  <project name="LineageOS/android_device_oneplus_cheeseburger" />
   <project name="LineageOS/android_device_oneplus_common" />
   <project name="LineageOS/android_device_oneplus_oneplus2" />
   <project name="LineageOS/android_device_oneplus_oneplus3" />
@@ -1367,6 +1368,7 @@
   <project name="LineageOS/android_kernel_oneplus_msm8974" />
   <project name="LineageOS/android_kernel_oneplus_msm8994" />
   <project name="LineageOS/android_kernel_oneplus_msm8996" />
+  <project name="LineageOS/android_kernel_oneplus_msm8998" />
   <project name="LineageOS/android_kernel_oneplus_onyx" />
   <project name="LineageOS/android_kernel_oppo_find5" />
   <project name="LineageOS/android_kernel_oppo_msm8226" />
