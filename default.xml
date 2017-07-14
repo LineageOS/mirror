@@ -399,6 +399,7 @@
   <project name="LineageOS/android_device_motorola_xt926" />
   <project name="LineageOS/android_device_motorola_zeppelin" />
   <project name="LineageOS/android_device_nextbit_ether" />
+  <project name="LineageOS/android_device_nubia_nx512j" />
   <project name="LineageOS/android_device_nubia_nx531j" />
   <project name="LineageOS/android_device_nvidia_foster" />
   <project name="LineageOS/android_device_nvidia_roth" />
@@ -1361,6 +1362,7 @@
   <project name="LineageOS/android_kernel_motorola_otus" />
   <project name="LineageOS/android_kernel_motorola_titan" />
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
+  <project name="LineageOS/android_kernel_nubia_msm8939" />
   <project name="LineageOS/android_kernel_nubia_msm8996" />
   <project name="LineageOS/android_kernel_nvidia_roth" />
   <project name="LineageOS/android_kernel_nvidia_shield" />
