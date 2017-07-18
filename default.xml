@@ -264,6 +264,7 @@
   <project name="LineageOS/android_device_lge_h815" />
   <project name="LineageOS/android_device_lge_h830" />
   <project name="LineageOS/android_device_lge_h850" />
+  <project name="LineageOS/android_device_lge_h870" />
   <project name="LineageOS/android_device_lge_h872" />
   <project name="LineageOS/android_device_lge_h901" />
   <project name="LineageOS/android_device_lge_h910" />
