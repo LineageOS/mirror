@@ -88,6 +88,7 @@
   <project name="LineageOS/android_device_cyanogen_mt6735-common" />
   <project name="LineageOS/android_device_dell_streak7" />
   <project name="LineageOS/android_device_elocity_a7" />
+  <project name="LineageOS/android_device_fairphone_FP2" />
   <project name="LineageOS/android_device_geeksphone_one" />
   <project name="LineageOS/android_device_geeksphone_zero" />
   <project name="LineageOS/android_device_generic" />
@@ -522,6 +523,8 @@
   <project name="LineageOS/android_device_samsung_i9300" />
   <project name="LineageOS/android_device_samsung_i9305" />
   <project name="LineageOS/android_device_samsung_i9500" />
+  <project name="LineageOS/android_device_samsung_j7lte-common" />
+  <project name="LineageOS/android_device_samsung_j7ltespr" />
   <project name="LineageOS/android_device_samsung_jactivelte" />
   <project name="LineageOS/android_device_samsung_jf-common" />
   <project name="LineageOS/android_device_samsung_jflte" />
@@ -1300,6 +1303,7 @@
   <project name="LineageOS/android_kernel_cyanogen_msm8974" />
   <project name="LineageOS/android_kernel_cyanogen_msm8994" />
   <project name="LineageOS/android_kernel_cyanogen_mt6735" />
+  <project name="LineageOS/android_kernel_fairphone_msm8974" />
   <project name="LineageOS/android_kernel_goldfish" />
   <project name="LineageOS/android_kernel_google_dragon" />
   <project name="LineageOS/android_kernel_google_marlin" />
