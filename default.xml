@@ -507,6 +507,7 @@
   <project name="LineageOS/android_device_samsung_hlte" />
   <project name="LineageOS/android_device_samsung_hlte-common" />
   <project name="LineageOS/android_device_samsung_hltecan" />
+  <project name="LineageOS/android_device_samsung_hltechn" />
   <project name="LineageOS/android_device_samsung_hltespr" />
   <project name="LineageOS/android_device_samsung_hltetmo" />
   <project name="LineageOS/android_device_samsung_hlteusc" />
