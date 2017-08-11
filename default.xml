@@ -231,6 +231,7 @@
   <project name="LineageOS/android_device_lge_bullhead" />
   <project name="LineageOS/android_device_lge_c660" />
   <project name="LineageOS/android_device_lge_c800" />
+  <project name="LineageOS/android_device_lge_common" />
   <project name="LineageOS/android_device_lge_d800" />
   <project name="LineageOS/android_device_lge_d801" />
   <project name="LineageOS/android_device_lge_d802" />
