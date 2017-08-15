@@ -1066,6 +1066,7 @@
   <project name="LineageOS/android_external_safe-iop" />
   <project name="LineageOS/android_external_sbsigntool" />
   <project name="LineageOS/android_external_sepolicy" />
+  <project name="LineageOS/android_external_sfntly" />
   <project name="LineageOS/android_external_skia" />
   <project name="LineageOS/android_external_smali" />
   <project name="LineageOS/android_external_sonivox" />
@@ -1574,6 +1575,7 @@
   <project name="LineageOS/android_packages_apps_Trebuchet" />
   <project name="LineageOS/android_packages_apps_TvSettings" />
   <project name="LineageOS/android_packages_apps_UnifiedEmail" />
+  <project name="LineageOS/android_packages_apps_Updater" />
   <project name="LineageOS/android_packages_apps_Usb" />
   <project name="LineageOS/android_packages_apps_VideoEditor" />
   <project name="LineageOS/android_packages_apps_VoiceDialer" />
