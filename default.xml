@@ -302,6 +302,7 @@
   <project name="LineageOS/android_device_lge_p970" />
   <project name="LineageOS/android_device_lge_p990" />
   <project name="LineageOS/android_device_lge_p999" />
+  <project name="LineageOS/android_device_lge_rs988" />
   <project name="LineageOS/android_device_lge_star-common" />
   <project name="LineageOS/android_device_lge_su640" />
   <project name="LineageOS/android_device_lge_thunderc" />
