@@ -26,6 +26,7 @@
   <project name="LineageOS/android_bootable_userfastboot" />
   <project name="LineageOS/android_build" />
   <project name="LineageOS/android_build_kati" />
+  <project name="LineageOS/android_build_soong" />
   <project name="LineageOS/android_cts" />
   <project name="LineageOS/android_dalvik" />
   <project name="LineageOS/android_development" />
@@ -329,6 +330,7 @@
   <project name="LineageOS/android_device_lge_w5" />
   <project name="LineageOS/android_device_lge_w7" />
   <project name="LineageOS/android_device_lge_zee" />
+  <project name="LineageOS/android_device_lineage_sepolicy" />
   <project name="LineageOS/android_device_malata_smb-common" />
   <project name="LineageOS/android_device_malata_smb_a1002" />
   <project name="LineageOS/android_device_malata_smb_a1004" />
@@ -1066,6 +1068,7 @@
   <project name="LineageOS/android_external_rsync" />
   <project name="LineageOS/android_external_safe-iop" />
   <project name="LineageOS/android_external_sbsigntool" />
+  <project name="LineageOS/android_external_selinux" />
   <project name="LineageOS/android_external_sepolicy" />
   <project name="LineageOS/android_external_sfntly" />
   <project name="LineageOS/android_external_skia" />
@@ -1451,6 +1454,7 @@
   <project name="LineageOS/android_kernel_sony_msm8x27" />
   <project name="LineageOS/android_kernel_sony_msm8x60" />
   <project name="LineageOS/android_kernel_sony_tianchi" />
+  <project name="LineageOS/android_kernel_ti_omap4" />
   <project name="LineageOS/android_kernel_toshiba_betelgeuse" />
   <project name="LineageOS/android_kernel_wingtech_msm8916" />
   <project name="LineageOS/android_kernel_xiaomi_aries" />
@@ -1505,6 +1509,7 @@
   <project name="LineageOS/android_packages_apps_DeskClock" />
   <project name="LineageOS/android_packages_apps_Dialer" />
   <project name="LineageOS/android_packages_apps_DockAudio" />
+  <project name="LineageOS/android_packages_apps_DocumentsUI" />
   <project name="LineageOS/android_packages_apps_Eleven" />
   <project name="LineageOS/android_packages_apps_Email" />
   <project name="LineageOS/android_packages_apps_EmergencyInfo" />
@@ -1611,6 +1616,7 @@
   <project name="LineageOS/android_packages_screensavers_PhotoTable" />
   <project name="LineageOS/android_packages_screensavers_WebView" />
   <project name="LineageOS/android_packages_services_AppSuggestService" />
+  <project name="LineageOS/android_packages_services_BuiltInPrintService" />
   <project name="LineageOS/android_packages_services_CMAudioService" />
   <project name="LineageOS/android_packages_services_CMHardwareService" />
   <project name="LineageOS/android_packages_services_CMProfileManagerService" />
@@ -1687,6 +1693,7 @@
   <project name="LineageOS/android_vendor_intel_external_openssl_efi_prebuilt" />
   <project name="LineageOS/android_vendor_intel_hardware_realtek_wlan" />
   <project name="LineageOS/android_vendor_intel_hardware_ufo_gen7" />
+  <project name="LineageOS/android_vendor_lineage" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" />
