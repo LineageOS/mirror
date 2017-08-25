@@ -1211,6 +1211,7 @@
   <project name="LineageOS/android_hardware_intel_libmedia_utils" />
   <project name="LineageOS/android_hardware_intel_libva" />
   <project name="LineageOS/android_hardware_intel_pstore-clean" />
+  <project name="LineageOS/android_hardware_interfaces" />
   <project name="LineageOS/android_hardware_invensense" />
   <project name="LineageOS/android_hardware_libhardware" />
   <project name="LineageOS/android_hardware_libhardware_legacy" />
@@ -1256,6 +1257,7 @@
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5422" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5433" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7420" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7880" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos8890" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos" />
@@ -1420,6 +1422,7 @@
   <project name="LineageOS/android_kernel_samsung_msm8660-q1" />
   <project name="LineageOS/android_kernel_samsung_msm8916" />
   <project name="LineageOS/android_kernel_samsung_msm8930-common" />
+  <project name="LineageOS/android_kernel_samsung_msm8974" />
   <project name="LineageOS/android_kernel_samsung_msm8976" />
   <project name="LineageOS/android_kernel_samsung_n1" />
   <project name="LineageOS/android_kernel_samsung_noblelte" />
