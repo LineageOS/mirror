@@ -1667,6 +1667,7 @@
   <project name="LineageOS/android_system_keymaster" />
   <project name="LineageOS/android_system_media" />
   <project name="LineageOS/android_system_netd" />
+  <project name="LineageOS/android_system_nfc" />
   <project name="LineageOS/android_system_qcom" />
   <project name="LineageOS/android_system_security" />
   <project name="LineageOS/android_system_sepolicy" />
