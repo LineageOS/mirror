@@ -1708,6 +1708,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-frameworks" />
   <project name="LineageOS/android_vendor_qcom_opensource_dpm" />
+  <project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
   <project name="LineageOS/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_location" />
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-audio" />
