@@ -1393,6 +1393,7 @@
   <project name="LineageOS/android_kernel_oppo_n1" />
   <project name="LineageOS/android_kernel_oppo_n3" />
   <project name="LineageOS/android_kernel_qcom_msm8916" />
+  <project name="LineageOS/android_kernel_qcom_msm8974" />
   <project name="LineageOS/android_kernel_qcom_msm8994" />
   <project name="LineageOS/android_kernel_qcom_msm8996" />
   <project name="LineageOS/android_kernel_samsung_apq8084" />
@@ -1674,6 +1675,7 @@
   <project name="LineageOS/android_system_su" />
   <project name="LineageOS/android_system_tools_aidl" />
   <project name="LineageOS/android_system_tools_dtbtool" />
+  <project name="LineageOS/android_system_tools_hidl" />
   <project name="LineageOS/android_system_update_engine" />
   <project name="LineageOS/android_system_vold" />
   <project name="LineageOS/android_system_wlan_ti" />
