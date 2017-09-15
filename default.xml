@@ -1006,6 +1006,7 @@
   <project name="LineageOS/android_external_libxml2" />
   <project name="LineageOS/android_external_libxslt" />
   <project name="LineageOS/android_external_libyuv" />
+  <project name="LineageOS/android_external_lineage_UICommon" />
   <project name="LineageOS/android_external_linux-tools-perf" />
   <project name="LineageOS/android_external_littlemock" />
   <project name="LineageOS/android_external_lldb" />
@@ -1475,6 +1476,7 @@
   <project name="LineageOS/android_kernel_zte_msm8996" />
   <project name="LineageOS/android_libcore" />
   <project name="LineageOS/android_libnativehelper" />
+  <project name="LineageOS/android_lineage-sdk" />
   <project name="LineageOS/android_ndk" />
   <project name="LineageOS/android_packages_apps_ADWLauncher" />
   <project name="LineageOS/android_packages_apps_AccountsAndSyncSettings" />
@@ -1539,6 +1541,7 @@
   <project name="LineageOS/android_packages_apps_Launcher2" />
   <project name="LineageOS/android_packages_apps_Launcher3" />
   <project name="LineageOS/android_packages_apps_LegacyCamera" />
+  <project name="LineageOS/android_packages_apps_LineageParts" />
   <project name="LineageOS/android_packages_apps_LocPick" />
   <project name="LineageOS/android_packages_apps_LockClock" />
   <project name="LineageOS/android_packages_apps_ManagedProvisioning" />
@@ -1627,6 +1630,7 @@
   <project name="LineageOS/android_packages_services_CMStatusBarManagerService" />
   <project name="LineageOS/android_packages_services_CMTelephonyService" />
   <project name="LineageOS/android_packages_services_Car" />
+  <project name="LineageOS/android_packages_services_LineageAudioService" />
   <project name="LineageOS/android_packages_services_LiveLockScreenService" />
   <project name="LineageOS/android_packages_services_Mms" />
   <project name="LineageOS/android_packages_services_PartnerInterfaceService" />
@@ -1666,6 +1670,7 @@
   <project name="LineageOS/android_system_extras" />
   <project name="LineageOS/android_system_extras_su" />
   <project name="LineageOS/android_system_keymaster" />
+  <project name="LineageOS/android_system_libhidl" />
   <project name="LineageOS/android_system_media" />
   <project name="LineageOS/android_system_netd" />
   <project name="LineageOS/android_system_nfc" />
