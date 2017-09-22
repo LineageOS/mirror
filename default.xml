@@ -1006,6 +1006,7 @@
   <project name="LineageOS/android_external_libxml2" />
   <project name="LineageOS/android_external_libxslt" />
   <project name="LineageOS/android_external_libyuv" />
+  <project name="LineageOS/android_external_lineage-sdk-api-coverage" />
   <project name="LineageOS/android_external_lineage_UICommon" />
   <project name="LineageOS/android_external_linux-tools-perf" />
   <project name="LineageOS/android_external_littlemock" />
@@ -1216,6 +1217,7 @@
   <project name="LineageOS/android_hardware_invensense" />
   <project name="LineageOS/android_hardware_libhardware" />
   <project name="LineageOS/android_hardware_libhardware_legacy" />
+  <project name="LineageOS/android_hardware_lineage_interfaces" />
   <project name="LineageOS/android_hardware_msm7k" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
@@ -1660,6 +1662,7 @@
   <project name="LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" />
   <project name="LineageOS/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" />
   <project name="LineageOS/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9" />
+  <project name="LineageOS/android_prebuilts_lineage-sdk" />
   <project name="LineageOS/android_prebuilts_misc" />
   <project name="LineageOS/android_prebuilts_ndk" />
   <project name="LineageOS/android_prebuilts_tools" />
@@ -1669,6 +1672,7 @@
   <project name="LineageOS/android_system_core" />
   <project name="LineageOS/android_system_extras" />
   <project name="LineageOS/android_system_extras_su" />
+  <project name="LineageOS/android_system_hardware_interfaces" />
   <project name="LineageOS/android_system_keymaster" />
   <project name="LineageOS/android_system_libhidl" />
   <project name="LineageOS/android_system_media" />
