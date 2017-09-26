@@ -1218,6 +1218,7 @@
   <project name="LineageOS/android_hardware_libhardware" />
   <project name="LineageOS/android_hardware_libhardware_legacy" />
   <project name="LineageOS/android_hardware_lineage_interfaces" />
+  <project name="LineageOS/android_hardware_lineage_livedisplay" />
   <project name="LineageOS/android_hardware_msm7k" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
@@ -1725,6 +1726,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-core" />
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-video" />
+  <project name="LineageOS/android_vendor_qcom_opensource_rcs-service" />
   <project name="LineageOS/android_vendor_qcom_opensource_time-services" />
   <project name="LineageOS/android_vendor_qcom_opensource_v8" />
   <project name="LineageOS/android_vendor_qcom_opensource_webkit" />
