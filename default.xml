@@ -1007,7 +1007,6 @@
   <project name="LineageOS/android_external_libxslt" />
   <project name="LineageOS/android_external_libyuv" />
   <project name="LineageOS/android_external_lineage-sdk-api-coverage" />
-  <project name="LineageOS/android_external_lineage_UICommon" />
   <project name="LineageOS/android_external_linux-tools-perf" />
   <project name="LineageOS/android_external_littlemock" />
   <project name="LineageOS/android_external_lldb" />
