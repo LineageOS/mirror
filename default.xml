@@ -285,11 +285,13 @@
   <project name="LineageOS/android_device_lge_ls980" />
   <project name="LineageOS/android_device_lge_ls990" />
   <project name="LineageOS/android_device_lge_ls997" />
+  <project name="LineageOS/android_device_lge_m216" />
   <project name="LineageOS/android_device_lge_mako" />
   <project name="LineageOS/android_device_lge_ms695" />
   <project name="LineageOS/android_device_lge_ms910" />
   <project name="LineageOS/android_device_lge_msm7x27a-common" />
   <project name="LineageOS/android_device_lge_msm8226-common" />
+  <project name="LineageOS/android_device_lge_msm8916-common" />
   <project name="LineageOS/android_device_lge_msm8996-common" />
   <project name="LineageOS/android_device_lge_p350" />
   <project name="LineageOS/android_device_lge_p500" />
@@ -387,6 +389,7 @@
   <project name="LineageOS/android_device_motorola_spyder" />
   <project name="LineageOS/android_device_motorola_sunfire" />
   <project name="LineageOS/android_device_motorola_surnia" />
+  <project name="LineageOS/android_device_motorola_taido" />
   <project name="LineageOS/android_device_motorola_targa" />
   <project name="LineageOS/android_device_motorola_thea" />
   <project name="LineageOS/android_device_motorola_titan" />
@@ -644,6 +647,7 @@
   <project name="LineageOS/android_device_samsung_t0lte" />
   <project name="LineageOS/android_device_samsung_t0lteatt" />
   <project name="LineageOS/android_device_samsung_t0ltecdma" />
+  <project name="LineageOS/android_device_samsung_t0ltejpn" />
   <project name="LineageOS/android_device_samsung_t0ltekor" />
   <project name="LineageOS/android_device_samsung_t0ltektt" />
   <project name="LineageOS/android_device_samsung_t0lteskt" />
@@ -1352,6 +1356,7 @@
   <project name="LineageOS/android_kernel_lge_hammerhead" />
   <project name="LineageOS/android_kernel_lge_ls970" />
   <project name="LineageOS/android_kernel_lge_msm8226" />
+  <project name="LineageOS/android_kernel_lge_msm8916" />
   <project name="LineageOS/android_kernel_lge_msm8952" />
   <project name="LineageOS/android_kernel_lge_msm8974" />
   <project name="LineageOS/android_kernel_lge_msm8992" />
@@ -1374,6 +1379,7 @@
   <project name="LineageOS/android_kernel_motorola_msm8974" />
   <project name="LineageOS/android_kernel_motorola_msm8992" />
   <project name="LineageOS/android_kernel_motorola_msm8996" />
+  <project name="LineageOS/android_kernel_motorola_mt6735" />
   <project name="LineageOS/android_kernel_motorola_omap4-common" />
   <project name="LineageOS/android_kernel_motorola_omap4-kexec-common" />
   <project name="LineageOS/android_kernel_motorola_otus" />
