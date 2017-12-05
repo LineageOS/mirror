@@ -564,6 +564,7 @@
   <project name="LineageOS/android_device_samsung_kltekdi" />
   <project name="LineageOS/android_device_samsung_kltekor" />
   <project name="LineageOS/android_device_samsung_kltespr" />
+  <project name="LineageOS/android_device_samsung_kltesprsports" />
   <project name="LineageOS/android_device_samsung_klteusc" />
   <project name="LineageOS/android_device_samsung_kltevzw" />
   <project name="LineageOS/android_device_samsung_kona-common" />
