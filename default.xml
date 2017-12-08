@@ -1498,6 +1498,7 @@
   <project name="LineageOS/android_packages_apps_AicBootFix" />
   <project name="LineageOS/android_packages_apps_AndroidTerm" />
   <project name="LineageOS/android_packages_apps_Apollo" />
+  <project name="LineageOS/android_packages_apps_AppDrawer" />
   <project name="LineageOS/android_packages_apps_AudioFX" />
   <project name="LineageOS/android_packages_apps_BasicSmsReceiver" />
   <project name="LineageOS/android_packages_apps_Bluetooth" />
@@ -1556,6 +1557,7 @@
   <project name="LineageOS/android_packages_apps_Launcher2" />
   <project name="LineageOS/android_packages_apps_Launcher3" />
   <project name="LineageOS/android_packages_apps_LegacyCamera" />
+  <project name="LineageOS/android_packages_apps_LineageCustomizer" />
   <project name="LineageOS/android_packages_apps_LineageParts" />
   <project name="LineageOS/android_packages_apps_LocPick" />
   <project name="LineageOS/android_packages_apps_LockClock" />
