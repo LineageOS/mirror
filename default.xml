@@ -89,6 +89,7 @@
   <project name="LineageOS/android_device_cyanogen_mt6735-common" />
   <project name="LineageOS/android_device_dell_streak7" />
   <project name="LineageOS/android_device_elocity_a7" />
+  <project name="LineageOS/android_device_essential_mata" />
   <project name="LineageOS/android_device_fairphone_FP2" />
   <project name="LineageOS/android_device_geeksphone_one" />
   <project name="LineageOS/android_device_geeksphone_zero" />
@@ -275,6 +276,7 @@
   <project name="LineageOS/android_device_lge_h901" />
   <project name="LineageOS/android_device_lge_h910" />
   <project name="LineageOS/android_device_lge_h918" />
+  <project name="LineageOS/android_device_lge_h990" />
   <project name="LineageOS/android_device_lge_hammerhead" />
   <project name="LineageOS/android_device_lge_hammerheadcaf" />
   <project name="LineageOS/android_device_lge_iprj-common" />
@@ -421,6 +423,8 @@
   <project name="LineageOS/android_device_oneplus_bacon" />
   <project name="LineageOS/android_device_oneplus_cheeseburger" />
   <project name="LineageOS/android_device_oneplus_common" />
+  <project name="LineageOS/android_device_oneplus_dumpling" />
+  <project name="LineageOS/android_device_oneplus_msm8998-common" />
   <project name="LineageOS/android_device_oneplus_oneplus2" />
   <project name="LineageOS/android_device_oneplus_oneplus3" />
   <project name="LineageOS/android_device_oneplus_onyx" />
@@ -502,9 +506,11 @@
   <project name="LineageOS/android_device_samsung_gtesqltespr" />
   <project name="LineageOS/android_device_samsung_gts2-common" />
   <project name="LineageOS/android_device_samsung_gts210ltexx" />
+  <project name="LineageOS/android_device_samsung_gts210velte" />
   <project name="LineageOS/android_device_samsung_gts210vewifi" />
   <project name="LineageOS/android_device_samsung_gts210wifi" />
   <project name="LineageOS/android_device_samsung_gts28ltexx" />
+  <project name="LineageOS/android_device_samsung_gts28velte" />
   <project name="LineageOS/android_device_samsung_gts28vewifi" />
   <project name="LineageOS/android_device_samsung_gts28wifi" />
   <project name="LineageOS/android_device_samsung_ha3g" />
@@ -725,6 +731,7 @@
   <project name="LineageOS/android_device_sony_karin_windy" />
   <project name="LineageOS/android_device_sony_kitakami-common" />
   <project name="LineageOS/android_device_sony_kumquat" />
+  <project name="LineageOS/android_device_sony_loire-common" />
   <project name="LineageOS/android_device_sony_lotus" />
   <project name="LineageOS/android_device_sony_mesona" />
   <project name="LineageOS/android_device_sony_mint" />
@@ -750,6 +757,7 @@
   <project name="LineageOS/android_device_sony_shinano-common" />
   <project name="LineageOS/android_device_sony_sirius" />
   <project name="LineageOS/android_device_sony_sumire" />
+  <project name="LineageOS/android_device_sony_suzu" />
   <project name="LineageOS/android_device_sony_suzuran" />
   <project name="LineageOS/android_device_sony_tamsui-common" />
   <project name="LineageOS/android_device_sony_tamsui-common-legacy" />
@@ -781,12 +789,14 @@
   <project name="LineageOS/android_device_xiaomi_hydrogen" />
   <project name="LineageOS/android_device_xiaomi_ido" />
   <project name="LineageOS/android_device_xiaomi_kenzo" />
+  <project name="LineageOS/android_device_xiaomi_land" />
   <project name="LineageOS/android_device_xiaomi_libra" />
   <project name="LineageOS/android_device_xiaomi_lithium" />
   <project name="LineageOS/android_device_xiaomi_mido" />
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project name="LineageOS/android_device_xiaomi_msm8996-common" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
+  <project name="LineageOS/android_device_xiaomi_sagit" />
   <project name="LineageOS/android_device_xiaomi_scorpio" />
   <project name="LineageOS/android_device_yu_jalebi" />
   <project name="LineageOS/android_device_yu_lettuce" />
@@ -798,6 +808,7 @@
   <project name="LineageOS/android_device_zte_blade" />
   <project name="LineageOS/android_device_zte_nx510j" />
   <project name="LineageOS/android_device_zte_skate" />
+  <project name="LineageOS/android_device_zte_tulip" />
   <project name="LineageOS/android_device_zte_v9" />
   <project name="LineageOS/android_device_zte_warp2" />
   <project name="LineageOS/android_device_zte_x500" />
@@ -1226,6 +1237,7 @@
   <project name="LineageOS/android_hardware_libhardware" />
   <project name="LineageOS/android_hardware_libhardware_legacy" />
   <project name="LineageOS/android_hardware_lineage_interfaces" />
+  <project name="LineageOS/android_hardware_lineage_lineagehw" />
   <project name="LineageOS/android_hardware_lineage_livedisplay" />
   <project name="LineageOS/android_hardware_msm7k" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
@@ -1325,6 +1337,7 @@
   <project name="LineageOS/android_kernel_cyanogen_msm8974" />
   <project name="LineageOS/android_kernel_cyanogen_msm8994" />
   <project name="LineageOS/android_kernel_cyanogen_mt6735" />
+  <project name="LineageOS/android_kernel_essential_msm8998" />
   <project name="LineageOS/android_kernel_fairphone_msm8974" />
   <project name="LineageOS/android_kernel_goldfish" />
   <project name="LineageOS/android_kernel_google_dragon" />
@@ -1467,6 +1480,7 @@
   <project name="LineageOS/android_kernel_sony_msm7x27a-legacy" />
   <project name="LineageOS/android_kernel_sony_msm8660" />
   <project name="LineageOS/android_kernel_sony_msm8930" />
+  <project name="LineageOS/android_kernel_sony_msm8956" />
   <project name="LineageOS/android_kernel_sony_msm8960t" />
   <project name="LineageOS/android_kernel_sony_msm8974" />
   <project name="LineageOS/android_kernel_sony_msm8974pro" />
@@ -1482,11 +1496,14 @@
   <project name="LineageOS/android_kernel_xiaomi_cancro" />
   <project name="LineageOS/android_kernel_xiaomi_ferrari" />
   <project name="LineageOS/android_kernel_xiaomi_msm8916" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8937" />
   <project name="LineageOS/android_kernel_xiaomi_msm8953" />
   <project name="LineageOS/android_kernel_xiaomi_msm8956" />
   <project name="LineageOS/android_kernel_xiaomi_msm8992" />
   <project name="LineageOS/android_kernel_xiaomi_msm8996" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8998" />
   <project name="LineageOS/android_kernel_yu_msm8916" />
+  <project name="LineageOS/android_kernel_zte_msm8952" />
   <project name="LineageOS/android_kernel_zte_msm8994" />
   <project name="LineageOS/android_kernel_zte_msm8996" />
   <project name="LineageOS/android_libcore" />
@@ -1668,6 +1685,7 @@
   <project name="LineageOS/android_packages_wallpapers_PhaseBeam" />
   <project name="LineageOS/android_packages_wallpapers_PhotoPhase" />
   <project name="LineageOS/android_pdk" />
+  <project name="LineageOS/android_platform_testing" />
   <project name="LineageOS/android_prebuilt" />
   <project name="LineageOS/android_prebuilts_cmsdk" />
   <project name="LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" />
