@@ -380,6 +380,7 @@
   <project name="LineageOS/android_device_motorola_msm8960-common" />
   <project name="LineageOS/android_device_motorola_msm8960_jbbl-common" />
   <project name="LineageOS/android_device_motorola_msm8960dt-common" />
+  <project name="LineageOS/android_device_motorola_nash" />
   <project name="LineageOS/android_device_motorola_obake" />
   <project name="LineageOS/android_device_motorola_olympus" />
   <project name="LineageOS/android_device_motorola_omap4-common" />
@@ -1399,6 +1400,7 @@
   <project name="LineageOS/android_kernel_motorola_msm8974" />
   <project name="LineageOS/android_kernel_motorola_msm8992" />
   <project name="LineageOS/android_kernel_motorola_msm8996" />
+  <project name="LineageOS/android_kernel_motorola_msm8998" />
   <project name="LineageOS/android_kernel_motorola_mt6735" />
   <project name="LineageOS/android_kernel_motorola_omap4-common" />
   <project name="LineageOS/android_kernel_motorola_omap4-kexec-common" />
