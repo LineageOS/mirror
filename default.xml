@@ -464,6 +464,7 @@
   <project name="LineageOS/android_device_samsung_chagallltetmo" />
   <project name="LineageOS/android_device_samsung_chagallwifi" />
   <project name="LineageOS/android_device_samsung_charge" />
+  <project name="LineageOS/android_device_samsung_common" />
   <project name="LineageOS/android_device_samsung_cooper" />
   <project name="LineageOS/android_device_samsung_crespo" />
   <project name="LineageOS/android_device_samsung_crespo4g" />
@@ -690,6 +691,7 @@
   <project name="LineageOS/android_device_samsung_zenlte" />
   <project name="LineageOS/android_device_samsung_zero-common" />
   <project name="LineageOS/android_device_samsung_zerofltexx" />
+  <project name="LineageOS/android_device_samsung_zeroltexx" />
   <project name="LineageOS/android_device_semc_anzu" />
   <project name="LineageOS/android_device_semc_coconut" />
   <project name="LineageOS/android_device_semc_es209ra" />
@@ -1636,6 +1638,7 @@
   <project name="LineageOS/android_packages_inputmethods_LatinIME" />
   <project name="LineageOS/android_packages_inputmethods_OpenWnn" />
   <project name="LineageOS/android_packages_inputmethods_PinyinIME" />
+  <project name="LineageOS/android_packages_overlays_Lineage" />
   <project name="LineageOS/android_packages_providers_ApplicationsProvider" />
   <project name="LineageOS/android_packages_providers_BlockedNumberProvider" />
   <project name="LineageOS/android_packages_providers_BookmarkProvider" />
