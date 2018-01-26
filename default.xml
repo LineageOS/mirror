@@ -1017,6 +1017,7 @@
   <project name="LineageOS/android_external_libselinux" />
   <project name="LineageOS/android_external_libsepol" />
   <project name="LineageOS/android_external_libtar" />
+  <project name="LineageOS/android_external_libtextclassifier" />
   <project name="LineageOS/android_external_libtruezip" />
   <project name="LineageOS/android_external_libunwind" />
   <project name="LineageOS/android_external_libusb" />
