@@ -690,6 +690,7 @@
   <project name="LineageOS/android_device_samsung_ypg1" />
   <project name="LineageOS/android_device_samsung_zenlte" />
   <project name="LineageOS/android_device_samsung_zero-common" />
+  <project name="LineageOS/android_device_samsung_zerofltecan" />
   <project name="LineageOS/android_device_samsung_zerofltexx" />
   <project name="LineageOS/android_device_samsung_zeroltexx" />
   <project name="LineageOS/android_device_semc_anzu" />
@@ -787,6 +788,7 @@
   <project name="LineageOS/android_device_xiaomi_armani" />
   <project name="LineageOS/android_device_xiaomi_cancro" />
   <project name="LineageOS/android_device_xiaomi_capricorn" />
+  <project name="LineageOS/android_device_xiaomi_chiron" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
   <project name="LineageOS/android_device_xiaomi_gemini" />
   <project name="LineageOS/android_device_xiaomi_hydrogen" />
@@ -798,6 +800,7 @@
   <project name="LineageOS/android_device_xiaomi_mido" />
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project name="LineageOS/android_device_xiaomi_msm8996-common" />
+  <project name="LineageOS/android_device_xiaomi_msm8998-common" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_xiaomi_sagit" />
   <project name="LineageOS/android_device_xiaomi_scorpio" />
@@ -1017,6 +1020,7 @@
   <project name="LineageOS/android_external_libselinux" />
   <project name="LineageOS/android_external_libsepol" />
   <project name="LineageOS/android_external_libtar" />
+  <project name="LineageOS/android_external_libtextclassifier" />
   <project name="LineageOS/android_external_libtruezip" />
   <project name="LineageOS/android_external_libunwind" />
   <project name="LineageOS/android_external_libusb" />
