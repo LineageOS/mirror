@@ -75,8 +75,10 @@
   <project name="LineageOS/android_device_bn_hummingbird" />
   <project name="LineageOS/android_device_bn_omap4-common" />
   <project name="LineageOS/android_device_bn_ovation" />
+  <project name="LineageOS/android_device_bq_chaozu" />
   <project name="LineageOS/android_device_bq_gohan" />
   <project name="LineageOS/android_device_bq_msm8916-common" />
+  <project name="LineageOS/android_device_bq_msm8937-common" />
   <project name="LineageOS/android_device_bq_paella" />
   <project name="LineageOS/android_device_bq_piccolo" />
   <project name="LineageOS/android_device_bq_tenshi" />
@@ -152,6 +154,7 @@
   <project name="LineageOS/android_device_htc_glacier" />
   <project name="LineageOS/android_device_htc_hero" />
   <project name="LineageOS/android_device_htc_heroc" />
+  <project name="LineageOS/android_device_htc_hiae" />
   <project name="LineageOS/android_device_htc_hiae-common" />
   <project name="LineageOS/android_device_htc_hiaeuhl" />
   <project name="LineageOS/android_device_htc_hiaeul" />
@@ -451,6 +454,8 @@
   <project name="LineageOS/android_device_qcom_msm8996" />
   <project name="LineageOS/android_device_qcom_sepolicy" />
   <project name="LineageOS/android_device_sample" />
+  <project name="LineageOS/android_device_samsung_a5y17lte" />
+  <project name="LineageOS/android_device_samsung_a7y17lte" />
   <project name="LineageOS/android_device_samsung_amazing3gcri" />
   <project name="LineageOS/android_device_samsung_apexqtmo" />
   <project name="LineageOS/android_device_samsung_apq8084-common" />
@@ -527,6 +532,7 @@
   <project name="LineageOS/android_device_samsung_hlte-common" />
   <project name="LineageOS/android_device_samsung_hltecan" />
   <project name="LineageOS/android_device_samsung_hltechn" />
+  <project name="LineageOS/android_device_samsung_hltekor" />
   <project name="LineageOS/android_device_samsung_hltespr" />
   <project name="LineageOS/android_device_samsung_hltetmo" />
   <project name="LineageOS/android_device_samsung_hlteusc" />
@@ -681,6 +687,7 @@
   <project name="LineageOS/android_device_samsung_trlteusc" />
   <project name="LineageOS/android_device_samsung_trltexx" />
   <project name="LineageOS/android_device_samsung_tuna" />
+  <project name="LineageOS/android_device_samsung_universal7880-common" />
   <project name="LineageOS/android_device_samsung_v1awifi" />
   <project name="LineageOS/android_device_samsung_v2awifi" />
   <project name="LineageOS/android_device_samsung_v2wifixx" />
@@ -1475,6 +1482,7 @@
   <project name="LineageOS/android_kernel_samsung_trelte" />
   <project name="LineageOS/android_kernel_samsung_trlte" />
   <project name="LineageOS/android_kernel_samsung_tuna" />
+  <project name="LineageOS/android_kernel_samsung_universal7880" />
   <project name="LineageOS/android_kernel_samsung_universal8890" />
   <project name="LineageOS/android_kernel_samsung_v2wifixx" />
   <project name="LineageOS/android_kernel_samsung_victory" />
@@ -1696,6 +1704,7 @@
   <project name="LineageOS/android_pdk" />
   <project name="LineageOS/android_platform_testing" />
   <project name="LineageOS/android_prebuilt" />
+  <project name="LineageOS/android_prebuilts_build-tools" />
   <project name="LineageOS/android_prebuilts_cmsdk" />
   <project name="LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" />
   <project name="LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.6" />
@@ -1780,6 +1789,7 @@
   <project name="LineageOS/android_vendor_tmobile_themes_Cyanbread" />
   <project name="LineageOS/ansible" />
   <project name="LineageOS/bugproxy" />
+  <project name="LineageOS/charter" />
   <project name="LineageOS/cm-kernel" />
   <project name="LineageOS/cm-less" />
   <project name="LineageOS/cm_crowdin" />
