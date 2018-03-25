@@ -331,6 +331,7 @@
   <project name="LineageOS/android_device_lge_v521" />
   <project name="LineageOS/android_device_lge_v909" />
   <project name="LineageOS/android_device_lge_victor-common" />
+  <project name="LineageOS/android_device_lge_vk810" />
   <project name="LineageOS/android_device_lge_vs840" />
   <project name="LineageOS/android_device_lge_vs910" />
   <project name="LineageOS/android_device_lge_vs920" />
@@ -1074,6 +1075,7 @@
   <project name="LineageOS/android_external_ntfs-3g" />
   <project name="LineageOS/android_external_oauth" />
   <project name="LineageOS/android_external_okhttp" />
+  <project name="LineageOS/android_external_one-true-awk" />
   <project name="LineageOS/android_external_opencore" />
   <project name="LineageOS/android_external_opencv" />
   <project name="LineageOS/android_external_openfst" />
@@ -1281,6 +1283,7 @@
   <project name="LineageOS/android_hardware_qcom_mm-video" />
   <project name="LineageOS/android_hardware_qcom_msm8960" />
   <project name="LineageOS/android_hardware_qcom_msm8x74" />
+  <project name="LineageOS/android_hardware_qcom_neuralnetworks_hvxservice" />
   <project name="LineageOS/android_hardware_qcom_power" />
   <project name="LineageOS/android_hardware_qcom_sensors" />
   <project name="LineageOS/android_hardware_qcom_wlan" />
@@ -1799,6 +1802,7 @@
   <project name="LineageOS/cve_tracker" />
   <project name="LineageOS/device_htc_marvel" />
   <project name="LineageOS/device_htc_ville" />
+  <project name="LineageOS/devrel" />
   <project name="LineageOS/docker_build" />
   <project name="LineageOS/external_android_support-prebuilt" />
   <project name="LineageOS/external_cyanogen_cmhomeapi" />
@@ -1852,6 +1856,7 @@
   <project name="LineageOS/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project name="LineageOS/tools_repo" />
   <project name="LineageOS/tribble-tracker" />
+  <project name="LineageOS/update_verifier" />
   <project name="LineageOS/www" />
   <project name="LineageOS/zte-kernel-msm7x27" />
 </manifest>
