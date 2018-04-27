@@ -523,6 +523,7 @@
   <project name="LineageOS/android_device_samsung_gts28velte" />
   <project name="LineageOS/android_device_samsung_gts28vewifi" />
   <project name="LineageOS/android_device_samsung_gts28wifi" />
+  <project name="LineageOS/android_device_samsung_h3gduoschn" />
   <project name="LineageOS/android_device_samsung_ha3g" />
   <project name="LineageOS/android_device_samsung_hercules" />
   <project name="LineageOS/android_device_samsung_hero-common" />
