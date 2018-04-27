@@ -523,6 +523,7 @@
   <project name="LineageOS/android_device_samsung_gts28velte" />
   <project name="LineageOS/android_device_samsung_gts28vewifi" />
   <project name="LineageOS/android_device_samsung_gts28wifi" />
+  <project name="LineageOS/android_device_samsung_h3gduoschn" />
   <project name="LineageOS/android_device_samsung_ha3g" />
   <project name="LineageOS/android_device_samsung_hercules" />
   <project name="LineageOS/android_device_samsung_hero-common" />
@@ -574,6 +575,7 @@
   <project name="LineageOS/android_device_samsung_klimtwifi" />
   <project name="LineageOS/android_device_samsung_klte" />
   <project name="LineageOS/android_device_samsung_klte-common" />
+  <project name="LineageOS/android_device_samsung_klteactivexx" />
   <project name="LineageOS/android_device_samsung_kltechn" />
   <project name="LineageOS/android_device_samsung_kltechnduo" />
   <project name="LineageOS/android_device_samsung_klteduos" />
@@ -665,6 +667,9 @@
   <project name="LineageOS/android_device_samsung_smdk4412-common" />
   <project name="LineageOS/android_device_samsung_smdk4412-qcom-common" />
   <project name="LineageOS/android_device_samsung_smdk5260-common" />
+  <project name="LineageOS/android_device_samsung_star-common" />
+  <project name="LineageOS/android_device_samsung_star2lte" />
+  <project name="LineageOS/android_device_samsung_starlte" />
   <project name="LineageOS/android_device_samsung_superior" />
   <project name="LineageOS/android_device_samsung_t0lte" />
   <project name="LineageOS/android_device_samsung_t0lteatt" />
@@ -1447,6 +1452,7 @@
   <project name="LineageOS/android_kernel_qcom_msm8974" />
   <project name="LineageOS/android_kernel_qcom_msm8994" />
   <project name="LineageOS/android_kernel_qcom_msm8996" />
+  <project name="LineageOS/android_kernel_qcom_msm8998" />
   <project name="LineageOS/android_kernel_samsung_apq8084" />
   <project name="LineageOS/android_kernel_samsung_aries" />
   <project name="LineageOS/android_kernel_samsung_crespo" />
@@ -1491,6 +1497,7 @@
   <project name="LineageOS/android_kernel_samsung_tuna" />
   <project name="LineageOS/android_kernel_samsung_universal7880" />
   <project name="LineageOS/android_kernel_samsung_universal8890" />
+  <project name="LineageOS/android_kernel_samsung_universal9810" />
   <project name="LineageOS/android_kernel_samsung_v2wifixx" />
   <project name="LineageOS/android_kernel_samsung_victory" />
   <project name="LineageOS/android_kernel_samsung_zenltexx" />
