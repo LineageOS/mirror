@@ -1421,6 +1421,7 @@
   <project name="LineageOS/android_kernel_lge_v500" />
   <project name="LineageOS/android_kernel_lge_v909" />
   <project name="LineageOS/android_kernel_mediatek_sprout" />
+  <project name="LineageOS/android_kernel_modules_wireguard" />
   <project name="LineageOS/android_kernel_moto_shamu" />
   <project name="LineageOS/android_kernel_motorola_apq8084" />
   <project name="LineageOS/android_kernel_motorola_ghost" />
