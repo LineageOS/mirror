@@ -52,6 +52,7 @@
   <project name="LineageOS/android_device_ark_msm8916-common" />
   <project name="LineageOS/android_device_ark_peach" />
   <project name="LineageOS/android_device_asus_P024" />
+  <project name="LineageOS/android_device_asus_X00TD" />
   <project name="LineageOS/android_device_asus_Z008" />
   <project name="LineageOS/android_device_asus_Z00A" />
   <project name="LineageOS/android_device_asus_Z00D" />
@@ -738,6 +739,7 @@
   <project name="LineageOS/android_device_sony_castor" />
   <project name="LineageOS/android_device_sony_castor_windy" />
   <project name="LineageOS/android_device_sony_common" />
+  <project name="LineageOS/android_device_sony_discovery" />
   <project name="LineageOS/android_device_sony_dogo" />
   <project name="LineageOS/android_device_sony_eagle" />
   <project name="LineageOS/android_device_sony_flamingo" />
@@ -763,10 +765,12 @@
   <project name="LineageOS/android_device_sony_msm8974-common" />
   <project name="LineageOS/android_device_sony_nanhu" />
   <project name="LineageOS/android_device_sony_nicki" />
+  <project name="LineageOS/android_device_sony_nile-common" />
   <project name="LineageOS/android_device_sony_nozomi" />
   <project name="LineageOS/android_device_sony_nypon" />
   <project name="LineageOS/android_device_sony_odin" />
   <project name="LineageOS/android_device_sony_pepper" />
+  <project name="LineageOS/android_device_sony_pioneer" />
   <project name="LineageOS/android_device_sony_pollux" />
   <project name="LineageOS/android_device_sony_pollux-common" />
   <project name="LineageOS/android_device_sony_pollux_windy" />
@@ -1352,6 +1356,7 @@
   <project name="LineageOS/android_kernel_asus_grouper" />
   <project name="LineageOS/android_kernel_asus_moorefield" />
   <project name="LineageOS/android_kernel_asus_msm8916" />
+  <project name="LineageOS/android_kernel_asus_sdm660" />
   <project name="LineageOS/android_kernel_asus_tf101" />
   <project name="LineageOS/android_kernel_asus_tf201" />
   <project name="LineageOS/android_kernel_asus_tf300t" />
@@ -1421,6 +1426,7 @@
   <project name="LineageOS/android_kernel_lge_v500" />
   <project name="LineageOS/android_kernel_lge_v909" />
   <project name="LineageOS/android_kernel_mediatek_sprout" />
+  <project name="LineageOS/android_kernel_modules_wireguard" />
   <project name="LineageOS/android_kernel_moto_shamu" />
   <project name="LineageOS/android_kernel_motorola_apq8084" />
   <project name="LineageOS/android_kernel_motorola_ghost" />
@@ -1526,6 +1532,7 @@
   <project name="LineageOS/android_kernel_sony_msm8994" />
   <project name="LineageOS/android_kernel_sony_msm8x27" />
   <project name="LineageOS/android_kernel_sony_msm8x60" />
+  <project name="LineageOS/android_kernel_sony_sdm660" />
   <project name="LineageOS/android_kernel_sony_tianchi" />
   <project name="LineageOS/android_kernel_ti_omap4" />
   <project name="LineageOS/android_kernel_toshiba_betelgeuse" />
