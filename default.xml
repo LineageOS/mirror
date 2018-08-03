@@ -1024,6 +1024,7 @@
   <project name="LineageOS/android_external_libchrome" />
   <project name="LineageOS/android_external_libcxx" />
   <project name="LineageOS/android_external_libcxxabi" />
+  <project name="LineageOS/android_external_libdrm" />
   <project name="LineageOS/android_external_libedit" />
   <project name="LineageOS/android_external_libexif" />
   <project name="LineageOS/android_external_libffi" />
