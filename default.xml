@@ -1114,6 +1114,7 @@
   <project name="LineageOS/android_external_pciutils" />
   <project name="LineageOS/android_external_pcre" />
   <project name="LineageOS/android_external_pdfium" />
+  <project name="LineageOS/android_external_perfetto" />
   <project name="LineageOS/android_external_pigz" />
   <project name="LineageOS/android_external_ping" />
   <project name="LineageOS/android_external_ping6" />
@@ -1289,6 +1290,7 @@
   <project name="LineageOS/android_hardware_nvidia_sensors" />
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
   <project name="LineageOS/android_hardware_nvidia_thermal" />
+  <project name="LineageOS/android_hardware_nxp_nfc" />
   <project name="LineageOS/android_hardware_qcom_audio" />
   <project name="LineageOS/android_hardware_qcom_audio-bfam" />
   <project name="LineageOS/android_hardware_qcom_audio-caf" />
@@ -1679,6 +1681,7 @@
   <project name="LineageOS/android_packages_apps_Terminal" />
   <project name="LineageOS/android_packages_apps_ThemeChooser" />
   <project name="LineageOS/android_packages_apps_Torch" />
+  <project name="LineageOS/android_packages_apps_Traceur" />
   <project name="LineageOS/android_packages_apps_Trebuchet" />
   <project name="LineageOS/android_packages_apps_TvSettings" />
   <project name="LineageOS/android_packages_apps_UnifiedEmail" />
