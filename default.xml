@@ -825,6 +825,7 @@
   <project name="LineageOS/android_device_xiaomi_libra" />
   <project name="LineageOS/android_device_xiaomi_lithium" />
   <project name="LineageOS/android_device_xiaomi_mido" />
+  <project name="LineageOS/android_device_xiaomi_msm8937-common" />
   <project name="LineageOS/android_device_xiaomi_msm8953-common" />
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project name="LineageOS/android_device_xiaomi_msm8996-common" />
@@ -832,6 +833,7 @@
   <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_xiaomi_polaris" />
   <project name="LineageOS/android_device_xiaomi_sagit" />
+  <project name="LineageOS/android_device_xiaomi_santoni" />
   <project name="LineageOS/android_device_xiaomi_scorpio" />
   <project name="LineageOS/android_device_xiaomi_sdm845-common" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
@@ -1768,6 +1770,7 @@
   <project name="LineageOS/android_system_bluetooth" />
   <project name="LineageOS/android_system_bt" />
   <project name="LineageOS/android_system_core" />
+  <project name="LineageOS/android_system_core_old" />
   <project name="LineageOS/android_system_extras" />
   <project name="LineageOS/android_system_extras_su" />
   <project name="LineageOS/android_system_hardware_interfaces" />
