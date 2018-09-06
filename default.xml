@@ -400,10 +400,12 @@
   <project name="LineageOS/android_device_motorola_omap4-common" />
   <project name="LineageOS/android_device_motorola_osprey" />
   <project name="LineageOS/android_device_motorola_otus" />
+  <project name="LineageOS/android_device_motorola_payton" />
   <project name="LineageOS/android_device_motorola_peregrine" />
   <project name="LineageOS/android_device_motorola_potter" />
   <project name="LineageOS/android_device_motorola_qcom-common" />
   <project name="LineageOS/android_device_motorola_quark" />
+  <project name="LineageOS/android_device_motorola_sdm660-common" />
   <project name="LineageOS/android_device_motorola_shadow" />
   <project name="LineageOS/android_device_motorola_sholes" />
   <project name="LineageOS/android_device_motorola_solana" />
@@ -820,6 +822,7 @@
   <project name="LineageOS/android_device_xiaomi_gemini" />
   <project name="LineageOS/android_device_xiaomi_hydrogen" />
   <project name="LineageOS/android_device_xiaomi_ido" />
+  <project name="LineageOS/android_device_xiaomi_jason" />
   <project name="LineageOS/android_device_xiaomi_kenzo" />
   <project name="LineageOS/android_device_xiaomi_land" />
   <project name="LineageOS/android_device_xiaomi_libra" />
@@ -1557,6 +1560,7 @@
   <project name="LineageOS/android_kernel_xiaomi_armani" />
   <project name="LineageOS/android_kernel_xiaomi_cancro" />
   <project name="LineageOS/android_kernel_xiaomi_ferrari" />
+  <project name="LineageOS/android_kernel_xiaomi_jason" />
   <project name="LineageOS/android_kernel_xiaomi_msm8916" />
   <project name="LineageOS/android_kernel_xiaomi_msm8937" />
   <project name="LineageOS/android_kernel_xiaomi_msm8953" />
@@ -1776,6 +1780,7 @@
   <project name="LineageOS/android_system_hardware_interfaces" />
   <project name="LineageOS/android_system_keymaster" />
   <project name="LineageOS/android_system_libhidl" />
+  <project name="LineageOS/android_system_libvintf" />
   <project name="LineageOS/android_system_media" />
   <project name="LineageOS/android_system_netd" />
   <project name="LineageOS/android_system_nfc" />
@@ -1818,6 +1823,7 @@
   <project name="LineageOS/android_vendor_nxp_opensource_frameworks" />
   <project name="LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc" />
   <project name="LineageOS/android_vendor_qcom_android-open" />
+  <project name="LineageOS/android_vendor_qcom_opensource_audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_bluetooth" />
   <project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />
   <project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
