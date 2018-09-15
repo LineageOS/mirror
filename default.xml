@@ -815,6 +815,7 @@
   <project name="LineageOS/android_device_wingtech_wt88047" />
   <project name="LineageOS/android_device_xiaomi_aries" />
   <project name="LineageOS/android_device_xiaomi_armani" />
+  <project name="LineageOS/android_device_xiaomi_beryllium" />
   <project name="LineageOS/android_device_xiaomi_cancro" />
   <project name="LineageOS/android_device_xiaomi_capricorn" />
   <project name="LineageOS/android_device_xiaomi_chiron" />
@@ -841,6 +842,7 @@
   <project name="LineageOS/android_device_xiaomi_scorpio" />
   <project name="LineageOS/android_device_xiaomi_sdm845-common" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
+  <project name="LineageOS/android_device_xiaomi_ursa" />
   <project name="LineageOS/android_device_xiaomi_whyred" />
   <project name="LineageOS/android_device_yu_jalebi" />
   <project name="LineageOS/android_device_yu_lettuce" />
