@@ -1825,6 +1825,8 @@
   <project name="LineageOS/android_vendor_nxp_interfaces_opensource_nfc" />
   <project name="LineageOS/android_vendor_nxp_opensource_external_libnfc-nci" />
   <project name="LineageOS/android_vendor_nxp_opensource_frameworks" />
+  <project name="LineageOS/android_vendor_nxp_opensource_halimpl" />
+  <project name="LineageOS/android_vendor_nxp_opensource_hidlimpl" />
   <project name="LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc" />
   <project name="LineageOS/android_vendor_qcom_android-open" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio" />
