@@ -1260,6 +1260,7 @@
   <project name="LineageOS/android_hardware_atheros_wlan" />
   <project name="LineageOS/android_hardware_broadcom_fm" />
   <project name="LineageOS/android_hardware_broadcom_libbt" />
+  <project name="LineageOS/android_hardware_broadcom_nfc" />
   <project name="LineageOS/android_hardware_broadcom_wlan" />
   <project name="LineageOS/android_hardware_cm" />
   <project name="LineageOS/android_hardware_cyanogen" />
@@ -1331,6 +1332,7 @@
   <project name="LineageOS/android_hardware_ril-caf" />
   <project name="LineageOS/android_hardware_samsung" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos3475" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5260" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5410" />
