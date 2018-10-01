@@ -1677,6 +1677,7 @@
   <project name="LineageOS/android_packages_apps_SecureElement" />
   <project name="LineageOS/android_packages_apps_SemcKeyboardChanger" />
   <project name="LineageOS/android_packages_apps_Settings" />
+  <project name="LineageOS/android_packages_apps_SettingsIntelligence" />
   <project name="LineageOS/android_packages_apps_SetupWizard" />
   <project name="LineageOS/android_packages_apps_SmartCardService" />
   <project name="LineageOS/android_packages_apps_Snap" />
