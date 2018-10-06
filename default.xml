@@ -903,6 +903,7 @@
   <project name="LineageOS/android_external_cardslib" />
   <project name="LineageOS/android_external_checkpolicy" />
   <project name="LineageOS/android_external_chromium" />
+  <project name="LineageOS/android_external_chromium-libpac" />
   <project name="LineageOS/android_external_chromium-trace" />
   <project name="LineageOS/android_external_chromium-webview" />
   <project name="LineageOS/android_external_chromium_org" />
