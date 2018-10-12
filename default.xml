@@ -163,6 +163,7 @@
   <project name="LineageOS/android_device_htc_hiaeuhl" />
   <project name="LineageOS/android_device_htc_hiaeul" />
   <project name="LineageOS/android_device_htc_hiaewhl" />
+  <project name="LineageOS/android_device_htc_hima" />
   <project name="LineageOS/android_device_htc_hima-common" />
   <project name="LineageOS/android_device_htc_himaul" />
   <project name="LineageOS/android_device_htc_himawhl" />
@@ -399,10 +400,12 @@
   <project name="LineageOS/android_device_motorola_omap4-common" />
   <project name="LineageOS/android_device_motorola_osprey" />
   <project name="LineageOS/android_device_motorola_otus" />
+  <project name="LineageOS/android_device_motorola_payton" />
   <project name="LineageOS/android_device_motorola_peregrine" />
   <project name="LineageOS/android_device_motorola_potter" />
   <project name="LineageOS/android_device_motorola_qcom-common" />
   <project name="LineageOS/android_device_motorola_quark" />
+  <project name="LineageOS/android_device_motorola_sdm660-common" />
   <project name="LineageOS/android_device_motorola_shadow" />
   <project name="LineageOS/android_device_motorola_sholes" />
   <project name="LineageOS/android_device_motorola_solana" />
@@ -465,6 +468,7 @@
   <project name="LineageOS/android_device_qcom_msm8916_64" />
   <project name="LineageOS/android_device_qcom_msm8996" />
   <project name="LineageOS/android_device_qcom_sepolicy" />
+  <project name="LineageOS/android_device_qcom_sepolicy-legacy" />
   <project name="LineageOS/android_device_sample" />
   <project name="LineageOS/android_device_samsung_a5y17lte" />
   <project name="LineageOS/android_device_samsung_a7y17lte" />
@@ -811,6 +815,7 @@
   <project name="LineageOS/android_device_wingtech_wt88047" />
   <project name="LineageOS/android_device_xiaomi_aries" />
   <project name="LineageOS/android_device_xiaomi_armani" />
+  <project name="LineageOS/android_device_xiaomi_beryllium" />
   <project name="LineageOS/android_device_xiaomi_cancro" />
   <project name="LineageOS/android_device_xiaomi_capricorn" />
   <project name="LineageOS/android_device_xiaomi_chiron" />
@@ -819,11 +824,13 @@
   <project name="LineageOS/android_device_xiaomi_gemini" />
   <project name="LineageOS/android_device_xiaomi_hydrogen" />
   <project name="LineageOS/android_device_xiaomi_ido" />
+  <project name="LineageOS/android_device_xiaomi_jason" />
   <project name="LineageOS/android_device_xiaomi_kenzo" />
   <project name="LineageOS/android_device_xiaomi_land" />
   <project name="LineageOS/android_device_xiaomi_libra" />
   <project name="LineageOS/android_device_xiaomi_lithium" />
   <project name="LineageOS/android_device_xiaomi_mido" />
+  <project name="LineageOS/android_device_xiaomi_msm8937-common" />
   <project name="LineageOS/android_device_xiaomi_msm8953-common" />
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project name="LineageOS/android_device_xiaomi_msm8996-common" />
@@ -831,9 +838,11 @@
   <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_xiaomi_polaris" />
   <project name="LineageOS/android_device_xiaomi_sagit" />
+  <project name="LineageOS/android_device_xiaomi_santoni" />
   <project name="LineageOS/android_device_xiaomi_scorpio" />
   <project name="LineageOS/android_device_xiaomi_sdm845-common" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
+  <project name="LineageOS/android_device_xiaomi_ursa" />
   <project name="LineageOS/android_device_xiaomi_whyred" />
   <project name="LineageOS/android_device_yu_jalebi" />
   <project name="LineageOS/android_device_yu_lettuce" />
@@ -894,6 +903,7 @@
   <project name="LineageOS/android_external_cardslib" />
   <project name="LineageOS/android_external_checkpolicy" />
   <project name="LineageOS/android_external_chromium" />
+  <project name="LineageOS/android_external_chromium-libpac" />
   <project name="LineageOS/android_external_chromium-trace" />
   <project name="LineageOS/android_external_chromium-webview" />
   <project name="LineageOS/android_external_chromium_org" />
@@ -1024,6 +1034,7 @@
   <project name="LineageOS/android_external_libchrome" />
   <project name="LineageOS/android_external_libcxx" />
   <project name="LineageOS/android_external_libcxxabi" />
+  <project name="LineageOS/android_external_libdrm" />
   <project name="LineageOS/android_external_libedit" />
   <project name="LineageOS/android_external_libexif" />
   <project name="LineageOS/android_external_libffi" />
@@ -1112,6 +1123,7 @@
   <project name="LineageOS/android_external_pciutils" />
   <project name="LineageOS/android_external_pcre" />
   <project name="LineageOS/android_external_pdfium" />
+  <project name="LineageOS/android_external_perfetto" />
   <project name="LineageOS/android_external_pigz" />
   <project name="LineageOS/android_external_ping" />
   <project name="LineageOS/android_external_ping6" />
@@ -1249,6 +1261,7 @@
   <project name="LineageOS/android_hardware_atheros_wlan" />
   <project name="LineageOS/android_hardware_broadcom_fm" />
   <project name="LineageOS/android_hardware_broadcom_libbt" />
+  <project name="LineageOS/android_hardware_broadcom_nfc" />
   <project name="LineageOS/android_hardware_broadcom_wlan" />
   <project name="LineageOS/android_hardware_cm" />
   <project name="LineageOS/android_hardware_cyanogen" />
@@ -1287,6 +1300,7 @@
   <project name="LineageOS/android_hardware_nvidia_sensors" />
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
   <project name="LineageOS/android_hardware_nvidia_thermal" />
+  <project name="LineageOS/android_hardware_nxp_nfc" />
   <project name="LineageOS/android_hardware_qcom_audio" />
   <project name="LineageOS/android_hardware_qcom_audio-bfam" />
   <project name="LineageOS/android_hardware_qcom_audio-caf" />
@@ -1319,6 +1333,7 @@
   <project name="LineageOS/android_hardware_ril-caf" />
   <project name="LineageOS/android_hardware_samsung" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos3475" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5260" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5410" />
@@ -1551,6 +1566,7 @@
   <project name="LineageOS/android_kernel_xiaomi_armani" />
   <project name="LineageOS/android_kernel_xiaomi_cancro" />
   <project name="LineageOS/android_kernel_xiaomi_ferrari" />
+  <project name="LineageOS/android_kernel_xiaomi_jason" />
   <project name="LineageOS/android_kernel_xiaomi_msm8916" />
   <project name="LineageOS/android_kernel_xiaomi_msm8937" />
   <project name="LineageOS/android_kernel_xiaomi_msm8953" />
@@ -1659,8 +1675,10 @@
   <project name="LineageOS/android_packages_apps_SafetyRegulatoryInfo" />
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" />
   <project name="LineageOS/android_packages_apps_Screencast" />
+  <project name="LineageOS/android_packages_apps_SecureElement" />
   <project name="LineageOS/android_packages_apps_SemcKeyboardChanger" />
   <project name="LineageOS/android_packages_apps_Settings" />
+  <project name="LineageOS/android_packages_apps_SettingsIntelligence" />
   <project name="LineageOS/android_packages_apps_SetupWizard" />
   <project name="LineageOS/android_packages_apps_SmartCardService" />
   <project name="LineageOS/android_packages_apps_Snap" />
@@ -1677,6 +1695,7 @@
   <project name="LineageOS/android_packages_apps_Terminal" />
   <project name="LineageOS/android_packages_apps_ThemeChooser" />
   <project name="LineageOS/android_packages_apps_Torch" />
+  <project name="LineageOS/android_packages_apps_Traceur" />
   <project name="LineageOS/android_packages_apps_Trebuchet" />
   <project name="LineageOS/android_packages_apps_TvSettings" />
   <project name="LineageOS/android_packages_apps_UnifiedEmail" />
@@ -1763,11 +1782,13 @@
   <project name="LineageOS/android_system_bluetooth" />
   <project name="LineageOS/android_system_bt" />
   <project name="LineageOS/android_system_core" />
+  <project name="LineageOS/android_system_core_old" />
   <project name="LineageOS/android_system_extras" />
   <project name="LineageOS/android_system_extras_su" />
   <project name="LineageOS/android_system_hardware_interfaces" />
   <project name="LineageOS/android_system_keymaster" />
   <project name="LineageOS/android_system_libhidl" />
+  <project name="LineageOS/android_system_libvintf" />
   <project name="LineageOS/android_system_media" />
   <project name="LineageOS/android_system_netd" />
   <project name="LineageOS/android_system_nfc" />
@@ -1808,8 +1829,11 @@
   <project name="LineageOS/android_vendor_nxp_interfaces_opensource_nfc" />
   <project name="LineageOS/android_vendor_nxp_opensource_external_libnfc-nci" />
   <project name="LineageOS/android_vendor_nxp_opensource_frameworks" />
+  <project name="LineageOS/android_vendor_nxp_opensource_halimpl" />
+  <project name="LineageOS/android_vendor_nxp_opensource_hidlimpl" />
   <project name="LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc" />
   <project name="LineageOS/android_vendor_qcom_android-open" />
+  <project name="LineageOS/android_vendor_qcom_opensource_audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_bluetooth" />
   <project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />
   <project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
