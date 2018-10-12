@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- this is just muppets manifest with path= removed -->
+  <project name="TheMuppets/proprietary_vendor_asus" />
+  <project name="TheMuppets/proprietary_vendor_bq" />
+  <project name="TheMuppets/proprietary_vendor_essential" />
+  <project name="TheMuppets/proprietary_vendor_fairphone" />
+  <project name="TheMuppets/proprietary_vendor_google" />
+  <project name="TheMuppets/proprietary_vendor_htc" />
+  <project name="TheMuppets/proprietary_vendor_huawei" />
+  <project name="TheMuppets/proprietary_vendor_leeco" />
+  <project name="TheMuppets/proprietary_vendor_lenovo" />
+  <project name="TheMuppets/proprietary_vendor_lge" />
+  <project name="TheMuppets/proprietary_vendor_motorola" />
+  <project name="TheMuppets/proprietary_vendor_nextbit" />
+  <project name="TheMuppets/proprietary_vendor_nvidia" />
+  <project name="TheMuppets/proprietary_vendor_oneplus" />
+  <project name="TheMuppets/proprietary_vendor_oppo" />
+  <project name="TheMuppets/proprietary_vendor_samsung" />
+  <project name="TheMuppets/proprietary_vendor_sony" />
+  <project name="TheMuppets/proprietary_vendor_wileyfox" />
+  <project name="TheMuppets/proprietary_vendor_wingtech" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi" />
+  <project name="TheMuppets/proprietary_vendor_yu" />
+  <project name="TheMuppets/proprietary_vendor_zte" />
+  <project name="TheMuppets/proprietary_vendor_zuk" />
+
+<!-- for potter -->
+  <project name="boulzordev/android_kernel_motorola_msm8953" revision="lineage-15.1-64" />
+  <project name="boulzordev/android_device_motorola_potter" revision="lineage-15.1-64" />
+  <project name="boulzordev/android_vendor_motorola_potter" revision="lineage-15.1-64" />
+ 
+<!-- for opengapps -->
+
+  <project name="opengapps/aosp_build" revision="master" />
+  <project name="opengapps/all" clone-depth="1" revision="master" />
+ 
+  <project name="opengapps/arm" clone-depth="1" revision="master" />
+  <project name="opengapps/arm64" clone-depth="1" revision="master" />
+ 
+<!-- latest blek uses mindthegapps, use one older version -->
+  <project name="invisiblek/android_vendor_extra" revision="d7bcc7e1106207e93b1b974aa6be947eded1c3aa" />
+ 
+</manifest>

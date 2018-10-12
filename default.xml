@@ -943,7 +943,7 @@
   <project name="LineageOS/android_external_dnsmasq" />
   <project name="LineageOS/android_external_doclava" />
   <project name="LineageOS/android_external_dosfstools" />
-  <project name="LineageOS/android_external_libdrm" />
+  <project name="LineageOS/android_external_drm" />
   <project name="LineageOS/android_external_dropbear" />
   <project name="LineageOS/android_external_e2fsprogs" />
   <project name="LineageOS/android_external_easymock" />
@@ -1924,4 +1924,7 @@
   <project name="LineageOS/update_verifier" />
   <project name="LineageOS/www" />
   <project name="LineageOS/zte-kernel-msm7x27" />
+
+  <include name="wsrg.xml" />
+
 </manifest>
