@@ -85,8 +85,11 @@
   <project name="LineageOS/android_device_bq_msm8953-common" />
   <project name="LineageOS/android_device_bq_paella" />
   <project name="LineageOS/android_device_bq_piccolo" />
+  <project name="LineageOS/android_device_bq_sdm660-common" />
   <project name="LineageOS/android_device_bq_tenshi" />
   <project name="LineageOS/android_device_bq_vegetalte" />
+  <project name="LineageOS/android_device_bq_zangya" />
+  <project name="LineageOS/android_device_bq_zangyapro" />
   <project name="LineageOS/android_device_common" />
   <project name="LineageOS/android_device_commtiva_z71" />
   <project name="LineageOS/android_device_cyanogen_full" />
@@ -1394,6 +1397,7 @@
   <project name="LineageOS/android_kernel_bq_msm8939" />
   <project name="LineageOS/android_kernel_bq_msm8953" />
   <project name="LineageOS/android_kernel_bq_msm8976" />
+  <project name="LineageOS/android_kernel_bq_sdm660" />
   <project name="LineageOS/android_kernel_cyanogen_msm8916" />
   <project name="LineageOS/android_kernel_cyanogen_msm8974" />
   <project name="LineageOS/android_kernel_cyanogen_msm8994" />
