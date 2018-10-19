@@ -35,13 +35,13 @@
  
 <!-- for opengapps -->
 
-  <project name="opengapps/aosp_build" revision="master" />
-  <project name="opengapps/all" clone-depth="1" revision="master" />
+  <!-- <project name="opengapps/aosp_build" revision="master" /> -->
+  <!-- <project name="opengapps/all" clone-depth="1" revision="master" /> -->
  
-  <project name="opengapps/arm" clone-depth="1" revision="master" />
-  <project name="opengapps/arm64" clone-depth="1" revision="master" />
+  <!-- <project name="opengapps/arm" clone-depth="1" revision="master" /> -->
+  <!-- <project name="opengapps/arm64" clone-depth="1" revision="master" /> -->
  
 <!-- latest blek uses mindthegapps, use one older version -->
-  <project name="invisiblek/android_vendor_extra" revision="d7bcc7e1106207e93b1b974aa6be947eded1c3aa" />
+  <!-- <project name="invisiblek/android_vendor_extra" revision="d7bcc7e1106207e93b1b974aa6be947eded1c3aa" /> -->
  
 </manifest>
