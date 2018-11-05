@@ -492,6 +492,7 @@
   <project name="LineageOS/android_device_samsung_cooper" />
   <project name="LineageOS/android_device_samsung_crespo" />
   <project name="LineageOS/android_device_samsung_crespo4g" />
+  <project name="LineageOS/android_device_samsung_crownlte" />
   <project name="LineageOS/android_device_samsung_d2-common" />
   <project name="LineageOS/android_device_samsung_d2att" />
   <project name="LineageOS/android_device_samsung_d2cri" />
@@ -710,6 +711,7 @@
   <project name="LineageOS/android_device_samsung_trltexx" />
   <project name="LineageOS/android_device_samsung_tuna" />
   <project name="LineageOS/android_device_samsung_universal7880-common" />
+  <project name="LineageOS/android_device_samsung_universal9810-common" />
   <project name="LineageOS/android_device_samsung_v1awifi" />
   <project name="LineageOS/android_device_samsung_v2awifi" />
   <project name="LineageOS/android_device_samsung_v2wifixx" />
