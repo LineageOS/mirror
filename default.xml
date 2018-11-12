@@ -1854,6 +1854,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-core" />
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-video" />
   <project name="LineageOS/android_vendor_qcom_opensource_rcs-service" />
+  <project name="LineageOS/android_vendor_qcom_opensource_thermal-engine" />
   <project name="LineageOS/android_vendor_qcom_opensource_time-services" />
   <project name="LineageOS/android_vendor_qcom_opensource_v8" />
   <project name="LineageOS/android_vendor_qcom_opensource_webkit" />
