@@ -1313,6 +1313,7 @@
   <project name="LineageOS/android_hardware_qcom_bootctrl" />
   <project name="LineageOS/android_hardware_qcom_bt" />
   <project name="LineageOS/android_hardware_qcom_camera" />
+  <project name="LineageOS/android_hardware_qcom_data_ipacfg-mgr" />
   <project name="LineageOS/android_hardware_qcom_display" />
   <project name="LineageOS/android_hardware_qcom_display-caf" />
   <project name="LineageOS/android_hardware_qcom_display-caf-new" />
@@ -1330,6 +1331,13 @@
   <project name="LineageOS/android_hardware_qcom_msm8x74" />
   <project name="LineageOS/android_hardware_qcom_neuralnetworks_hvxservice" />
   <project name="LineageOS/android_hardware_qcom_power" />
+  <project name="LineageOS/android_hardware_qcom_sdm845_bt" />
+  <project name="LineageOS/android_hardware_qcom_sdm845_data_ipacfg-mgr" />
+  <project name="LineageOS/android_hardware_qcom_sdm845_display" />
+  <project name="LineageOS/android_hardware_qcom_sdm845_gps" />
+  <project name="LineageOS/android_hardware_qcom_sdm845_media" />
+  <project name="LineageOS/android_hardware_qcom_sdm845_thermal" />
+  <project name="LineageOS/android_hardware_qcom_sdm845_vr" />
   <project name="LineageOS/android_hardware_qcom_sensors" />
   <project name="LineageOS/android_hardware_qcom_thermal" />
   <project name="LineageOS/android_hardware_qcom_vr" />
