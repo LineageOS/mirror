@@ -473,6 +473,7 @@
   <project name="LineageOS/android_device_qcom_msm8996" />
   <project name="LineageOS/android_device_qcom_sepolicy" />
   <project name="LineageOS/android_device_qcom_sepolicy-legacy" />
+  <project name="LineageOS/android_device_razer_cheryl" />
   <project name="LineageOS/android_device_sample" />
   <project name="LineageOS/android_device_samsung_a5y17lte" />
   <project name="LineageOS/android_device_samsung_a7y17lte" />
@@ -1511,6 +1512,7 @@
   <project name="LineageOS/android_kernel_qcom_msm8994" />
   <project name="LineageOS/android_kernel_qcom_msm8996" />
   <project name="LineageOS/android_kernel_qcom_msm8998" />
+  <project name="LineageOS/android_kernel_razer_msm8998" />
   <project name="LineageOS/android_kernel_samsung_apq8084" />
   <project name="LineageOS/android_kernel_samsung_aries" />
   <project name="LineageOS/android_kernel_samsung_crespo" />
