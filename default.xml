@@ -226,9 +226,12 @@
   <project name="LineageOS/android_device_htc_zaracl" />
   <project name="LineageOS/android_device_huawei_angler" />
   <project name="LineageOS/android_device_huawei_ascend" />
+  <project name="LineageOS/android_device_huawei_berkeley" />
+  <project name="LineageOS/android_device_huawei_charlotte" />
   <project name="LineageOS/android_device_huawei_che10" />
   <project name="LineageOS/android_device_huawei_cherry" />
   <project name="LineageOS/android_device_huawei_g620_a2" />
+  <project name="LineageOS/android_device_huawei_kirin970-common" />
   <project name="LineageOS/android_device_huawei_kiwi" />
   <project name="LineageOS/android_device_huawei_m660" />
   <project name="LineageOS/android_device_huawei_msm8916-common" />
@@ -1439,6 +1442,7 @@
   <project name="LineageOS/android_kernel_htc_msm8994" />
   <project name="LineageOS/android_kernel_htc_msm8996" />
   <project name="LineageOS/android_kernel_huawei_angler" />
+  <project name="LineageOS/android_kernel_huawei_kirin970" />
   <project name="LineageOS/android_kernel_huawei_kiwi" />
   <project name="LineageOS/android_kernel_huawei_msm8226" />
   <project name="LineageOS/android_kernel_huawei_msm8916" />
