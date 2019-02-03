@@ -449,6 +449,7 @@
   <project name="LineageOS/android_device_oneplus_common" />
   <project name="LineageOS/android_device_oneplus_dumpling" />
   <project name="LineageOS/android_device_oneplus_enchilada" />
+  <project name="LineageOS/android_device_oneplus_fajita" />
   <project name="LineageOS/android_device_oneplus_msm8998-common" />
   <project name="LineageOS/android_device_oneplus_oneplus2" />
   <project name="LineageOS/android_device_oneplus_oneplus3" />
