@@ -1375,6 +1375,7 @@
   <project name="LineageOS/android_hardware_sony_DASH" />
   <project name="LineageOS/android_hardware_sony_camera" />
   <project name="LineageOS/android_hardware_sony_macaddrsetup" />
+  <project name="LineageOS/android_hardware_sony_simdetect" />
   <project name="LineageOS/android_hardware_sony_thermanager" />
   <project name="LineageOS/android_hardware_sony_timekeep" />
   <project name="LineageOS/android_hardware_ti_fmradio" />
