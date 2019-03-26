@@ -357,6 +357,7 @@
   <project name="LineageOS/android_device_lge_w5" />
   <project name="LineageOS/android_device_lge_w7" />
   <project name="LineageOS/android_device_lge_zee" />
+  <project name="LineageOS/android_device_lineage_atv" />
   <project name="LineageOS/android_device_lineage_sepolicy" />
   <project name="LineageOS/android_device_malata_smb-common" />
   <project name="LineageOS/android_device_malata_smb_a1002" />
@@ -1374,6 +1375,7 @@
   <project name="LineageOS/android_hardware_sony_DASH" />
   <project name="LineageOS/android_hardware_sony_camera" />
   <project name="LineageOS/android_hardware_sony_macaddrsetup" />
+  <project name="LineageOS/android_hardware_sony_simdetect" />
   <project name="LineageOS/android_hardware_sony_thermanager" />
   <project name="LineageOS/android_hardware_sony_timekeep" />
   <project name="LineageOS/android_hardware_ti_fmradio" />
@@ -1792,6 +1794,7 @@
   <project name="LineageOS/android_prebuilt" />
   <project name="LineageOS/android_prebuilts_build-tools" />
   <project name="LineageOS/android_prebuilts_cmsdk" />
+  <project name="LineageOS/android_prebuilts_constraint-layout" />
   <project name="LineageOS/android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" />
   <project name="LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.6" />
   <project name="LineageOS/android_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9" />
@@ -1812,8 +1815,10 @@
   <project name="LineageOS/android_system_extras" />
   <project name="LineageOS/android_system_extras_su" />
   <project name="LineageOS/android_system_hardware_interfaces" />
+  <project name="LineageOS/android_system_hwservicemanager" />
   <project name="LineageOS/android_system_keymaster" />
   <project name="LineageOS/android_system_libhidl" />
+  <project name="LineageOS/android_system_libhwbinder" />
   <project name="LineageOS/android_system_libvintf" />
   <project name="LineageOS/android_system_media" />
   <project name="LineageOS/android_system_netd" />
