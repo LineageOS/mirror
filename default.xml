@@ -1664,6 +1664,7 @@
   <project name="LineageOS/android_packages_apps_Apollo" />
   <project name="LineageOS/android_packages_apps_AppDrawer" />
   <project name="LineageOS/android_packages_apps_AudioFX" />
+  <project name="LineageOS/android_packages_apps_Backgrounds" />
   <project name="LineageOS/android_packages_apps_BasicSmsReceiver" />
   <project name="LineageOS/android_packages_apps_Bluetooth" />
   <project name="LineageOS/android_packages_apps_BluetoothExt" />
