@@ -114,6 +114,7 @@
   <project name="LineageOS/android_device_google_accessory_arduino" />
   <project name="LineageOS/android_device_google_accessory_demokit" />
   <project name="LineageOS/android_device_google_atv" />
+  <project name="LineageOS/android_device_google_bonito" />
   <project name="LineageOS/android_device_google_crosshatch" />
   <project name="LineageOS/android_device_google_dragon" />
   <project name="LineageOS/android_device_google_marlin" />
@@ -1445,6 +1446,7 @@
   <project name="LineageOS/android_kernel_essential_msm8998" />
   <project name="LineageOS/android_kernel_fairphone_msm8974" />
   <project name="LineageOS/android_kernel_goldfish" />
+  <project name="LineageOS/android_kernel_google_bonito" />
   <project name="LineageOS/android_kernel_google_crosshatch" />
   <project name="LineageOS/android_kernel_google_dragon" />
   <project name="LineageOS/android_kernel_google_marlin" />
@@ -1865,6 +1867,7 @@
   <project name="LineageOS/android_sdk" />
   <project name="LineageOS/android_system_bluetooth" />
   <project name="LineageOS/android_system_bt" />
+  <project name="LineageOS/android_system_connectivity_wificond" />
   <project name="LineageOS/android_system_core" />
   <project name="LineageOS/android_system_core_old" />
   <project name="LineageOS/android_system_extras" />
