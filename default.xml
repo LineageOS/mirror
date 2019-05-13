@@ -121,6 +121,7 @@
   <project name="LineageOS/android_device_google_msm8952-common" />
   <project name="LineageOS/android_device_google_muskie" />
   <project name="LineageOS/android_device_google_sailfish" />
+  <project name="LineageOS/android_device_google_sargo" />
   <project name="LineageOS/android_device_google_seed" />
   <project name="LineageOS/android_device_google_shamrock" />
   <project name="LineageOS/android_device_google_sprout" />
@@ -1360,6 +1361,7 @@
   <project name="LineageOS/android_hardware_qcom_msm8x74" />
   <project name="LineageOS/android_hardware_qcom_neuralnetworks_hvxservice" />
   <project name="LineageOS/android_hardware_qcom_power" />
+  <project name="LineageOS/android_hardware_qcom_sdm710_display" />
   <project name="LineageOS/android_hardware_qcom_sdm845_bt" />
   <project name="LineageOS/android_hardware_qcom_sdm845_data_ipacfg-mgr" />
   <project name="LineageOS/android_hardware_qcom_sdm845_display" />
