@@ -873,6 +873,7 @@
   <project name="LineageOS/android_device_xiaomi_sdm845-common" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
   <project name="LineageOS/android_device_xiaomi_ursa" />
+  <project name="LineageOS/android_device_xiaomi_violet" />
   <project name="LineageOS/android_device_xiaomi_wayne" />
   <project name="LineageOS/android_device_xiaomi_wayne-common" />
   <project name="LineageOS/android_device_xiaomi_whyred" />
@@ -1659,6 +1660,7 @@
   <project name="LineageOS/android_kernel_xiaomi_msm8998" />
   <project name="LineageOS/android_kernel_xiaomi_sdm660" />
   <project name="LineageOS/android_kernel_xiaomi_sdm845" />
+  <project name="LineageOS/android_kernel_xiaomi_violet" />
   <project name="LineageOS/android_kernel_yu_msm8916" />
   <project name="LineageOS/android_kernel_zte_msm8952" />
   <project name="LineageOS/android_kernel_zte_msm8994" />
