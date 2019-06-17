@@ -132,6 +132,7 @@
   <project name="LineageOS/android_device_google_steelhead" />
   <project name="LineageOS/android_device_google_taimen" />
   <project name="LineageOS/android_device_google_wahoo" />
+  <project name="LineageOS/android_device_google_walleye" />
   <project name="LineageOS/android_device_hardkernel_odroidu2" />
   <project name="LineageOS/android_device_hardkernel_samsung" />
   <project name="LineageOS/android_device_hp_tenderloin" />
