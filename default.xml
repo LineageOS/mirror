@@ -51,6 +51,7 @@
   <project name="LineageOS/android_device_amazon_thor" />
   <project name="LineageOS/android_device_ark_msm8916-common" />
   <project name="LineageOS/android_device_ark_peach" />
+  <project name="LineageOS/android_device_asus_I01WD" />
   <project name="LineageOS/android_device_asus_P024" />
   <project name="LineageOS/android_device_asus_X00TD" />
   <project name="LineageOS/android_device_asus_Z008" />
@@ -1429,6 +1430,7 @@
   <project name="LineageOS/android_kernel_asus_moorefield" />
   <project name="LineageOS/android_kernel_asus_msm8916" />
   <project name="LineageOS/android_kernel_asus_sdm660" />
+  <project name="LineageOS/android_kernel_asus_sm8150" />
   <project name="LineageOS/android_kernel_asus_tf101" />
   <project name="LineageOS/android_kernel_asus_tf201" />
   <project name="LineageOS/android_kernel_asus_tf300t" />
