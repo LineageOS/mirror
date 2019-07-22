@@ -1901,6 +1901,7 @@
   <project name="LineageOS/android_system_update_engine" />
   <project name="LineageOS/android_system_vold" />
   <project name="LineageOS/android_system_wlan_ti" />
+  <project name="LineageOS/android_test_vts-testcase_vndk" />
   <project name="LineageOS/android_tools_base" />
   <project name="LineageOS/android_vendor_apple" />
   <project name="LineageOS/android_vendor_cm" />
