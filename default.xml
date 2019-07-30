@@ -873,6 +873,7 @@
   <project name="LineageOS/android_device_xiaomi_sagit" />
   <project name="LineageOS/android_device_xiaomi_santoni" />
   <project name="LineageOS/android_device_xiaomi_scorpio" />
+  <project name="LineageOS/android_device_xiaomi_sdm660-common" />
   <project name="LineageOS/android_device_xiaomi_sdm845-common" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
   <project name="LineageOS/android_device_xiaomi_ursa" />
