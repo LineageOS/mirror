@@ -4,6 +4,10 @@
   <project name="hchenji/lineageos_android" />
   
 <!-- this is just muppets manifest with path= removed -->
+  
+
+
+
   <project name="TheMuppets/proprietary_vendor_asus" />
   <project name="TheMuppets/proprietary_vendor_bq" />
   <project name="TheMuppets/proprietary_vendor_essential" />
@@ -23,7 +27,7 @@
   <project name="TheMuppets/proprietary_vendor_sony" />
   <project name="TheMuppets/proprietary_vendor_wileyfox" />
   <project name="TheMuppets/proprietary_vendor_wingtech" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi" />
+  <!-- <project name="TheMuppets/proprietary_vendor_xiaomi" /> RIP due to DMCA -->
   <project name="TheMuppets/proprietary_vendor_yu" />
   <project name="TheMuppets/proprietary_vendor_zte" />
   <project name="TheMuppets/proprietary_vendor_zuk" />
