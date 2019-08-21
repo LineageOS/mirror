@@ -251,11 +251,15 @@
   <project name="LineageOS/android_device_leeco_x2" />
   <project name="LineageOS/android_device_leeco_zl1" />
   <project name="LineageOS/android_device_lenovo_A6020" />
+  <project name="LineageOS/android_device_lenovo_TB8703" />
+  <project name="LineageOS/android_device_lenovo_TB8704" />
+  <project name="LineageOS/android_device_lenovo_TBX704" />
   <project name="LineageOS/android_device_lenovo_YTX703-common" />
   <project name="LineageOS/android_device_lenovo_YTX703F" />
   <project name="LineageOS/android_device_lenovo_YTX703L" />
   <project name="LineageOS/android_device_lenovo_kingdom" />
   <project name="LineageOS/android_device_lenovo_kuntao" />
+  <project name="LineageOS/android_device_lenovo_tb-common" />
   <project name="LineageOS/android_device_letv_x1na" />
   <project name="LineageOS/android_device_lge_bullhead" />
   <project name="LineageOS/android_device_lge_c660" />
@@ -469,11 +473,13 @@
   <project name="LineageOS/android_device_oneplus_dumpling" />
   <project name="LineageOS/android_device_oneplus_enchilada" />
   <project name="LineageOS/android_device_oneplus_fajita" />
+  <project name="LineageOS/android_device_oneplus_guacamole" />
   <project name="LineageOS/android_device_oneplus_msm8998-common" />
   <project name="LineageOS/android_device_oneplus_oneplus2" />
   <project name="LineageOS/android_device_oneplus_oneplus3" />
   <project name="LineageOS/android_device_oneplus_onyx" />
   <project name="LineageOS/android_device_oneplus_sdm845-common" />
+  <project name="LineageOS/android_device_oneplus_sm8150-common" />
   <project name="LineageOS/android_device_oppo_apq8064-common" />
   <project name="LineageOS/android_device_oppo_common" />
   <project name="LineageOS/android_device_oppo_f1f" />
@@ -498,6 +504,8 @@
   <project name="LineageOS/android_device_qcom_sepolicy-legacy" />
   <project name="LineageOS/android_device_razer_cheryl" />
   <project name="LineageOS/android_device_sample" />
+  <project name="LineageOS/android_device_samsung_a3xelte" />
+  <project name="LineageOS/android_device_samsung_a5xelte" />
   <project name="LineageOS/android_device_samsung_a5y17lte" />
   <project name="LineageOS/android_device_samsung_a7y17lte" />
   <project name="LineageOS/android_device_samsung_amazing3gcri" />
@@ -564,6 +572,8 @@
   <project name="LineageOS/android_device_samsung_gts28velte" />
   <project name="LineageOS/android_device_samsung_gts28vewifi" />
   <project name="LineageOS/android_device_samsung_gts28wifi" />
+  <project name="LineageOS/android_device_samsung_gts4lv-common" />
+  <project name="LineageOS/android_device_samsung_gts4lvwifi" />
   <project name="LineageOS/android_device_samsung_h3gduoschn" />
   <project name="LineageOS/android_device_samsung_ha3g" />
   <project name="LineageOS/android_device_samsung_hercules" />
@@ -697,6 +707,7 @@
   <project name="LineageOS/android_device_samsung_r950" />
   <project name="LineageOS/android_device_samsung_s3ve3g" />
   <project name="LineageOS/android_device_samsung_s5670" />
+  <project name="LineageOS/android_device_samsung_s5neolte" />
   <project name="LineageOS/android_device_samsung_sc02c" />
   <project name="LineageOS/android_device_samsung_serrano-common" />
   <project name="LineageOS/android_device_samsung_serrano3gxx" />
@@ -735,6 +746,7 @@
   <project name="LineageOS/android_device_samsung_trlteusc" />
   <project name="LineageOS/android_device_samsung_trltexx" />
   <project name="LineageOS/android_device_samsung_tuna" />
+  <project name="LineageOS/android_device_samsung_universal7580-common" />
   <project name="LineageOS/android_device_samsung_universal7880-common" />
   <project name="LineageOS/android_device_samsung_universal9810-common" />
   <project name="LineageOS/android_device_samsung_v1awifi" />
@@ -1571,6 +1583,7 @@
   <project name="LineageOS/android_kernel_oneplus_msm8998" />
   <project name="LineageOS/android_kernel_oneplus_onyx" />
   <project name="LineageOS/android_kernel_oneplus_sdm845" />
+  <project name="LineageOS/android_kernel_oneplus_sm8150" />
   <project name="LineageOS/android_kernel_oppo_find5" />
   <project name="LineageOS/android_kernel_oppo_msm8226" />
   <project name="LineageOS/android_kernel_oppo_msm8939" />
@@ -1618,6 +1631,7 @@
   <project name="LineageOS/android_kernel_samsung_p4" />
   <project name="LineageOS/android_kernel_samsung_piranha" />
   <project name="LineageOS/android_kernel_samsung_s3ve3g" />
+  <project name="LineageOS/android_kernel_samsung_sdm670" />
   <project name="LineageOS/android_kernel_samsung_smdk4210" />
   <project name="LineageOS/android_kernel_samsung_smdk4412" />
   <project name="LineageOS/android_kernel_samsung_smdk5260" />
@@ -1625,6 +1639,7 @@
   <project name="LineageOS/android_kernel_samsung_trelte" />
   <project name="LineageOS/android_kernel_samsung_trlte" />
   <project name="LineageOS/android_kernel_samsung_tuna" />
+  <project name="LineageOS/android_kernel_samsung_universal7580" />
   <project name="LineageOS/android_kernel_samsung_universal7880" />
   <project name="LineageOS/android_kernel_samsung_universal8890" />
   <project name="LineageOS/android_kernel_samsung_universal9810" />
