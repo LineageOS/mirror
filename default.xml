@@ -269,6 +269,8 @@
   <project name="LineageOS/android_device_lge_d801" />
   <project name="LineageOS/android_device_lge_d802" />
   <project name="LineageOS/android_device_lge_d803" />
+  <project name="LineageOS/android_device_lge_d805" />
+  <project name="LineageOS/android_device_lge_d806" />
   <project name="LineageOS/android_device_lge_d850" />
   <project name="LineageOS/android_device_lge_d851" />
   <project name="LineageOS/android_device_lge_d852" />
@@ -1081,6 +1083,7 @@
   <project name="LineageOS/android_external_kissfft" />
   <project name="LineageOS/android_external_ksoap2" />
   <project name="LineageOS/android_external_libavc" />
+  <project name="LineageOS/android_external_libbrillo" />
   <project name="LineageOS/android_external_libcap-ng" />
   <project name="LineageOS/android_external_libchrome" />
   <project name="LineageOS/android_external_libcxx" />
@@ -1183,6 +1186,7 @@
   <project name="LineageOS/android_external_proguard" />
   <project name="LineageOS/android_external_protobuf" />
   <project name="LineageOS/android_external_protobuf-c" />
+  <project name="LineageOS/android_external_puffin" />
   <project name="LineageOS/android_external_qemu" />
   <project name="LineageOS/android_external_qemu-pc-bios" />
   <project name="LineageOS/android_external_qrngd" />
