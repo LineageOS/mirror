@@ -1893,6 +1893,7 @@
   <project name="LineageOS/android_prebuilts_lineage-sdk" />
   <project name="LineageOS/android_prebuilts_misc" />
   <project name="LineageOS/android_prebuilts_ndk" />
+  <project name="LineageOS/android_prebuilts_r8" />
   <project name="LineageOS/android_prebuilts_tools" />
   <project name="LineageOS/android_sdk" />
   <project name="LineageOS/android_system_bluetooth" />
