@@ -1086,6 +1086,7 @@
   <project name="LineageOS/android_external_libbrillo" />
   <project name="LineageOS/android_external_libcap-ng" />
   <project name="LineageOS/android_external_libchrome" />
+  <project name="LineageOS/android_external_libcups" />
   <project name="LineageOS/android_external_libcxx" />
   <project name="LineageOS/android_external_libcxxabi" />
   <project name="LineageOS/android_external_libdrm" />
@@ -1823,6 +1824,7 @@
   <project name="LineageOS/android_packages_inputmethods_LatinIME" />
   <project name="LineageOS/android_packages_inputmethods_OpenWnn" />
   <project name="LineageOS/android_packages_inputmethods_PinyinIME" />
+  <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
   <project name="LineageOS/android_packages_overlays_Lineage" />
   <project name="LineageOS/android_packages_providers_ApplicationsProvider" />
   <project name="LineageOS/android_packages_providers_BlockedNumberProvider" />
