@@ -1807,6 +1807,7 @@
   <project name="LineageOS/android_packages_apps_TalkBack" />
   <project name="LineageOS/android_packages_apps_Terminal" />
   <project name="LineageOS/android_packages_apps_ThemeChooser" />
+  <project name="LineageOS/android_packages_apps_ThemePicker" />
   <project name="LineageOS/android_packages_apps_Torch" />
   <project name="LineageOS/android_packages_apps_Traceur" />
   <project name="LineageOS/android_packages_apps_Trebuchet" />
@@ -2049,5 +2050,6 @@
   <project name="LineageOS/tribble-tracker" />
   <project name="LineageOS/update_verifier" />
   <project name="LineageOS/www" />
+  <project name="LineageOS/zifnab06-buildkite-test" />
   <project name="LineageOS/zte-kernel-msm7x27" />
 </manifest>
