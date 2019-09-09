@@ -451,6 +451,8 @@
   <project name="LineageOS/android_device_motorola_xt926" />
   <project name="LineageOS/android_device_motorola_zeppelin" />
   <project name="LineageOS/android_device_nextbit_ether" />
+  <project name="LineageOS/android_device_nokia_PL2" />
+  <project name="LineageOS/android_device_nokia_sdm660-common" />
   <project name="LineageOS/android_device_nubia_nx512j" />
   <project name="LineageOS/android_device_nubia_nx531j" />
   <project name="LineageOS/android_device_nvidia_dalmore" />
@@ -1477,6 +1479,7 @@
   <project name="LineageOS/android_kernel_google_dragon" />
   <project name="LineageOS/android_kernel_google_marlin" />
   <project name="LineageOS/android_kernel_google_msm" />
+  <project name="LineageOS/android_kernel_google_msm-4.9" />
   <project name="LineageOS/android_kernel_google_seed" />
   <project name="LineageOS/android_kernel_google_shamrock" />
   <project name="LineageOS/android_kernel_google_steelhead" />
@@ -1545,6 +1548,7 @@
   <project name="LineageOS/android_kernel_motorola_otus" />
   <project name="LineageOS/android_kernel_motorola_titan" />
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
+  <project name="LineageOS/android_kernel_nokia_sdm660" />
   <project name="LineageOS/android_kernel_nubia_msm8939" />
   <project name="LineageOS/android_kernel_nubia_msm8996" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common" />
@@ -1896,8 +1900,10 @@
   <project name="LineageOS/android_prebuilts_lineage-sdk" />
   <project name="LineageOS/android_prebuilts_misc" />
   <project name="LineageOS/android_prebuilts_ndk" />
+  <project name="LineageOS/android_prebuilts_openssl" />
   <project name="LineageOS/android_prebuilts_r8" />
   <project name="LineageOS/android_prebuilts_tools" />
+  <project name="LineageOS/android_prebuilts_tools-lineage" />
   <project name="LineageOS/android_sdk" />
   <project name="LineageOS/android_system_bluetooth" />
   <project name="LineageOS/android_system_bt" />
