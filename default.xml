@@ -1361,6 +1361,7 @@
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
   <project name="LineageOS/android_hardware_nvidia_thermal" />
   <project name="LineageOS/android_hardware_nxp_nfc" />
+  <project name="LineageOS/android_hardware_qcom-caf_common" />
   <project name="LineageOS/android_hardware_qcom_audio" />
   <project name="LineageOS/android_hardware_qcom_audio-bfam" />
   <project name="LineageOS/android_hardware_qcom_audio-caf" />
