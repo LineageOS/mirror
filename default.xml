@@ -25,6 +25,7 @@
   <project name="LineageOS/android_bootable_recovery-cm" />
   <project name="LineageOS/android_bootable_userfastboot" />
   <project name="LineageOS/android_build" />
+  <project name="LineageOS/android_build_blueprint" />
   <project name="LineageOS/android_build_kati" />
   <project name="LineageOS/android_build_soong" />
   <project name="LineageOS/android_cts" />
