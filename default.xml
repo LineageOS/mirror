@@ -73,6 +73,7 @@
   <project name="LineageOS/android_device_asus_tf700t" />
   <project name="LineageOS/android_device_asus_tf701t" />
   <project name="LineageOS/android_device_asus_tilapia" />
+  <project name="LineageOS/android_device_asus_zenfone3" />
   <project name="LineageOS/android_device_bn_acclaim" />
   <project name="LineageOS/android_device_bn_common" />
   <project name="LineageOS/android_device_bn_encore" />
@@ -711,6 +712,9 @@
   <project name="LineageOS/android_device_samsung_quincytmo" />
   <project name="LineageOS/android_device_samsung_r950" />
   <project name="LineageOS/android_device_samsung_s3ve3g" />
+  <project name="LineageOS/android_device_samsung_s3ve3g-common" />
+  <project name="LineageOS/android_device_samsung_s3ve3gjv" />
+  <project name="LineageOS/android_device_samsung_s3ve3gxx" />
   <project name="LineageOS/android_device_samsung_s5670" />
   <project name="LineageOS/android_device_samsung_s5neolte" />
   <project name="LineageOS/android_device_samsung_sc02c" />
@@ -893,11 +897,13 @@
   <project name="LineageOS/android_device_xiaomi_sdm660-common" />
   <project name="LineageOS/android_device_xiaomi_sdm845-common" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
+  <project name="LineageOS/android_device_xiaomi_twolip" />
   <project name="LineageOS/android_device_xiaomi_ursa" />
   <project name="LineageOS/android_device_xiaomi_violet" />
   <project name="LineageOS/android_device_xiaomi_wayne" />
   <project name="LineageOS/android_device_xiaomi_wayne-common" />
   <project name="LineageOS/android_device_xiaomi_whyred" />
+  <project name="LineageOS/android_device_yandex_Amber" />
   <project name="LineageOS/android_device_yu_jalebi" />
   <project name="LineageOS/android_device_yu_lettuce" />
   <project name="LineageOS/android_device_yu_sambar" />
@@ -1452,6 +1458,7 @@
   <project name="LineageOS/android_kernel_asus_grouper" />
   <project name="LineageOS/android_kernel_asus_moorefield" />
   <project name="LineageOS/android_kernel_asus_msm8916" />
+  <project name="LineageOS/android_kernel_asus_msm8953" />
   <project name="LineageOS/android_kernel_asus_sdm660" />
   <project name="LineageOS/android_kernel_asus_sdm845" />
   <project name="LineageOS/android_kernel_asus_sm8150" />
@@ -1630,6 +1637,7 @@
   <project name="LineageOS/android_kernel_samsung_manta" />
   <project name="LineageOS/android_kernel_samsung_mondrianwifi" />
   <project name="LineageOS/android_kernel_samsung_ms013g" />
+  <project name="LineageOS/android_kernel_samsung_msm8226" />
   <project name="LineageOS/android_kernel_samsung_msm8660-common" />
   <project name="LineageOS/android_kernel_samsung_msm8660-q1" />
   <project name="LineageOS/android_kernel_samsung_msm8916" />
@@ -1693,6 +1701,7 @@
   <project name="LineageOS/android_kernel_xiaomi_sdm660" />
   <project name="LineageOS/android_kernel_xiaomi_sdm845" />
   <project name="LineageOS/android_kernel_xiaomi_violet" />
+  <project name="LineageOS/android_kernel_yandex_sdm660" />
   <project name="LineageOS/android_kernel_yu_msm8916" />
   <project name="LineageOS/android_kernel_zte_msm8952" />
   <project name="LineageOS/android_kernel_zte_msm8994" />
@@ -1978,6 +1987,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" />
   <project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
   <project name="LineageOS/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
+  <project name="LineageOS/android_vendor_qcom_opensource_libfmjni" />
   <project name="LineageOS/android_vendor_qcom_opensource_location" />
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-core" />
