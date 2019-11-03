@@ -120,8 +120,10 @@
   <project name="LineageOS/android_device_google_atv" />
   <project name="LineageOS/android_device_google_blueline" />
   <project name="LineageOS/android_device_google_bonito" />
+  <project name="LineageOS/android_device_google_coral" />
   <project name="LineageOS/android_device_google_crosshatch" />
   <project name="LineageOS/android_device_google_dragon" />
+  <project name="LineageOS/android_device_google_flame" />
   <project name="LineageOS/android_device_google_marlin" />
   <project name="LineageOS/android_device_google_msm8952-common" />
   <project name="LineageOS/android_device_google_muskie" />
@@ -1484,6 +1486,7 @@
   <project name="LineageOS/android_kernel_fairphone_msm8974" />
   <project name="LineageOS/android_kernel_goldfish" />
   <project name="LineageOS/android_kernel_google_bonito" />
+  <project name="LineageOS/android_kernel_google_coral" />
   <project name="LineageOS/android_kernel_google_crosshatch" />
   <project name="LineageOS/android_kernel_google_dragon" />
   <project name="LineageOS/android_kernel_google_marlin" />
@@ -1691,6 +1694,7 @@
   <project name="LineageOS/android_kernel_xiaomi_cancro" />
   <project name="LineageOS/android_kernel_xiaomi_ferrari" />
   <project name="LineageOS/android_kernel_xiaomi_jason" />
+  <project name="LineageOS/android_kernel_xiaomi_mido" />
   <project name="LineageOS/android_kernel_xiaomi_msm8916" />
   <project name="LineageOS/android_kernel_xiaomi_msm8937" />
   <project name="LineageOS/android_kernel_xiaomi_msm8953" />
