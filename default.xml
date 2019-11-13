@@ -430,6 +430,8 @@
   <project name="LineageOS/android_device_motorola_potter" />
   <project name="LineageOS/android_device_motorola_qcom-common" />
   <project name="LineageOS/android_device_motorola_quark" />
+  <project name="LineageOS/android_device_motorola_river" />
+  <project name="LineageOS/android_device_motorola_sdm632-common" />
   <project name="LineageOS/android_device_motorola_sdm660-common" />
   <project name="LineageOS/android_device_motorola_shadow" />
   <project name="LineageOS/android_device_motorola_sholes" />
@@ -1560,6 +1562,7 @@
   <project name="LineageOS/android_kernel_motorola_omap4-common" />
   <project name="LineageOS/android_kernel_motorola_omap4-kexec-common" />
   <project name="LineageOS/android_kernel_motorola_otus" />
+  <project name="LineageOS/android_kernel_motorola_sdm632" />
   <project name="LineageOS/android_kernel_motorola_titan" />
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
   <project name="LineageOS/android_kernel_nokia_sdm660" />
