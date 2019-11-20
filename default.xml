@@ -718,6 +718,7 @@
   <project name="LineageOS/android_device_samsung_r950" />
   <project name="LineageOS/android_device_samsung_s3ve3g" />
   <project name="LineageOS/android_device_samsung_s3ve3g-common" />
+  <project name="LineageOS/android_device_samsung_s3ve3gds" />
   <project name="LineageOS/android_device_samsung_s3ve3gjv" />
   <project name="LineageOS/android_device_samsung_s3ve3gxx" />
   <project name="LineageOS/android_device_samsung_s5670" />
