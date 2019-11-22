@@ -1844,6 +1844,7 @@
   <project name="LineageOS/android_packages_apps_VoiceDialer" />
   <project name="LineageOS/android_packages_apps_VoicePlus" />
   <project name="LineageOS/android_packages_apps_WallpaperPicker" />
+  <project name="LineageOS/android_packages_apps_WallpaperPicker2" />
   <project name="LineageOS/android_packages_apps_WundergroundWeatherProvider" />
   <project name="LineageOS/android_packages_apps_YahooWeatherProvider" />
   <project name="LineageOS/android_packages_experimental" />
