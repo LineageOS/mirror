@@ -1928,6 +1928,7 @@
   <project name="LineageOS/android_prebuilts_tools-lineage" />
   <project name="LineageOS/android_sdk" />
   <project name="LineageOS/android_system_bluetooth" />
+  <project name="LineageOS/android_system_bpf" />
   <project name="LineageOS/android_system_bt" />
   <project name="LineageOS/android_system_connectivity_wificond" />
   <project name="LineageOS/android_system_core" />
