@@ -930,6 +930,7 @@
   <project name="LineageOS/android_device_zuk_z2_plus" />
   <project name="LineageOS/android_docs_source.android.com" />
   <project name="LineageOS/android_external_Focal" />
+  <project name="LineageOS/android_external_ImageMagick" />
   <project name="LineageOS/android_external_JakeWharton_butterknife" />
   <project name="LineageOS/android_external_aac" />
   <project name="LineageOS/android_external_ahbottomnavigation" />
