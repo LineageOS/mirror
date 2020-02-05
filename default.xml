@@ -52,6 +52,7 @@
   <project name="LineageOS/android_device_amazon_thor" />
   <project name="LineageOS/android_device_ark_msm8916-common" />
   <project name="LineageOS/android_device_ark_peach" />
+  <project name="LineageOS/android_device_asus_I001D" />
   <project name="LineageOS/android_device_asus_I01WD" />
   <project name="LineageOS/android_device_asus_P024" />
   <project name="LineageOS/android_device_asus_X00TD" />
@@ -485,6 +486,7 @@
   <project name="LineageOS/android_device_oneplus_enchilada" />
   <project name="LineageOS/android_device_oneplus_fajita" />
   <project name="LineageOS/android_device_oneplus_guacamole" />
+  <project name="LineageOS/android_device_oneplus_hotdog" />
   <project name="LineageOS/android_device_oneplus_msm8998-common" />
   <project name="LineageOS/android_device_oneplus_oneplus2" />
   <project name="LineageOS/android_device_oneplus_oneplus3" />
@@ -876,6 +878,7 @@
   <project name="LineageOS/android_device_xiaomi_cancro" />
   <project name="LineageOS/android_device_xiaomi_capricorn" />
   <project name="LineageOS/android_device_xiaomi_chiron" />
+  <project name="LineageOS/android_device_xiaomi_common" />
   <project name="LineageOS/android_device_xiaomi_dipper" />
   <project name="LineageOS/android_device_xiaomi_equuleus" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
@@ -1961,6 +1964,7 @@
   <project name="LineageOS/android_test_vts-testcase_vndk" />
   <project name="LineageOS/android_tools_base" />
   <project name="LineageOS/android_vendor_apple" />
+  <project name="LineageOS/android_vendor_chromium" />
   <project name="LineageOS/android_vendor_cm" />
   <project name="LineageOS/android_vendor_codeaurora_telephony" />
   <project name="LineageOS/android_vendor_cyanogen" />
