@@ -461,8 +461,10 @@
   <project name="LineageOS/android_device_nextbit_ether" />
   <project name="LineageOS/android_device_nokia_PL2" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
+  <project name="LineageOS/android_device_nubia_msm8998-common" />
   <project name="LineageOS/android_device_nubia_nx512j" />
   <project name="LineageOS/android_device_nubia_nx531j" />
+  <project name="LineageOS/android_device_nubia_nx563j" />
   <project name="LineageOS/android_device_nvidia_dalmore" />
   <project name="LineageOS/android_device_nvidia_foster" />
   <project name="LineageOS/android_device_nvidia_foster_tab" />
@@ -1574,6 +1576,7 @@
   <project name="LineageOS/android_kernel_nokia_sdm660" />
   <project name="LineageOS/android_kernel_nubia_msm8939" />
   <project name="LineageOS/android_kernel_nubia_msm8996" />
+  <project name="LineageOS/android_kernel_nubia_msm8998" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common" />
