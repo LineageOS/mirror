@@ -822,10 +822,12 @@
   <project name="LineageOS/android_device_sony_jlo" />
   <project name="LineageOS/android_device_sony_karin" />
   <project name="LineageOS/android_device_sony_karin_windy" />
+  <project name="LineageOS/android_device_sony_kirin" />
   <project name="LineageOS/android_device_sony_kitakami-common" />
   <project name="LineageOS/android_device_sony_kumquat" />
   <project name="LineageOS/android_device_sony_loire-common" />
   <project name="LineageOS/android_device_sony_lotus" />
+  <project name="LineageOS/android_device_sony_mermaid" />
   <project name="LineageOS/android_device_sony_mesona" />
   <project name="LineageOS/android_device_sony_mint" />
   <project name="LineageOS/android_device_sony_montblanc-common" />
@@ -903,6 +905,7 @@
   <project name="LineageOS/android_device_xiaomi_msm8998-common" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_xiaomi_perseus" />
+  <project name="LineageOS/android_device_xiaomi_phoenix" />
   <project name="LineageOS/android_device_xiaomi_polaris" />
   <project name="LineageOS/android_device_xiaomi_sagit" />
   <project name="LineageOS/android_device_xiaomi_santoni" />
