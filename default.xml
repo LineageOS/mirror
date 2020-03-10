@@ -1472,6 +1472,7 @@
   <project name="LineageOS/android_kernel_amazon_hdx-common" />
   <project name="LineageOS/android_kernel_amazon_otter-common" />
   <project name="LineageOS/android_kernel_ark_msm8916" />
+  <project name="LineageOS/android_kernel_asus_I001" />
   <project name="LineageOS/android_kernel_asus_P024" />
   <project name="LineageOS/android_kernel_asus_Z00D" />
   <project name="LineageOS/android_kernel_asus_fugu" />
@@ -1557,7 +1558,6 @@
   <project name="LineageOS/android_kernel_lge_v500" />
   <project name="LineageOS/android_kernel_lge_v909" />
   <project name="LineageOS/android_kernel_mediatek_sprout" />
-  <project name="LineageOS/android_kernel_modules_wireguard" />
   <project name="LineageOS/android_kernel_moto_shamu" />
   <project name="LineageOS/android_kernel_motorola_apq8084" />
   <project name="LineageOS/android_kernel_motorola_ghost" />
