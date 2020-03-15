@@ -398,6 +398,7 @@
   <project name="LineageOS/android_device_motorola_droid2" />
   <project name="LineageOS/android_device_motorola_droid2we" />
   <project name="LineageOS/android_device_motorola_edison" />
+  <project name="LineageOS/android_device_motorola_evert" />
   <project name="LineageOS/android_device_motorola_falcon" />
   <project name="LineageOS/android_device_motorola_ghost" />
   <project name="LineageOS/android_device_motorola_griffin" />
@@ -406,6 +407,7 @@
   <project name="LineageOS/android_device_motorola_jordan" />
   <project name="LineageOS/android_device_motorola_jordan-common" />
   <project name="LineageOS/android_device_motorola_jordan_plus" />
+  <project name="LineageOS/android_device_motorola_lake" />
   <project name="LineageOS/android_device_motorola_lux" />
   <project name="LineageOS/android_device_motorola_maserati" />
   <project name="LineageOS/android_device_motorola_mb886" />
