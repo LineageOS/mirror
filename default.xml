@@ -739,6 +739,7 @@
   <project name="LineageOS/android_device_samsung_serranoltexx" />
   <project name="LineageOS/android_device_samsung_showcasemtd" />
   <project name="LineageOS/android_device_samsung_skyrocket" />
+  <project name="LineageOS/android_device_samsung_slsi_sepolicy" />
   <project name="LineageOS/android_device_samsung_smdk4412-common" />
   <project name="LineageOS/android_device_samsung_smdk4412-qcom-common" />
   <project name="LineageOS/android_device_samsung_smdk5260-common" />
@@ -1381,6 +1382,7 @@
   <project name="LineageOS/android_hardware_lineage_lineagehw" />
   <project name="LineageOS/android_hardware_lineage_livedisplay" />
   <project name="LineageOS/android_hardware_lineage_telephony" />
+  <project name="LineageOS/android_hardware_mediatek" />
   <project name="LineageOS/android_hardware_msm7k" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
