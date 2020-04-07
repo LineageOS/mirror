@@ -889,7 +889,6 @@
   <project name="LineageOS/android_device_xiaomi_cancro" />
   <project name="LineageOS/android_device_xiaomi_capricorn" />
   <project name="LineageOS/android_device_xiaomi_chiron" />
-  <project name="LineageOS/android_device_xiaomi_common" />
   <project name="LineageOS/android_device_xiaomi_davinci" />
   <project name="LineageOS/android_device_xiaomi_dipper" />
   <project name="LineageOS/android_device_xiaomi_equuleus" />
@@ -1471,6 +1470,7 @@
   <project name="LineageOS/android_hardware_ti_wl12xx" />
   <project name="LineageOS/android_hardware_ti_wlan" />
   <project name="LineageOS/android_hardware_ti_wpan" />
+  <project name="LineageOS/android_hardware_xiaomi" />
   <project name="LineageOS/android_kernel_acer_t20-common" />
   <project name="LineageOS/android_kernel_acer_t30" />
   <project name="LineageOS/android_kernel_alcatel_msm8916" />
