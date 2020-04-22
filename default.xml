@@ -1378,6 +1378,7 @@
   <project name="LineageOS/android_hardware_intel_pstore-clean" />
   <project name="LineageOS/android_hardware_interfaces" />
   <project name="LineageOS/android_hardware_invensense" />
+  <project name="LineageOS/android_hardware_knowles_athletico_sound_trigger_hal" />
   <project name="LineageOS/android_hardware_libhardware" />
   <project name="LineageOS/android_hardware_libhardware_legacy" />
   <project name="LineageOS/android_hardware_lineage_interfaces" />
