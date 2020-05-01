@@ -493,6 +493,7 @@
   <project name="LineageOS/android_device_oneplus_enchilada" />
   <project name="LineageOS/android_device_oneplus_fajita" />
   <project name="LineageOS/android_device_oneplus_guacamole" />
+  <project name="LineageOS/android_device_oneplus_guacamoleb" />
   <project name="LineageOS/android_device_oneplus_hotdog" />
   <project name="LineageOS/android_device_oneplus_msm8998-common" />
   <project name="LineageOS/android_device_oneplus_oneplus2" />
@@ -809,6 +810,7 @@
   <project name="LineageOS/android_device_semc_zeus-common" />
   <project name="LineageOS/android_device_semc_zeusc" />
   <project name="LineageOS/android_device_smartfren_rendang" />
+  <project name="LineageOS/android_device_sony_akari" />
   <project name="LineageOS/android_device_sony_amami" />
   <project name="LineageOS/android_device_sony_aoba" />
   <project name="LineageOS/android_device_sony_blue-common" />
@@ -863,6 +865,7 @@
   <project name="LineageOS/android_device_sony_sumire" />
   <project name="LineageOS/android_device_sony_suzu" />
   <project name="LineageOS/android_device_sony_suzuran" />
+  <project name="LineageOS/android_device_sony_tama-common" />
   <project name="LineageOS/android_device_sony_tamsui-common" />
   <project name="LineageOS/android_device_sony_tamsui-common-legacy" />
   <project name="LineageOS/android_device_sony_taoshan" />
@@ -873,6 +876,7 @@
   <project name="LineageOS/android_device_sony_togari_gpe" />
   <project name="LineageOS/android_device_sony_tsubasa" />
   <project name="LineageOS/android_device_sony_voyager" />
+  <project name="LineageOS/android_device_sony_xz2c" />
   <project name="LineageOS/android_device_sony_yuga" />
   <project name="LineageOS/android_device_sony_yukon" />
   <project name="LineageOS/android_device_sony_z3" />
@@ -902,6 +906,7 @@
   <project name="LineageOS/android_device_xiaomi_jason" />
   <project name="LineageOS/android_device_xiaomi_kenzo" />
   <project name="LineageOS/android_device_xiaomi_land" />
+  <project name="LineageOS/android_device_xiaomi_lavender" />
   <project name="LineageOS/android_device_xiaomi_libra" />
   <project name="LineageOS/android_device_xiaomi_lithium" />
   <project name="LineageOS/android_device_xiaomi_mido" />
@@ -1010,6 +1015,7 @@
   <project name="LineageOS/android_external_chromium_org_v8" />
   <project name="LineageOS/android_external_cibu-fonts" />
   <project name="LineageOS/android_external_clang" />
+  <project name="LineageOS/android_external_cldr" />
   <project name="LineageOS/android_external_clearsilver" />
   <project name="LineageOS/android_external_cmockery" />
   <project name="LineageOS/android_external_cmsdk-api-coverage" />
@@ -1718,6 +1724,7 @@
   <project name="LineageOS/android_kernel_sony_msm8x27" />
   <project name="LineageOS/android_kernel_sony_msm8x60" />
   <project name="LineageOS/android_kernel_sony_sdm660" />
+  <project name="LineageOS/android_kernel_sony_sdm845" />
   <project name="LineageOS/android_kernel_sony_tianchi" />
   <project name="LineageOS/android_kernel_ti_omap4" />
   <project name="LineageOS/android_kernel_toshiba_betelgeuse" />
