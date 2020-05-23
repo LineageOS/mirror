@@ -675,6 +675,7 @@
   <project name="LineageOS/android_device_samsung_manta" />
   <project name="LineageOS/android_device_samsung_mesmerizemtd" />
   <project name="LineageOS/android_device_samsung_mondrianwifi" />
+  <project name="LineageOS/android_device_samsung_ms01-common" />
   <project name="LineageOS/android_device_samsung_ms013g" />
   <project name="LineageOS/android_device_samsung_msm8226-common" />
   <project name="LineageOS/android_device_samsung_msm8660-common" />
@@ -1461,8 +1462,10 @@
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5410" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5420" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos7580" />
+  <project name="LineageOS/android_hardware_samsung_slsi_fm" />
   <project name="LineageOS/android_hardware_samsung_slsi_openmax" />
   <project name="LineageOS/android_hardware_sony_DASH" />
+  <project name="LineageOS/android_hardware_sony_SonyOpenTelephony" />
   <project name="LineageOS/android_hardware_sony_camera" />
   <project name="LineageOS/android_hardware_sony_macaddrsetup" />
   <project name="LineageOS/android_hardware_sony_simdetect" />
