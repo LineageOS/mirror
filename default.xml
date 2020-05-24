@@ -744,6 +744,7 @@
   <project name="LineageOS/android_device_samsung_showcasemtd" />
   <project name="LineageOS/android_device_samsung_skyrocket" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" />
+  <project name="LineageOS/android_device_samsung_sm8250-common" />
   <project name="LineageOS/android_device_samsung_smdk4412-common" />
   <project name="LineageOS/android_device_samsung_smdk4412-qcom-common" />
   <project name="LineageOS/android_device_samsung_smdk5260-common" />
@@ -784,7 +785,10 @@
   <project name="LineageOS/android_device_samsung_vibrant" />
   <project name="LineageOS/android_device_samsung_vibrantmtd" />
   <project name="LineageOS/android_device_samsung_vzwtab" />
+  <project name="LineageOS/android_device_samsung_x1q" />
+  <project name="LineageOS/android_device_samsung_y2q" />
   <project name="LineageOS/android_device_samsung_ypg1" />
+  <project name="LineageOS/android_device_samsung_z3q" />
   <project name="LineageOS/android_device_samsung_zenlte" />
   <project name="LineageOS/android_device_samsung_zero-common" />
   <project name="LineageOS/android_device_samsung_zerofltecan" />
@@ -1696,6 +1700,7 @@
   <project name="LineageOS/android_kernel_samsung_piranha" />
   <project name="LineageOS/android_kernel_samsung_s3ve3g" />
   <project name="LineageOS/android_kernel_samsung_sdm670" />
+  <project name="LineageOS/android_kernel_samsung_sm8250" />
   <project name="LineageOS/android_kernel_samsung_smdk4210" />
   <project name="LineageOS/android_kernel_samsung_smdk4412" />
   <project name="LineageOS/android_kernel_samsung_smdk5260" />
@@ -1802,6 +1807,7 @@
   <project name="LineageOS/android_packages_apps_Eleven" />
   <project name="LineageOS/android_packages_apps_Email" />
   <project name="LineageOS/android_packages_apps_EmergencyInfo" />
+  <project name="LineageOS/android_packages_apps_Etar" />
   <project name="LineageOS/android_packages_apps_ExactCalculator" />
   <project name="LineageOS/android_packages_apps_Exchange" />
   <project name="LineageOS/android_packages_apps_FM" />
