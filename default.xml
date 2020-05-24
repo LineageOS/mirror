@@ -2030,6 +2030,8 @@
   <project name="LineageOS/android_vendor_qcom_android-open" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_bluetooth" />
+  <project name="LineageOS/android_vendor_qcom_opensource_bluetooth-commonsys-intf" />
+  <project name="LineageOS/android_vendor_qcom_opensource_bluetooth_ext" />
   <project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />
   <project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
   <project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
@@ -2045,6 +2047,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-video" />
   <project name="LineageOS/android_vendor_qcom_opensource_power" />
   <project name="LineageOS/android_vendor_qcom_opensource_rcs-service" />
+  <project name="LineageOS/android_vendor_qcom_opensource_system_bt" />
   <project name="LineageOS/android_vendor_qcom_opensource_thermal-engine" />
   <project name="LineageOS/android_vendor_qcom_opensource_time-services" />
   <project name="LineageOS/android_vendor_qcom_opensource_v8" />
