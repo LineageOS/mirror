@@ -925,6 +925,7 @@
   <project name="LineageOS/android_device_xiaomi_perseus" />
   <project name="LineageOS/android_device_xiaomi_phoenix" />
   <project name="LineageOS/android_device_xiaomi_polaris" />
+  <project name="LineageOS/android_device_xiaomi_rosy" />
   <project name="LineageOS/android_device_xiaomi_sagit" />
   <project name="LineageOS/android_device_xiaomi_santoni" />
   <project name="LineageOS/android_device_xiaomi_scorpio" />
@@ -1752,6 +1753,7 @@
   <project name="LineageOS/android_kernel_xiaomi_msm8996" />
   <project name="LineageOS/android_kernel_xiaomi_msm8998" />
   <project name="LineageOS/android_kernel_xiaomi_onclite" />
+  <project name="LineageOS/android_kernel_xiaomi_rosy" />
   <project name="LineageOS/android_kernel_xiaomi_sdm660" />
   <project name="LineageOS/android_kernel_xiaomi_sdm845" />
   <project name="LineageOS/android_kernel_xiaomi_sm6150" />
