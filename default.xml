@@ -627,6 +627,7 @@
   <project name="LineageOS/android_device_samsung_i9300" />
   <project name="LineageOS/android_device_samsung_i9305" />
   <project name="LineageOS/android_device_samsung_i9500" />
+  <project name="LineageOS/android_device_samsung_j7elte" />
   <project name="LineageOS/android_device_samsung_j7lte-common" />
   <project name="LineageOS/android_device_samsung_j7ltespr" />
   <project name="LineageOS/android_device_samsung_jactivelte" />
