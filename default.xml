@@ -142,6 +142,7 @@
   <project name="LineageOS/android_device_google_taimen" />
   <project name="LineageOS/android_device_google_wahoo" />
   <project name="LineageOS/android_device_google_walleye" />
+  <project name="LineageOS/android_device_google_yellowstone" />
   <project name="LineageOS/android_device_hardkernel_odroidu2" />
   <project name="LineageOS/android_device_hardkernel_samsung" />
   <project name="LineageOS/android_device_hp_tenderloin" />
@@ -1543,6 +1544,7 @@
   <project name="LineageOS/android_kernel_google_shamrock" />
   <project name="LineageOS/android_kernel_google_steelhead" />
   <project name="LineageOS/android_kernel_google_wahoo" />
+  <project name="LineageOS/android_kernel_google_yellowstone" />
   <project name="LineageOS/android_kernel_hardkernel_odroidc1" />
   <project name="LineageOS/android_kernel_htc_endeavoru" />
   <project name="LineageOS/android_kernel_htc_enrc2b" />
