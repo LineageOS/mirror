@@ -464,6 +464,7 @@
   <project name="LineageOS/android_device_motorola_xt926" />
   <project name="LineageOS/android_device_motorola_zeppelin" />
   <project name="LineageOS/android_device_nextbit_ether" />
+  <project name="LineageOS/android_device_nokia_DRG" />
   <project name="LineageOS/android_device_nokia_PL2" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
   <project name="LineageOS/android_device_nubia_msm8998-common" />
@@ -523,6 +524,7 @@
   <project name="LineageOS/android_device_qcom_msm8996" />
   <project name="LineageOS/android_device_qcom_sepolicy" />
   <project name="LineageOS/android_device_qcom_sepolicy-legacy" />
+  <project name="LineageOS/android_device_razer_aura" />
   <project name="LineageOS/android_device_razer_cheryl" />
   <project name="LineageOS/android_device_realme_RMX1801" />
   <project name="LineageOS/android_device_realme_RMX1851" />
@@ -1664,6 +1666,7 @@
   <project name="LineageOS/android_kernel_qcom_msm8996" />
   <project name="LineageOS/android_kernel_qcom_msm8998" />
   <project name="LineageOS/android_kernel_razer_msm8998" />
+  <project name="LineageOS/android_kernel_razer_sdm845" />
   <project name="LineageOS/android_kernel_realme_sdm660" />
   <project name="LineageOS/android_kernel_realme_sdm710" />
   <project name="LineageOS/android_kernel_samsung_apq8084" />
