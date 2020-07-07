@@ -1042,6 +1042,7 @@
   <project name="LineageOS/android_external_dexmaker" />
   <project name="LineageOS/android_external_dhcpcd" />
   <project name="LineageOS/android_external_dhcpcd-6.8.2" />
+  <project name="LineageOS/android_external_dng_sdk" />
   <project name="LineageOS/android_external_dnscrypt_dnscrypt-proxy" />
   <project name="LineageOS/android_external_dnscrypt_libsodium" />
   <project name="LineageOS/android_external_dnsmasq" />
