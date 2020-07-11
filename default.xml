@@ -107,6 +107,7 @@
   <project name="LineageOS/android_device_elocity_a7" />
   <project name="LineageOS/android_device_essential_mata" />
   <project name="LineageOS/android_device_fairphone_FP2" />
+  <project name="LineageOS/android_device_fxtec_pro1" />
   <project name="LineageOS/android_device_geeksphone_one" />
   <project name="LineageOS/android_device_geeksphone_zero" />
   <project name="LineageOS/android_device_generic" />
@@ -1533,6 +1534,7 @@
   <project name="LineageOS/android_kernel_cyanogen_mt6735" />
   <project name="LineageOS/android_kernel_essential_msm8998" />
   <project name="LineageOS/android_kernel_fairphone_msm8974" />
+  <project name="LineageOS/android_kernel_fxtec_msm8998" />
   <project name="LineageOS/android_kernel_goldfish" />
   <project name="LineageOS/android_kernel_google_bonito" />
   <project name="LineageOS/android_kernel_google_coral" />
