@@ -537,6 +537,7 @@
   <project name="LineageOS/android_device_samsung_a3xelte" />
   <project name="LineageOS/android_device_samsung_a5xelte" />
   <project name="LineageOS/android_device_samsung_a5y17lte" />
+  <project name="LineageOS/android_device_samsung_a7xelte" />
   <project name="LineageOS/android_device_samsung_a7y17lte" />
   <project name="LineageOS/android_device_samsung_amazing3gcri" />
   <project name="LineageOS/android_device_samsung_apexqtmo" />
@@ -2002,6 +2003,7 @@
   <project name="LineageOS/android_system_keymaster" />
   <project name="LineageOS/android_system_libhidl" />
   <project name="LineageOS/android_system_libhwbinder" />
+  <project name="LineageOS/android_system_libufdt" />
   <project name="LineageOS/android_system_libvintf" />
   <project name="LineageOS/android_system_media" />
   <project name="LineageOS/android_system_netd" />
