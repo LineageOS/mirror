@@ -401,6 +401,7 @@
   <project name="LineageOS/android_device_motorola_asanti" />
   <project name="LineageOS/android_device_motorola_athene" />
   <project name="LineageOS/android_device_motorola_backflip" />
+  <project name="LineageOS/android_device_motorola_channel" />
   <project name="LineageOS/android_device_motorola_chef" />
   <project name="LineageOS/android_device_motorola_clark" />
   <project name="LineageOS/android_device_motorola_common" />
@@ -435,6 +436,7 @@
   <project name="LineageOS/android_device_motorola_msm8960dt-common" />
   <project name="LineageOS/android_device_motorola_nash" />
   <project name="LineageOS/android_device_motorola_obake" />
+  <project name="LineageOS/android_device_motorola_ocean" />
   <project name="LineageOS/android_device_motorola_olympus" />
   <project name="LineageOS/android_device_motorola_omap4-common" />
   <project name="LineageOS/android_device_motorola_osprey" />
