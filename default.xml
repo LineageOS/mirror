@@ -391,6 +391,7 @@
   <project name="LineageOS/android_device_malata_smb_a1004" />
   <project name="LineageOS/android_device_malata_smb_a1011" />
   <project name="LineageOS/android_device_malata_smb_b9701" />
+  <project name="LineageOS/android_device_mediatek_sepolicy" />
   <project name="LineageOS/android_device_moto_common" />
   <project name="LineageOS/android_device_moto_everest" />
   <project name="LineageOS/android_device_moto_shamu" />
@@ -910,6 +911,7 @@
   <project name="LineageOS/android_device_wingtech_wt88047" />
   <project name="LineageOS/android_device_xiaomi_aries" />
   <project name="LineageOS/android_device_xiaomi_armani" />
+  <project name="LineageOS/android_device_xiaomi_begonia" />
   <project name="LineageOS/android_device_xiaomi_beryllium" />
   <project name="LineageOS/android_device_xiaomi_cancro" />
   <project name="LineageOS/android_device_xiaomi_capricorn" />
@@ -1772,6 +1774,7 @@
   <project name="LineageOS/android_kernel_xiaomi_msm8992" />
   <project name="LineageOS/android_kernel_xiaomi_msm8996" />
   <project name="LineageOS/android_kernel_xiaomi_msm8998" />
+  <project name="LineageOS/android_kernel_xiaomi_mt6785" />
   <project name="LineageOS/android_kernel_xiaomi_onclite" />
   <project name="LineageOS/android_kernel_xiaomi_rosy" />
   <project name="LineageOS/android_kernel_xiaomi_sdm660" />
