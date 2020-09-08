@@ -1486,7 +1486,10 @@
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5420" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos7580" />
   <project name="LineageOS/android_hardware_samsung_slsi_fm" />
+  <project name="LineageOS/android_hardware_samsung_slsi_libbt" />
   <project name="LineageOS/android_hardware_samsung_slsi_openmax" />
+  <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" />
+  <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" />
   <project name="LineageOS/android_hardware_sony_DASH" />
   <project name="LineageOS/android_hardware_sony_SonyOpenTelephony" />
   <project name="LineageOS/android_hardware_sony_camera" />
@@ -1885,6 +1888,7 @@
   <project name="LineageOS/android_packages_apps_SamsungServiceMode" />
   <project name="LineageOS/android_packages_apps_Screencast" />
   <project name="LineageOS/android_packages_apps_SecureElement" />
+  <project name="LineageOS/android_packages_apps_Seedvault" />
   <project name="LineageOS/android_packages_apps_SemcKeyboardChanger" />
   <project name="LineageOS/android_packages_apps_Settings" />
   <project name="LineageOS/android_packages_apps_SettingsIntelligence" />
