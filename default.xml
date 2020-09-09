@@ -120,6 +120,7 @@
   <project name="LineageOS/android_device_generic_common" />
   <project name="LineageOS/android_device_generic_emulatorx86" />
   <project name="LineageOS/android_device_generic_goldfish" />
+  <project name="LineageOS/android_device_generic_goldfish-opengl" />
   <project name="LineageOS/android_device_generic_mips" />
   <project name="LineageOS/android_device_generic_x86" />
   <project name="LineageOS/android_device_google_accessory_arduino" />
@@ -1110,6 +1111,7 @@
   <project name="LineageOS/android_external_gson" />
   <project name="LineageOS/android_external_gtest" />
   <project name="LineageOS/android_external_guava" />
+  <project name="LineageOS/android_external_guice" />
   <project name="LineageOS/android_external_hamcrest" />
   <project name="LineageOS/android_external_harfbuzz" />
   <project name="LineageOS/android_external_heimdall" />
@@ -2002,6 +2004,7 @@
   <project name="LineageOS/android_prebuilts_tools" />
   <project name="LineageOS/android_prebuilts_tools-lineage" />
   <project name="LineageOS/android_sdk" />
+  <project name="LineageOS/android_system_apex" />
   <project name="LineageOS/android_system_bluetooth" />
   <project name="LineageOS/android_system_bpf" />
   <project name="LineageOS/android_system_bt" />
@@ -2013,6 +2016,7 @@
   <project name="LineageOS/android_system_gatekeeper" />
   <project name="LineageOS/android_system_hardware_interfaces" />
   <project name="LineageOS/android_system_hwservicemanager" />
+  <project name="LineageOS/android_system_incremental_delivery" />
   <project name="LineageOS/android_system_keymaster" />
   <project name="LineageOS/android_system_libhidl" />
   <project name="LineageOS/android_system_libhwbinder" />
