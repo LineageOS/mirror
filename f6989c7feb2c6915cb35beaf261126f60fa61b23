@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a0f44d97_1df0f8a5",
+        "filename": "aosp-regen.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2020-09-18T21:59:31Z",
+      "side": 1,
+      "message": "You could import sys and use sys.exit() here:\n sys.exit(\"Please install the GitPython package via pip3\")",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 11
+      },
+      "revId": "f6989c7feb2c6915cb35beaf261126f60fa61b23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a35359b1_12b8d9b4",
+        "filename": "aosp-regen.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2020-09-18T21:59:31Z",
+      "side": 1,
+      "message": "Can\u0027t this be inlined?",
+      "range": {
+        "startLine": 28,
+        "startChar": 0,
+        "endLine": 28,
+        "endChar": 17
+      },
+      "revId": "f6989c7feb2c6915cb35beaf261126f60fa61b23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3559f34e_81cdd990",
+        "filename": "aosp-regen.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2020-09-18T21:59:31Z",
+      "side": 1,
+      "message": "Could use an f-string (string interpolation) for better readability",
+      "range": {
+        "startLine": 30,
+        "startChar": 10,
+        "endLine": 30,
+        "endChar": 65
+      },
+      "revId": "f6989c7feb2c6915cb35beaf261126f60fa61b23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "af766e17_0329a04a",
+        "filename": "aosp-regen.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2020-09-18T21:59:31Z",
+      "side": 1,
+      "message": "Same here",
+      "range": {
+        "startLine": 33,
+        "startChar": 56,
+        "endLine": 33,
+        "endChar": 84
+      },
+      "revId": "f6989c7feb2c6915cb35beaf261126f60fa61b23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ec8fdaf4_9f28211c",
+        "filename": "aosp-regen.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 9392
+      },
+      "writtenOn": "2020-09-18T21:59:31Z",
+      "side": 1,
+      "message": "Could use a \"with\" statement here, i.e.\n with open(\"lineage.xml\", \"w\") as file:",
+      "range": {
+        "startLine": 43,
+        "startChar": 0,
+        "endLine": 68,
+        "endChar": 12
+      },
+      "revId": "f6989c7feb2c6915cb35beaf261126f60fa61b23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
