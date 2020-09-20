@@ -144,6 +144,7 @@
   <project name="LineageOS/android_device_google_sprout4" />
   <project name="LineageOS/android_device_google_sprout8" />
   <project name="LineageOS/android_device_google_steelhead" />
+  <project name="LineageOS/android_device_google_sunfish" />
   <project name="LineageOS/android_device_google_taimen" />
   <project name="LineageOS/android_device_google_wahoo" />
   <project name="LineageOS/android_device_google_walleye" />
@@ -536,6 +537,7 @@
   <project name="LineageOS/android_device_qcom_msm8996" />
   <project name="LineageOS/android_device_qcom_sepolicy" />
   <project name="LineageOS/android_device_qcom_sepolicy-legacy" />
+  <project name="LineageOS/android_device_qcom_sepolicy_vndr" />
   <project name="LineageOS/android_device_razer_aura" />
   <project name="LineageOS/android_device_razer_cheryl" />
   <project name="LineageOS/android_device_realme_RMX1801" />
@@ -987,9 +989,11 @@
   <project name="LineageOS/android_external_android-mock" />
   <project name="LineageOS/android_external_android-visualizer" />
   <project name="LineageOS/android_external_ant-glob" />
+  <project name="LineageOS/android_external_ant-wireless_ant_client" />
   <project name="LineageOS/android_external_ant-wireless_ant_native" />
   <project name="LineageOS/android_external_ant-wireless_ant_service" />
   <project name="LineageOS/android_external_ant-wireless_antradio-library" />
+  <project name="LineageOS/android_external_ant-wireless_hidl" />
   <project name="LineageOS/android_external_antlr" />
   <project name="LineageOS/android_external_apache-harmony" />
   <project name="LineageOS/android_external_apache-http" />
@@ -1078,6 +1082,7 @@
   <project name="LineageOS/android_external_emma" />
   <project name="LineageOS/android_external_esd" />
   <project name="LineageOS/android_external_exfat" />
+  <project name="LineageOS/android_external_exfatprogs" />
   <project name="LineageOS/android_external_expat" />
   <project name="LineageOS/android_external_eyes-free" />
   <project name="LineageOS/android_external_f2fs-tools" />
@@ -1563,6 +1568,7 @@
   <project name="LineageOS/android_kernel_google_seed" />
   <project name="LineageOS/android_kernel_google_shamrock" />
   <project name="LineageOS/android_kernel_google_steelhead" />
+  <project name="LineageOS/android_kernel_google_sunfish" />
   <project name="LineageOS/android_kernel_google_wahoo" />
   <project name="LineageOS/android_kernel_google_yellowstone" />
   <project name="LineageOS/android_kernel_hardkernel_odroidc1" />
@@ -2094,6 +2100,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_system_bt" />
   <project name="LineageOS/android_vendor_qcom_opensource_thermal-engine" />
   <project name="LineageOS/android_vendor_qcom_opensource_time-services" />
+  <project name="LineageOS/android_vendor_qcom_opensource_usb" />
   <project name="LineageOS/android_vendor_qcom_opensource_v8" />
   <project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
   <project name="LineageOS/android_vendor_qcom_opensource_webkit" />
