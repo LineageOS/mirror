@@ -924,6 +924,7 @@
   <project name="LineageOS/android_device_xiaomi_equuleus" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
   <project name="LineageOS/android_device_xiaomi_gemini" />
+  <project name="LineageOS/android_device_xiaomi_ginkgo" />
   <project name="LineageOS/android_device_xiaomi_hydrogen" />
   <project name="LineageOS/android_device_xiaomi_ido" />
   <project name="LineageOS/android_device_xiaomi_jasmine_sprout" />
@@ -950,6 +951,7 @@
   <project name="LineageOS/android_device_xiaomi_scorpio" />
   <project name="LineageOS/android_device_xiaomi_sdm660-common" />
   <project name="LineageOS/android_device_xiaomi_sdm845-common" />
+  <project name="LineageOS/android_device_xiaomi_sm6125-common" />
   <project name="LineageOS/android_device_xiaomi_sm6150-common" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
   <project name="LineageOS/android_device_xiaomi_twolip" />
@@ -1790,6 +1792,7 @@
   <project name="LineageOS/android_kernel_xiaomi_rosy" />
   <project name="LineageOS/android_kernel_xiaomi_sdm660" />
   <project name="LineageOS/android_kernel_xiaomi_sdm845" />
+  <project name="LineageOS/android_kernel_xiaomi_sm6125" />
   <project name="LineageOS/android_kernel_xiaomi_sm6150" />
   <project name="LineageOS/android_kernel_xiaomi_violet" />
   <project name="LineageOS/android_kernel_yandex_sdm660" />
