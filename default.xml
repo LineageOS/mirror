@@ -487,9 +487,12 @@
   <project name="LineageOS/android_device_nvidia_dalmore" />
   <project name="LineageOS/android_device_nvidia_foster" />
   <project name="LineageOS/android_device_nvidia_foster_tab" />
+  <project name="LineageOS/android_device_nvidia_galen" />
+  <project name="LineageOS/android_device_nvidia_galen_tab" />
   <project name="LineageOS/android_device_nvidia_icera" />
   <project name="LineageOS/android_device_nvidia_jetson" />
   <project name="LineageOS/android_device_nvidia_quill" />
+  <project name="LineageOS/android_device_nvidia_quill_tab" />
   <project name="LineageOS/android_device_nvidia_roth" />
   <project name="LineageOS/android_device_nvidia_shield-common" />
   <project name="LineageOS/android_device_nvidia_shieldtablet" />
@@ -1427,6 +1430,8 @@
   <project name="LineageOS/android_hardware_mediatek" />
   <project name="LineageOS/android_hardware_msm7k" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
+  <project name="LineageOS/android_hardware_nvidia_boot_control" />
+  <project name="LineageOS/android_hardware_nvidia_interfaces" />
   <project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
   <project name="LineageOS/android_hardware_nvidia_light" />
   <project name="LineageOS/android_hardware_nvidia_memtrack" />
@@ -1643,11 +1648,13 @@
   <project name="LineageOS/android_kernel_nubia_msm8939" />
   <project name="LineageOS/android_kernel_nubia_msm8996" />
   <project name="LineageOS/android_kernel_nubia_msm8998" />
+  <project name="LineageOS/android_kernel_nvidia_cypress-fmac" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_bct" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts" />
+  <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_abca" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_ers" />
@@ -2042,6 +2049,7 @@
   <project name="LineageOS/android_system_tools_aidl" />
   <project name="LineageOS/android_system_tools_dtbtool" />
   <project name="LineageOS/android_system_tools_hidl" />
+  <project name="LineageOS/android_system_tools_mkbootimg" />
   <project name="LineageOS/android_system_update_engine" />
   <project name="LineageOS/android_system_vold" />
   <project name="LineageOS/android_system_wlan_ti" />
