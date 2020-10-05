@@ -565,6 +565,7 @@
   <project name="LineageOS/android_system_tools_aidl" />
   <project name="LineageOS/android_system_tools_dtbtool" />
   <project name="LineageOS/android_system_tools_hidl" />
+  <project name="LineageOS/android_system_tools_mkbootimg" />
   <project name="LineageOS/android_system_update_engine" />
   <project name="LineageOS/android_system_vold" />
   <project name="LineageOS/android_test_vts-testcase_vndk" />
