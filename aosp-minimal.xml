@@ -707,6 +707,7 @@
   <project name="platform/external/rust/crates/peeking_take_while" />
   <project name="platform/external/rust/crates/pin-project" />
   <project name="platform/external/rust/crates/pin-project-internal" />
+  <project name="platform/external/rust/crates/pin-project-lite" />
   <project name="platform/external/rust/crates/pin-utils" />
   <project name="platform/external/rust/crates/ppv-lite86" />
   <project name="platform/external/rust/crates/proc-macro-error" />
@@ -741,6 +742,7 @@
   <project name="platform/external/rust/crates/thiserror-impl" />
   <project name="platform/external/rust/crates/thread_local" />
   <project name="platform/external/rust/crates/time" />
+  <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/unicode-segmentation" />
   <project name="platform/external/rust/crates/unicode-width" />
   <project name="platform/external/rust/crates/unicode-xid" />
