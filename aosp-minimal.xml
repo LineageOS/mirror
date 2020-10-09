@@ -1392,6 +1392,7 @@
   <project name="platform/system/libvintf" />
   <project name="platform/system/libziparchive" />
   <project name="platform/system/linkerconfig" />
+  <project name="platform/system/logging" />
   <project name="platform/system/media" />
   <project name="platform/system/memory/libdmabufheap" />
   <project name="platform/system/memory/libion" />
