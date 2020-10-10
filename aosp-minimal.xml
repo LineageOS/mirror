@@ -134,6 +134,7 @@
   <project name="platform/bootable/diskinstaller" />
   <project name="platform/bootable/recovery" />
   <project name="platform/build" path="platform/build.git" />
+  <project name="platform/build/bazel" />
   <project name="platform/build/blueprint" />
   <project name="platform/build/kati" />
   <project name="platform/build/soong" />
@@ -1202,6 +1203,8 @@
   <project name="platform/prebuilts/android-emulator-build/mesa-deps" />
   <project name="platform/prebuilts/android-emulator-build/qemu-android-deps" />
   <project name="platform/prebuilts/asuite" />
+  <project name="platform/prebuilts/bazel/darwin-x86_64" groups="darwin" />
+  <project name="platform/prebuilts/bazel/linux-x86_64" />
   <project name="platform/prebuilts/build-tools" />
   <project name="platform/prebuilts/bundletool" />
   <project name="platform/prebuilts/checkcolor" />
