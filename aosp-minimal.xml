@@ -747,6 +747,7 @@
   <project name="platform/external/rust/crates/unicode-segmentation" />
   <project name="platform/external/rust/crates/unicode-width" />
   <project name="platform/external/rust/crates/unicode-xid" />
+  <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/which" />
   <project name="platform/external/rust/cxx" />
   <project name="platform/external/safe-iop" />
@@ -1150,6 +1151,7 @@
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SdkExtensions" />
   <project name="platform/packages/modules/TestModule" />
+  <project name="platform/packages/modules/Virtualization" />
   <project name="platform/packages/modules/vndk" />
   <project name="platform/packages/providers/ApplicationsProvider" />
   <project name="platform/packages/providers/BlockedNumberProvider" />
