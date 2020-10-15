@@ -688,6 +688,8 @@
   <project name="platform/external/rust/crates/futures-util" />
   <project name="platform/external/rust/crates/getrandom" />
   <project name="platform/external/rust/crates/glob" />
+  <project name="platform/external/rust/crates/grpcio" />
+  <project name="platform/external/rust/crates/grpcio-sys" />
   <project name="platform/external/rust/crates/heck" />
   <project name="platform/external/rust/crates/itoa" />
   <project name="platform/external/rust/crates/lazy_static" />
@@ -695,14 +697,19 @@
   <project name="platform/external/rust/crates/libc" />
   <project name="platform/external/rust/crates/libloading" />
   <project name="platform/external/rust/crates/libsqlite3-sys" />
+  <project name="platform/external/rust/crates/libz-sys" />
   <project name="platform/external/rust/crates/linked-hash-map" />
+  <project name="platform/external/rust/crates/lock_api" />
   <project name="platform/external/rust/crates/log" />
   <project name="platform/external/rust/crates/lru-cache" />
   <project name="platform/external/rust/crates/memchr" />
+  <project name="platform/external/rust/crates/nix" />
   <project name="platform/external/rust/crates/nom" />
   <project name="platform/external/rust/crates/num-derive" />
   <project name="platform/external/rust/crates/num-traits" />
   <project name="platform/external/rust/crates/once_cell" />
+  <project name="platform/external/rust/crates/parking_lot" />
+  <project name="platform/external/rust/crates/parking_lot_core" />
   <project name="platform/external/rust/crates/paste" />
   <project name="platform/external/rust/crates/paste-impl" />
   <project name="platform/external/rust/crates/peeking_take_while" />
@@ -728,6 +735,7 @@
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rustc-hash" />
   <project name="platform/external/rust/crates/ryu" />
+  <project name="platform/external/rust/crates/scopeguard" />
   <project name="platform/external/rust/crates/serde" />
   <project name="platform/external/rust/crates/serde_json" />
   <project name="platform/external/rust/crates/shlex" />
