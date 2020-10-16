@@ -46,6 +46,9 @@
   <project name="device/google/bonito" />
   <project name="device/google/bonito-kernel" groups="kernel" />
   <project name="device/google/bonito-sepolicy" />
+  <project name="device/google/bramble" />
+  <project name="device/google/bramble-kernel" groups="kernel" />
+  <project name="device/google/bramble-sepolicy" />
   <project name="device/google/contexthub" />
   <project name="device/google/coral" />
   <project name="device/google/coral-kernel" groups="kernel" />
@@ -65,6 +68,11 @@
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" groups="kernel" />
   <project name="device/google/muskie" />
+  <project name="device/google/redbull" />
+  <project name="device/google/redbull-sepolicy" />
+  <project name="device/google/redfin" />
+  <project name="device/google/redfin-kernel" groups="kernel" />
+  <project name="device/google/redfin-sepolicy" />
   <project name="device/google/sunfish" />
   <project name="device/google/sunfish-kernel" groups="kernel" />
   <project name="device/google/sunfish-sepolicy" />
@@ -1014,6 +1022,9 @@
   <project name="platform/hardware/qcom/sm7150/gps" />
   <project name="platform/hardware/qcom/sm7150/media" />
   <project name="platform/hardware/qcom/sm7150/vr" />
+  <project name="platform/hardware/qcom/sm7250/display" />
+  <project name="platform/hardware/qcom/sm7250/gps" />
+  <project name="platform/hardware/qcom/sm7250/media" />
   <project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" />
   <project name="platform/hardware/qcom/sm8150/display" />
   <project name="platform/hardware/qcom/sm8150/gps" />
