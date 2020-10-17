@@ -1411,6 +1411,7 @@
   <project name="platform/system/libfmq" />
   <project name="platform/system/libhidl" />
   <project name="platform/system/libhwbinder" />
+  <project name="platform/system/libprocinfo" />
   <project name="platform/system/libsysprop" />
   <project name="platform/system/libufdt" />
   <project name="platform/system/libvintf" />
@@ -1442,6 +1443,7 @@
   <project name="platform/system/tools/xsdc" />
   <project name="platform/system/tpm" />
   <project name="platform/system/ucontainer" />
+  <project name="platform/system/unwinding" />
   <project name="platform/system/update_engine" />
   <project name="platform/system/vold" />
   <project name="platform/system/weaved" />
