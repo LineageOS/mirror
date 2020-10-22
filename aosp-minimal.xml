@@ -682,6 +682,7 @@
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/codespan-reporting" />
+  <project name="platform/external/rust/crates/const_fn" />
   <project name="platform/external/rust/crates/env_logger" />
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />
@@ -699,6 +700,7 @@
   <project name="platform/external/rust/crates/grpcio" />
   <project name="platform/external/rust/crates/grpcio-sys" />
   <project name="platform/external/rust/crates/heck" />
+  <project name="platform/external/rust/crates/instant" />
   <project name="platform/external/rust/crates/itoa" />
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
@@ -749,6 +751,7 @@
   <project name="platform/external/rust/crates/shlex" />
   <project name="platform/external/rust/crates/slab" />
   <project name="platform/external/rust/crates/smallvec" />
+  <project name="platform/external/rust/crates/standback" />
   <project name="platform/external/rust/crates/structopt" />
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />
@@ -759,6 +762,8 @@
   <project name="platform/external/rust/crates/thiserror-impl" />
   <project name="platform/external/rust/crates/thread_local" />
   <project name="platform/external/rust/crates/time" />
+  <project name="platform/external/rust/crates/time-macros" />
+  <project name="platform/external/rust/crates/time-macros-impl" />
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/unicode-segmentation" />
   <project name="platform/external/rust/crates/unicode-width" />
@@ -837,6 +842,7 @@
   <project name="platform/external/vboot_reference" />
   <project name="platform/external/virglrenderer" />
   <project name="platform/external/vixl" />
+  <project name="platform/external/vm_tools/p9" />
   <project name="platform/external/vogar" />
   <project name="platform/external/volley" />
   <project name="platform/external/vulkan-headers" />
