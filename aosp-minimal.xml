@@ -1182,6 +1182,7 @@
   <project name="platform/packages/modules/SdkExtensions" />
   <project name="platform/packages/modules/TestModule" />
   <project name="platform/packages/modules/Virtualization" />
+  <project name="platform/packages/modules/adb" />
   <project name="platform/packages/modules/vndk" />
   <project name="platform/packages/providers/ApplicationsProvider" />
   <project name="platform/packages/providers/BlockedNumberProvider" />
