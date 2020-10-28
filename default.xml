@@ -65,7 +65,9 @@
   <project name="LineageOS/android_device_asus_Z00T" />
   <project name="LineageOS/android_device_asus_Z01R" />
   <project name="LineageOS/android_device_asus_deb" />
+  <project name="LineageOS/android_device_asus_debx" />
   <project name="LineageOS/android_device_asus_flo" />
+  <project name="LineageOS/android_device_asus_flox" />
   <project name="LineageOS/android_device_asus_fugu" />
   <project name="LineageOS/android_device_asus_grouper" />
   <project name="LineageOS/android_device_asus_mofd-common" />
