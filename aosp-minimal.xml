@@ -1171,6 +1171,7 @@
   <project name="platform/packages/modules/ArtPrebuilt" />
   <project name="platform/packages/modules/CaptivePortalLogin" />
   <project name="platform/packages/modules/CellBroadcastService" />
+  <project name="platform/packages/modules/Connectivity" />
   <project name="platform/packages/modules/Cronet" />
   <project name="platform/packages/modules/DnsResolver" />
   <project name="platform/packages/modules/ExtServices" />
