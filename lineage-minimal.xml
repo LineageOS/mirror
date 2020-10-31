@@ -453,6 +453,7 @@
   <project name="LineageOS/android_packages_apps_SafetyRegulatoryInfo" />
   <project name="LineageOS/android_packages_apps_Screencast" />
   <project name="LineageOS/android_packages_apps_SecureElement" />
+  <project name="LineageOS/android_packages_apps_Seedvault" />
   <project name="LineageOS/android_packages_apps_Settings" />
   <project name="LineageOS/android_packages_apps_SettingsIntelligence" />
   <project name="LineageOS/android_packages_apps_SetupWizard" />
