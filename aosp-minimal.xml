@@ -764,6 +764,7 @@
   <project name="platform/external/rust/crates/thiserror" />
   <project name="platform/external/rust/crates/thiserror-impl" />
   <project name="platform/external/rust/crates/thread_local" />
+  <project name="platform/external/rust/crates/time" />
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/tokio-macros" />
   <project name="platform/external/rust/crates/unicode-segmentation" />
