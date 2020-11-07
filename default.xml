@@ -407,6 +407,7 @@
   <project name="LineageOS/android_device_motorola_asanti" />
   <project name="LineageOS/android_device_motorola_athene" />
   <project name="LineageOS/android_device_motorola_backflip" />
+  <project name="LineageOS/android_device_motorola_beckham" />
   <project name="LineageOS/android_device_motorola_channel" />
   <project name="LineageOS/android_device_motorola_chef" />
   <project name="LineageOS/android_device_motorola_clark" />
