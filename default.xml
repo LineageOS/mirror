@@ -1698,6 +1698,7 @@
   <project name="LineageOS/android_kernel_oneplus_msm8998" />
   <project name="LineageOS/android_kernel_oneplus_onyx" />
   <project name="LineageOS/android_kernel_oneplus_sdm845" />
+  <project name="LineageOS/android_kernel_oneplus_sm7250" />
   <project name="LineageOS/android_kernel_oneplus_sm8150" />
   <project name="LineageOS/android_kernel_oppo_find5" />
   <project name="LineageOS/android_kernel_oppo_msm8226" />
@@ -2140,6 +2141,7 @@
   <project name="LineageOS/cve_tracker" />
   <project name="LineageOS/device_htc_marvel" />
   <project name="LineageOS/device_htc_ville" />
+  <project name="LineageOS/device_oneplus_avicii" />
   <project name="LineageOS/devrel" />
   <project name="LineageOS/docker_build" />
   <project name="LineageOS/external_android_support-prebuilt" />
