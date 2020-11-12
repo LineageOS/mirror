@@ -669,6 +669,7 @@
   <project name="platform/external/robolectric-shadows" />
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
+  <project name="platform/external/rust/crates/ahash" />
   <project name="platform/external/rust/crates/aho-corasick" />
   <project name="platform/external/rust/crates/android_log-sys" />
   <project name="platform/external/rust/crates/android_logger" />
@@ -702,6 +703,8 @@
   <project name="platform/external/rust/crates/grpcio" />
   <project name="platform/external/rust/crates/grpcio-compiler" />
   <project name="platform/external/rust/crates/grpcio-sys" />
+  <project name="platform/external/rust/crates/hashbrown" />
+  <project name="platform/external/rust/crates/hashlink" />
   <project name="platform/external/rust/crates/heck" />
   <project name="platform/external/rust/crates/instant" />
   <project name="platform/external/rust/crates/itoa" />
