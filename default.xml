@@ -1865,6 +1865,7 @@
   <project name="LineageOS/android_packages_apps_DockAudio" />
   <project name="LineageOS/android_packages_apps_DocumentsUI" />
   <project name="LineageOS/android_packages_apps_Eleven" />
+  <project name="LineageOS/android_packages_apps_ElmyraService" />
   <project name="LineageOS/android_packages_apps_Email" />
   <project name="LineageOS/android_packages_apps_EmergencyInfo" />
   <project name="LineageOS/android_packages_apps_Etar" />
