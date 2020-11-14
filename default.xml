@@ -2107,6 +2107,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_display-frameworks" />
   <project name="LineageOS/android_vendor_qcom_opensource_dpm" />
   <project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" />
+  <project name="LineageOS/android_vendor_qcom_opensource_healthd-ext" />
   <project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
   <project name="LineageOS/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_libfmjni" />
