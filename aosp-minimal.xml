@@ -38,6 +38,7 @@
   <project name="device/generic/qemu" />
   <project name="device/generic/trusty" />
   <project name="device/generic/uml" />
+  <project name="device/generic/vulkan-cereal" />
   <project name="device/generic/x86" />
   <project name="device/generic/x86_64" />
   <project name="device/google/accessory/arduino" />
@@ -674,6 +675,7 @@
   <project name="platform/external/rust/crates/android_log-sys" />
   <project name="platform/external/rust/crates/android_logger" />
   <project name="platform/external/rust/crates/anyhow" />
+  <project name="platform/external/rust/crates/arbitrary" />
   <project name="platform/external/rust/crates/async-trait" />
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bitflags" />
@@ -711,6 +713,7 @@
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
   <project name="platform/external/rust/crates/libc" />
+  <project name="platform/external/rust/crates/libfuzzer-sys" />
   <project name="platform/external/rust/crates/libloading" />
   <project name="platform/external/rust/crates/libsqlite3-sys" />
   <project name="platform/external/rust/crates/libz-sys" />
@@ -936,6 +939,7 @@
   <project name="platform/frameworks/opt/vcard" />
   <project name="platform/frameworks/opt/widget" />
   <project name="platform/frameworks/policies/base" />
+  <project name="platform/frameworks/proto_logging" />
   <project name="platform/frameworks/rs" />
   <project name="platform/frameworks/support" />
   <project name="platform/frameworks/testing" />
