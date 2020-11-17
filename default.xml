@@ -417,6 +417,7 @@
   <project name="LineageOS/android_device_motorola_droid2we" />
   <project name="LineageOS/android_device_motorola_edison" />
   <project name="LineageOS/android_device_motorola_evert" />
+  <project name="LineageOS/android_device_motorola_exynos9610-common" />
   <project name="LineageOS/android_device_motorola_falcon" />
   <project name="LineageOS/android_device_motorola_ghost" />
   <project name="LineageOS/android_device_motorola_griffin" />
@@ -425,6 +426,7 @@
   <project name="LineageOS/android_device_motorola_jordan" />
   <project name="LineageOS/android_device_motorola_jordan-common" />
   <project name="LineageOS/android_device_motorola_jordan_plus" />
+  <project name="LineageOS/android_device_motorola_kane" />
   <project name="LineageOS/android_device_motorola_lake" />
   <project name="LineageOS/android_device_motorola_lux" />
   <project name="LineageOS/android_device_motorola_maserati" />
@@ -467,6 +469,7 @@
   <project name="LineageOS/android_device_motorola_thea" />
   <project name="LineageOS/android_device_motorola_titan" />
   <project name="LineageOS/android_device_motorola_triumph" />
+  <project name="LineageOS/android_device_motorola_troika" />
   <project name="LineageOS/android_device_motorola_umts_spyder" />
   <project name="LineageOS/android_device_motorola_vanquish-common" />
   <project name="LineageOS/android_device_motorola_victara" />
@@ -1635,6 +1638,7 @@
   <project name="LineageOS/android_kernel_mediatek_sprout" />
   <project name="LineageOS/android_kernel_moto_shamu" />
   <project name="LineageOS/android_kernel_motorola_apq8084" />
+  <project name="LineageOS/android_kernel_motorola_exynos9610" />
   <project name="LineageOS/android_kernel_motorola_ghost" />
   <project name="LineageOS/android_kernel_motorola_msm8226" />
   <project name="LineageOS/android_kernel_motorola_msm8610" />
