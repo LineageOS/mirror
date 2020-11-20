@@ -505,6 +505,7 @@
   <project name="platform/external/libvpx" />
   <project name="platform/external/libvterm" />
   <project name="platform/external/libweave" />
+  <project name="platform/external/libwebm" />
   <project name="platform/external/libwebsockets" />
   <project name="platform/external/libxaac" />
   <project name="platform/external/libxcam" />
