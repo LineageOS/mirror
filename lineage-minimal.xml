@@ -383,6 +383,9 @@
   <project name="LineageOS/android_hardware_qcom_sdm845_thermal" />
   <project name="LineageOS/android_hardware_qcom_sdm845_vr" />
   <project name="LineageOS/android_hardware_qcom_sensors" />
+  <project name="LineageOS/android_hardware_qcom_sm8150_data_ipacfg-mgr" />
+  <project name="LineageOS/android_hardware_qcom_sm8150_display" />
+  <project name="LineageOS/android_hardware_qcom_sm8150_media" />
   <project name="LineageOS/android_hardware_qcom_thermal" />
   <project name="LineageOS/android_hardware_qcom_vr" />
   <project name="LineageOS/android_hardware_qcom_wlan" />
