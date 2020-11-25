@@ -687,6 +687,7 @@
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/codespan-reporting" />
+  <project name="platform/external/rust/crates/derive_arbitrary" />
   <project name="platform/external/rust/crates/downcast-rs" />
   <project name="platform/external/rust/crates/env_logger" />
   <project name="platform/external/rust/crates/fallible-iterator" />
@@ -1186,6 +1187,7 @@
   <project name="platform/packages/modules/ModuleMetadata" />
   <project name="platform/packages/modules/NetworkPermissionConfig" />
   <project name="platform/packages/modules/NetworkStack" />
+  <project name="platform/packages/modules/NeuralNetworks" />
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SdkExtensions" />
   <project name="platform/packages/modules/TestModule" />
