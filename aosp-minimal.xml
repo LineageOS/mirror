@@ -1176,6 +1176,7 @@
   <project name="platform/packages/inputmethods/OpenWnn" />
   <project name="platform/packages/inputmethods/PinyinIME" />
   <project name="platform/packages/modules/ArtPrebuilt" />
+  <project name="platform/packages/modules/BootPrebuilt/5.4/arm64" />
   <project name="platform/packages/modules/CaptivePortalLogin" />
   <project name="platform/packages/modules/CellBroadcastService" />
   <project name="platform/packages/modules/Connectivity" />
@@ -1190,6 +1191,7 @@
   <project name="platform/packages/modules/NeuralNetworks" />
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SdkExtensions" />
+  <project name="platform/packages/modules/StatsD" />
   <project name="platform/packages/modules/TestModule" />
   <project name="platform/packages/modules/Virtualization" />
   <project name="platform/packages/modules/adb" />
