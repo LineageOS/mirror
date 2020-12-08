@@ -717,6 +717,7 @@
   <project name="platform/external/rust/crates/libc" />
   <project name="platform/external/rust/crates/libfuzzer-sys" />
   <project name="platform/external/rust/crates/libloading" />
+  <project name="platform/external/rust/crates/libm" />
   <project name="platform/external/rust/crates/libsqlite3-sys" />
   <project name="platform/external/rust/crates/libz-sys" />
   <project name="platform/external/rust/crates/linked-hash-map" />
@@ -748,6 +749,7 @@
   <project name="platform/external/rust/crates/proc-macro2" />
   <project name="platform/external/rust/crates/protobuf" />
   <project name="platform/external/rust/crates/protobuf-codegen" />
+  <project name="platform/external/rust/crates/quiche" />
   <project name="platform/external/rust/crates/quote" />
   <project name="platform/external/rust/crates/rand" />
   <project name="platform/external/rust/crates/rand_chacha" />
@@ -755,6 +757,7 @@
   <project name="platform/external/rust/crates/regex" />
   <project name="platform/external/rust/crates/regex-syntax" />
   <project name="platform/external/rust/crates/remain" />
+  <project name="platform/external/rust/crates/ring" />
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rustc-hash" />
   <project name="platform/external/rust/crates/ryu" />
@@ -764,6 +767,7 @@
   <project name="platform/external/rust/crates/shlex" />
   <project name="platform/external/rust/crates/slab" />
   <project name="platform/external/rust/crates/smallvec" />
+  <project name="platform/external/rust/crates/spin" />
   <project name="platform/external/rust/crates/structopt" />
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />
@@ -779,6 +783,7 @@
   <project name="platform/external/rust/crates/unicode-segmentation" />
   <project name="platform/external/rust/crates/unicode-width" />
   <project name="platform/external/rust/crates/unicode-xid" />
+  <project name="platform/external/rust/crates/untrusted" />
   <project name="platform/external/rust/crates/vsock" />
   <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/which" />
