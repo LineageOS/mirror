@@ -1167,6 +1167,7 @@
   <project name="LineageOS/android_external_kexec-tools" />
   <project name="LineageOS/android_external_kissfft" />
   <project name="LineageOS/android_external_ksoap2" />
+  <project name="LineageOS/android_external_libaom" />
   <project name="LineageOS/android_external_libavc" />
   <project name="LineageOS/android_external_libbrillo" />
   <project name="LineageOS/android_external_libcap-ng" />
@@ -1352,6 +1353,7 @@
   <project name="LineageOS/android_frameworks_compile_mclinker" />
   <project name="LineageOS/android_frameworks_compile_slang" />
   <project name="LineageOS/android_frameworks_ex" />
+  <project name="LineageOS/android_frameworks_layoutlib" />
   <project name="LineageOS/android_frameworks_media_libvideoeditor" />
   <project name="LineageOS/android_frameworks_mff" />
   <project name="LineageOS/android_frameworks_minikin" />
