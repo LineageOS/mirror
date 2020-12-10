@@ -763,6 +763,7 @@
   <project name="platform/external/rust/crates/ryu" />
   <project name="platform/external/rust/crates/scopeguard" />
   <project name="platform/external/rust/crates/serde" />
+  <project name="platform/external/rust/crates/serde_derive" />
   <project name="platform/external/rust/crates/serde_json" />
   <project name="platform/external/rust/crates/shlex" />
   <project name="platform/external/rust/crates/slab" />
