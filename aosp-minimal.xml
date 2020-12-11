@@ -727,6 +727,7 @@
   <project name="platform/external/rust/crates/memchr" />
   <project name="platform/external/rust/crates/mio" />
   <project name="platform/external/rust/crates/nix" />
+  <project name="platform/external/rust/crates/no-panic" />
   <project name="platform/external/rust/crates/nom" />
   <project name="platform/external/rust/crates/num-derive" />
   <project name="platform/external/rust/crates/num-traits" />
