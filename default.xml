@@ -1858,6 +1858,7 @@
   <project name="LineageOS/android_packages_apps_Calendar" />
   <project name="LineageOS/android_packages_apps_Camera" />
   <project name="LineageOS/android_packages_apps_Camera2" />
+  <project name="LineageOS/android_packages_apps_Car_Settings" />
   <project name="LineageOS/android_packages_apps_CarrierConfig" />
   <project name="LineageOS/android_packages_apps_CellBroadcastReceiver" />
   <project name="LineageOS/android_packages_apps_CertInstaller" />
