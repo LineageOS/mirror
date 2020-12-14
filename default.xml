@@ -927,6 +927,7 @@
   <project name="LineageOS/android_device_xiaomi_aries" />
   <project name="LineageOS/android_device_xiaomi_armani" />
   <project name="LineageOS/android_device_xiaomi_begonia" />
+  <project name="LineageOS/android_device_xiaomi_begoniain" />
   <project name="LineageOS/android_device_xiaomi_beryllium" />
   <project name="LineageOS/android_device_xiaomi_cancro" />
   <project name="LineageOS/android_device_xiaomi_capricorn" />
@@ -952,6 +953,7 @@
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project name="LineageOS/android_device_xiaomi_msm8996-common" />
   <project name="LineageOS/android_device_xiaomi_msm8998-common" />
+  <project name="LineageOS/android_device_xiaomi_mt6785-common" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_xiaomi_onclite" />
   <project name="LineageOS/android_device_xiaomi_perseus" />
