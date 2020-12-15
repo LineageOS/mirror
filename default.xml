@@ -808,6 +808,7 @@
   <project name="LineageOS/android_device_samsung_tuna" />
   <project name="LineageOS/android_device_samsung_universal7580-common" />
   <project name="LineageOS/android_device_samsung_universal7880-common" />
+  <project name="LineageOS/android_device_samsung_universal8890-common" />
   <project name="LineageOS/android_device_samsung_universal9810-common" />
   <project name="LineageOS/android_device_samsung_v1awifi" />
   <project name="LineageOS/android_device_samsung_v2awifi" />
