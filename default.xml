@@ -611,6 +611,7 @@
   <project name="LineageOS/android_device_samsung_gprimelte-common" />
   <project name="LineageOS/android_device_samsung_gprimeltespr" />
   <project name="LineageOS/android_device_samsung_gprimeltexx" />
+  <project name="LineageOS/android_device_samsung_gracerlte" />
   <project name="LineageOS/android_device_samsung_gte-common" />
   <project name="LineageOS/android_device_samsung_gtelwifiue" />
   <project name="LineageOS/android_device_samsung_gtesqltespr" />
