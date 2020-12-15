@@ -159,6 +159,7 @@
   <project name="LineageOS/android_external_junit" />
   <project name="LineageOS/android_external_kernel-headers" />
   <project name="LineageOS/android_external_kissfft" />
+  <project name="LineageOS/android_external_libaom" />
   <project name="LineageOS/android_external_libavc" />
   <project name="LineageOS/android_external_libbrillo" />
   <project name="LineageOS/android_external_libcap-ng" />
@@ -417,6 +418,7 @@
   <project name="LineageOS/android_packages_apps_Calculator" />
   <project name="LineageOS/android_packages_apps_Calendar" />
   <project name="LineageOS/android_packages_apps_Camera2" />
+  <project name="LineageOS/android_packages_apps_Car_Settings" />
   <project name="LineageOS/android_packages_apps_CarrierConfig" />
   <project name="LineageOS/android_packages_apps_CellBroadcastReceiver" />
   <project name="LineageOS/android_packages_apps_CertInstaller" />
