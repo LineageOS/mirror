@@ -132,6 +132,8 @@
   <project name="kernel/configs" />
   <project name="kernel/mediatek" />
   <project name="kernel/prebuilts/4.19/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/5.10/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/5.10/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/5.4/arm64" groups="kernel" />
   <project name="kernel/prebuilts/5.4/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/mainline/arm64" groups="kernel" />
