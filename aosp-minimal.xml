@@ -449,6 +449,7 @@
   <project name="platform/external/libcap" />
   <project name="platform/external/libcap-ng" />
   <project name="platform/external/libchrome" />
+  <project name="platform/external/libchromeos-rs" />
   <project name="platform/external/libconstrainedcrypto" />
   <project name="platform/external/libcppbor" />
   <project name="platform/external/libcups" />
@@ -713,6 +714,7 @@
   <project name="platform/external/rust/crates/hashlink" />
   <project name="platform/external/rust/crates/heck" />
   <project name="platform/external/rust/crates/instant" />
+  <project name="platform/external/rust/crates/intrusive-collections" />
   <project name="platform/external/rust/crates/itoa" />
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
@@ -727,6 +729,7 @@
   <project name="platform/external/rust/crates/log" />
   <project name="platform/external/rust/crates/lru-cache" />
   <project name="platform/external/rust/crates/memchr" />
+  <project name="platform/external/rust/crates/memoffset" />
   <project name="platform/external/rust/crates/mio" />
   <project name="platform/external/rust/crates/nix" />
   <project name="platform/external/rust/crates/no-panic" />
@@ -757,6 +760,7 @@
   <project name="platform/external/rust/crates/rand" />
   <project name="platform/external/rust/crates/rand_chacha" />
   <project name="platform/external/rust/crates/rand_core" />
+  <project name="platform/external/rust/crates/rand_xorshift" />
   <project name="platform/external/rust/crates/regex" />
   <project name="platform/external/rust/crates/regex-syntax" />
   <project name="platform/external/rust/crates/remain" />
