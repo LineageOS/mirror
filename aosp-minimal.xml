@@ -681,6 +681,7 @@
   <project name="platform/external/rust/crates/anyhow" />
   <project name="platform/external/rust/crates/arbitrary" />
   <project name="platform/external/rust/crates/async-trait" />
+  <project name="platform/external/rust/crates/bencher" />
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bitflags" />
   <project name="platform/external/rust/crates/byteorder" />
@@ -696,6 +697,7 @@
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />
   <project name="platform/external/rust/crates/fnv" />
+  <project name="platform/external/rust/crates/form_urlencoded" />
   <project name="platform/external/rust/crates/futures" />
   <project name="platform/external/rust/crates/futures-channel" />
   <project name="platform/external/rust/crates/futures-core" />
@@ -713,6 +715,7 @@
   <project name="platform/external/rust/crates/hashbrown" />
   <project name="platform/external/rust/crates/hashlink" />
   <project name="platform/external/rust/crates/heck" />
+  <project name="platform/external/rust/crates/idna" />
   <project name="platform/external/rust/crates/instant" />
   <project name="platform/external/rust/crates/intrusive-collections" />
   <project name="platform/external/rust/crates/itoa" />
@@ -728,6 +731,7 @@
   <project name="platform/external/rust/crates/lock_api" />
   <project name="platform/external/rust/crates/log" />
   <project name="platform/external/rust/crates/lru-cache" />
+  <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/memchr" />
   <project name="platform/external/rust/crates/memoffset" />
   <project name="platform/external/rust/crates/mio" />
@@ -743,6 +747,7 @@
   <project name="platform/external/rust/crates/paste" />
   <project name="platform/external/rust/crates/paste-impl" />
   <project name="platform/external/rust/crates/peeking_take_while" />
+  <project name="platform/external/rust/crates/percent-encoding" />
   <project name="platform/external/rust/crates/pin-project" />
   <project name="platform/external/rust/crates/pin-project-internal" />
   <project name="platform/external/rust/crates/pin-project-lite" />
@@ -772,6 +777,7 @@
   <project name="platform/external/rust/crates/serde" />
   <project name="platform/external/rust/crates/serde_derive" />
   <project name="platform/external/rust/crates/serde_json" />
+  <project name="platform/external/rust/crates/serde_test" />
   <project name="platform/external/rust/crates/shlex" />
   <project name="platform/external/rust/crates/slab" />
   <project name="platform/external/rust/crates/smallvec" />
@@ -786,12 +792,17 @@
   <project name="platform/external/rust/crates/thiserror-impl" />
   <project name="platform/external/rust/crates/thread_local" />
   <project name="platform/external/rust/crates/time" />
+  <project name="platform/external/rust/crates/tinyvec" />
+  <project name="platform/external/rust/crates/tinyvec_macros" />
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/tokio-macros" />
+  <project name="platform/external/rust/crates/unicode-bidi" />
+  <project name="platform/external/rust/crates/unicode-normalization" />
   <project name="platform/external/rust/crates/unicode-segmentation" />
   <project name="platform/external/rust/crates/unicode-width" />
   <project name="platform/external/rust/crates/unicode-xid" />
   <project name="platform/external/rust/crates/untrusted" />
+  <project name="platform/external/rust/crates/url" />
   <project name="platform/external/rust/crates/vsock" />
   <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/which" />
