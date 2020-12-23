@@ -761,6 +761,7 @@
   <project name="LineageOS/android_device_samsung_quincy-common" />
   <project name="LineageOS/android_device_samsung_quincyatt" />
   <project name="LineageOS/android_device_samsung_quincytmo" />
+  <project name="LineageOS/android_device_samsung_r5q" />
   <project name="LineageOS/android_device_samsung_r950" />
   <project name="LineageOS/android_device_samsung_s3ve3g" />
   <project name="LineageOS/android_device_samsung_s3ve3g-common" />
@@ -777,6 +778,7 @@
   <project name="LineageOS/android_device_samsung_showcasemtd" />
   <project name="LineageOS/android_device_samsung_skyrocket" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" />
+  <project name="LineageOS/android_device_samsung_sm8150-common" />
   <project name="LineageOS/android_device_samsung_sm8250-common" />
   <project name="LineageOS/android_device_samsung_smdk4412-common" />
   <project name="LineageOS/android_device_samsung_smdk4412-qcom-common" />
@@ -1446,6 +1448,7 @@
   <project name="LineageOS/android_hardware_lineage_livedisplay" />
   <project name="LineageOS/android_hardware_lineage_telephony" />
   <project name="LineageOS/android_hardware_mediatek" />
+  <project name="LineageOS/android_hardware_motorola" />
   <project name="LineageOS/android_hardware_msm7k" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_boot_control" />
@@ -1767,6 +1770,7 @@
   <project name="LineageOS/android_kernel_samsung_p1" />
   <project name="LineageOS/android_kernel_samsung_p4" />
   <project name="LineageOS/android_kernel_samsung_piranha" />
+  <project name="LineageOS/android_kernel_samsung_r5q" />
   <project name="LineageOS/android_kernel_samsung_s3ve3g" />
   <project name="LineageOS/android_kernel_samsung_sdm670" />
   <project name="LineageOS/android_kernel_samsung_sm8250" />
