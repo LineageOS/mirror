@@ -520,12 +520,15 @@
   <project name="LineageOS/android_device_oneplus_guacamole" />
   <project name="LineageOS/android_device_oneplus_guacamoleb" />
   <project name="LineageOS/android_device_oneplus_hotdog" />
+  <project name="LineageOS/android_device_oneplus_instantnoodlep" />
+  <project name="LineageOS/android_device_oneplus_kebab" />
   <project name="LineageOS/android_device_oneplus_msm8998-common" />
   <project name="LineageOS/android_device_oneplus_oneplus2" />
   <project name="LineageOS/android_device_oneplus_oneplus3" />
   <project name="LineageOS/android_device_oneplus_onyx" />
   <project name="LineageOS/android_device_oneplus_sdm845-common" />
   <project name="LineageOS/android_device_oneplus_sm8150-common" />
+  <project name="LineageOS/android_device_oneplus_sm8250-common" />
   <project name="LineageOS/android_device_oppo_apq8064-common" />
   <project name="LineageOS/android_device_oppo_common" />
   <project name="LineageOS/android_device_oppo_f1f" />
@@ -1720,6 +1723,7 @@
   <project name="LineageOS/android_kernel_oneplus_sdm845" />
   <project name="LineageOS/android_kernel_oneplus_sm7250" />
   <project name="LineageOS/android_kernel_oneplus_sm8150" />
+  <project name="LineageOS/android_kernel_oneplus_sm8250" />
   <project name="LineageOS/android_kernel_oppo_find5" />
   <project name="LineageOS/android_kernel_oppo_msm8226" />
   <project name="LineageOS/android_kernel_oppo_msm8939" />
