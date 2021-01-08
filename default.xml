@@ -2156,6 +2156,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_v8" />
   <project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
   <project name="LineageOS/android_vendor_qcom_opensource_webkit" />
+  <project name="LineageOS/android_vendor_qcom_opensource_wfd-commonsys" />
   <project name="LineageOS/android_vendor_qcom_opensource_wlan_prima" />
   <project name="LineageOS/android_vendor_qcom_opensource_wlan_qcacld-2.0" />
   <project name="LineageOS/android_vendor_tmobile_libs_com.tmobile.themes" />
