@@ -1200,6 +1200,7 @@
   <project name="platform/packages/inputmethods/OpenWnn" />
   <project name="platform/packages/inputmethods/PinyinIME" />
   <project name="platform/packages/modules/ArtPrebuilt" />
+  <project name="platform/packages/modules/BootPrebuilt/5.10/arm64" />
   <project name="platform/packages/modules/BootPrebuilt/5.4/arm64" />
   <project name="platform/packages/modules/CaptivePortalLogin" />
   <project name="platform/packages/modules/CellBroadcastService" />
