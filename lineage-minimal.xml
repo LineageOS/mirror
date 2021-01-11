@@ -608,6 +608,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_system_bt" />
   <project name="LineageOS/android_vendor_qcom_opensource_thermal-engine" />
   <project name="LineageOS/android_vendor_qcom_opensource_time-services" />
+  <project name="LineageOS/android_vendor_qcom_opensource_usb" />
   <project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
   <project name="LineageOS/ansible" />
   <project name="LineageOS/charter" />
