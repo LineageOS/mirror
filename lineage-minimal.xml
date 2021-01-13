@@ -610,6 +610,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_time-services" />
   <project name="LineageOS/android_vendor_qcom_opensource_usb" />
   <project name="LineageOS/android_vendor_qcom_opensource_vibrator" />
+  <project name="LineageOS/android_vendor_qcom_opensource_wfd-commonsys" />
   <project name="LineageOS/ansible" />
   <project name="LineageOS/charter" />
   <project name="LineageOS/cm_crowdin" />
