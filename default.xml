@@ -131,6 +131,7 @@
   <project name="LineageOS/android_device_google_atv" />
   <project name="LineageOS/android_device_google_blueline" />
   <project name="LineageOS/android_device_google_bonito" />
+  <project name="LineageOS/android_device_google_bramble" />
   <project name="LineageOS/android_device_google_coral" />
   <project name="LineageOS/android_device_google_crosshatch" />
   <project name="LineageOS/android_device_google_dragon" />
@@ -138,6 +139,8 @@
   <project name="LineageOS/android_device_google_marlin" />
   <project name="LineageOS/android_device_google_msm8952-common" />
   <project name="LineageOS/android_device_google_muskie" />
+  <project name="LineageOS/android_device_google_redbull" />
+  <project name="LineageOS/android_device_google_redfin" />
   <project name="LineageOS/android_device_google_sailfish" />
   <project name="LineageOS/android_device_google_sargo" />
   <project name="LineageOS/android_device_google_seed" />
@@ -1498,6 +1501,9 @@
   <project name="LineageOS/android_hardware_qcom_sdm845_thermal" />
   <project name="LineageOS/android_hardware_qcom_sdm845_vr" />
   <project name="LineageOS/android_hardware_qcom_sensors" />
+  <project name="LineageOS/android_hardware_qcom_sm7250_display" />
+  <project name="LineageOS/android_hardware_qcom_sm7250_gps" />
+  <project name="LineageOS/android_hardware_qcom_sm7250_media" />
   <project name="LineageOS/android_hardware_qcom_sm8150_data_ipacfg-mgr" />
   <project name="LineageOS/android_hardware_qcom_sm8150_display" />
   <project name="LineageOS/android_hardware_qcom_sm8150_gps" />
@@ -1601,6 +1607,7 @@
   <project name="LineageOS/android_kernel_google_marlin" />
   <project name="LineageOS/android_kernel_google_msm" />
   <project name="LineageOS/android_kernel_google_msm-4.9" />
+  <project name="LineageOS/android_kernel_google_redbull" />
   <project name="LineageOS/android_kernel_google_seed" />
   <project name="LineageOS/android_kernel_google_shamrock" />
   <project name="LineageOS/android_kernel_google_steelhead" />
