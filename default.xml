@@ -523,6 +523,7 @@
   <project name="LineageOS/android_device_oneplus_guacamole" />
   <project name="LineageOS/android_device_oneplus_guacamoleb" />
   <project name="LineageOS/android_device_oneplus_hotdog" />
+  <project name="LineageOS/android_device_oneplus_instantnoodle" />
   <project name="LineageOS/android_device_oneplus_instantnoodlep" />
   <project name="LineageOS/android_device_oneplus_kebab" />
   <project name="LineageOS/android_device_oneplus_msm8998-common" />
