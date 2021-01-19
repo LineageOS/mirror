@@ -406,11 +406,13 @@
   <project name="LineageOS/android_device_moto_stingray" />
   <project name="LineageOS/android_device_moto_wingray" />
   <project name="LineageOS/android_device_motorola_addison" />
+  <project name="LineageOS/android_device_motorola_ahannah" />
   <project name="LineageOS/android_device_motorola_albus" />
   <project name="LineageOS/android_device_motorola_asanti" />
   <project name="LineageOS/android_device_motorola_athene" />
   <project name="LineageOS/android_device_motorola_backflip" />
   <project name="LineageOS/android_device_motorola_beckham" />
+  <project name="LineageOS/android_device_motorola_cedric" />
   <project name="LineageOS/android_device_motorola_channel" />
   <project name="LineageOS/android_device_motorola_chef" />
   <project name="LineageOS/android_device_motorola_clark" />
@@ -425,6 +427,7 @@
   <project name="LineageOS/android_device_motorola_ghost" />
   <project name="LineageOS/android_device_motorola_griffin" />
   <project name="LineageOS/android_device_motorola_hannah" />
+  <project name="LineageOS/android_device_motorola_hannah-common" />
   <project name="LineageOS/android_device_motorola_harpia" />
   <project name="LineageOS/android_device_motorola_jordan" />
   <project name="LineageOS/android_device_motorola_jordan-common" />
@@ -435,6 +438,7 @@
   <project name="LineageOS/android_device_motorola_maserati" />
   <project name="LineageOS/android_device_motorola_mb886" />
   <project name="LineageOS/android_device_motorola_merlin" />
+  <project name="LineageOS/android_device_motorola_montana" />
   <project name="LineageOS/android_device_motorola_morrison" />
   <project name="LineageOS/android_device_motorola_moto_msm8960" />
   <project name="LineageOS/android_device_motorola_moto_msm8960_jbbl" />
@@ -443,6 +447,7 @@
   <project name="LineageOS/android_device_motorola_msm8226-common" />
   <project name="LineageOS/android_device_motorola_msm8610-common" />
   <project name="LineageOS/android_device_motorola_msm8916-common" />
+  <project name="LineageOS/android_device_motorola_msm8937-common" />
   <project name="LineageOS/android_device_motorola_msm8960-common" />
   <project name="LineageOS/android_device_motorola_msm8960_jbbl-common" />
   <project name="LineageOS/android_device_motorola_msm8960dt-common" />
@@ -458,6 +463,7 @@
   <project name="LineageOS/android_device_motorola_potter" />
   <project name="LineageOS/android_device_motorola_qcom-common" />
   <project name="LineageOS/android_device_motorola_quark" />
+  <project name="LineageOS/android_device_motorola_rhannah" />
   <project name="LineageOS/android_device_motorola_river" />
   <project name="LineageOS/android_device_motorola_sdm632-common" />
   <project name="LineageOS/android_device_motorola_sdm660-common" />
