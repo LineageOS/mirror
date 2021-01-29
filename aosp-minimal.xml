@@ -577,6 +577,7 @@
   <project name="platform/external/opencv" />
   <project name="platform/external/opencv3" />
   <project name="platform/external/openfst" />
+  <project name="platform/external/openscreen" />
   <project name="platform/external/openssh" />
   <project name="platform/external/openssl" />
   <project name="platform/external/openthread" />
@@ -797,6 +798,7 @@
   <project name="platform/external/rust/crates/tinyvec_macros" />
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/tokio-macros" />
+  <project name="platform/external/rust/crates/tokio-stream" />
   <project name="platform/external/rust/crates/unicode-bidi" />
   <project name="platform/external/rust/crates/unicode-normalization" />
   <project name="platform/external/rust/crates/unicode-segmentation" />
@@ -856,6 +858,7 @@
   <project name="platform/external/timezone-boundary-builder" />
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tinyalsa" />
+  <project name="platform/external/tinyalsa_new" />
   <project name="platform/external/tinycompress" />
   <project name="platform/external/tinyxml" />
   <project name="platform/external/tinyxml2" />
@@ -1215,6 +1218,7 @@
   <project name="platform/packages/modules/NetworkPermissionConfig" />
   <project name="platform/packages/modules/NetworkStack" />
   <project name="platform/packages/modules/NeuralNetworks" />
+  <project name="platform/packages/modules/Permission" />
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SdkExtensions" />
   <project name="platform/packages/modules/StatsD" />
@@ -1222,6 +1226,7 @@
   <project name="platform/packages/modules/Virtualization" />
   <project name="platform/packages/modules/Wifi" />
   <project name="platform/packages/modules/adb" />
+  <project name="platform/packages/modules/common" />
   <project name="platform/packages/modules/vndk" />
   <project name="platform/packages/providers/ApplicationsProvider" />
   <project name="platform/packages/providers/BlockedNumberProvider" />
