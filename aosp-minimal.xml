@@ -136,6 +136,14 @@
   <project name="kernel/prebuilts/5.10/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/5.4/arm64" groups="kernel" />
   <project name="kernel/prebuilts/5.4/x86-64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/5.10/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/5.10/x86-64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/5.4/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/5.4/x86-64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/mainline/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/mainline/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/mainline/arm64" groups="kernel" />
   <project name="kernel/tests" />
   <project name="platform/abi/cpp" />
@@ -1093,6 +1101,7 @@
   <project name="platform/hardware/ti/wpan" />
   <project name="platform/libcore" />
   <project name="platform/libnativehelper" />
+  <project name="platform/manifest" />
   <project name="platform/ndk" />
   <project name="platform/packages/apps/AccountsAndSyncSettings" />
   <project name="platform/packages/apps/AlarmClock" />
