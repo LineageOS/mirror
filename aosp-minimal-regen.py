@@ -5,6 +5,7 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 
+PLATFORM_MANIFEST = "platform/manifest"
 
 def groups_for_repo(repo):
     groups = set()
@@ -81,6 +82,10 @@ file.write("  <default revision=\"master\"\n")
 file.write("           remote=\"aosp\"\n")
 file.write("           sync-j=\"4\" />\n")
 file.write("\n")
+
+# Always add platform/manifest so one can sync from this manifest
+if PLATFORM_MANIFEST not in repos:
+    repos.add(PLATFORM_MANIFEST)
 
 for repo in sorted(repos):
     # remove an unavailable repository
