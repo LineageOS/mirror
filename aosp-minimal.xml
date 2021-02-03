@@ -698,6 +698,7 @@
   <project name="platform/external/rust/crates/bytes" />
   <project name="platform/external/rust/crates/cexpr" />
   <project name="platform/external/rust/crates/cfg-if" />
+  <project name="platform/external/rust/crates/chrono" />
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/codespan-reporting" />
@@ -749,6 +750,7 @@
   <project name="platform/external/rust/crates/no-panic" />
   <project name="platform/external/rust/crates/nom" />
   <project name="platform/external/rust/crates/num-derive" />
+  <project name="platform/external/rust/crates/num-integer" />
   <project name="platform/external/rust/crates/num-traits" />
   <project name="platform/external/rust/crates/num_cpus" />
   <project name="platform/external/rust/crates/once_cell" />
@@ -863,6 +865,7 @@
   <project name="platform/external/tensorflow" />
   <project name="platform/external/tesseract" />
   <project name="platform/external/testng" />
+  <project name="platform/external/tflite-support" />
   <project name="platform/external/timezone-boundary-builder" />
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tinyalsa" />
