@@ -578,6 +578,7 @@
   <project name="platform/external/oboe" />
   <project name="platform/external/oj-libjdwp" />
   <project name="platform/external/okhttp" />
+  <project name="platform/external/okhttp4" />
   <project name="platform/external/one-true-awk" />
   <project name="platform/external/open-vcdiff" />
   <project name="platform/external/opencensus-java" />
