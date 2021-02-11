@@ -1182,6 +1182,7 @@
   <project name="platform/packages/apps/Provision" />
   <project name="platform/packages/apps/QuickAccessWallet" />
   <project name="platform/packages/apps/QuickSearchBox" />
+  <project name="platform/packages/apps/RemoteProvisioner" />
   <project name="platform/packages/apps/RetailDemo" />
   <project name="platform/packages/apps/SafetyRegulatoryInfo" />
   <project name="platform/packages/apps/SampleLocationAttribution" />
@@ -1521,6 +1522,7 @@
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/app_compat/csuite" />
+  <project name="platform/test/cts-root" />
   <project name="platform/test/framework" />
   <project name="platform/test/mlts/benchmark" />
   <project name="platform/test/mlts/models" />
