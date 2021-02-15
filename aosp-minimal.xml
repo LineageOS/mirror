@@ -313,6 +313,7 @@
   <project name="platform/external/dokka" />
   <project name="platform/external/donuts" />
   <project name="platform/external/dosfstools" />
+  <project name="platform/external/downloader" />
   <project name="platform/external/drm_gralloc" />
   <project name="platform/external/drm_hwcomposer" />
   <project name="platform/external/droiddriver" />
