@@ -151,6 +151,7 @@
   <project name="platform/bionic" />
   <project name="platform/bootable/bootloader/legacy" />
   <project name="platform/bootable/diskinstaller" />
+  <project name="platform/bootable/libbootloader" />
   <project name="platform/bootable/recovery" />
   <project name="platform/build" path="platform/build.git" />
   <project name="platform/build/bazel" />
@@ -692,6 +693,8 @@
   <project name="platform/external/rust/crates/android_logger" />
   <project name="platform/external/rust/crates/anyhow" />
   <project name="platform/external/rust/crates/arbitrary" />
+  <project name="platform/external/rust/crates/async-stream" />
+  <project name="platform/external/rust/crates/async-stream-impl" />
   <project name="platform/external/rust/crates/async-task" />
   <project name="platform/external/rust/crates/async-trait" />
   <project name="platform/external/rust/crates/bencher" />
@@ -787,6 +790,7 @@
   <project name="platform/external/rust/crates/ring" />
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rustc-hash" />
+  <project name="platform/external/rust/crates/rustversion" />
   <project name="platform/external/rust/crates/ryu" />
   <project name="platform/external/rust/crates/scopeguard" />
   <project name="platform/external/rust/crates/serde" />
@@ -812,6 +816,7 @@
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/tokio-macros" />
   <project name="platform/external/rust/crates/tokio-stream" />
+  <project name="platform/external/rust/crates/tokio-test" />
   <project name="platform/external/rust/crates/unicode-bidi" />
   <project name="platform/external/rust/crates/unicode-normalization" />
   <project name="platform/external/rust/crates/unicode-segmentation" />
