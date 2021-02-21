@@ -1502,7 +1502,6 @@
   <project name="platform/system/memory/libmemtrack" />
   <project name="platform/system/memory/libmemunreachable" />
   <project name="platform/system/memory/lmkd" />
-  <project name="platform/system/memory/mm_eventsd" />
   <project name="platform/system/nativepower" />
   <project name="platform/system/netd" />
   <project name="platform/system/nfc" />
