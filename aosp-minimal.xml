@@ -859,6 +859,7 @@
   <project name="platform/external/squashfs-tools" />
   <project name="platform/external/srec" />
   <project name="platform/external/srtp" />
+  <project name="platform/external/starlark-go" />
   <project name="platform/external/stlport" />
   <project name="platform/external/strace" />
   <project name="platform/external/stressapptest" />
