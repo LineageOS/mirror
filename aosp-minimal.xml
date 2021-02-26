@@ -729,6 +729,7 @@
   <project name="platform/external/rust/crates/grpcio" />
   <project name="platform/external/rust/crates/grpcio-compiler" />
   <project name="platform/external/rust/crates/grpcio-sys" />
+  <project name="platform/external/rust/crates/half" />
   <project name="platform/external/rust/crates/hashbrown" />
   <project name="platform/external/rust/crates/hashlink" />
   <project name="platform/external/rust/crates/heck" />
@@ -794,6 +795,7 @@
   <project name="platform/external/rust/crates/ryu" />
   <project name="platform/external/rust/crates/scopeguard" />
   <project name="platform/external/rust/crates/serde" />
+  <project name="platform/external/rust/crates/serde_cbor" />
   <project name="platform/external/rust/crates/serde_derive" />
   <project name="platform/external/rust/crates/serde_json" />
   <project name="platform/external/rust/crates/serde_test" />
@@ -828,6 +830,7 @@
   <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/which" />
   <project name="platform/external/rust/cxx" />
+  <project name="platform/external/ruy" />
   <project name="platform/external/safe-iop" />
   <project name="platform/external/scapy" />
   <project name="platform/external/scrypt" />
