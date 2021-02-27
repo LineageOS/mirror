@@ -708,6 +708,7 @@
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/codespan-reporting" />
+  <project name="platform/external/rust/crates/crc32fast" />
   <project name="platform/external/rust/crates/derive_arbitrary" />
   <project name="platform/external/rust/crates/downcast-rs" />
   <project name="platform/external/rust/crates/env_logger" />
@@ -829,6 +830,7 @@
   <project name="platform/external/rust/crates/vsock" />
   <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/which" />
+  <project name="platform/external/rust/crates/zip" />
   <project name="platform/external/rust/cxx" />
   <project name="platform/external/ruy" />
   <project name="platform/external/safe-iop" />
