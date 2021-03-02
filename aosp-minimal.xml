@@ -70,6 +70,7 @@
   <project name="device/google/marlin-kernel" groups="kernel" />
   <project name="device/google/muskie" />
   <project name="device/google/redbull" />
+  <project name="device/google/redbull-kernel" groups="kernel" />
   <project name="device/google/redbull-sepolicy" />
   <project name="device/google/redfin" />
   <project name="device/google/redfin-kernel" groups="kernel" />
