@@ -561,6 +561,7 @@
   <project name="platform/external/modp_b64" />
   <project name="platform/external/mp4parser" />
   <project name="platform/external/ms-tpm-20-ref" />
+  <project name="platform/external/mtools" />
   <project name="platform/external/mtpd" />
   <project name="platform/external/nanohttpd" />
   <project name="platform/external/nanopb-c" />
@@ -713,6 +714,7 @@
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/codespan-reporting" />
+  <project name="platform/external/rust/crates/const_fn" />
   <project name="platform/external/rust/crates/crc32fast" />
   <project name="platform/external/rust/crates/criterion" />
   <project name="platform/external/rust/crates/criterion-plot" />
@@ -765,6 +767,7 @@
   <project name="platform/external/rust/crates/lock_api" />
   <project name="platform/external/rust/crates/log" />
   <project name="platform/external/rust/crates/lru-cache" />
+  <project name="platform/external/rust/crates/managed" />
   <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/memchr" />
   <project name="platform/external/rust/crates/memoffset" />
