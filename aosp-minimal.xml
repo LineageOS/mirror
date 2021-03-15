@@ -1134,6 +1134,7 @@
   <project name="platform/hardware/qcom/sm8150p/gps" />
   <project name="platform/hardware/qcom/wlan" />
   <project name="platform/hardware/ril" />
+  <project name="platform/hardware/samsung/nfc" />
   <project name="platform/hardware/samsung_slsi/exynos5" />
   <project name="platform/hardware/st/nfc" />
   <project name="platform/hardware/st/secure_element" />
