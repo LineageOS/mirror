@@ -1542,6 +1542,7 @@
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5-insignal" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5410" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5420" />
+  <project name="LineageOS/android_hardware_samsung_slsi_exynos7420" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos7580" />
   <project name="LineageOS/android_hardware_samsung_slsi_fm" />
   <project name="LineageOS/android_hardware_samsung_slsi_libbt" />
