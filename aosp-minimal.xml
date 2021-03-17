@@ -768,6 +768,7 @@
   <project name="platform/external/rust/crates/lock_api" />
   <project name="platform/external/rust/crates/log" />
   <project name="platform/external/rust/crates/lru-cache" />
+  <project name="platform/external/rust/crates/macaddr" />
   <project name="platform/external/rust/crates/managed" />
   <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/memchr" />
@@ -855,6 +856,7 @@
   <project name="platform/external/rust/crates/unicode-xid" />
   <project name="platform/external/rust/crates/untrusted" />
   <project name="platform/external/rust/crates/url" />
+  <project name="platform/external/rust/crates/uuid" />
   <project name="platform/external/rust/crates/vsock" />
   <project name="platform/external/rust/crates/walkdir" />
   <project name="platform/external/rust/crates/weak-table" />
@@ -1538,6 +1540,7 @@
   <project name="platform/system/memory/libmemtrack" />
   <project name="platform/system/memory/libmemunreachable" />
   <project name="platform/system/memory/lmkd" />
+  <project name="platform/system/memory/mm_eventsd" />
   <project name="platform/system/nativepower" />
   <project name="platform/system/netd" />
   <project name="platform/system/nfc" />
