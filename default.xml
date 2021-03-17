@@ -979,6 +979,7 @@
   <project name="LineageOS/android_device_xiaomi_onclite" />
   <project name="LineageOS/android_device_xiaomi_perseus" />
   <project name="LineageOS/android_device_xiaomi_phoenix" />
+  <project name="LineageOS/android_device_xiaomi_platina" />
   <project name="LineageOS/android_device_xiaomi_polaris" />
   <project name="LineageOS/android_device_xiaomi_rosy" />
   <project name="LineageOS/android_device_xiaomi_sagit" />
