@@ -828,6 +828,7 @@
   <project name="platform/external/rust/crates/serde_derive" />
   <project name="platform/external/rust/crates/serde_json" />
   <project name="platform/external/rust/crates/serde_test" />
+  <project name="platform/external/rust/crates/shared_child" />
   <project name="platform/external/rust/crates/shlex" />
   <project name="platform/external/rust/crates/slab" />
   <project name="platform/external/rust/crates/smallvec" />
