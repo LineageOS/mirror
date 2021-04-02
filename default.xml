@@ -1700,12 +1700,15 @@
   <project name="LineageOS/android_kernel_nubia_msm8998" />
   <project name="LineageOS/android_kernel_nvidia_cypress-fmac" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common" />
+  <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_common" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_bct" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_galen_kernel-dts" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_jakku_kernel-dts" />
+  <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t19x_mccoy_kernel-dts" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_abca" />
+  <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_batuu_kernel-dts" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_ers" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster" />
@@ -1735,6 +1738,7 @@
   <project name="LineageOS/android_kernel_nvidia_roth" />
   <project name="LineageOS/android_kernel_nvidia_shield" />
   <project name="LineageOS/android_kernel_nvidia_shieldtablet" />
+  <project name="LineageOS/android_kernel_nvidia_wireguard" />
   <project name="LineageOS/android_kernel_oneplus_msm8974" />
   <project name="LineageOS/android_kernel_oneplus_msm8994" />
   <project name="LineageOS/android_kernel_oneplus_msm8996" />
