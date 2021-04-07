@@ -1378,6 +1378,7 @@
   <project name="LineageOS/android_frameworks_compile_mclinker" />
   <project name="LineageOS/android_frameworks_compile_slang" />
   <project name="LineageOS/android_frameworks_ex" />
+  <project name="LineageOS/android_frameworks_hardware_interfaces" />
   <project name="LineageOS/android_frameworks_layoutlib" />
   <project name="LineageOS/android_frameworks_media_libvideoeditor" />
   <project name="LineageOS/android_frameworks_mff" />
