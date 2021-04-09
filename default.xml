@@ -698,6 +698,7 @@
   <project name="LineageOS/android_device_samsung_klte" />
   <project name="LineageOS/android_device_samsung_klte-common" />
   <project name="LineageOS/android_device_samsung_klteactivexx" />
+  <project name="LineageOS/android_device_samsung_klteaio" />
   <project name="LineageOS/android_device_samsung_kltechn" />
   <project name="LineageOS/android_device_samsung_kltechnduo" />
   <project name="LineageOS/android_device_samsung_klteduos" />
