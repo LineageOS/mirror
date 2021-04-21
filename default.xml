@@ -73,6 +73,7 @@
   <project name="LineageOS/android_device_asus_mofd-common" />
   <project name="LineageOS/android_device_asus_msm8916-common" />
   <project name="LineageOS/android_device_asus_obiwan" />
+  <project name="LineageOS/android_device_asus_sdm660-common" />
   <project name="LineageOS/android_device_asus_sm8250-common" />
   <project name="LineageOS/android_device_asus_tequila" />
   <project name="LineageOS/android_device_asus_tf101" />
