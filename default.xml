@@ -1001,6 +1001,7 @@
   <project name="LineageOS/android_device_xiaomi_wayne" />
   <project name="LineageOS/android_device_xiaomi_wayne-common" />
   <project name="LineageOS/android_device_xiaomi_whyred" />
+  <project name="LineageOS/android_device_xiaomi_wt88047x" />
   <project name="LineageOS/android_device_yandex_Amber" />
   <project name="LineageOS/android_device_yu_jalebi" />
   <project name="LineageOS/android_device_yu_lettuce" />
