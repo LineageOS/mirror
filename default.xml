@@ -517,6 +517,7 @@
   <project name="LineageOS/android_device_nvidia_quill" />
   <project name="LineageOS/android_device_nvidia_quill_tab" />
   <project name="LineageOS/android_device_nvidia_roth" />
+  <project name="LineageOS/android_device_nvidia_sepolicy" />
   <project name="LineageOS/android_device_nvidia_shield-common" />
   <project name="LineageOS/android_device_nvidia_shieldtablet" />
   <project name="LineageOS/android_device_nvidia_t114-common" />
