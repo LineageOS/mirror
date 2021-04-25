@@ -1535,6 +1535,7 @@
   <project name="LineageOS/android_hardware_ril" />
   <project name="LineageOS/android_hardware_ril-caf" />
   <project name="LineageOS/android_hardware_samsung" />
+  <project name="LineageOS/android_hardware_samsung_nfc" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos3475" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" />
