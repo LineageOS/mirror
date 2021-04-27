@@ -1469,6 +1469,15 @@
   <project name="platform/prebuilts/maven_repo/bumptech" />
   <project name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" />
   <project name="platform/prebuilts/misc" />
+  <project name="platform/prebuilts/module_sdk/Connectivity" />
+  <project name="platform/prebuilts/module_sdk/IPsec" />
+  <project name="platform/prebuilts/module_sdk/Media" />
+  <project name="platform/prebuilts/module_sdk/MediaProvider" />
+  <project name="platform/prebuilts/module_sdk/Permission" />
+  <project name="platform/prebuilts/module_sdk/Scheduling" />
+  <project name="platform/prebuilts/module_sdk/SdkExtensions" />
+  <project name="platform/prebuilts/module_sdk/StatsD" />
+  <project name="platform/prebuilts/module_sdk/Wifi" />
   <project name="platform/prebuilts/module_sdk/art" />
   <project name="platform/prebuilts/ndk" />
   <project name="platform/prebuilts/ninja/darwin-x86" groups="darwin" />
