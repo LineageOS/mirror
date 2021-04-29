@@ -1479,6 +1479,7 @@
   <project name="platform/prebuilts/module_sdk/StatsD" />
   <project name="platform/prebuilts/module_sdk/Wifi" />
   <project name="platform/prebuilts/module_sdk/art" />
+  <project name="platform/prebuilts/module_sdk/conscrypt" />
   <project name="platform/prebuilts/ndk" />
   <project name="platform/prebuilts/ninja/darwin-x86" groups="darwin" />
   <project name="platform/prebuilts/ninja/linux-x86" />
