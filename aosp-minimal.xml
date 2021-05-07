@@ -1631,6 +1631,7 @@
   <project name="platform/tools/google_prebuilts/studio/sdk/remote" />
   <project name="platform/tools/gpu" />
   <project name="platform/tools/gradle" />
+  <project name="platform/tools/gradle-recipes" />
   <project name="platform/tools/idea" />
   <project name="platform/tools/loganalysis" />
   <project name="platform/tools/metalava" />
