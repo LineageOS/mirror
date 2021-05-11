@@ -875,6 +875,7 @@
   <project name="LineageOS/android_device_semc_zeusc" />
   <project name="LineageOS/android_device_smartfren_rendang" />
   <project name="LineageOS/android_device_sony_akari" />
+  <project name="LineageOS/android_device_sony_akatsuki" />
   <project name="LineageOS/android_device_sony_amami" />
   <project name="LineageOS/android_device_sony_aoba" />
   <project name="LineageOS/android_device_sony_blue-common" />
