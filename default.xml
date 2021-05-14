@@ -57,6 +57,7 @@
   <project name="LineageOS/android_device_asus_I01WD" />
   <project name="LineageOS/android_device_asus_P024" />
   <project name="LineageOS/android_device_asus_X00TD" />
+  <project name="LineageOS/android_device_asus_X01AD" />
   <project name="LineageOS/android_device_asus_X01BD" />
   <project name="LineageOS/android_device_asus_Z008" />
   <project name="LineageOS/android_device_asus_Z00A" />
@@ -1591,6 +1592,7 @@
   <project name="LineageOS/android_kernel_ark_msm8916" />
   <project name="LineageOS/android_kernel_asus_I001" />
   <project name="LineageOS/android_kernel_asus_P024" />
+  <project name="LineageOS/android_kernel_asus_X01AD" />
   <project name="LineageOS/android_kernel_asus_Z00D" />
   <project name="LineageOS/android_kernel_asus_fugu" />
   <project name="LineageOS/android_kernel_asus_grouper" />
