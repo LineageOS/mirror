@@ -342,6 +342,7 @@
   <project name="platform/external/escapevelocity" />
   <project name="platform/external/esd" />
   <project name="platform/external/ethtool" />
+  <project name="platform/external/exfatprogs" />
   <project name="platform/external/exoplayer" />
   <project name="platform/external/expat" />
   <project name="platform/external/eyes-free" />
