@@ -368,6 +368,7 @@
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
   <project name="platform/external/gmock" />
+  <project name="platform/external/go-cmp" />
   <project name="platform/external/golang-protobuf" />
   <project name="platform/external/google-api-services-storage" />
   <project name="platform/external/google-benchmark" />
