@@ -705,6 +705,7 @@
   <project name="platform/external/rust/crates/async-task" />
   <project name="platform/external/rust/crates/async-trait" />
   <project name="platform/external/rust/crates/atty" />
+  <project name="platform/external/rust/crates/base64" />
   <project name="platform/external/rust/crates/bencher" />
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bitflags" />
@@ -762,6 +763,7 @@
   <project name="platform/external/rust/crates/intrusive-collections" />
   <project name="platform/external/rust/crates/itertools" />
   <project name="platform/external/rust/crates/itoa" />
+  <project name="platform/external/rust/crates/kernlog" />
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
   <project name="platform/external/rust/crates/libc" />
