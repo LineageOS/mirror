@@ -589,6 +589,7 @@
   <project name="platform/external/okhttp4" />
   <project name="platform/external/okio" />
   <project name="platform/external/one-true-awk" />
+  <project name="platform/external/open-dice" />
   <project name="platform/external/open-vcdiff" />
   <project name="platform/external/opencensus-java" />
   <project name="platform/external/opencore" />
@@ -962,6 +963,7 @@
   <project name="platform/external/webrtc" />
   <project name="platform/external/webrtc_legacy" />
   <project name="platform/external/webview_support_interfaces" />
+  <project name="platform/external/wmediumd" />
   <project name="platform/external/wpa_supplicant" />
   <project name="platform/external/wpa_supplicant_6" />
   <project name="platform/external/wpa_supplicant_8" />
