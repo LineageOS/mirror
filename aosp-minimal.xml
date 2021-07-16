@@ -833,6 +833,7 @@
   <project name="platform/external/rust/crates/same-file" />
   <project name="platform/external/rust/crates/scopeguard" />
   <project name="platform/external/rust/crates/serde" />
+  <project name="platform/external/rust/crates/serde-xml-rs" />
   <project name="platform/external/rust/crates/serde_cbor" />
   <project name="platform/external/rust/crates/serde_derive" />
   <project name="platform/external/rust/crates/serde_json" />
@@ -872,6 +873,7 @@
   <project name="platform/external/rust/crates/walkdir" />
   <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/which" />
+  <project name="platform/external/rust/crates/xml-rs" />
   <project name="platform/external/rust/crates/zip" />
   <project name="platform/external/rust/cxx" />
   <project name="platform/external/ruy" />
