@@ -731,6 +731,8 @@
   <project name="platform/external/rust/crates/crossbeam-utils" />
   <project name="platform/external/rust/crates/csv" />
   <project name="platform/external/rust/crates/csv-core" />
+  <project name="platform/external/rust/crates/der-oid-macro" />
+  <project name="platform/external/rust/crates/der-parser" />
   <project name="platform/external/rust/crates/derive_arbitrary" />
   <project name="platform/external/rust/crates/downcast-rs" />
   <project name="platform/external/rust/crates/either" />
@@ -786,6 +788,7 @@
   <project name="platform/external/rust/crates/nix" />
   <project name="platform/external/rust/crates/no-panic" />
   <project name="platform/external/rust/crates/nom" />
+  <project name="platform/external/rust/crates/num-bigint" />
   <project name="platform/external/rust/crates/num-derive" />
   <project name="platform/external/rust/crates/num-integer" />
   <project name="platform/external/rust/crates/num-traits" />
@@ -828,6 +831,7 @@
   <project name="platform/external/rust/crates/ring" />
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rustc-hash" />
+  <project name="platform/external/rust/crates/rusticata-macros" />
   <project name="platform/external/rust/crates/rustversion" />
   <project name="platform/external/rust/crates/ryu" />
   <project name="platform/external/rust/crates/same-file" />
@@ -872,6 +876,7 @@
   <project name="platform/external/rust/crates/vsock" />
   <project name="platform/external/rust/crates/walkdir" />
   <project name="platform/external/rust/crates/weak-table" />
+  <project name="platform/external/rust/crates/webpki" />
   <project name="platform/external/rust/crates/which" />
   <project name="platform/external/rust/crates/xml-rs" />
   <project name="platform/external/rust/crates/zip" />
