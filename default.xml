@@ -499,6 +499,7 @@
   <project name="LineageOS/android_device_motorola_xt926" />
   <project name="LineageOS/android_device_motorola_zeppelin" />
   <project name="LineageOS/android_device_nextbit_ether" />
+  <project name="LineageOS/android_device_nintendo_icosa" />
   <project name="LineageOS/android_device_nokia_DRG" />
   <project name="LineageOS/android_device_nokia_PL2" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
@@ -1223,6 +1224,7 @@
   <project name="LineageOS/android_external_libcxxabi" />
   <project name="LineageOS/android_external_libdrm" />
   <project name="LineageOS/android_external_libedit" />
+  <project name="LineageOS/android_external_libevdev" />
   <project name="LineageOS/android_external_libexif" />
   <project name="LineageOS/android_external_libffi" />
   <project name="LineageOS/android_external_libgsm" />
@@ -1489,6 +1491,7 @@
   <project name="LineageOS/android_hardware_mediatek" />
   <project name="LineageOS/android_hardware_motorola" />
   <project name="LineageOS/android_hardware_msm7k" />
+  <project name="LineageOS/android_hardware_nintendo_joycond" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_boot_control" />
   <project name="LineageOS/android_hardware_nvidia_interfaces" />
@@ -1580,6 +1583,7 @@
   <project name="LineageOS/android_hardware_sony_simdetect" />
   <project name="LineageOS/android_hardware_sony_thermanager" />
   <project name="LineageOS/android_hardware_sony_timekeep" />
+  <project name="LineageOS/android_hardware_stmicroelectronics_sensorhal_iio" />
   <project name="LineageOS/android_hardware_ti_fmradio" />
   <project name="LineageOS/android_hardware_ti_omap3" />
   <project name="LineageOS/android_hardware_ti_omap3-compat" />
@@ -1739,6 +1743,7 @@
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_fpga" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_hawkeye" />
+  <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_icosa" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_jetson" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_misc" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_orca" />
