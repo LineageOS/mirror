@@ -397,6 +397,7 @@
   <project name="LineageOS/android_device_lge_w7" />
   <project name="LineageOS/android_device_lge_zee" />
   <project name="LineageOS/android_device_lineage_atv" />
+  <project name="LineageOS/android_device_lineage_car" />
   <project name="LineageOS/android_device_lineage_sepolicy" />
   <project name="LineageOS/android_device_malata_smb-common" />
   <project name="LineageOS/android_device_malata_smb_a1002" />
