@@ -466,6 +466,7 @@
   <project name="platform/external/libcap-ng" />
   <project name="platform/external/libchrome" />
   <project name="platform/external/libchromeos-rs" />
+  <project name="platform/external/libconfig" />
   <project name="platform/external/libconstrainedcrypto" />
   <project name="platform/external/libcppbor" />
   <project name="platform/external/libcups" />
