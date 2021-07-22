@@ -516,6 +516,7 @@
   <project name="platform/external/libtextclassifier" />
   <project name="platform/external/libunwind" />
   <project name="platform/external/libunwind_llvm" />
+  <project name="platform/external/liburing" />
   <project name="platform/external/libusb" />
   <project name="platform/external/libusb-compat" />
   <project name="platform/external/libusb_aah" />
