@@ -968,6 +968,7 @@
   <project name="LineageOS/android_device_wileyfox_porridge" />
   <project name="LineageOS/android_device_wileyfox_porridgek3" />
   <project name="LineageOS/android_device_wingtech_wt88047" />
+  <project name="LineageOS/android_device_xiaomi_alioth" />
   <project name="LineageOS/android_device_xiaomi_apollon" />
   <project name="LineageOS/android_device_xiaomi_aries" />
   <project name="LineageOS/android_device_xiaomi_armani" />
