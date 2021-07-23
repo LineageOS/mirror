@@ -36,6 +36,7 @@
   <project name="LineageOS/android_device_google_accessory_demokit" />
   <project name="LineageOS/android_device_google_atv" />
   <project name="LineageOS/android_device_lineage_atv" />
+  <project name="LineageOS/android_device_lineage_car" />
   <project name="LineageOS/android_device_lineage_sepolicy" />
   <project name="LineageOS/android_device_qcom_sepolicy" />
   <project name="LineageOS/android_device_qcom_sepolicy-legacy" />
