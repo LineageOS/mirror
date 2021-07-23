@@ -591,6 +591,10 @@
   <project name="LineageOS/android_device_samsung_apexqtmo" />
   <project name="LineageOS/android_device_samsung_apq8084-common" />
   <project name="LineageOS/android_device_samsung_aries-common" />
+  <project name="LineageOS/android_device_samsung_beyond0lte" />
+  <project name="LineageOS/android_device_samsung_beyond1lte" />
+  <project name="LineageOS/android_device_samsung_beyond2lte" />
+  <project name="LineageOS/android_device_samsung_beyondx" />
   <project name="LineageOS/android_device_samsung_bmlunlock" />
   <project name="LineageOS/android_device_samsung_c1-common" />
   <project name="LineageOS/android_device_samsung_captivatemtd" />
@@ -605,16 +609,19 @@
   <project name="LineageOS/android_device_samsung_crespo" />
   <project name="LineageOS/android_device_samsung_crespo4g" />
   <project name="LineageOS/android_device_samsung_crownlte" />
+  <project name="LineageOS/android_device_samsung_d1" />
   <project name="LineageOS/android_device_samsung_d2-common" />
   <project name="LineageOS/android_device_samsung_d2att" />
   <project name="LineageOS/android_device_samsung_d2cri" />
   <project name="LineageOS/android_device_samsung_d2lte" />
   <project name="LineageOS/android_device_samsung_d2mtr" />
   <project name="LineageOS/android_device_samsung_d2refreshspr" />
+  <project name="LineageOS/android_device_samsung_d2s" />
   <project name="LineageOS/android_device_samsung_d2spr" />
   <project name="LineageOS/android_device_samsung_d2tmo" />
   <project name="LineageOS/android_device_samsung_d2usc" />
   <project name="LineageOS/android_device_samsung_d2vzw" />
+  <project name="LineageOS/android_device_samsung_d2x" />
   <project name="LineageOS/android_device_samsung_d710" />
   <project name="LineageOS/android_device_samsung_epic4g" />
   <project name="LineageOS/android_device_samsung_epicmtd" />
@@ -625,6 +632,7 @@
   <project name="LineageOS/android_device_samsung_expressatt" />
   <project name="LineageOS/android_device_samsung_exynos-common" />
   <project name="LineageOS/android_device_samsung_exynos5420-common" />
+  <project name="LineageOS/android_device_samsung_exynos9820-common" />
   <project name="LineageOS/android_device_samsung_fascinate" />
   <project name="LineageOS/android_device_samsung_fascinatemtd" />
   <project name="LineageOS/android_device_samsung_galaxy5" />
@@ -1804,6 +1812,7 @@
   <project name="LineageOS/android_kernel_samsung_exynos5410" />
   <project name="LineageOS/android_kernel_samsung_exynos5420" />
   <project name="LineageOS/android_kernel_samsung_exynos7420" />
+  <project name="LineageOS/android_kernel_samsung_exynos9820" />
   <project name="LineageOS/android_kernel_samsung_galaxytab-cdma" />
   <project name="LineageOS/android_kernel_samsung_gta4xl" />
   <project name="LineageOS/android_kernel_samsung_gts2" />
