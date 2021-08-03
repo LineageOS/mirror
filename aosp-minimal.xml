@@ -754,6 +754,7 @@
   <project name="platform/external/rust/crates/futures-task" />
   <project name="platform/external/rust/crates/futures-util" />
   <project name="platform/external/rust/crates/gdbstub" />
+  <project name="platform/external/rust/crates/gdbstub_arch" />
   <project name="platform/external/rust/crates/getrandom" />
   <project name="platform/external/rust/crates/glob" />
   <project name="platform/external/rust/crates/grpcio" />
