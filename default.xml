@@ -750,6 +750,7 @@
   <project name="LineageOS/android_device_samsung_lt02ltespr" />
   <project name="LineageOS/android_device_samsung_lt03lte" />
   <project name="LineageOS/android_device_samsung_lt03wifi" />
+  <project name="LineageOS/android_device_samsung_m20lte" />
   <project name="LineageOS/android_device_samsung_maguro" />
   <project name="LineageOS/android_device_samsung_manta" />
   <project name="LineageOS/android_device_samsung_mesmerizemtd" />
@@ -860,6 +861,7 @@
   <project name="LineageOS/android_device_samsung_universal5420-common" />
   <project name="LineageOS/android_device_samsung_universal7580-common" />
   <project name="LineageOS/android_device_samsung_universal7880-common" />
+  <project name="LineageOS/android_device_samsung_universal7904-common" />
   <project name="LineageOS/android_device_samsung_universal8890-common" />
   <project name="LineageOS/android_device_samsung_universal9810-common" />
   <project name="LineageOS/android_device_samsung_v1awifi" />
@@ -1877,6 +1879,7 @@
   <project name="LineageOS/android_kernel_samsung_tuna" />
   <project name="LineageOS/android_kernel_samsung_universal7580" />
   <project name="LineageOS/android_kernel_samsung_universal7880" />
+  <project name="LineageOS/android_kernel_samsung_universal7904" />
   <project name="LineageOS/android_kernel_samsung_universal8890" />
   <project name="LineageOS/android_kernel_samsung_universal9810" />
   <project name="LineageOS/android_kernel_samsung_v2wifixx" />
