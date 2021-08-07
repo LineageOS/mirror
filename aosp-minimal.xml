@@ -180,6 +180,7 @@
   <project name="platform/external/OpenCL-CTS" />
   <project name="platform/external/OpenCSD" />
   <project name="platform/external/Reactive-Extensions/RxCpp" />
+  <project name="platform/external/TestParameterInjector" />
   <project name="platform/external/XNNPACK" />
   <project name="platform/external/aac" />
   <project name="platform/external/abi-compliance-checker" />
