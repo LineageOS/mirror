@@ -996,6 +996,7 @@
   <project name="platform/external/zlib" />
   <project name="platform/external/zopfli" />
   <project name="platform/external/zstd" />
+  <project name="platform/external/zucchini" />
   <project name="platform/external/zxing" />
   <project name="platform/frameworks/av" />
   <project name="platform/frameworks/base" />
