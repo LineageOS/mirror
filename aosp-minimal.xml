@@ -718,12 +718,14 @@
   <project name="platform/external/rust/crates/byteorder" />
   <project name="platform/external/rust/crates/bytes" />
   <project name="platform/external/rust/crates/cast" />
+  <project name="platform/external/rust/crates/cesu8" />
   <project name="platform/external/rust/crates/cexpr" />
   <project name="platform/external/rust/crates/cfg-if" />
   <project name="platform/external/rust/crates/chrono" />
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/clap" />
   <project name="platform/external/rust/crates/codespan-reporting" />
+  <project name="platform/external/rust/crates/combine" />
   <project name="platform/external/rust/crates/command-fds" />
   <project name="platform/external/rust/crates/const_fn" />
   <project name="platform/external/rust/crates/crc32fast" />
@@ -771,6 +773,8 @@
   <project name="platform/external/rust/crates/intrusive-collections" />
   <project name="platform/external/rust/crates/itertools" />
   <project name="platform/external/rust/crates/itoa" />
+  <project name="platform/external/rust/crates/jni" />
+  <project name="platform/external/rust/crates/jni-sys" />
   <project name="platform/external/rust/crates/kernlog" />
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
