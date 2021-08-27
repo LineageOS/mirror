@@ -44,6 +44,9 @@
   <project name="device/google/accessory/arduino" />
   <project name="device/google/accessory/demokit" />
   <project name="device/google/atv" />
+  <project name="device/google/barbet" />
+  <project name="device/google/barbet-kernel" groups="kernel" />
+  <project name="device/google/barbet-sepolicy" />
   <project name="device/google/bonito" />
   <project name="device/google/bonito-kernel" groups="kernel" />
   <project name="device/google/bonito-sepolicy" />
