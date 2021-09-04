@@ -295,6 +295,7 @@
   <project name="LineageOS/android_device_lenovo_YTX703-common" />
   <project name="LineageOS/android_device_lenovo_YTX703F" />
   <project name="LineageOS/android_device_lenovo_YTX703L" />
+  <project name="LineageOS/android_device_lenovo_heart" />
   <project name="LineageOS/android_device_lenovo_kingdom" />
   <project name="LineageOS/android_device_lenovo_kuntao" />
   <project name="LineageOS/android_device_lenovo_sm8150-common" />
