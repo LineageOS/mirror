@@ -20,6 +20,10 @@
   <project name="LineageOS/android_art" />
   <project name="LineageOS/android_bionic" />
   <project name="LineageOS/android_bootable_bootloader_legacy" />
+  <project name="LineageOS/android_bootable_cboot_common" />
+  <project name="LineageOS/android_bootable_cboot_lk" />
+  <project name="LineageOS/android_bootable_cboot_t18x" />
+  <project name="LineageOS/android_bootable_cboot_t19x" />
   <project name="LineageOS/android_bootable_diskinstaller" />
   <project name="LineageOS/android_bootable_recovery" />
   <project name="LineageOS/android_bootable_recovery-cm" />
@@ -1527,6 +1531,7 @@
   <project name="LineageOS/android_hardware_nintendo_joycond" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_boot_control" />
+  <project name="LineageOS/android_hardware_nvidia_hwinc" />
   <project name="LineageOS/android_hardware_nvidia_interfaces" />
   <project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
   <project name="LineageOS/android_hardware_nvidia_light" />
