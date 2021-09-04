@@ -82,6 +82,7 @@
   <project name="LineageOS/android_device_asus_mofd-common" />
   <project name="LineageOS/android_device_asus_msm8916-common" />
   <project name="LineageOS/android_device_asus_obiwan" />
+  <project name="LineageOS/android_device_asus_sake" />
   <project name="LineageOS/android_device_asus_sdm660-common" />
   <project name="LineageOS/android_device_asus_sm8250-common" />
   <project name="LineageOS/android_device_asus_tequila" />
@@ -1659,6 +1660,7 @@
   <project name="LineageOS/android_kernel_asus_sdm845" />
   <project name="LineageOS/android_kernel_asus_sm8150" />
   <project name="LineageOS/android_kernel_asus_sm8250" />
+  <project name="LineageOS/android_kernel_asus_sm8350" />
   <project name="LineageOS/android_kernel_asus_tf101" />
   <project name="LineageOS/android_kernel_asus_tf201" />
   <project name="LineageOS/android_kernel_asus_tf300t" />
