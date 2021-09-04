@@ -1006,6 +1006,7 @@
   <project name="LineageOS/android_device_xiaomi_jasmine_sprout" />
   <project name="LineageOS/android_device_xiaomi_jason" />
   <project name="LineageOS/android_device_xiaomi_kenzo" />
+  <project name="LineageOS/android_device_xiaomi_lancelot" />
   <project name="LineageOS/android_device_xiaomi_land" />
   <project name="LineageOS/android_device_xiaomi_lavender" />
   <project name="LineageOS/android_device_xiaomi_libra" />
@@ -1017,6 +1018,7 @@
   <project name="LineageOS/android_device_xiaomi_msm8956-common" />
   <project name="LineageOS/android_device_xiaomi_msm8996-common" />
   <project name="LineageOS/android_device_xiaomi_msm8998-common" />
+  <project name="LineageOS/android_device_xiaomi_mt6768-common" />
   <project name="LineageOS/android_device_xiaomi_mt6785-common" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_xiaomi_onclite" />
