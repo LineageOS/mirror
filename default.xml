@@ -907,6 +907,7 @@
   <project name="LineageOS/android_device_semc_zeus" />
   <project name="LineageOS/android_device_semc_zeus-common" />
   <project name="LineageOS/android_device_semc_zeusc" />
+  <project name="LineageOS/android_device_shift_axolotl" />
   <project name="LineageOS/android_device_smartfren_rendang" />
   <project name="LineageOS/android_device_sony_akari" />
   <project name="LineageOS/android_device_sony_akatsuki" />
@@ -1898,6 +1899,7 @@
   <project name="LineageOS/android_kernel_samsung_v2wifixx" />
   <project name="LineageOS/android_kernel_samsung_victory" />
   <project name="LineageOS/android_kernel_samsung_zenltexx" />
+  <project name="LineageOS/android_kernel_shift_sdm845" />
   <project name="LineageOS/android_kernel_smartfren_msm8916" />
   <project name="LineageOS/android_kernel_sony_apq8064" />
   <project name="LineageOS/android_kernel_sony_flamingo" />
