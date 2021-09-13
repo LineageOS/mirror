@@ -141,6 +141,7 @@
   <project name="LineageOS/android_device_google_accessory_arduino" />
   <project name="LineageOS/android_device_google_accessory_demokit" />
   <project name="LineageOS/android_device_google_atv" />
+  <project name="LineageOS/android_device_google_barbet" />
   <project name="LineageOS/android_device_google_beast" />
   <project name="LineageOS/android_device_google_blueline" />
   <project name="LineageOS/android_device_google_bonito" />
