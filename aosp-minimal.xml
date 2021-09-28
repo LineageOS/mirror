@@ -609,6 +609,7 @@
   <project name="platform/external/openssl" />
   <project name="platform/external/openthread" />
   <project name="platform/external/openvpn" />
+  <project name="platform/external/openwrt-prebuilts" />
   <project name="platform/external/oprofile" />
   <project name="platform/external/oss-fuzz" />
   <project name="platform/external/owasp/sanitizer" />
