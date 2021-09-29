@@ -800,6 +800,7 @@
   <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/memchr" />
   <project name="platform/external/rust/crates/memoffset" />
+  <project name="platform/external/rust/crates/minimal-lexical" />
   <project name="platform/external/rust/crates/mio" />
   <project name="platform/external/rust/crates/nix" />
   <project name="platform/external/rust/crates/no-panic" />
