@@ -499,6 +499,7 @@
   <project name="LineageOS/android_packages_inputmethods_OpenWnn" />
   <project name="LineageOS/android_packages_inputmethods_PinyinIME" />
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
+  <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_overlays_Lineage" />
   <project name="LineageOS/android_packages_providers_ApplicationsProvider" />
