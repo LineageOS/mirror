@@ -1546,6 +1546,12 @@
   <project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
   <project name="LineageOS/android_hardware_nvidia_light" />
   <project name="LineageOS/android_hardware_nvidia_memtrack" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t18x_common" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t18x_lanai" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t18x_quill" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t19x_common" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t19x_galen_kernel-dts" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t19x_jakku_kernel-dts" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210_batuu_kernel-dts" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210_common" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210_foster" />
@@ -1559,6 +1565,8 @@
   <project name="LineageOS/android_hardware_nvidia_platform_tegra_common" />
   <project name="LineageOS/android_hardware_nvidia_power" />
   <project name="LineageOS/android_hardware_nvidia_sensors" />
+  <project name="LineageOS/android_hardware_nvidia_soc_t18x" />
+  <project name="LineageOS/android_hardware_nvidia_soc_t19x" />
   <project name="LineageOS/android_hardware_nvidia_soc_t210" />
   <project name="LineageOS/android_hardware_nvidia_soc_tegra" />
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
