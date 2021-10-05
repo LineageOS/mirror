@@ -296,6 +296,7 @@
   <project name="platform/external/cn-cbor" />
   <project name="platform/external/collada" />
   <project name="platform/external/compiler-rt" />
+  <project name="platform/external/connectedappssdk" />
   <project name="platform/external/conscrypt" />
   <project name="platform/external/cpu_features" />
   <project name="platform/external/cpuinfo" />
@@ -357,7 +358,9 @@
   <project name="platform/external/fat32lib" />
   <project name="platform/external/fdlibm" />
   <project name="platform/external/fec" />
+  <project name="platform/external/fft2d" />
   <project name="platform/external/fio" />
+  <project name="platform/external/firebase-messaging" />
   <project name="platform/external/flac" />
   <project name="platform/external/flatbuffers" />
   <project name="platform/external/fmtlib" />
@@ -370,6 +373,8 @@
   <project name="platform/external/gdata" />
   <project name="platform/external/gemmlowp" />
   <project name="platform/external/genext2fs" />
+  <project name="platform/external/geojson-jackson" />
+  <project name="platform/external/geonames" />
   <project name="platform/external/gflags" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
@@ -417,6 +422,7 @@
   <project name="platform/external/honggfuzz" />
   <project name="platform/external/hyphenation" />
   <project name="platform/external/hyphenation-patterns" />
+  <project name="platform/external/icing" />
   <project name="platform/external/icu" />
   <project name="platform/external/icu4c" />
   <project name="platform/external/igt-gpu-tools" />
@@ -430,6 +436,9 @@
   <project name="platform/external/iputils" />
   <project name="platform/external/iw" />
   <project name="platform/external/jack" />
+  <project name="platform/external/jackson-annotations" />
+  <project name="platform/external/jackson-core" />
+  <project name="platform/external/jackson-databind" />
   <project name="platform/external/jacoco" />
   <project name="platform/external/jarjar" />
   <project name="platform/external/javaparser" />
@@ -620,6 +629,7 @@
   <project name="platform/external/perfetto" />
   <project name="platform/external/pffft" />
   <project name="platform/external/piex" />
+  <project name="platform/external/pigweed" />
   <project name="platform/external/ping" />
   <project name="platform/external/ping6" />
   <project name="platform/external/pixman" />
@@ -661,6 +671,8 @@
   <project name="platform/external/python/grpcio" />
   <project name="platform/external/python/httplib2" />
   <project name="platform/external/python/ipaddress" />
+  <project name="platform/external/python/jinja" />
+  <project name="platform/external/python/markupsafe" />
   <project name="platform/external/python/matplotlib" />
   <project name="platform/external/python/mock" />
   <project name="platform/external/python/more-itertools" />
@@ -905,6 +917,7 @@
   <project name="platform/external/rust/crates/zip" />
   <project name="platform/external/rust/cxx" />
   <project name="platform/external/ruy" />
+  <project name="platform/external/s2-geometry-library-java" />
   <project name="platform/external/safe-iop" />
   <project name="platform/external/scapy" />
   <project name="platform/external/scrypt" />
@@ -1029,6 +1042,7 @@
   <project name="platform/frameworks/libs/modules-utils" />
   <project name="platform/frameworks/libs/native_bridge_support" />
   <project name="platform/frameworks/libs/net" />
+  <project name="platform/frameworks/libs/service_entitlement" />
   <project name="platform/frameworks/libs/systemui" />
   <project name="platform/frameworks/media/libvideoeditor" />
   <project name="platform/frameworks/mff" />
@@ -1209,6 +1223,7 @@
   <project name="platform/packages/apps/Car/Calendar" />
   <project name="platform/packages/apps/Car/Cluster" />
   <project name="platform/packages/apps/Car/CompanionDeviceSupport" />
+  <project name="platform/packages/apps/Car/DebuggingRestrictionController" />
   <project name="platform/packages/apps/Car/Dialer" />
   <project name="platform/packages/apps/Car/Hvac" />
   <project name="platform/packages/apps/Car/LatinIME" />
@@ -1220,10 +1235,13 @@
   <project name="platform/packages/apps/Car/Messenger" />
   <project name="platform/packages/apps/Car/Notification" />
   <project name="platform/packages/apps/Car/Overview" />
+  <project name="platform/packages/apps/Car/Provision" />
   <project name="platform/packages/apps/Car/Radio" />
   <project name="platform/packages/apps/Car/RotaryController" />
   <project name="platform/packages/apps/Car/Settings" />
+  <project name="platform/packages/apps/Car/SettingsIntelligence" />
   <project name="platform/packages/apps/Car/Stream" />
+  <project name="platform/packages/apps/Car/SystemUI" />
   <project name="platform/packages/apps/Car/SystemUpdater" />
   <project name="platform/packages/apps/Car/UserManagement" />
   <project name="platform/packages/apps/Car/externallibs" />
@@ -1250,6 +1268,7 @@
   <project name="platform/packages/apps/GoogleSearch" />
   <project name="platform/packages/apps/HTMLViewer" />
   <project name="platform/packages/apps/IM" />
+  <project name="platform/packages/apps/ImsServiceEntitlement" />
   <project name="platform/packages/apps/InCallUI" />
   <project name="platform/packages/apps/KeyChain" />
   <project name="platform/packages/apps/Launcher" />
@@ -1315,6 +1334,7 @@
   <project name="platform/packages/modules/Cronet" />
   <project name="platform/packages/modules/DnsResolver" />
   <project name="platform/packages/modules/ExtServices" />
+  <project name="platform/packages/modules/GeoTZ" />
   <project name="platform/packages/modules/Gki" />
   <project name="platform/packages/modules/IPsec" />
   <project name="platform/packages/modules/ModuleMetadata" />
@@ -1323,6 +1343,7 @@
   <project name="platform/packages/modules/NeuralNetworks" />
   <project name="platform/packages/modules/Permission" />
   <project name="platform/packages/modules/RuntimeI18n" />
+  <project name="platform/packages/modules/Scheduling" />
   <project name="platform/packages/modules/SdkExtensions" />
   <project name="platform/packages/modules/StatsD" />
   <project name="platform/packages/modules/TestModule" />
@@ -1356,6 +1377,7 @@
   <project name="platform/packages/services/BuiltInPrintService" />
   <project name="platform/packages/services/Car" />
   <project name="platform/packages/services/EasService" />
+  <project name="platform/packages/services/Iwlan" />
   <project name="platform/packages/services/LockAndWipe" />
   <project name="platform/packages/services/Mms" />
   <project name="platform/packages/services/Mtp" />
@@ -1622,6 +1644,7 @@
   <project name="platform/system/wlan/ti" />
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/app_compat/csuite" />
+  <project name="platform/test/catbox" />
   <project name="platform/test/cts-root" />
   <project name="platform/test/framework" />
   <project name="platform/test/mlts/benchmark" />
