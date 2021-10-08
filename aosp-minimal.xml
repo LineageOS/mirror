@@ -1325,6 +1325,7 @@
   <project name="platform/packages/inputmethods/LeanbackIME" />
   <project name="platform/packages/inputmethods/OpenWnn" />
   <project name="platform/packages/inputmethods/PinyinIME" />
+  <project name="platform/packages/modules/AppSearch" />
   <project name="platform/packages/modules/ArtPrebuilt" />
   <project name="platform/packages/modules/BootPrebuilt/5.10/arm64" />
   <project name="platform/packages/modules/BootPrebuilt/5.4/arm64" />
@@ -1571,6 +1572,7 @@
   <project name="platform/prebuilts/vndk/v28" />
   <project name="platform/prebuilts/vndk/v29" />
   <project name="platform/prebuilts/vndk/v30" />
+  <project name="platform/prebuilts/vndk/v31" />
   <project name="platform/sdk" />
   <project name="platform/system/apex" />
   <project name="platform/system/ashmemd" />
