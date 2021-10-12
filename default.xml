@@ -2218,6 +2218,7 @@
   <project name="LineageOS/android_system_libhwbinder" />
   <project name="LineageOS/android_system_libufdt" />
   <project name="LineageOS/android_system_libvintf" />
+  <project name="LineageOS/android_system_libziparchive" />
   <project name="LineageOS/android_system_media" />
   <project name="LineageOS/android_system_netd" />
   <project name="LineageOS/android_system_nfc" />
