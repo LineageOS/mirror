@@ -583,6 +583,7 @@
   <project name="platform/external/ms-tpm-20-ref" />
   <project name="platform/external/mtools" />
   <project name="platform/external/mtpd" />
+  <project name="platform/external/musl" />
   <project name="platform/external/nanohttpd" />
   <project name="platform/external/nanopb-c" />
   <project name="platform/external/naver-fonts" />
@@ -601,6 +602,7 @@
   <project name="platform/external/oauth" />
   <project name="platform/external/objenesis" />
   <project name="platform/external/oboe" />
+  <project name="platform/external/obstack" />
   <project name="platform/external/oj-libjdwp" />
   <project name="platform/external/okhttp" />
   <project name="platform/external/okhttp4" />
