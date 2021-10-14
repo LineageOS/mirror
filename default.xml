@@ -1440,6 +1440,7 @@
   <project name="LineageOS/android_frameworks_ex" />
   <project name="LineageOS/android_frameworks_hardware_interfaces" />
   <project name="LineageOS/android_frameworks_layoutlib" />
+  <project name="LineageOS/android_frameworks_libs_systemui" />
   <project name="LineageOS/android_frameworks_media_libvideoeditor" />
   <project name="LineageOS/android_frameworks_mff" />
   <project name="LineageOS/android_frameworks_minikin" />
@@ -2123,6 +2124,7 @@
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
+  <project name="LineageOS/android_packages_modules_Permission" />
   <project name="LineageOS/android_packages_overlays_Lineage" />
   <project name="LineageOS/android_packages_providers_ApplicationsProvider" />
   <project name="LineageOS/android_packages_providers_BlockedNumberProvider" />
