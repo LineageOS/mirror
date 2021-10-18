@@ -913,6 +913,7 @@
   <project name="LineageOS/android_device_sony_akatsuki" />
   <project name="LineageOS/android_device_sony_amami" />
   <project name="LineageOS/android_device_sony_aoba" />
+  <project name="LineageOS/android_device_sony_aurora" />
   <project name="LineageOS/android_device_sony_blue-common" />
   <project name="LineageOS/android_device_sony_castor" />
   <project name="LineageOS/android_device_sony_castor_windy" />
