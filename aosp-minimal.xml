@@ -69,9 +69,14 @@
   <project name="device/google/dragon" />
   <project name="device/google/dragon-kernel" groups="kernel" />
   <project name="device/google/fuchsia" />
+  <project name="device/google/gs-common" />
+  <project name="device/google/gs101" />
+  <project name="device/google/gs101-sepolicy" />
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" groups="kernel" />
   <project name="device/google/muskie" />
+  <project name="device/google/raviole" />
+  <project name="device/google/raviole-kernel" groups="kernel" />
   <project name="device/google/redbull" />
   <project name="device/google/redbull-kernel" groups="kernel" />
   <project name="device/google/redbull-sepolicy" />
@@ -177,6 +182,7 @@
   <project name="platform/external/AntennaPod/AntennaPod" />
   <project name="platform/external/AntennaPod/AudioPlayer" />
   <project name="platform/external/AntennaPod/afollestad" />
+  <project name="platform/external/ComputeLibrary" />
   <project name="platform/external/FP16" />
   <project name="platform/external/FXdiv" />
   <project name="platform/external/ImageMagick" />
@@ -198,6 +204,7 @@
   <project name="platform/external/android-clat" />
   <project name="platform/external/android-kotlin-demo" />
   <project name="platform/external/android-mock" />
+  <project name="platform/external/android-nn-driver" />
   <project name="platform/external/android-studio-gradle-test" />
   <project name="platform/external/androidplot" />
   <project name="platform/external/angle" />
@@ -216,6 +223,7 @@
   <project name="platform/external/arm-neon-tests" />
   <project name="platform/external/arm-optimized-routines" />
   <project name="platform/external/arm-trusted-firmware" />
+  <project name="platform/external/armnn" />
   <project name="platform/external/astl" />
   <project name="platform/external/auto" />
   <project name="platform/external/autotest" />
@@ -849,6 +857,7 @@
   <project name="platform/external/rust/crates/protobuf" />
   <project name="platform/external/rust/crates/protobuf-codegen" />
   <project name="platform/external/rust/crates/quiche" />
+  <project name="platform/external/rust/crates/quickcheck" />
   <project name="platform/external/rust/crates/quote" />
   <project name="platform/external/rust/crates/rand" />
   <project name="platform/external/rust/crates/rand_chacha" />
@@ -1117,6 +1126,9 @@
   <project name="platform/hardware/google/av" />
   <project name="platform/hardware/google/camera" />
   <project name="platform/hardware/google/easel" />
+  <project name="platform/hardware/google/gchips" />
+  <project name="platform/hardware/google/graphics/common" />
+  <project name="platform/hardware/google/graphics/gs101" />
   <project name="platform/hardware/google/interfaces" />
   <project name="platform/hardware/google/pixel" />
   <project name="platform/hardware/google/pixel-sepolicy" />
