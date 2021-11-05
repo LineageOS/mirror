@@ -1511,6 +1511,7 @@
   <project name="LineageOS/android_hardware_cm" />
   <project name="LineageOS/android_hardware_cyanogen" />
   <project name="LineageOS/android_hardware_google_pixel" />
+  <project name="LineageOS/android_hardware_google_pixel-sepolicy" />
   <project name="LineageOS/android_hardware_gpsshim" />
   <project name="LineageOS/android_hardware_intel_audio_media" />
   <project name="LineageOS/android_hardware_intel_audiocomms_utilities" />
