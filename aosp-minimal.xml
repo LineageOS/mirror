@@ -869,6 +869,7 @@
   <project name="platform/external/rust/crates/regex-automata" />
   <project name="platform/external/rust/crates/regex-syntax" />
   <project name="platform/external/rust/crates/remain" />
+  <project name="platform/external/rust/crates/remove_dir_all" />
   <project name="platform/external/rust/crates/ring" />
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rustc-demangle" />
@@ -895,6 +896,7 @@
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />
   <project name="platform/external/rust/crates/syn-mid" />
+  <project name="platform/external/rust/crates/tempfile" />
   <project name="platform/external/rust/crates/termcolor" />
   <project name="platform/external/rust/crates/textwrap" />
   <project name="platform/external/rust/crates/thiserror" />
