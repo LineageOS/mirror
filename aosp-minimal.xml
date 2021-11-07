@@ -1343,6 +1343,7 @@
   <project name="platform/packages/inputmethods/PinyinIME" />
   <project name="platform/packages/modules/AppSearch" />
   <project name="platform/packages/modules/ArtPrebuilt" />
+  <project name="platform/packages/modules/Bluetooth" />
   <project name="platform/packages/modules/BootPrebuilt/5.10/arm64" />
   <project name="platform/packages/modules/BootPrebuilt/5.4/arm64" />
   <project name="platform/packages/modules/CaptivePortalLogin" />
