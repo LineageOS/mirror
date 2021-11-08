@@ -248,6 +248,7 @@
   <project name="LineageOS/android_external_qrngd" />
   <project name="LineageOS/android_external_regex-re2" />
   <project name="LineageOS/android_external_replicaisland" />
+  <project name="LineageOS/android_external_robolectric-shadows" />
   <project name="LineageOS/android_external_rsync" />
   <project name="LineageOS/android_external_safe-iop" />
   <project name="LineageOS/android_external_selinux" />
@@ -339,6 +340,7 @@
   <project name="LineageOS/android_hardware_cm" />
   <project name="LineageOS/android_hardware_cyanogen" />
   <project name="LineageOS/android_hardware_google_pixel" />
+  <project name="LineageOS/android_hardware_google_pixel-sepolicy" />
   <project name="LineageOS/android_hardware_intel_bootstub" />
   <project name="LineageOS/android_hardware_intel_common_libmix" />
   <project name="LineageOS/android_hardware_intel_common_libva" />
