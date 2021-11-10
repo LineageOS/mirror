@@ -154,6 +154,7 @@
   <project name="kernel/prebuilts/common-modules/virtual-device/mainline/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/mainline/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/mainline/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/mainline/x86-64" groups="kernel" />
   <project name="kernel/tests" />
   <project name="platform/abi/cpp" />
   <project name="platform/art" />
