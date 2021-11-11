@@ -1362,6 +1362,7 @@
   <project name="platform/packages/modules/NeuralNetworks" />
   <project name="platform/packages/modules/Permission" />
   <project name="platform/packages/modules/RuntimeI18n" />
+  <project name="platform/packages/modules/SEPolicy" />
   <project name="platform/packages/modules/Scheduling" />
   <project name="platform/packages/modules/SdkExtensions" />
   <project name="platform/packages/modules/StatsD" />
