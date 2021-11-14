@@ -503,6 +503,7 @@
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
+  <project name="LineageOS/android_packages_modules_adb" />
   <project name="LineageOS/android_packages_overlays_Lineage" />
   <project name="LineageOS/android_packages_providers_ApplicationsProvider" />
   <project name="LineageOS/android_packages_providers_BlockedNumberProvider" />
@@ -575,6 +576,7 @@
   <project name="LineageOS/android_system_libhidl" />
   <project name="LineageOS/android_system_libhwbinder" />
   <project name="LineageOS/android_system_libufdt" />
+  <project name="LineageOS/android_system_libziparchive" />
   <project name="LineageOS/android_system_media" />
   <project name="LineageOS/android_system_netd" />
   <project name="LineageOS/android_system_nfc" />
