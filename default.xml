@@ -491,6 +491,7 @@
   <project name="LineageOS/android_device_motorola_shadow" />
   <project name="LineageOS/android_device_motorola_sholes" />
   <project name="LineageOS/android_device_motorola_sm7250-common" />
+  <project name="LineageOS/android_device_motorola_smith" />
   <project name="LineageOS/android_device_motorola_solana" />
   <project name="LineageOS/android_device_motorola_spyder" />
   <project name="LineageOS/android_device_motorola_sunfire" />
