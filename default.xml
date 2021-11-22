@@ -520,6 +520,7 @@
   <project name="LineageOS/android_device_nokia_DRG" />
   <project name="LineageOS/android_device_nokia_PL2" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
+  <project name="LineageOS/android_device_nubia_TP1803" />
   <project name="LineageOS/android_device_nubia_msm8998-common" />
   <project name="LineageOS/android_device_nubia_nx512j" />
   <project name="LineageOS/android_device_nubia_nx531j" />
@@ -1808,6 +1809,7 @@
   <project name="LineageOS/android_kernel_nubia_msm8939" />
   <project name="LineageOS/android_kernel_nubia_msm8996" />
   <project name="LineageOS/android_kernel_nubia_msm8998" />
+  <project name="LineageOS/android_kernel_nubia_sm8150" />
   <project name="LineageOS/android_kernel_nvidia_cypress-fmac" />
   <project name="LineageOS/android_kernel_nvidia_kernel" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common" />
