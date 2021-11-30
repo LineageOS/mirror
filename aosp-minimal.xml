@@ -138,8 +138,53 @@
   <project name="device/ti/beagle-x15-kernel" groups="kernel" />
   <project name="device/ti/panda" />
   <project name="kernel/build" />
+  <project name="kernel/common" groups="kernel-extra,notdefault" />
+  <project name="kernel/common-modules/virtual-device" groups="kernel-extra,notdefault" />
+  <project name="kernel/common-patches" groups="kernel-extra,notdefault" />
   <project name="kernel/configs" />
+  <project name="kernel/goldfish" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/amplifiers" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/aoc" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/aoc-ipc" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/bluetooth/broadcom" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/bms" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/display" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/edgetpu" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/fingerprint/fpc" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/fingerprint/goodix" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/gpu" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/lwis" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/nfc" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/power/reset" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/raviole-device" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/touch/common" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/touch/fts_touch" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/touch/sec_touch" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/uwb" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" groups="kernel-extra,notdefault" />
+  <project name="kernel/gs" groups="kernel-extra,notdefault" />
+  <project name="kernel/hikey-linaro" groups="kernel-extra,notdefault" />
+  <project name="kernel/hikey-modules" groups="kernel-extra,notdefault" />
+  <project name="kernel/manifest" groups="kernel-extra,notdefault" />
   <project name="kernel/mediatek" />
+  <project name="kernel/msm" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra" path="kernel/msm-extra.git" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/camera-devicetree" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/camera-kernel" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/dataipa" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/devicetree" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/display-devicetree" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/display-drivers" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/video-driver" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/data-kernel" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/fts_touch" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/fts_touch_s5" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/qca-wfi-host-cmn" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/qcacld" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/sec_touch" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/wlan-fw-api" groups="kernel-extra,notdefault" />
+  <project name="kernel/omap" groups="kernel-extra,notdefault" />
   <project name="kernel/prebuilts/4.19/arm64" groups="kernel" />
   <project name="kernel/prebuilts/5.10/arm64" groups="kernel" />
   <project name="kernel/prebuilts/5.10/x86-64" groups="kernel" />
@@ -147,6 +192,7 @@
   <project name="kernel/prebuilts/5.15/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/5.4/arm64" groups="kernel" />
   <project name="kernel/prebuilts/5.4/x86-64" groups="kernel" />
+  <project name="kernel/prebuilts/build-tools" groups="kernel,kernel-extra,notdefault" />
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/5.10/arm64" groups="kernel" />
@@ -160,6 +206,7 @@
   <project name="kernel/prebuilts/mainline/arm64" groups="kernel" />
   <project name="kernel/prebuilts/mainline/x86-64" groups="kernel" />
   <project name="kernel/tests" />
+  <project name="kernel/tools/interceptor" groups="kernel-extra,notdefault" />
   <project name="platform/abi/cpp" />
   <project name="platform/art" />
   <project name="platform/bionic" />
@@ -344,6 +391,7 @@
   <project name="platform/external/dropbear" />
   <project name="platform/external/drrickorang" />
   <project name="platform/external/dtc" />
+  <project name="platform/external/dwarves" groups="kernel-extra,notdefault" />
   <project name="platform/external/dynamic_depth" />
   <project name="platform/external/e2fsprogs" />
   <project name="platform/external/easymock" />
@@ -489,6 +537,7 @@
   <project name="platform/external/libaom" />
   <project name="platform/external/libavc" />
   <project name="platform/external/libbackup" />
+  <project name="platform/external/libbpf" groups="kernel-extra,notdefault" />
   <project name="platform/external/libbrillo" />
   <project name="platform/external/libcap" />
   <project name="platform/external/libcap-ng" />
@@ -969,12 +1018,14 @@
   <project name="platform/external/srtp" />
   <project name="platform/external/stardoc" />
   <project name="platform/external/starlark-go" />
+  <project name="platform/external/stg" groups="kernel-extra,notdefault" />
   <project name="platform/external/stlport" />
   <project name="platform/external/strace" />
   <project name="platform/external/stressapptest" />
   <project name="platform/external/subsampling-scale-image-view" />
   <project name="platform/external/svox" />
   <project name="platform/external/swiftshader" />
+  <project name="platform/external/swig" groups="kernel-extra,notdefault" />
   <project name="platform/external/syslinux" />
   <project name="platform/external/syspatch" />
   <project name="platform/external/syzkaller" />
@@ -1432,6 +1483,7 @@
   <project name="platform/prebuilts/asuite" />
   <project name="platform/prebuilts/bazel/darwin-x86_64" groups="darwin" />
   <project name="platform/prebuilts/bazel/linux-x86_64" />
+  <project name="platform/prebuilts/boot-artifacts" groups="kernel-extra,notdefault" />
   <project name="platform/prebuilts/build-tools" />
   <project name="platform/prebuilts/bundletool" />
   <project name="platform/prebuilts/checkcolor" />
@@ -1477,6 +1529,7 @@
   <project name="platform/prebuilts/fullsdk/platforms/android-21" />
   <project name="platform/prebuilts/fullsdk/platforms/android-26" />
   <project name="platform/prebuilts/fullsdk/platforms/android-28" />
+  <project name="platform/prebuilts/gas/linux-x86" groups="kernel-extra,notdefault" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" groups="darwin" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" groups="darwin" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" groups="darwin" />
