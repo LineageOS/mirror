@@ -1781,4 +1781,58 @@
   <project name="toolchain/xz" />
   <project name="toolchain/yasm" />
   <project name="tools/platform-compat" />
+  <!-- kernel/manifest -->
+  <project name="kernel/common" groups="kernel,notdefault" />
+  <project name="kernel/common-modules/virtual-device" groups="kernel,notdefault" />
+  <project name="kernel/common-patches" groups="kernel,notdefault" />
+  <project name="kernel/goldfish" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/amplifiers" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/aoc" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/aoc-ipc" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/bluetooth/broadcom" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/bms" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/display" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/edgetpu" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/fingerprint/fpc" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/fingerprint/goodix" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/gpu" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/lwis" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/nfc" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/power/reset" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/raviole-device" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/touch/common" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/touch/fts_touch" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/touch/sec_touch" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/uwb" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" groups="kernel,notdefault" />
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" groups="kernel,notdefault" />
+  <project name="kernel/gs" groups="kernel,notdefault" />
+  <project name="kernel/hikey-linaro" groups="kernel,notdefault" />
+  <project name="kernel/hikey-modules" groups="kernel,notdefault" />
+  <project name="kernel/manifest" groups="kernel,notdefault" />
+  <project name="kernel/msm" groups="kernel,notdefault" />
+  <project name="kernel/msm-extra" path="kernel/msm-extra.git" groups="kernel,notdefault" />
+  <project name="kernel/msm-extra/camera-devicetree" groups="kernel,notdefault" />
+  <project name="kernel/msm-extra/camera-kernel" groups="kernel,notdefault" />
+  <project name="kernel/msm-extra/dataipa" groups="kernel,notdefault" />
+  <project name="kernel/msm-extra/devicetree" groups="kernel,notdefault" />
+  <project name="kernel/msm-extra/display-devicetree" groups="kernel,notdefault" />
+  <project name="kernel/msm-extra/display-drivers" groups="kernel,notdefault" />
+  <project name="kernel/msm-extra/video-driver" groups="kernel,notdefault" />
+  <project name="kernel/msm-modules/data-kernel" groups="kernel,notdefault" />
+  <project name="kernel/msm-modules/fts_touch" groups="kernel,notdefault" />
+  <project name="kernel/msm-modules/fts_touch_s5" groups="kernel,notdefault" />
+  <project name="kernel/msm-modules/qca-wfi-host-cmn" groups="kernel,notdefault" />
+  <project name="kernel/msm-modules/qcacld" groups="kernel,notdefault" />
+  <project name="kernel/msm-modules/sec_touch" groups="kernel,notdefault" />
+  <project name="kernel/msm-modules/wlan-fw-api" groups="kernel,notdefault" />
+  <project name="kernel/omap" groups="kernel,notdefault" />
+  <project name="kernel/prebuilts/build-tools" groups="kernel,notdefault" />
+  <project name="kernel/tools/interceptor" groups="kernel,notdefault" />
+  <project name="platform/external/dwarves" groups="kernel,notdefault" />
+  <project name="platform/external/libbpf" groups="kernel,notdefault" />
+  <project name="platform/external/stg" groups="kernel,notdefault" />
+  <project name="platform/external/swig" groups="kernel,notdefault" />
+  <project name="platform/prebuilts/boot-artifacts" groups="kernel,notdefault" />
+  <project name="platform/prebuilts/gas/linux-x86" groups="kernel,notdefault" />
 </manifest>
