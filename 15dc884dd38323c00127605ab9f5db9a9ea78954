@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "93731c9e_b962bae1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2021-11-30T16:00:04Z",
+      "side": 1,
+      "message": "Seems to work.",
+      "revId": "15dc884dd38323c00127605ab9f5db9a9ea78954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "43ca0c00_6ce8de2c",
+        "filename": "aosp-minimal-regen.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2021-11-30T16:00:04Z",
+      "side": 1,
+      "message": "There\u0027s some generic common branches that pull in random repos, but otherwise the repos are all mostly pixels",
+      "revId": "15dc884dd38323c00127605ab9f5db9a9ea78954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "80ff8e46_3d15dcce",
+        "filename": "aosp-minimal-regen.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2021-11-30T16:00:04Z",
+      "side": 1,
+      "message": "I had them in the same set at first, split them for easier group handling.",
+      "revId": "15dc884dd38323c00127605ab9f5db9a9ea78954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c429d5dd_1ec4f279",
+        "filename": "aosp-minimal-regen.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2021-11-30T16:00:04Z",
+      "side": 1,
+      "message": "Since they\u0027re split, added this comment as a marker",
+      "revId": "15dc884dd38323c00127605ab9f5db9a9ea78954",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
