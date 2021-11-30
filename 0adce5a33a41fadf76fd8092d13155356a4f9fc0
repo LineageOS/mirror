@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8bfa75d0_dd9d2269",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2021-11-30T16:01:04Z",
+      "side": 1,
+      "message": "Test:\n\n```\nmkdir aosp; cd aosp; repo init -u https://github.com/LineageOS/mirror -b refs/changes/21/319621/3 -m aosp-minimal.xml; repo sync kernel/gs\nerror: project group must be enabled for project kernel/gs\nmkdir kernel; cd kernel; repo init -u https://github.com/LineageOS/mirror -b refs/changes/21/319621/3 -m aosp-minimal.xml -g kernel; repo sync kernel/gs\n# Syncs\n```\n",
+      "revId": "0adce5a33a41fadf76fd8092d13155356a4f9fc0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
