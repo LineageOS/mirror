@@ -5,10 +5,8 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 
-PLATFORM_MANIFEST = "platform/manifest"
-
-def groups_for_repo(repo):
-    groups = set()
+def groups_for_repo(repo, extra=[]):
+    groups = set(extra)
 
     if re.match(r"device/.*[_-]kernel", repo):
         groups.add("kernel")
@@ -37,40 +35,71 @@ def groups_for_repo(repo):
     return sorted(groups)
 
 
+def get_git_repo(url, path):
+    if os.path.isdir(path):
+        print("Updating {} repository...".format(path))
+        repo = git.Repo(path)
+        repo.remote("origin").fetch()
+    else:
+        print("Downloading {} repository...".format(path))
+        repo = git.Repo.clone_from(url, path)
+
+    return repo
+
+
+def parse_all_refs(manifest, refs):
+    repos = set()
+
+    for index, ref in enumerate(refs, 1):
+        print("[{}/{}] Parsing `{}`...".format(index, len(refs), ref))
+
+        # Load the XML
+        manifest_xml = ET.fromstring(manifest.git.show("{}:default.xml".format(ref)))
+
+        for child in manifest_xml:
+            # Skip all non-project tags
+            if child.tag != "project":
+                continue
+
+            repos.add(child.attrib["name"])
+
+    return repos
+
+
 try:
     import git
 except ImportError:
     sys.exit("Please install the GitPython package via pip3")
 
-# Clone (or update) the repository
-if os.path.isdir("aosp_manifest"):
-    print("Updating aosp_manifest repository...")
-    aosp_manifest = git.Repo("aosp_manifest")
-    aosp_manifest.remote("origin").fetch()
-else:
-    print("Downloading aosp_manifest repository...")
-    aosp_manifest = git.Repo.clone_from("https://android.googlesource.com/platform/manifest", "aosp_manifest")
+# Clone (or update) the repositories
+platform_manifest = get_git_repo("https://android.googlesource.com/platform/manifest", "aosp_manifest")
+kernel_manifest = get_git_repo("https://android.googlesource.com/kernel/manifest", "aosp_kernel_manifest")
 
 # Get all the refs
-refs = [tag for tag in sorted(aosp_manifest.git.tag(l=True).splitlines())]  # All the tags...
-refs.append('origin/master')  # ...and master
+platform_refs = [tag for tag in sorted(platform_manifest.git.tag(l=True).splitlines())]  # All the tags...
+platform_refs.append('origin/master')  # ...and master
+kernel_refs = [h.name for h in kernel_manifest.refs]  # All the refs, repo only has branches no tags...
 
-repos = set()
+# Skip a broken kernel ref
+kernel_refs.remove("origin/android-gs-raviole-mainline")
 
 # Look for repo names in each ref
-for index, ref in enumerate(refs, 1):
-    print("[{}/{}] Parsing `{}`...".format(index, len(refs), ref))
+platform_repos = parse_all_refs(platform_manifest, platform_refs)
+kernel_repos = parse_all_refs(kernel_manifest, kernel_refs)
 
-    # Load the XML
-    manifest_xml = ET.fromstring(aosp_manifest.git.show("{}:default.xml".format(ref)))
+# Always add the manifest so one can sync from this mirror
+platform_repos.add("platform/manifest")
+kernel_repos.add("kernel/manifest")
 
-    for child in manifest_xml:
-        # Skip all non-project tags
-        if child.tag != "project":
-            continue
+# Remove kernel repositories that are already in the platform manifest
+kernel_repos = kernel_repos - platform_repos
 
-        repos.add(child.attrib["name"])
-
+# Generate groups for all repositories
+repos = {}
+for repo in platform_repos:
+    repos[repo] = groups_for_repo(repo)
+for repo in kernel_repos:
+    repos[repo] = groups_for_repo(repo, extra=["kernel-extra", "notdefault"])
 
 file = open("aosp-minimal.xml", "w")
 file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
@@ -82,10 +111,6 @@ file.write("  <default revision=\"master\"\n")
 file.write("           remote=\"aosp\"\n")
 file.write("           sync-j=\"4\" />\n")
 file.write("\n")
-
-# Always add platform/manifest so one can sync from this manifest
-if PLATFORM_MANIFEST not in repos:
-    repos.add(PLATFORM_MANIFEST)
 
 for repo in sorted(repos):
     # remove an unavailable repository
@@ -99,7 +124,7 @@ for repo in sorted(repos):
         line += " path=\"" + repo + ".git\""
 
     # Add groups
-    groups = groups_for_repo(repo)
+    groups = repos[repo]
     if len(groups) > 0:
         line += " groups=\"" + ",".join(groups) + "\""
 
