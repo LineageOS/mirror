@@ -825,6 +825,7 @@
   <project name="platform/external/rust/crates/derive_arbitrary" />
   <project name="platform/external/rust/crates/downcast-rs" />
   <project name="platform/external/rust/crates/either" />
+  <project name="platform/external/rust/crates/enumn" />
   <project name="platform/external/rust/crates/env_logger" />
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />
