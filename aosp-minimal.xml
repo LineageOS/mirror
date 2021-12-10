@@ -759,6 +759,7 @@
   <project name="platform/external/python/pyopenssl" />
   <project name="platform/external/python/pyparsing" />
   <project name="platform/external/python/pytest" />
+  <project name="platform/external/python/python-api-core" />
   <project name="platform/external/python/requests" />
   <project name="platform/external/python/rsa" />
   <project name="platform/external/python/scipy" />
