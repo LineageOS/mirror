@@ -64,6 +64,7 @@
   <project name="LineageOS/android_device_asus_I001D" />
   <project name="LineageOS/android_device_asus_I01WD" />
   <project name="LineageOS/android_device_asus_P024" />
+  <project name="LineageOS/android_device_asus_X00P" />
   <project name="LineageOS/android_device_asus_X00TD" />
   <project name="LineageOS/android_device_asus_X01AD" />
   <project name="LineageOS/android_device_asus_X01BD" />
@@ -81,6 +82,7 @@
   <project name="LineageOS/android_device_asus_grouper" />
   <project name="LineageOS/android_device_asus_mofd-common" />
   <project name="LineageOS/android_device_asus_msm8916-common" />
+  <project name="LineageOS/android_device_asus_msm8937-common" />
   <project name="LineageOS/android_device_asus_obiwan" />
   <project name="LineageOS/android_device_asus_sake" />
   <project name="LineageOS/android_device_asus_sdm660-common" />
@@ -1695,6 +1697,7 @@
   <project name="LineageOS/android_kernel_asus_grouper" />
   <project name="LineageOS/android_kernel_asus_moorefield" />
   <project name="LineageOS/android_kernel_asus_msm8916" />
+  <project name="LineageOS/android_kernel_asus_msm8937" />
   <project name="LineageOS/android_kernel_asus_msm8953" />
   <project name="LineageOS/android_kernel_asus_sdm660" />
   <project name="LineageOS/android_kernel_asus_sdm845" />
