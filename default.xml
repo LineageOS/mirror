@@ -152,9 +152,13 @@
   <project name="LineageOS/android_device_google_crosshatch" />
   <project name="LineageOS/android_device_google_dragon" />
   <project name="LineageOS/android_device_google_flame" />
+  <project name="LineageOS/android_device_google_gs101" />
   <project name="LineageOS/android_device_google_marlin" />
   <project name="LineageOS/android_device_google_msm8952-common" />
   <project name="LineageOS/android_device_google_muskie" />
+  <project name="LineageOS/android_device_google_oriole" />
+  <project name="LineageOS/android_device_google_raven" />
+  <project name="LineageOS/android_device_google_raviole" />
   <project name="LineageOS/android_device_google_redbull" />
   <project name="LineageOS/android_device_google_redfin" />
   <project name="LineageOS/android_device_google_sabrina" />
@@ -1093,6 +1097,7 @@
   <project name="LineageOS/android_external_alsa-utils" />
   <project name="LineageOS/android_external_android-clat" />
   <project name="LineageOS/android_external_android-mock" />
+  <project name="LineageOS/android_external_android-nn-driver" />
   <project name="LineageOS/android_external_android-visualizer" />
   <project name="LineageOS/android_external_ant-glob" />
   <project name="LineageOS/android_external_ant-wireless_ant_client" />
@@ -1106,6 +1111,7 @@
   <project name="LineageOS/android_external_apache-qp" />
   <project name="LineageOS/android_external_apache-xml" />
   <project name="LineageOS/android_external_arduino" />
+  <project name="LineageOS/android_external_armnn" />
   <project name="LineageOS/android_external_astl" />
   <project name="LineageOS/android_external_bash" />
   <project name="LineageOS/android_external_bison" />
