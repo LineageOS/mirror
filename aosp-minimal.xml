@@ -637,6 +637,7 @@
   <project name="platform/external/minijail" />
   <project name="platform/external/mksh" />
   <project name="platform/external/mmc-utils" />
+  <project name="platform/external/mobly-bundled-snippets" />
   <project name="platform/external/mockftpserver" />
   <project name="platform/external/mockito" />
   <project name="platform/external/mockwebserver" />
@@ -727,6 +728,7 @@
   <project name="platform/external/python/google-api-python-client" />
   <project name="platform/external/python/google-auth" />
   <project name="platform/external/python/google-auth-httplib2" />
+  <project name="platform/external/python/google-auth-library-python" />
   <project name="platform/external/python/google-cloud-core" />
   <project name="platform/external/python/google-cloud-pubsub" />
   <project name="platform/external/python/google-gax" />
@@ -1083,6 +1085,7 @@
   <project name="platform/external/wpa_supplicant_6" />
   <project name="platform/external/wpa_supplicant_8" />
   <project name="platform/external/wpantund" />
+  <project name="platform/external/wuffs-mirror-release-c" />
   <project name="platform/external/wycheproof" />
   <project name="platform/external/x264" />
   <project name="platform/external/xdelta3" />
