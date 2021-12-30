@@ -506,6 +506,7 @@
   <project name="platform/external/javapoet" />
   <project name="platform/external/javasqlite" />
   <project name="platform/external/javassist" />
+  <project name="platform/external/jazzer-api" />
   <project name="platform/external/jcommander" />
   <project name="platform/external/jdiff" />
   <project name="platform/external/jemalloc" />
