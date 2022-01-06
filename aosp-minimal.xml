@@ -639,6 +639,7 @@
   <project name="platform/external/mksh" />
   <project name="platform/external/mmc-utils" />
   <project name="platform/external/mobly-bundled-snippets" />
+  <project name="platform/external/mobly-snippet-lib" />
   <project name="platform/external/mockftpserver" />
   <project name="platform/external/mockito" />
   <project name="platform/external/mockwebserver" />
