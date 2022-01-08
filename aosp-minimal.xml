@@ -742,6 +742,7 @@
   <project name="platform/external/python/jinja" />
   <project name="platform/external/python/markupsafe" />
   <project name="platform/external/python/matplotlib" />
+  <project name="platform/external/python/mobly" />
   <project name="platform/external/python/mock" />
   <project name="platform/external/python/more-itertools" />
   <project name="platform/external/python/numpy" />
