@@ -676,6 +676,7 @@
   <project name="LineageOS/android_device_samsung_gprimeltespr" />
   <project name="LineageOS/android_device_samsung_gprimeltexx" />
   <project name="LineageOS/android_device_samsung_gracerlte" />
+  <project name="LineageOS/android_device_samsung_gta4xl" />
   <project name="LineageOS/android_device_samsung_gta4xl-common" />
   <project name="LineageOS/android_device_samsung_gta4xlwifi" />
   <project name="LineageOS/android_device_samsung_gte-common" />
