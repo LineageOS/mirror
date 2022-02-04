@@ -664,6 +664,7 @@
   <project name="platform/external/nos/host/generic" />
   <project name="platform/external/nos/test/system-test-harness" />
   <project name="platform/external/noto-fonts" />
+  <project name="platform/external/nullaway" />
   <project name="platform/external/oauth" />
   <project name="platform/external/objenesis" />
   <project name="platform/external/oboe" />
@@ -822,6 +823,7 @@
   <project name="platform/external/rust/crates/combine" />
   <project name="platform/external/rust/crates/command-fds" />
   <project name="platform/external/rust/crates/const_fn" />
+  <project name="platform/external/rust/crates/coset" />
   <project name="platform/external/rust/crates/crc32fast" />
   <project name="platform/external/rust/crates/criterion" />
   <project name="platform/external/rust/crates/criterion-plot" />
