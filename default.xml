@@ -2352,7 +2352,6 @@
   <project name="LineageOS/cm_crowdin" />
   <project name="LineageOS/cm_platform_sdk" />
   <project name="LineageOS/contributors-cloud-generator" />
-  <project name="LineageOS/ctso_supplicant" />
   <project name="LineageOS/cve_tracker" />
   <project name="LineageOS/device_htc_marvel" />
   <project name="LineageOS/device_htc_ville" />
@@ -2377,7 +2376,6 @@
   <project name="LineageOS/huaweigeneric-ril" />
   <project name="LineageOS/hudson" />
   <project name="LineageOS/ion" />
-  <project name="LineageOS/jenkins_build" />
   <project name="LineageOS/kernel-omap" />
   <project name="LineageOS/lge-kernel-e400" />
   <project name="LineageOS/lge-kernel-gproj" />
@@ -2394,7 +2392,6 @@
   <project name="LineageOS/lineage_wiki" />
   <project name="LineageOS/lineageos_updater" />
   <project name="LineageOS/mirror" />
-  <project name="LineageOS/mirrorbits" />
   <project name="LineageOS/motorola-kernel-stingray" />
   <project name="LineageOS/samsung-kernel-galaxys" />
   <project name="LineageOS/samsung-kernel-hercules" />
@@ -2410,6 +2407,5 @@
   <project name="LineageOS/tribble-tracker" />
   <project name="LineageOS/update_verifier" />
   <project name="LineageOS/www" />
-  <project name="LineageOS/zifnab06-buildkite-test" />
   <project name="LineageOS/zte-kernel-msm7x27" />
 </manifest>
