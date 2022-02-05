@@ -1681,6 +1681,7 @@
   <project name="platform/system/connectivity/wificond" />
   <project name="platform/system/connectivity/wifilogd" />
   <project name="platform/system/core" />
+  <project name="platform/system/dmesgd" />
   <project name="platform/system/extras" />
   <project name="platform/system/firewalld" />
   <project name="platform/system/gatekeeper" />
