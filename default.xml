@@ -1737,6 +1737,7 @@
   <project name="LineageOS/android_kernel_fairphone_sdm632" />
   <project name="LineageOS/android_kernel_fxtec_msm8998" />
   <project name="LineageOS/android_kernel_goldfish" />
+  <project name="LineageOS/android_kernel_google_barbet" />
   <project name="LineageOS/android_kernel_google_bonito" />
   <project name="LineageOS/android_kernel_google_coral" />
   <project name="LineageOS/android_kernel_google_crosshatch" />
