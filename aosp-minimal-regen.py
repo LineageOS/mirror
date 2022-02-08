@@ -91,6 +91,9 @@ kernel_repos = parse_all_refs(kernel_manifest, kernel_refs)
 platform_repos.add("platform/manifest")
 kernel_repos.add("kernel/manifest")
 
+# Include repositories that we added to the default manifest ourselves
+platform_repos.add("platform/prebuilts/gas/linux-x86")
+
 # Remove kernel repositories that are already in the platform manifest
 kernel_repos = kernel_repos - platform_repos
 
