@@ -1545,7 +1545,7 @@
   <project name="platform/prebuilts/fullsdk/platforms/android-21" />
   <project name="platform/prebuilts/fullsdk/platforms/android-26" />
   <project name="platform/prebuilts/fullsdk/platforms/android-28" />
-  <project name="platform/prebuilts/gas/linux-x86" groups="kernel-extra,notdefault" />
+  <project name="platform/prebuilts/gas/linux-x86" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" groups="darwin" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" groups="darwin" />
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" groups="darwin" />
