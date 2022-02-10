@@ -910,6 +910,10 @@
   <project name="platform/external/rust/crates/paste-impl" />
   <project name="platform/external/rust/crates/peeking_take_while" />
   <project name="platform/external/rust/crates/percent-encoding" />
+  <project name="platform/external/rust/crates/pest" />
+  <project name="platform/external/rust/crates/pest_derive" />
+  <project name="platform/external/rust/crates/pest_generator" />
+  <project name="platform/external/rust/crates/pest_meta" />
   <project name="platform/external/rust/crates/pin-project" />
   <project name="platform/external/rust/crates/pin-project-internal" />
   <project name="platform/external/rust/crates/pin-project-lite" />
@@ -979,6 +983,7 @@
   <project name="platform/external/rust/crates/tokio-macros" />
   <project name="platform/external/rust/crates/tokio-stream" />
   <project name="platform/external/rust/crates/tokio-test" />
+  <project name="platform/external/rust/crates/ucd-trie" />
   <project name="platform/external/rust/crates/unicode-bidi" />
   <project name="platform/external/rust/crates/unicode-normalization" />
   <project name="platform/external/rust/crates/unicode-segmentation" />
