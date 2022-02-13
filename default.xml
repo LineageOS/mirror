@@ -478,6 +478,7 @@
   <project name="LineageOS/android_device_motorola_msm8960_jbbl-common" />
   <project name="LineageOS/android_device_motorola_msm8960dt-common" />
   <project name="LineageOS/android_device_motorola_nash" />
+  <project name="LineageOS/android_device_motorola_nio" />
   <project name="LineageOS/android_device_motorola_obake" />
   <project name="LineageOS/android_device_motorola_ocean" />
   <project name="LineageOS/android_device_motorola_olympus" />
@@ -1820,6 +1821,7 @@
   <project name="LineageOS/android_kernel_motorola_otus" />
   <project name="LineageOS/android_kernel_motorola_sdm632" />
   <project name="LineageOS/android_kernel_motorola_sm7250" />
+  <project name="LineageOS/android_kernel_motorola_sm8250" />
   <project name="LineageOS/android_kernel_motorola_titan" />
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
   <project name="LineageOS/android_kernel_nokia_sdm660" />
