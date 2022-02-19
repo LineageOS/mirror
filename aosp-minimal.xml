@@ -667,6 +667,7 @@
   <project name="platform/external/noto-fonts" />
   <project name="platform/external/nullaway" />
   <project name="platform/external/oauth" />
+  <project name="platform/external/obex" />
   <project name="platform/external/objenesis" />
   <project name="platform/external/oboe" />
   <project name="platform/external/obstack" />
