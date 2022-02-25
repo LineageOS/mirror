@@ -438,6 +438,7 @@
   <project name="platform/external/geojson-jackson" />
   <project name="platform/external/geonames" />
   <project name="platform/external/gflags" />
+  <project name="platform/external/gfxstream-protocols" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
   <project name="platform/external/gmock" />
