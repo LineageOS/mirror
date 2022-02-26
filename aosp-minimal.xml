@@ -785,6 +785,7 @@
   <project name="platform/external/rapidjson" />
   <project name="platform/external/rappor" />
   <project name="platform/external/regex-re2" />
+  <project name="platform/external/renderscript-intrinsics-replacement-toolkit" />
   <project name="platform/external/replicaisland" />
   <project name="platform/external/rmi4utils" />
   <project name="platform/external/rnnoise" />
@@ -1637,6 +1638,7 @@
   <project name="platform/prebuilts/maven_repo/bumptech" />
   <project name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" />
   <project name="platform/prebuilts/misc" />
+  <project name="platform/prebuilts/module_sdk/Bluetooth" />
   <project name="platform/prebuilts/module_sdk/Connectivity" />
   <project name="platform/prebuilts/module_sdk/IPsec" />
   <project name="platform/prebuilts/module_sdk/Media" />
@@ -1824,6 +1826,7 @@
   <project name="platform/tools/swt" />
   <project name="platform/tools/test/connectivity" />
   <project name="platform/tools/test/graphicsbenchmark" />
+  <project name="platform/tools/test/mobly_snippets" />
   <project name="platform/tools/test/openhst" />
   <project name="platform/tools/tradefederation" path="platform/tools/tradefederation.git" />
   <project name="platform/tools/tradefederation/contrib" />
