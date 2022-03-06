@@ -1729,6 +1729,7 @@
   <project name="LineageOS/android_kernel_bq_msm8953" />
   <project name="LineageOS/android_kernel_bq_msm8976" />
   <project name="LineageOS/android_kernel_bq_sdm660" />
+  <project name="LineageOS/android_kernel_configs" />
   <project name="LineageOS/android_kernel_cyanogen_msm8916" />
   <project name="LineageOS/android_kernel_cyanogen_msm8974" />
   <project name="LineageOS/android_kernel_cyanogen_msm8994" />
