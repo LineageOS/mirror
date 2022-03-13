@@ -1391,6 +1391,7 @@
   <project name="LineageOS/android_external_sbsigntool" />
   <project name="LineageOS/android_external_selinux" />
   <project name="LineageOS/android_external_sepolicy" />
+  <project name="LineageOS/android_external_setupcompat" />
   <project name="LineageOS/android_external_sfntly" />
   <project name="LineageOS/android_external_skia" />
   <project name="LineageOS/android_external_smali" />
