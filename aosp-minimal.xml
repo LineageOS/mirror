@@ -1681,6 +1681,7 @@
   <project name="platform/prebuilts/vndk/v29" />
   <project name="platform/prebuilts/vndk/v30" />
   <project name="platform/prebuilts/vndk/v31" />
+  <project name="platform/prebuilts/vndk/v32" />
   <project name="platform/sdk" />
   <project name="platform/system/apex" />
   <project name="platform/system/ashmemd" />
