@@ -255,6 +255,7 @@
   <project name="LineageOS/android_external_safe-iop" />
   <project name="LineageOS/android_external_selinux" />
   <project name="LineageOS/android_external_sepolicy" />
+  <project name="LineageOS/android_external_setupcompat" />
   <project name="LineageOS/android_external_sfntly" />
   <project name="LineageOS/android_external_skia" />
   <project name="LineageOS/android_external_smali" />
@@ -409,6 +410,7 @@
   <project name="LineageOS/android_hardware_ti_omap4xxx" />
   <project name="LineageOS/android_hardware_ti_wlan" />
   <project name="LineageOS/android_hardware_ti_wpan" />
+  <project name="LineageOS/android_kernel_configs" />
   <project name="LineageOS/android_libcore" />
   <project name="LineageOS/android_libnativehelper" />
   <project name="LineageOS/android_lineage-sdk" />
