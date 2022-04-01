@@ -594,6 +594,8 @@
   <project name="platform/external/libsrtp2" />
   <project name="platform/external/libssh2" />
   <project name="platform/external/libtextclassifier" />
+  <project name="platform/external/libtraceevent" />
+  <project name="platform/external/libtracefs" />
   <project name="platform/external/libunwind" />
   <project name="platform/external/libunwind_llvm" />
   <project name="platform/external/liburing" />
@@ -1074,6 +1076,7 @@
   <project name="platform/external/toybox" />
   <project name="platform/external/tpm2" />
   <project name="platform/external/tpm2-tss" />
+  <project name="platform/external/trace-cmd" />
   <project name="platform/external/trappy" />
   <project name="platform/external/tremolo" />
   <project name="platform/external/tremor" />
