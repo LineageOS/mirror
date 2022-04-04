@@ -2154,6 +2154,7 @@
   <project name="LineageOS/android_packages_apps_YahooWeatherProvider" />
   <project name="LineageOS/android_packages_experimental" />
   <project name="LineageOS/android_packages_inputmethods_LatinIME" />
+  <project name="LineageOS/android_packages_inputmethods_LeanbackIME" />
   <project name="LineageOS/android_packages_inputmethods_OpenWnn" />
   <project name="LineageOS/android_packages_inputmethods_PinyinIME" />
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
