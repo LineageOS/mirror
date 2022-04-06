@@ -503,12 +503,14 @@
   <project name="LineageOS/android_packages_apps_YahooWeatherProvider" />
   <project name="LineageOS/android_packages_experimental" />
   <project name="LineageOS/android_packages_inputmethods_LatinIME" />
+  <project name="LineageOS/android_packages_inputmethods_LeanbackIME" />
   <project name="LineageOS/android_packages_inputmethods_OpenWnn" />
   <project name="LineageOS/android_packages_inputmethods_PinyinIME" />
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
   <project name="LineageOS/android_packages_modules_Connectivity" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
+  <project name="LineageOS/android_packages_modules_Permission" />
   <project name="LineageOS/android_packages_modules_Wifi" />
   <project name="LineageOS/android_packages_modules_adb" />
   <project name="LineageOS/android_packages_modules_common" />
