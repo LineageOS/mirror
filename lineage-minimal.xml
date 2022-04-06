@@ -604,6 +604,7 @@
   <project name="LineageOS/android_tools_metalava" />
   <project name="LineageOS/android_vendor_cm" />
   <project name="LineageOS/android_vendor_codeaurora_telephony" />
+  <project name="LineageOS/android_vendor_crowdin" />
   <project name="LineageOS/android_vendor_lineage" />
   <project name="LineageOS/android_vendor_nxp_interfaces_opensource_nfc" />
   <project name="LineageOS/android_vendor_nxp_nfc" />
