@@ -771,6 +771,7 @@
   <project name="platform/external/python/pylint" />
   <project name="platform/external/python/pyopenssl" />
   <project name="platform/external/python/pyparsing" />
+  <project name="platform/external/python/pyserial" />
   <project name="platform/external/python/pytest" />
   <project name="platform/external/python/python-api-core" />
   <project name="platform/external/python/requests" />
@@ -778,6 +779,7 @@
   <project name="platform/external/python/scipy" />
   <project name="platform/external/python/setuptools" />
   <project name="platform/external/python/six" />
+  <project name="platform/external/python/typing" />
   <project name="platform/external/python/uritemplates" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
