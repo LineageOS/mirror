@@ -16,6 +16,23 @@
       "message": "What\u0027s holding this up? I think it\u0027s a good start, we can always add more repos here.\n\nWe can also just as easily and safely remove repos if that\u0027s ever needed. (removing won\u0027t delete them from disk, just won\u0027t update them - and we know caf isn\u0027t going to get updates anymore anyway)",
       "revId": "3ef8691046f46f08a536d3ac11603163ba1ea487",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d31bdb54_8c0ed6bb",
+        "filename": "caf-minimal.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2022-04-13T23:25:37Z",
+      "side": 1,
+      "message": "One thing I see is that this missed the newer kernels (5.4, 5.10), but a simple regen might fix that.",
+      "revId": "3ef8691046f46f08a536d3ac11603163ba1ea487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
