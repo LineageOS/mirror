@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "582094b2_1d3e8955",
+        "filename": "caf-regen.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2022-04-15T14:11:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d91da255_3f118587",
+      "revId": "5a5fdbb04af662528a1d5b0c22a1c2fe6b9aa05b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ae5f576a_02a13fa6",
@@ -31,6 +49,24 @@
       "writtenOn": "2022-04-15T13:41:42Z",
       "side": 1,
       "message": "Should not be needed, those were only removed because they were listed in a manifest, but not public.",
+      "revId": "5a5fdbb04af662528a1d5b0c22a1c2fe6b9aa05b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "87b763df_c952fd7c",
+        "filename": "caf-regen.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2022-04-15T14:11:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ae5f576a_02a13fa6",
       "revId": "5a5fdbb04af662528a1d5b0c22a1c2fe6b9aa05b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
