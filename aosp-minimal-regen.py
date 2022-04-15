@@ -5,6 +5,7 @@ import re
 import sys
 import xml.etree.ElementTree as ET
 
+
 def groups_for_repo(repo, extra=[]):
     groups = set(extra)
 
@@ -72,13 +73,21 @@ except ImportError:
     sys.exit("Please install the GitPython package via pip3")
 
 # Clone (or update) the repositories
-platform_manifest = get_git_repo("https://android.googlesource.com/platform/manifest", "aosp_manifest")
-kernel_manifest = get_git_repo("https://android.googlesource.com/kernel/manifest", "aosp_kernel_manifest")
+platform_manifest = get_git_repo(
+    "https://android.googlesource.com/platform/manifest", "aosp_manifest"
+)
+kernel_manifest = get_git_repo(
+    "https://android.googlesource.com/kernel/manifest", "aosp_kernel_manifest"
+)
 
 # Get all the refs
-platform_refs = [tag for tag in sorted(platform_manifest.git.tag(l=True).splitlines())]  # All the tags...
-platform_refs.append('origin/master')  # ...and master
-kernel_refs = [ref.name for ref in kernel_manifest.refs]  # All the refs, repo only has branches no tags...
+platform_refs = [
+    tag for tag in sorted(platform_manifest.git.tag(l=True).splitlines())
+]  # All the tags...
+platform_refs.append("origin/master")  # ...and master
+kernel_refs = [
+    ref.name for ref in kernel_manifest.refs
+]  # All the refs, repo only has branches no tags...
 
 # Skip a broken kernel ref
 kernel_refs.remove("origin/android-gs-raviole-mainline")
@@ -105,14 +114,14 @@ for repo in kernel_repos:
     repos[repo] = groups_for_repo(repo, extra=["kernel-extra", "notdefault"])
 
 file = open("aosp-minimal.xml", "w")
-file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
+file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 file.write("<manifest>\n")
 file.write("\n")
-file.write("  <remote  name=\"aosp\"\n")
-file.write("           fetch=\"https://android.googlesource.com\" />\n")
-file.write("  <default revision=\"master\"\n")
-file.write("           remote=\"aosp\"\n")
-file.write("           sync-j=\"4\" />\n")
+file.write('  <remote  name="aosp"\n')
+file.write('           fetch="https://android.googlesource.com" />\n')
+file.write('  <default revision="master"\n')
+file.write('           remote="aosp"\n')
+file.write('           sync-j="4" />\n')
 file.write("\n")
 
 for repo in sorted(repos):
@@ -120,16 +129,16 @@ for repo in sorted(repos):
     if repo == "platform/packages/apps/OMA-DM":
         continue
 
-    line = "name=\"" + repo + "\""
+    line = 'name="' + repo + '"'
 
     # Would we get a path conflict?
     if any(s.startswith(repo + "/") for s in repos):
-        line += " path=\"" + repo + ".git\""
+        line += ' path="' + repo + '.git"'
 
     # Add groups
     groups = repos[repo]
     if len(groups) > 0:
-        line += " groups=\"" + ",".join(groups) + "\""
+        line += ' groups="' + ",".join(groups) + '"'
 
     file.write("  <project " + line + " />\n")
 

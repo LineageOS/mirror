@@ -17,10 +17,16 @@ if os.path.isdir("lineage_manifest"):
     lineage_manifest.remote("origin").fetch()
 else:
     print("Downloading lineage_manifest repository...")
-    lineage_manifest = git.Repo.clone_from("https://github.com/LineageOS/android", "lineage_manifest")
+    lineage_manifest = git.Repo.clone_from(
+        "https://github.com/LineageOS/android", "lineage_manifest"
+    )
 
 # Get all the refs
-refs = [re.search(r'remotes/(\S+)', tag).group(1) for tag in lineage_manifest.git.branch(a=True).splitlines() if "remotes/" in tag]
+refs = [
+    re.search(r"remotes/(\S+)", tag).group(1)
+    for tag in lineage_manifest.git.branch(a=True).splitlines()
+    if "remotes/" in tag
+]
 
 repos = set()
 
@@ -28,7 +34,7 @@ repos = set()
 for index, ref in enumerate(refs, 1):
     print("[{}/{}] Parsing `{}`...".format(index, len(refs), ref))
 
-    xml_todo = ['default.xml']
+    xml_todo = ["default.xml"]
 
     # Load the XML
     while len(xml_todo) != 0:
@@ -54,18 +60,18 @@ for index, ref in enumerate(refs, 1):
 
 
 file = open("lineage-minimal.xml", "w")
-file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
+file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 file.write("<manifest>\n")
 file.write("\n")
-file.write("  <remote  name=\"github\"\n")
-file.write("           fetch=\"..\" />\n")
-file.write("  <default revision=\"master\"\n")
-file.write("           remote=\"github\"\n")
-file.write("           sync-j=\"4\" />\n")
+file.write('  <remote  name="github"\n')
+file.write('           fetch=".." />\n')
+file.write('  <default revision="master"\n')
+file.write('           remote="github"\n')
+file.write('           sync-j="4" />\n')
 file.write("\n")
 
 for repo in sorted(repos):
-    file.write("  <project name=\"" + repo + "\" />\n")
+    file.write('  <project name="' + repo + '" />\n')
 
 file.write("</manifest>\n")
 file.close()
