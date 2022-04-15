@@ -2,6 +2,7 @@
 
 import os
 import sys
+
 try:
     from github import Github
 except ImportError:
@@ -20,15 +21,15 @@ orgName = "LineageOS"
 org = Github(u, p).get_user(orgName)
 
 file = open("default.xml", "w")
-file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
+file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 file.write("<manifest>\n")
 file.write("\n")
-file.write("  <remote  name=\"github\"\n")
-file.write("           fetch=\"..\" />\n")
+file.write('  <remote  name="github"\n')
+file.write('           fetch=".." />\n')
 file.write("\n")
-file.write("  <default revision=\"master\"\n")
-file.write("           remote=\"github\"\n")
-file.write("           sync-j=\"4\" />\n")
+file.write('  <default revision="master"\n')
+file.write('           remote="github"\n')
+file.write('           sync-j="4" />\n')
 file.write("\n")
 
 repos = []
@@ -37,7 +38,7 @@ for repo in org.get_repos():
     repos.append(repo.full_name)
 
 for repo in sorted(repos):
-    file.write("  <project name=\"" + repo + "\" />\n")
+    file.write('  <project name="' + repo + '" />\n')
 
 file.write("</manifest>\n")
 file.close()

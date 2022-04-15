@@ -16,6 +16,7 @@ def manifest_for_ref(ref):
 
     return ref
 
+
 def groups_for_repo(repo, extra=[]):
     groups = set(extra)
 
@@ -62,7 +63,7 @@ def parse_all_refs(manifest, refs):
     repos = set()
 
     for index, ref in enumerate(refs, 1):
-        print("\033[K[{}/{}] Parsing `{}`...".format(index, len(refs), ref), end='\r')
+        print("\033[K[{}/{}] Parsing `{}`...".format(index, len(refs), ref), end="\r")
 
         manifest_name = manifest_for_ref(ref)
 
@@ -70,17 +71,19 @@ def parse_all_refs(manifest, refs):
             continue
 
         # Load the XML
-        manifest_xml = ET.fromstring(manifest.git.show("{}:{}.xml".format(ref, manifest_name)))
+        manifest_xml = ET.fromstring(
+            manifest.git.show("{}:{}.xml".format(ref, manifest_name))
+        )
 
         # Check for the correct remote
-        for remote in manifest_xml.findall('remote'):
+        for remote in manifest_xml.findall("remote"):
             if remote.attrib["fetch"] == "https://source.codeaurora.org/quic/la/":
                 break
         else:
             # This runs if no break has been encountered
             continue
 
-        for child in manifest_xml.findall('project'):
+        for child in manifest_xml.findall("project"):
             # Filter remaining quic/ repos
             if child.attrib["name"].startswith("quic/"):
                 continue
@@ -97,9 +100,16 @@ except ImportError:
 
 # Clone (or update) the repositories
 # Use AOSP repository for filtering AOSP tags
-platform_manifest = get_git_repo("https://source.codeaurora.org/quic/la/platform/manifest", "caf_manifest")
-kernel_manifest = get_git_repo("https://source.codeaurora.org/quic/la/kernelplatform/manifest", "caf_kernel_manifest")
-aosp_manifest = get_git_repo("https://android.googlesource.com/platform/manifest", "aosp_manifest")
+platform_manifest = get_git_repo(
+    "https://source.codeaurora.org/quic/la/platform/manifest", "caf_manifest"
+)
+kernel_manifest = get_git_repo(
+    "https://source.codeaurora.org/quic/la/kernelplatform/manifest",
+    "caf_kernel_manifest",
+)
+aosp_manifest = get_git_repo(
+    "https://android.googlesource.com/platform/manifest", "aosp_manifest"
+)
 
 # Get all the refs
 platform_refs = [tag for tag in sorted(platform_manifest.git.tag(l=True).splitlines())]
@@ -107,7 +117,11 @@ kernel_refs = [tag for tag in sorted(kernel_manifest.git.tag(l=True).splitlines(
 aosp_refs = [tag for tag in sorted(aosp_manifest.git.tag(l=True).splitlines())]
 
 # Exclude refs found on AOSP (assume that `android-*` is also from there)
-platform_refs = [ref for ref in platform_refs if not ref.startswith("android-") and ref not in aosp_refs]
+platform_refs = [
+    ref
+    for ref in platform_refs
+    if not ref.startswith("android-") and ref not in aosp_refs
+]
 
 # Skip a broken ref
 platform_refs.remove("M7630AABBQVLZA0020")
@@ -131,31 +145,33 @@ for repo in kernel_repos:
     repos[repo] = groups_for_repo(repo, extra=["kernel-extra", "notdefault"])
 
 file = open("caf-minimal.xml", "w")
-file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
+file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 file.write("<manifest>\n")
 file.write("\n")
-file.write("  <remote  name=\"caf\"\n")
-file.write("           fetch=\"https://source.codeaurora.org/quic/la/\" />\n")
-file.write("  <default revision=\"master\"\n")
-file.write("           remote=\"caf\"\n")
-file.write("           sync-j=\"4\" />\n")
+file.write('  <remote  name="caf"\n')
+file.write('           fetch="https://source.codeaurora.org/quic/la/" />\n')
+file.write('  <default revision="master"\n')
+file.write('           remote="caf"\n')
+file.write('           sync-j="4" />\n')
 file.write("\n")
 
 for repo in sorted(repos):
     # Remove a few repositories
-    if repo == "platform/tools/vendor/google_prebuilts/arc" or repo.startswith("platform/vendor/google_"):
+    if repo == "platform/tools/vendor/google_prebuilts/arc" or repo.startswith(
+        "platform/vendor/google_"
+    ):
         continue
 
-    line = "name=\"" + repo + "\""
+    line = 'name="' + repo + '"'
 
     # Would we get a path conflict?
     if any(s.startswith(repo + "/") for s in repos):
-        line += " path=\"" + repo + ".git\""
+        line += ' path="' + repo + '.git"'
 
     # Add groups
     groups = repos[repo]
     if len(groups) > 0:
-        line += " groups=\"" + ",".join(groups) + "\""
+        line += ' groups="' + ",".join(groups) + '"'
 
     file.write("  <project " + line + " />\n")
 

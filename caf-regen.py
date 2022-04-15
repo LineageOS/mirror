@@ -7,6 +7,7 @@ import sys
 import urllib.request
 import xml.etree.ElementTree as ET
 
+
 def groups_for_repo(repo, extra=[]):
     groups = set(extra)
 
@@ -40,13 +41,16 @@ def groups_for_repo(repo, extra=[]):
 def get_all_repos():
     repos = set()
 
-    caf = urllib.request.urlopen(urllib.request.Request("https://source.codeaurora.org/quic/la/")).read()
-    soup = BeautifulSoup(caf, 'html.parser')
+    caf = urllib.request.urlopen(
+        urllib.request.Request("https://source.codeaurora.org/quic/la/")
+    ).read()
+    soup = BeautifulSoup(caf, "html.parser")
 
-    for repo in soup.find_all(class_='sublevel-repo'):
-        repos.add(repo.a['href'][9:-1]) # Drop /quic/la/
+    for repo in soup.find_all(class_="sublevel-repo"):
+        repos.add(repo.a["href"][9:-1])  # Drop /quic/la/
 
     return repos
+
 
 # Generate groups for all repositories
 repos = {}
@@ -54,31 +58,33 @@ for repo in get_all_repos():
     repos[repo] = groups_for_repo(repo)
 
 file = open("caf.xml", "w")
-file.write("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n")
+file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 file.write("<manifest>\n")
 file.write("\n")
-file.write("  <remote  name=\"caf\"\n")
-file.write("           fetch=\"https://source.codeaurora.org/quic/la/\" />\n")
-file.write("  <default revision=\"master\"\n")
-file.write("           remote=\"caf\"\n")
-file.write("           sync-j=\"4\" />\n")
+file.write('  <remote  name="caf"\n')
+file.write('           fetch="https://source.codeaurora.org/quic/la/" />\n')
+file.write('  <default revision="master"\n')
+file.write('           remote="caf"\n')
+file.write('           sync-j="4" />\n')
 file.write("\n")
 
 for repo in sorted(repos):
     # Remove a few repositories
-    if repo == "platform/tools/vendor/google_prebuilts/arc" or repo.startswith("platform/vendor/google_"):
+    if repo == "platform/tools/vendor/google_prebuilts/arc" or repo.startswith(
+        "platform/vendor/google_"
+    ):
         continue
 
-    line = "name=\"" + repo + "\""
+    line = 'name="' + repo + '"'
 
     # Would we get a path conflict?
     if any(s.startswith(repo + "/") for s in repos):
-        line += " path=\"" + repo + ".git\""
+        line += ' path="' + repo + '.git"'
 
     # Add groups
     groups = repos[repo]
     if len(groups) > 0:
-        line += " groups=\"" + ",".join(groups) + "\""
+        line += ' groups="' + ",".join(groups) + '"'
 
     file.write("  <project " + line + " />\n")
 
