@@ -1145,6 +1145,10 @@
   <project name="LineageOS/android_external_chromium-trace" />
   <project name="LineageOS/android_external_chromium-webview" />
   <project name="LineageOS/android_external_chromium-webview_backup-20210212" />
+  <project name="LineageOS/android_external_chromium-webview_patches" />
+  <project name="LineageOS/android_external_chromium-webview_prebuilt_arm" />
+  <project name="LineageOS/android_external_chromium-webview_prebuilt_arm64" />
+  <project name="LineageOS/android_external_chromium-webview_prebuilt_x86" />
   <project name="LineageOS/android_external_chromium_org" />
   <project name="LineageOS/android_external_chromium_org_third_party_boringssl_src" />
   <project name="LineageOS/android_external_chromium_org_third_party_brotli_src" />
