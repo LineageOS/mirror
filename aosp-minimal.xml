@@ -779,6 +779,7 @@
   <project name="platform/external/python/scipy" />
   <project name="platform/external/python/setuptools" />
   <project name="platform/external/python/six" />
+  <project name="platform/external/python/timeout-decorator" />
   <project name="platform/external/python/typing" />
   <project name="platform/external/python/uritemplates" />
   <project name="platform/external/qemu" />
