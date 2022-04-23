@@ -983,6 +983,7 @@
   <project name="platform/external/rust/crates/syn-mid" />
   <project name="platform/external/rust/crates/tempfile" />
   <project name="platform/external/rust/crates/termcolor" />
+  <project name="platform/external/rust/crates/terminal-size" />
   <project name="platform/external/rust/crates/textwrap" />
   <project name="platform/external/rust/crates/thiserror" />
   <project name="platform/external/rust/crates/thiserror-impl" />
