@@ -1594,12 +1594,15 @@
   <project name="LineageOS/android_hardware_nvidia_platform_t210b01_darcy" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210b01_ers" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210b01_sif" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t23x_common_kernel-dts" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t23x_concord_kernel-dts" />
   <project name="LineageOS/android_hardware_nvidia_platform_tegra_common" />
   <project name="LineageOS/android_hardware_nvidia_power" />
   <project name="LineageOS/android_hardware_nvidia_sensors" />
   <project name="LineageOS/android_hardware_nvidia_soc_t18x" />
   <project name="LineageOS/android_hardware_nvidia_soc_t19x" />
   <project name="LineageOS/android_hardware_nvidia_soc_t210" />
+  <project name="LineageOS/android_hardware_nvidia_soc_t23x" />
   <project name="LineageOS/android_hardware_nvidia_soc_tegra" />
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
   <project name="LineageOS/android_hardware_nvidia_thermal" />
