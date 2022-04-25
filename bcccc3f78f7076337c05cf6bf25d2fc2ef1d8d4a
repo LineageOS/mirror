@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b13cb3d7_d7f3072c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2022-04-25T20:20:10Z",
+      "side": 1,
+      "message": "`repo init --standalone-manifest -u https://raw.githubusercontent.com/LineageOS/mirror/bcccc3f78f7076337c05cf6bf25d2fc2ef1d8d4a/caf.xml --mirror`",
+      "revId": "bcccc3f78f7076337c05cf6bf25d2fc2ef1d8d4a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
