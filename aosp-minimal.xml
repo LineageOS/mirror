@@ -818,6 +818,7 @@
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bitflags" />
   <project name="platform/external/rust/crates/bstr" />
+  <project name="platform/external/rust/crates/buddy_system_allocator" />
   <project name="platform/external/rust/crates/byteorder" />
   <project name="platform/external/rust/crates/bytes" />
   <project name="platform/external/rust/crates/cast" />
@@ -940,6 +941,7 @@
   <project name="platform/external/rust/crates/proc-macro2" />
   <project name="platform/external/rust/crates/protobuf" />
   <project name="platform/external/rust/crates/protobuf-codegen" />
+  <project name="platform/external/rust/crates/psci" />
   <project name="platform/external/rust/crates/quiche" />
   <project name="platform/external/rust/crates/quickcheck" />
   <project name="platform/external/rust/crates/quote" />
