@@ -54,7 +54,9 @@
   <project name="LineageOS/android_device_amazon_otterx" />
   <project name="LineageOS/android_device_amazon_tate" />
   <project name="LineageOS/android_device_amazon_thor" />
+  <project name="LineageOS/android_device_amlogic_common" />
   <project name="LineageOS/android_device_amlogic_g12-common" />
+  <project name="LineageOS/android_device_amlogic_gx-common" />
   <project name="LineageOS/android_device_amlogic_sepolicy" />
   <project name="LineageOS/android_device_ark_msm8916-common" />
   <project name="LineageOS/android_device_ark_peach" />
