@@ -544,6 +544,7 @@
   <project name="LineageOS/android_device_nvidia_galen_tab" />
   <project name="LineageOS/android_device_nvidia_icera" />
   <project name="LineageOS/android_device_nvidia_jetson" />
+  <project name="LineageOS/android_device_nvidia_loki" />
   <project name="LineageOS/android_device_nvidia_mdarcy" />
   <project name="LineageOS/android_device_nvidia_mdarcy_tab" />
   <project name="LineageOS/android_device_nvidia_porg" />
