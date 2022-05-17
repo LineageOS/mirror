@@ -65,6 +65,7 @@ file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 file.write("<manifest>\n")
 file.write("\n")
 file.write('  <remote  name="caf"\n')
+file.write('           review="https://source.codeaurora.org/quic/la/"\n')
 file.write('           fetch="https://source.codeaurora.org/quic/la/" />\n')
 file.write('  <default revision="master"\n')
 file.write('           remote="caf"\n')
@@ -76,7 +77,9 @@ for repo in sorted(repos):
 
     # Would we get a path conflict?
     if any(s.startswith(repo + "/") for s in repos):
-        line += ' path="' + repo + '.git"'
+        line += ' path="' + repo + '_git"'
+    else:
+        line += ' path="' + repo + '"'
 
     # Add groups
     groups = repos[repo]
