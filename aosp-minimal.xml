@@ -760,6 +760,7 @@
   <project name="platform/external/python/parse_type" />
   <project name="platform/external/python/pluggy" />
   <project name="platform/external/python/ply" />
+  <project name="platform/external/python/portpicker" />
   <project name="platform/external/python/proto-google-cloud-pubsub-v1" />
   <project name="platform/external/python/protobuf" />
   <project name="platform/external/python/py" />
