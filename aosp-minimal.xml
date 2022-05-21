@@ -775,6 +775,7 @@
   <project name="platform/external/python/pyserial" />
   <project name="platform/external/python/pytest" />
   <project name="platform/external/python/python-api-core" />
+  <project name="platform/external/python/pyyaml" />
   <project name="platform/external/python/requests" />
   <project name="platform/external/python/rsa" />
   <project name="platform/external/python/scipy" />
