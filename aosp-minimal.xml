@@ -800,6 +800,7 @@
   <project name="platform/external/robolectric-shadows" />
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
+  <project name="platform/external/rust/crates/aarch64-paging" />
   <project name="platform/external/rust/crates/ahash" />
   <project name="platform/external/rust/crates/aho-corasick" />
   <project name="platform/external/rust/crates/android_log-sys" />
