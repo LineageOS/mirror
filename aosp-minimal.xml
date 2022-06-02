@@ -8,6 +8,7 @@
            sync-j="4" />
 
   <project name="assets/android-studio-ux-assets" />
+  <project name="chromiumos/third_party/kernel" groups="kernel-extra,notdefault" />
   <project name="device/amlogic/yukawa" />
   <project name="device/amlogic/yukawa-kernel" groups="kernel" />
   <project name="device/asus/deb" />
@@ -137,6 +138,7 @@
   <project name="device/ti/beagle-x15" />
   <project name="device/ti/beagle-x15-kernel" groups="kernel" />
   <project name="device/ti/panda" />
+  <project name="kernel/arcvm-modules/common" groups="kernel-extra,notdefault" />
   <project name="kernel/build" />
   <project name="kernel/common" groups="kernel-extra,notdefault" />
   <project name="kernel/common-modules/virtual-device" groups="kernel-extra,notdefault" />
