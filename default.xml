@@ -1519,7 +1519,9 @@
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_dhd-driver" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_mali-driver" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_media" />
+  <project name="LineageOS/android_hardware_amlogic_kernel-modules_media-pie" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_optee" />
+  <project name="LineageOS/android_hardware_amlogic_kernel-modules_optee-pie" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_rtk_btusb" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_rtl8822bs" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_rtl8822cs" />
@@ -1715,6 +1717,7 @@
   <project name="LineageOS/android_kernel_amazon_hdx-common" />
   <project name="LineageOS/android_kernel_amazon_otter-common" />
   <project name="LineageOS/android_kernel_amlogic_linux-4.9" />
+  <project name="LineageOS/android_kernel_amlogic_linux-4.9-pie" />
   <project name="LineageOS/android_kernel_ark_msm8916" />
   <project name="LineageOS/android_kernel_asus_I001" />
   <project name="LineageOS/android_kernel_asus_P024" />
