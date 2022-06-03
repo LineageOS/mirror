@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c6fc7651_f5403ee7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2022-06-03T11:56:59Z",
+      "side": 1,
+      "message": "https://android.googlesource.com/kernel/manifest/+/refs/heads/common-android13-5.15-arcvm%5E%21/#F0\n\nSkipping project \u0027chromiumos/third_party/kernel\u0027 with non-AOSP remote \u0027cros\u0027",
+      "revId": "f47d68bd22de614c5e6d3657179f391d5dd19932",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
