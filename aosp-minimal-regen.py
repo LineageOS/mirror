@@ -52,7 +52,7 @@ def parse_all_refs(manifest, refs):
     repos = set()
 
     for index, ref in enumerate(refs, 1):
-        print("[{}/{}] Parsing `{}`...".format(index, len(refs), ref))
+        print("\033[K[{}/{}] Parsing `{}`...".format(index, len(refs), ref), end="\r")
 
         # Load the XML
         manifest_xml = ET.fromstring(manifest.git.show("{}:default.xml".format(ref)))
@@ -60,6 +60,14 @@ def parse_all_refs(manifest, refs):
         for child in manifest_xml:
             # Skip all non-project tags
             if child.tag != "project":
+                continue
+
+            if "remote" in child.attrib and child.attrib["remote"] != "aosp":
+                print(
+                    "Skipping project '{}' with non-AOSP remote '{}'".format(
+                        child.attrib["name"], child.attrib["remote"]
+                    )
+                )
                 continue
 
             repos.add(child.attrib["name"])
