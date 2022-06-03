@@ -8,7 +8,6 @@
            sync-j="4" />
 
   <project name="assets/android-studio-ux-assets" />
-  <project name="chromiumos/third_party/kernel" groups="kernel-extra,notdefault" />
   <project name="device/amlogic/yukawa" />
   <project name="device/amlogic/yukawa-kernel" groups="kernel" />
   <project name="device/asus/deb" />
