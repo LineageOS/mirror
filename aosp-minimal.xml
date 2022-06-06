@@ -1364,6 +1364,7 @@
   <project name="platform/packages/apps/Car/UserManagement" />
   <project name="platform/packages/apps/Car/externallibs" />
   <project name="platform/packages/apps/Car/libs" />
+  <project name="platform/packages/apps/Car/systemlibs" />
   <project name="platform/packages/apps/Car/tests" />
   <project name="platform/packages/apps/CarrierConfig" />
   <project name="platform/packages/apps/CellBroadcastReceiver" />
@@ -1727,6 +1728,7 @@
   <project name="platform/system/iot/attestation" />
   <project name="platform/system/keyguard" />
   <project name="platform/system/keymaster" />
+  <project name="platform/system/keymint" />
   <project name="platform/system/libartpalette" />
   <project name="platform/system/libbase" />
   <project name="platform/system/libcppbor" />
