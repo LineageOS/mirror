@@ -1767,6 +1767,7 @@
   <project name="LineageOS/android_kernel_google_msm" />
   <project name="LineageOS/android_kernel_google_msm-4.14" />
   <project name="LineageOS/android_kernel_google_msm-4.9" />
+  <project name="LineageOS/android_kernel_google_raviole" />
   <project name="LineageOS/android_kernel_google_redbull" />
   <project name="LineageOS/android_kernel_google_seed" />
   <project name="LineageOS/android_kernel_google_shamrock" />
