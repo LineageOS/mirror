@@ -1918,6 +1918,10 @@
   <project name="LineageOS/android_kernel_qcom_msm8994" />
   <project name="LineageOS/android_kernel_qcom_msm8996" />
   <project name="LineageOS/android_kernel_qcom_msm8998" />
+  <project name="LineageOS/android_kernel_qcom_sdm845" />
+  <project name="LineageOS/android_kernel_qcom_sm8150" />
+  <project name="LineageOS/android_kernel_qcom_sm8250" />
+  <project name="LineageOS/android_kernel_qcom_sm8350" />
   <project name="LineageOS/android_kernel_razer_msm8998" />
   <project name="LineageOS/android_kernel_razer_sdm845" />
   <project name="LineageOS/android_kernel_realme_sdm660" />
