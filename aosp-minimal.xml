@@ -716,6 +716,7 @@
   <project name="platform/external/pthreadpool" />
   <project name="platform/external/puffin" />
   <project name="platform/external/python/Pillow" />
+  <project name="platform/external/python/absl-py" groups="kernel-extra,notdefault" />
   <project name="platform/external/python/apitools" />
   <project name="platform/external/python/appdirs" />
   <project name="platform/external/python/asn1crypto" />
@@ -872,6 +873,7 @@
   <project name="platform/external/rust/crates/futures-macro" />
   <project name="platform/external/rust/crates/futures-sink" />
   <project name="platform/external/rust/crates/futures-task" />
+  <project name="platform/external/rust/crates/futures-test" />
   <project name="platform/external/rust/crates/futures-util" />
   <project name="platform/external/rust/crates/gdbstub" />
   <project name="platform/external/rust/crates/gdbstub_arch" />
