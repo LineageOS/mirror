@@ -231,6 +231,7 @@
   <project name="platform/developers/samples/android" />
   <project name="platform/development" />
   <project name="platform/docs/source.android.com" />
+  <project name="platform/external/AFLplusplus" />
   <project name="platform/external/ARMComputeLibrary" />
   <project name="platform/external/AntennaPod/AntennaPod" />
   <project name="platform/external/AntennaPod/AudioPlayer" />
