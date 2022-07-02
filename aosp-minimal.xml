@@ -1533,6 +1533,7 @@
   <project name="platform/prebuilts/android-emulator-build/mesa-deps" />
   <project name="platform/prebuilts/android-emulator-build/qemu-android-deps" />
   <project name="platform/prebuilts/asuite" />
+  <project name="platform/prebuilts/bazel/common" />
   <project name="platform/prebuilts/bazel/darwin-x86_64" groups="darwin" />
   <project name="platform/prebuilts/bazel/linux-x86_64" />
   <project name="platform/prebuilts/boot-artifacts" groups="kernel-extra,notdefault" />
