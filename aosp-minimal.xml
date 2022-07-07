@@ -718,7 +718,7 @@
   <project name="platform/external/pthreadpool" />
   <project name="platform/external/puffin" />
   <project name="platform/external/python/Pillow" />
-  <project name="platform/external/python/absl-py" groups="kernel-extra,notdefault" />
+  <project name="platform/external/python/absl-py" />
   <project name="platform/external/python/apitools" />
   <project name="platform/external/python/appdirs" />
   <project name="platform/external/python/asn1crypto" />
