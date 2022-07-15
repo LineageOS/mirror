@@ -1230,6 +1230,7 @@
   <project name="platform/hardware/bsp/kernel/qcom/qcom-msm8x53-v3.18" groups="bsp" />
   <project name="platform/hardware/bsp/kernel/raspberrypi/pi-v4.4" groups="bsp" />
   <project name="platform/hardware/bsp/kernel/rockchip/rk-v4.4" groups="bsp" />
+  <project name="platform/hardware/google/aemu" />
   <project name="platform/hardware/google/apf" />
   <project name="platform/hardware/google/av" />
   <project name="platform/hardware/google/camera" />
