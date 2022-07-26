@@ -878,6 +878,7 @@
   <project name="platform/external/rust/crates/futures-task" />
   <project name="platform/external/rust/crates/futures-test" />
   <project name="platform/external/rust/crates/futures-util" />
+  <project name="platform/external/rust/crates/fxhash" />
   <project name="platform/external/rust/crates/gdbstub" />
   <project name="platform/external/rust/crates/gdbstub_arch" />
   <project name="platform/external/rust/crates/getrandom" />
