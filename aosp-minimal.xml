@@ -47,6 +47,9 @@
   <project name="device/google/barbet" />
   <project name="device/google/barbet-kernel" groups="kernel" />
   <project name="device/google/barbet-sepolicy" />
+  <project name="device/google/bluejay" />
+  <project name="device/google/bluejay-kernel" groups="kernel" />
+  <project name="device/google/bluejay-sepolicy" />
   <project name="device/google/bonito" />
   <project name="device/google/bonito-kernel" groups="kernel" />
   <project name="device/google/bonito-sepolicy" />
@@ -143,6 +146,7 @@
   <project name="kernel/common-modules/virtual-device" groups="kernel-extra,notdefault" />
   <project name="kernel/common-patches" groups="kernel-extra,notdefault" />
   <project name="kernel/configs" />
+  <project name="kernel/devices/google/bluejay" groups="kernel-extra,notdefault" />
   <project name="kernel/goldfish" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/amplifiers" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/aoc" groups="kernel-extra,notdefault" />
@@ -158,6 +162,7 @@
   <project name="kernel/google-modules/nfc" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/power/reset" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/raviole-device" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/sensors/hall_sensor" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/touch/common" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/touch/fts_touch" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/touch/sec_touch" groups="kernel-extra,notdefault" />
