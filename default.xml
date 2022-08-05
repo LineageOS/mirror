@@ -130,6 +130,7 @@
   <project name="LineageOS/android_device_essential_mata" />
   <project name="LineageOS/android_device_fairphone_FP2" />
   <project name="LineageOS/android_device_fairphone_FP3" />
+  <project name="LineageOS/android_device_fairphone_FP4" />
   <project name="LineageOS/android_device_fxtec_pro1" />
   <project name="LineageOS/android_device_geeksphone_one" />
   <project name="LineageOS/android_device_geeksphone_zero" />
@@ -148,6 +149,7 @@
   <project name="LineageOS/android_device_google_atv" />
   <project name="LineageOS/android_device_google_barbet" />
   <project name="LineageOS/android_device_google_beast" />
+  <project name="LineageOS/android_device_google_bluejay" />
   <project name="LineageOS/android_device_google_blueline" />
   <project name="LineageOS/android_device_google_bonito" />
   <project name="LineageOS/android_device_google_bramble" />
@@ -1759,9 +1761,11 @@
   <project name="LineageOS/android_kernel_essential_msm8998" />
   <project name="LineageOS/android_kernel_fairphone_msm8974" />
   <project name="LineageOS/android_kernel_fairphone_sdm632" />
+  <project name="LineageOS/android_kernel_fairphone_sm7225" />
   <project name="LineageOS/android_kernel_fxtec_msm8998" />
   <project name="LineageOS/android_kernel_goldfish" />
   <project name="LineageOS/android_kernel_google_barbet" />
+  <project name="LineageOS/android_kernel_google_bluejay" />
   <project name="LineageOS/android_kernel_google_bonito" />
   <project name="LineageOS/android_kernel_google_coral" />
   <project name="LineageOS/android_kernel_google_crosshatch" />
