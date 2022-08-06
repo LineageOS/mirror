@@ -225,6 +225,7 @@
   <project name="platform/build/bazel_common_rules" />
   <project name="platform/build/blueprint" />
   <project name="platform/build/kati" />
+  <project name="platform/build/orchestrator" />
   <project name="platform/build/pesto" />
   <project name="platform/build/soong" />
   <project name="platform/compatibility/cdd" />
