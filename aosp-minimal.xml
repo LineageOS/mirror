@@ -482,6 +482,7 @@
   <project name="platform/external/grpc-grpc" />
   <project name="platform/external/grpc-grpc-java" />
   <project name="platform/external/grub" />
+  <project name="platform/external/gson" />
   <project name="platform/external/gtest" />
   <project name="platform/external/guava" />
   <project name="platform/external/guice" />
@@ -543,6 +544,7 @@
   <project name="platform/external/kotlinx.coroutines" />
   <project name="platform/external/kotlinx.metadata" />
   <project name="platform/external/ksoap2" />
+  <project name="platform/external/ktfmt" />
   <project name="platform/external/lcc" />
   <project name="platform/external/libabigail" />
   <project name="platform/external/libaom" />
@@ -733,6 +735,7 @@
   <project name="platform/external/python/astroid" />
   <project name="platform/external/python/atomicwrites" />
   <project name="platform/external/python/attrs" />
+  <project name="platform/external/python/bumble" />
   <project name="platform/external/python/cachetools" />
   <project name="platform/external/python/cffi" />
   <project name="platform/external/python/cpython2" />
