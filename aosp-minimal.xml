@@ -706,6 +706,7 @@
   <project name="platform/external/oprofile" />
   <project name="platform/external/oss-fuzz" />
   <project name="platform/external/owasp/sanitizer" />
+  <project name="platform/external/pandora/avatar" />
   <project name="platform/external/pandora/bt-test-interfaces" />
   <project name="platform/external/pandora/mmi2grpc" />
   <project name="platform/external/parameter-framework" />
@@ -783,6 +784,7 @@
   <project name="platform/external/python/pyasn1-modules" />
   <project name="platform/external/python/pybind11" />
   <project name="platform/external/python/pycparser" />
+  <project name="platform/external/python/pyee" />
   <project name="platform/external/python/pyfakefs" />
   <project name="platform/external/python/pylint" />
   <project name="platform/external/python/pyopenssl" />
