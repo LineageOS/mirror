@@ -443,6 +443,7 @@
   <project name="LineageOS/android_device_motorola_athene" />
   <project name="LineageOS/android_device_motorola_backflip" />
   <project name="LineageOS/android_device_motorola_beckham" />
+  <project name="LineageOS/android_device_motorola_berlin" />
   <project name="LineageOS/android_device_motorola_cedric" />
   <project name="LineageOS/android_device_motorola_channel" />
   <project name="LineageOS/android_device_motorola_chef" />
@@ -505,6 +506,8 @@
   <project name="LineageOS/android_device_motorola_shadow" />
   <project name="LineageOS/android_device_motorola_sholes" />
   <project name="LineageOS/android_device_motorola_sm7250-common" />
+  <project name="LineageOS/android_device_motorola_sm7325-common" />
+  <project name="LineageOS/android_device_motorola_sm8250-common" />
   <project name="LineageOS/android_device_motorola_smith" />
   <project name="LineageOS/android_device_motorola_solana" />
   <project name="LineageOS/android_device_motorola_spyder" />
@@ -1849,6 +1852,7 @@
   <project name="LineageOS/android_kernel_motorola_otus" />
   <project name="LineageOS/android_kernel_motorola_sdm632" />
   <project name="LineageOS/android_kernel_motorola_sm7250" />
+  <project name="LineageOS/android_kernel_motorola_sm7325" />
   <project name="LineageOS/android_kernel_motorola_sm8250" />
   <project name="LineageOS/android_kernel_motorola_titan" />
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
