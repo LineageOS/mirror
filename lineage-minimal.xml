@@ -347,6 +347,8 @@
   <project name="LineageOS/android_hardware_cm" />
   <project name="LineageOS/android_hardware_cyanogen" />
   <project name="LineageOS/android_hardware_google_av" />
+  <project name="LineageOS/android_hardware_google_gchips" />
+  <project name="LineageOS/android_hardware_google_graphics_common" />
   <project name="LineageOS/android_hardware_google_pixel" />
   <project name="LineageOS/android_hardware_google_pixel-sepolicy" />
   <project name="LineageOS/android_hardware_intel_bootstub" />
