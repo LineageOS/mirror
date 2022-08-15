@@ -593,6 +593,7 @@
   <project name="platform/external/libnl-headers" />
   <project name="platform/external/libogg" />
   <project name="platform/external/libopus" />
+  <project name="platform/external/libpalmrejection" />
   <project name="platform/external/libpcap" />
   <project name="platform/external/libphonenumber" />
   <project name="platform/external/libpng" />
@@ -1122,6 +1123,7 @@
   <project name="platform/external/unicode" />
   <project name="platform/external/universal-tween-engine" />
   <project name="platform/external/usrsctp" />
+  <project name="platform/external/uwb" />
   <project name="platform/external/v4l2_codec2" />
   <project name="platform/external/v8" />
   <project name="platform/external/valgrind" />
@@ -1445,6 +1447,7 @@
   <project name="platform/packages/apps/Stk" />
   <project name="platform/packages/apps/StorageManager" />
   <project name="platform/packages/apps/Sync" />
+  <project name="platform/packages/apps/SystemUIGo" />
   <project name="platform/packages/apps/TV" />
   <project name="platform/packages/apps/Tag" />
   <project name="platform/packages/apps/Terminal" />
@@ -1466,6 +1469,7 @@
   <project name="platform/packages/inputmethods/LeanbackIME" />
   <project name="platform/packages/inputmethods/OpenWnn" />
   <project name="platform/packages/inputmethods/PinyinIME" />
+  <project name="platform/packages/modules/AdServices" />
   <project name="platform/packages/modules/AppSearch" />
   <project name="platform/packages/modules/ArtPrebuilt" />
   <project name="platform/packages/modules/Bluetooth" />
@@ -1485,6 +1489,7 @@
   <project name="platform/packages/modules/NetworkPermissionConfig" />
   <project name="platform/packages/modules/NetworkStack" />
   <project name="platform/packages/modules/NeuralNetworks" />
+  <project name="platform/packages/modules/OnDevicePersonalization" />
   <project name="platform/packages/modules/Permission" />
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SEPolicy" />
@@ -1681,15 +1686,19 @@
   <project name="platform/prebuilts/maven_repo/bumptech" />
   <project name="platform/prebuilts/maven_repo/google-play-service-client-libraries-3p" />
   <project name="platform/prebuilts/misc" />
+  <project name="platform/prebuilts/module_sdk/AdServices" />
+  <project name="platform/prebuilts/module_sdk/AppSearch" />
   <project name="platform/prebuilts/module_sdk/Bluetooth" />
   <project name="platform/prebuilts/module_sdk/Connectivity" />
   <project name="platform/prebuilts/module_sdk/IPsec" />
   <project name="platform/prebuilts/module_sdk/Media" />
   <project name="platform/prebuilts/module_sdk/MediaProvider" />
+  <project name="platform/prebuilts/module_sdk/OnDevicePersonalization" />
   <project name="platform/prebuilts/module_sdk/Permission" />
   <project name="platform/prebuilts/module_sdk/Scheduling" />
   <project name="platform/prebuilts/module_sdk/SdkExtensions" />
   <project name="platform/prebuilts/module_sdk/StatsD" />
+  <project name="platform/prebuilts/module_sdk/Uwb" />
   <project name="platform/prebuilts/module_sdk/Wifi" />
   <project name="platform/prebuilts/module_sdk/art" />
   <project name="platform/prebuilts/module_sdk/conscrypt" />
