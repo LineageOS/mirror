@@ -154,7 +154,8 @@
   <project name="kernel/google-modules/bluetooth/broadcom" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/bms" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/display" groups="kernel-extra,notdefault" />
-  <project name="kernel/google-modules/edgetpu" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/edgetpu" path="kernel/google-modules/edgetpu.git" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/edgetpu/abrolhos" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/fingerprint/fpc" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/fingerprint/goodix" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/gpu" groups="kernel-extra,notdefault" />
