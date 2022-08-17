@@ -496,6 +496,7 @@
   <project name="LineageOS/android_device_motorola_payton" />
   <project name="LineageOS/android_device_motorola_peregrine" />
   <project name="LineageOS/android_device_motorola_potter" />
+  <project name="LineageOS/android_device_motorola_pstar" />
   <project name="LineageOS/android_device_motorola_qcom-common" />
   <project name="LineageOS/android_device_motorola_quark" />
   <project name="LineageOS/android_device_motorola_racer" />
