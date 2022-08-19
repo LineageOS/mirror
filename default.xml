@@ -963,6 +963,7 @@
   <project name="LineageOS/android_device_sony_karin_windy" />
   <project name="LineageOS/android_device_sony_kirin" />
   <project name="LineageOS/android_device_sony_kitakami-common" />
+  <project name="LineageOS/android_device_sony_kugo" />
   <project name="LineageOS/android_device_sony_kumquat" />
   <project name="LineageOS/android_device_sony_loire-common" />
   <project name="LineageOS/android_device_sony_lotus" />
