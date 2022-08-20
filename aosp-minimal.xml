@@ -1868,6 +1868,7 @@
   <project name="platform/tools/metalava" />
   <project name="platform/tools/motodev" />
   <project name="platform/tools/ndkports" />
+  <project name="platform/tools/netsim" />
   <project name="platform/tools/repohooks" />
   <project name="platform/tools/security" />
   <project name="platform/tools/studio/cloud" />
