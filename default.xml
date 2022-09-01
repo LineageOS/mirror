@@ -493,6 +493,7 @@
   <project name="LineageOS/android_device_motorola_omap4-common" />
   <project name="LineageOS/android_device_motorola_osprey" />
   <project name="LineageOS/android_device_motorola_otus" />
+  <project name="LineageOS/android_device_motorola_parker" />
   <project name="LineageOS/android_device_motorola_payton" />
   <project name="LineageOS/android_device_motorola_peregrine" />
   <project name="LineageOS/android_device_motorola_potter" />
@@ -506,6 +507,7 @@
   <project name="LineageOS/android_device_motorola_sdm660-common" />
   <project name="LineageOS/android_device_motorola_shadow" />
   <project name="LineageOS/android_device_motorola_sholes" />
+  <project name="LineageOS/android_device_motorola_sm6150-common" />
   <project name="LineageOS/android_device_motorola_sm7250-common" />
   <project name="LineageOS/android_device_motorola_sm7325-common" />
   <project name="LineageOS/android_device_motorola_sm8250-common" />
@@ -1862,6 +1864,7 @@
   <project name="LineageOS/android_kernel_motorola_omap4-kexec-common" />
   <project name="LineageOS/android_kernel_motorola_otus" />
   <project name="LineageOS/android_kernel_motorola_sdm632" />
+  <project name="LineageOS/android_kernel_motorola_sm6150" />
   <project name="LineageOS/android_kernel_motorola_sm7250" />
   <project name="LineageOS/android_kernel_motorola_sm7325" />
   <project name="LineageOS/android_kernel_motorola_sm8250" />
