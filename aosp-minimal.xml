@@ -292,6 +292,7 @@
   <project name="platform/external/avb" />
   <project name="platform/external/bart" />
   <project name="platform/external/bazel-skylib" />
+  <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-rules_android" />
   <project name="platform/external/bc" />
   <project name="platform/external/bcc" />
