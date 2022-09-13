@@ -1590,6 +1590,7 @@
   <project name="LineageOS/android_hardware_knowles_athletico_sound_trigger_hal" />
   <project name="LineageOS/android_hardware_libhardware" />
   <project name="LineageOS/android_hardware_libhardware_legacy" />
+  <project name="LineageOS/android_hardware_lineage_compat" />
   <project name="LineageOS/android_hardware_lineage_interfaces" />
   <project name="LineageOS/android_hardware_lineage_libperfmgr" />
   <project name="LineageOS/android_hardware_lineage_lineagehw" />
