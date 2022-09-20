@@ -294,6 +294,7 @@
   <project name="platform/external/bazel-skylib" />
   <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-rules_android" />
+  <project name="platform/external/bazelbuild-rules_license" />
   <project name="platform/external/bc" />
   <project name="platform/external/bcc" />
   <project name="platform/external/bison" />
@@ -524,6 +525,7 @@
   <project name="platform/external/jdiff" />
   <project name="platform/external/jemalloc" />
   <project name="platform/external/jemalloc_new" />
+  <project name="platform/external/jetbrains/intellij-kotlin" />
   <project name="platform/external/jetbrains/kotlin" />
   <project name="platform/external/jetty" />
   <project name="platform/external/jhead" />
@@ -1494,6 +1496,7 @@
   <project name="platform/packages/modules/NeuralNetworks" />
   <project name="platform/packages/modules/OnDevicePersonalization" />
   <project name="platform/packages/modules/Permission" />
+  <project name="platform/packages/modules/RemoteKeyProvisioning" />
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SEPolicy" />
   <project name="platform/packages/modules/Scheduling" />
