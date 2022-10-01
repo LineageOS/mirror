@@ -1789,6 +1789,7 @@
   <project name="LineageOS/android_kernel_google_coral" />
   <project name="LineageOS/android_kernel_google_crosshatch" />
   <project name="LineageOS/android_kernel_google_dragon" />
+  <project name="LineageOS/android_kernel_google_gs101" />
   <project name="LineageOS/android_kernel_google_marlin" />
   <project name="LineageOS/android_kernel_google_msm" />
   <project name="LineageOS/android_kernel_google_msm-4.14" />
