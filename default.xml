@@ -1918,6 +1918,7 @@
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvgpu" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvidia" />
   <project name="LineageOS/android_kernel_nvidia_mainline" />
+  <project name="LineageOS/android_kernel_nvidia_nvethernetrm" />
   <project name="LineageOS/android_kernel_nvidia_nvgpu" />
   <project name="LineageOS/android_kernel_nvidia_nvidia" />
   <project name="LineageOS/android_kernel_nvidia_roth" />
