@@ -596,6 +596,7 @@
   <project name="LineageOS/android_system_libziparchive" />
   <project name="LineageOS/android_system_logging" />
   <project name="LineageOS/android_system_media" />
+  <project name="LineageOS/android_system_memory_lmkd" />
   <project name="LineageOS/android_system_netd" />
   <project name="LineageOS/android_system_nfc" />
   <project name="LineageOS/android_system_qcom" />
