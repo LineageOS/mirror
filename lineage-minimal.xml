@@ -421,6 +421,7 @@
   <project name="LineageOS/android_libcore" />
   <project name="LineageOS/android_libnativehelper" />
   <project name="LineageOS/android_lineage-sdk" />
+  <project name="LineageOS/android_packages_apps_Aperture" />
   <project name="LineageOS/android_packages_apps_Apollo" />
   <project name="LineageOS/android_packages_apps_AppDrawer" />
   <project name="LineageOS/android_packages_apps_AudioFX" />
