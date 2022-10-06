@@ -861,6 +861,7 @@
   <project name="platform/external/rust/crates/codespan-reporting" />
   <project name="platform/external/rust/crates/combine" />
   <project name="platform/external/rust/crates/command-fds" />
+  <project name="platform/external/rust/crates/const-oid" />
   <project name="platform/external/rust/crates/const_fn" />
   <project name="platform/external/rust/crates/coset" />
   <project name="platform/external/rust/crates/crc32fast" />
@@ -873,8 +874,10 @@
   <project name="platform/external/rust/crates/crossbeam-utils" />
   <project name="platform/external/rust/crates/csv" />
   <project name="platform/external/rust/crates/csv-core" />
+  <project name="platform/external/rust/crates/der" />
   <project name="platform/external/rust/crates/der-oid-macro" />
   <project name="platform/external/rust/crates/der-parser" />
+  <project name="platform/external/rust/crates/der_derive" />
   <project name="platform/external/rust/crates/derive_arbitrary" />
   <project name="platform/external/rust/crates/downcast-rs" />
   <project name="platform/external/rust/crates/either" />
@@ -882,6 +885,7 @@
   <project name="platform/external/rust/crates/env_logger" />
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />
+  <project name="platform/external/rust/crates/flagset" />
   <project name="platform/external/rust/crates/flate2" />
   <project name="platform/external/rust/crates/fnv" />
   <project name="platform/external/rust/crates/foreign-types" />
@@ -966,6 +970,8 @@
   <project name="platform/external/rust/crates/pin-project-internal" />
   <project name="platform/external/rust/crates/pin-project-lite" />
   <project name="platform/external/rust/crates/pin-utils" />
+  <project name="platform/external/rust/crates/pkcs1" />
+  <project name="platform/external/rust/crates/pkcs8" />
   <project name="platform/external/rust/crates/plotters" />
   <project name="platform/external/rust/crates/plotters-backend" />
   <project name="platform/external/rust/crates/plotters-svg" />
@@ -1002,6 +1008,7 @@
   <project name="platform/external/rust/crates/ryu" />
   <project name="platform/external/rust/crates/same-file" />
   <project name="platform/external/rust/crates/scopeguard" />
+  <project name="platform/external/rust/crates/sec1" />
   <project name="platform/external/rust/crates/semver" />
   <project name="platform/external/rust/crates/serde" />
   <project name="platform/external/rust/crates/serde-xml-rs" />
@@ -1015,10 +1022,12 @@
   <project name="platform/external/rust/crates/slab" />
   <project name="platform/external/rust/crates/smallvec" />
   <project name="platform/external/rust/crates/spin" />
+  <project name="platform/external/rust/crates/spki" />
   <project name="platform/external/rust/crates/structopt" />
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />
   <project name="platform/external/rust/crates/syn-mid" />
+  <project name="platform/external/rust/crates/synstructure" />
   <project name="platform/external/rust/crates/tempfile" />
   <project name="platform/external/rust/crates/termcolor" />
   <project name="platform/external/rust/crates/terminal-size" />
@@ -1050,8 +1059,11 @@
   <project name="platform/external/rust/crates/weak-table" />
   <project name="platform/external/rust/crates/webpki" />
   <project name="platform/external/rust/crates/which" />
+  <project name="platform/external/rust/crates/x509-cert" />
   <project name="platform/external/rust/crates/x509-parser" />
   <project name="platform/external/rust/crates/xml-rs" />
+  <project name="platform/external/rust/crates/zeroize" />
+  <project name="platform/external/rust/crates/zeroize_derive" />
   <project name="platform/external/rust/crates/zip" />
   <project name="platform/external/rust/cxx" />
   <project name="platform/external/ruy" />
