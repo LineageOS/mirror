@@ -550,6 +550,7 @@
   <project name="platform/external/ksoap2" />
   <project name="platform/external/ktfmt" />
   <project name="platform/external/lcc" />
+  <project name="platform/external/leveldb" />
   <project name="platform/external/libabigail" />
   <project name="platform/external/libaom" />
   <project name="platform/external/libavc" />
