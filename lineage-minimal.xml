@@ -104,6 +104,7 @@
   <project name="LineageOS/android_external_dnsmasq" />
   <project name="LineageOS/android_external_doclava" />
   <project name="LineageOS/android_external_dropbear" />
+  <project name="LineageOS/android_external_dtc" />
   <project name="LineageOS/android_external_e2fsprogs" />
   <project name="LineageOS/android_external_easymock" />
   <project name="LineageOS/android_external_ebtables" />
