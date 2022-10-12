@@ -915,6 +915,7 @@
   <project name="platform/external/rust/crates/hashbrown" />
   <project name="platform/external/rust/crates/hashlink" />
   <project name="platform/external/rust/crates/heck" />
+  <project name="platform/external/rust/crates/hex" />
   <project name="platform/external/rust/crates/idna" />
   <project name="platform/external/rust/crates/indexmap" />
   <project name="platform/external/rust/crates/instant" />
