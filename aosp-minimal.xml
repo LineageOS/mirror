@@ -75,9 +75,14 @@
   <project name="device/google/gs-common" />
   <project name="device/google/gs101" />
   <project name="device/google/gs101-sepolicy" />
+  <project name="device/google/gs201" />
+  <project name="device/google/gs201-sepolicy" />
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" groups="kernel" />
   <project name="device/google/muskie" />
+  <project name="device/google/pantah" />
+  <project name="device/google/pantah-kernel" groups="kernel" />
+  <project name="device/google/pantah-sepolicy" />
   <project name="device/google/raviole" />
   <project name="device/google/raviole-kernel" groups="kernel" />
   <project name="device/google/redbull" />
@@ -147,6 +152,10 @@
   <project name="kernel/common-patches" groups="kernel-extra,notdefault" />
   <project name="kernel/configs" />
   <project name="kernel/devices/google/bluejay" groups="kernel-extra,notdefault" />
+  <project name="kernel/exynos" groups="kernel-extra,notdefault" />
+  <project name="kernel/exynos-modules/config" groups="kernel-extra,notdefault" />
+  <project name="kernel/exynos-modules/devicetree" groups="kernel-extra,notdefault" />
+  <project name="kernel/exynos-modules/drivers" groups="kernel-extra,notdefault" />
   <project name="kernel/goldfish" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/amplifiers" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/aoc" groups="kernel-extra,notdefault" />
@@ -1277,6 +1286,7 @@
   <project name="platform/hardware/google/gchips" />
   <project name="platform/hardware/google/graphics/common" />
   <project name="platform/hardware/google/graphics/gs101" />
+  <project name="platform/hardware/google/graphics/gs201" />
   <project name="platform/hardware/google/interfaces" />
   <project name="platform/hardware/google/pixel" />
   <project name="platform/hardware/google/pixel-sepolicy" />
