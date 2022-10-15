@@ -153,15 +153,19 @@
   <project name="LineageOS/android_device_google_blueline" />
   <project name="LineageOS/android_device_google_bonito" />
   <project name="LineageOS/android_device_google_bramble" />
+  <project name="LineageOS/android_device_google_cheetah" />
   <project name="LineageOS/android_device_google_coral" />
   <project name="LineageOS/android_device_google_crosshatch" />
   <project name="LineageOS/android_device_google_dragon" />
   <project name="LineageOS/android_device_google_flame" />
   <project name="LineageOS/android_device_google_gs101" />
+  <project name="LineageOS/android_device_google_gs201" />
   <project name="LineageOS/android_device_google_marlin" />
   <project name="LineageOS/android_device_google_msm8952-common" />
   <project name="LineageOS/android_device_google_muskie" />
   <project name="LineageOS/android_device_google_oriole" />
+  <project name="LineageOS/android_device_google_pantah" />
+  <project name="LineageOS/android_device_google_panther" />
   <project name="LineageOS/android_device_google_raven" />
   <project name="LineageOS/android_device_google_raviole" />
   <project name="LineageOS/android_device_google_redbull" />
@@ -1791,6 +1795,7 @@
   <project name="LineageOS/android_kernel_google_crosshatch" />
   <project name="LineageOS/android_kernel_google_dragon" />
   <project name="LineageOS/android_kernel_google_gs101" />
+  <project name="LineageOS/android_kernel_google_gs201" />
   <project name="LineageOS/android_kernel_google_marlin" />
   <project name="LineageOS/android_kernel_google_msm" />
   <project name="LineageOS/android_kernel_google_msm-4.14" />
