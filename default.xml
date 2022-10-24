@@ -494,6 +494,7 @@
   <project name="LineageOS/android_device_motorola_nio" />
   <project name="LineageOS/android_device_motorola_obake" />
   <project name="LineageOS/android_device_motorola_ocean" />
+  <project name="LineageOS/android_device_motorola_odessa" />
   <project name="LineageOS/android_device_motorola_olympus" />
   <project name="LineageOS/android_device_motorola_omap4-common" />
   <project name="LineageOS/android_device_motorola_osprey" />
