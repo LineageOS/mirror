@@ -576,6 +576,7 @@
   <project name="platform/external/libcap" />
   <project name="platform/external/libcap-ng" />
   <project name="platform/external/libchrome" />
+  <project name="platform/external/libchrome-gestures" />
   <project name="platform/external/libchromeos-rs" />
   <project name="platform/external/libconfig" />
   <project name="platform/external/libconstrainedcrypto" />
