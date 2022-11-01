@@ -263,6 +263,7 @@
   <project name="platform/external/FP16" />
   <project name="platform/external/FXdiv" />
   <project name="platform/external/ImageMagick" />
+  <project name="platform/external/MPAndroidChart" />
   <project name="platform/external/Microsoft-GSL" />
   <project name="platform/external/OpenCL-CTS" />
   <project name="platform/external/OpenCSD" />
