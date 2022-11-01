@@ -109,6 +109,8 @@ platform_repos.add("platform/manifest")
 kernel_repos.add("kernel/manifest")
 
 # Include repositories that we added to the default manifest ourselves
+platform_repos.add("kernel/prebuilts/build-tools")
+platform_repos.add("platform/external/dwarves")
 platform_repos.add("platform/prebuilts/gas/linux-x86")
 
 # Remove kernel repositories that are already in the platform manifest
