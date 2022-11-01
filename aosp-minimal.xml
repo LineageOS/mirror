@@ -215,7 +215,7 @@
   <project name="kernel/prebuilts/5.15/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/5.4/arm64" groups="kernel" />
   <project name="kernel/prebuilts/5.4/x86-64" groups="kernel" />
-  <project name="kernel/prebuilts/build-tools" groups="kernel,kernel-extra,notdefault" />
+  <project name="kernel/prebuilts/build-tools" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/5.10/arm64" groups="kernel" />
@@ -420,7 +420,7 @@
   <project name="platform/external/dropbear" />
   <project name="platform/external/drrickorang" />
   <project name="platform/external/dtc" />
-  <project name="platform/external/dwarves" groups="kernel-extra,notdefault" />
+  <project name="platform/external/dwarves" />
   <project name="platform/external/dynamic_depth" />
   <project name="platform/external/e2fsprogs" />
   <project name="platform/external/easymock" />
