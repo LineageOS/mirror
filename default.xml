@@ -472,6 +472,7 @@
   <project name="LineageOS/android_device_motorola_kane" />
   <project name="LineageOS/android_device_motorola_kiev" />
   <project name="LineageOS/android_device_motorola_lake" />
+  <project name="LineageOS/android_device_motorola_liber" />
   <project name="LineageOS/android_device_motorola_lux" />
   <project name="LineageOS/android_device_motorola_maserati" />
   <project name="LineageOS/android_device_motorola_mb886" />
