@@ -1072,6 +1072,7 @@
   <project name="platform/external/rust/crates/untrusted" />
   <project name="platform/external/rust/crates/url" />
   <project name="platform/external/rust/crates/uuid" />
+  <project name="platform/external/rust/crates/virtio-drivers" />
   <project name="platform/external/rust/crates/vmm_vhost" />
   <project name="platform/external/rust/crates/vsock" />
   <project name="platform/external/rust/crates/vulkano" />
