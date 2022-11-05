@@ -861,6 +861,7 @@
   <project name="platform/external/rust/crates/bencher" />
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bitflags" />
+  <project name="platform/external/rust/crates/bitreader" />
   <project name="platform/external/rust/crates/bstr" />
   <project name="platform/external/rust/crates/buddy_system_allocator" />
   <project name="platform/external/rust/crates/byteorder" />
@@ -1043,6 +1044,7 @@
   <project name="platform/external/rust/crates/smallvec" />
   <project name="platform/external/rust/crates/spin" />
   <project name="platform/external/rust/crates/spki" />
+  <project name="platform/external/rust/crates/static_assertions" />
   <project name="platform/external/rust/crates/structopt" />
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/syn" />
