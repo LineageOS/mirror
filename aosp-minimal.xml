@@ -899,6 +899,7 @@
   <project name="platform/external/rust/crates/der-parser" />
   <project name="platform/external/rust/crates/der_derive" />
   <project name="platform/external/rust/crates/derive_arbitrary" />
+  <project name="platform/external/rust/crates/document-features" />
   <project name="platform/external/rust/crates/downcast-rs" />
   <project name="platform/external/rust/crates/either" />
   <project name="platform/external/rust/crates/enumn" />
@@ -953,6 +954,7 @@
   <project name="platform/external/rust/crates/libsqlite3-sys" />
   <project name="platform/external/rust/crates/libz-sys" />
   <project name="platform/external/rust/crates/linked-hash-map" />
+  <project name="platform/external/rust/crates/litrs" />
   <project name="platform/external/rust/crates/lock_api" />
   <project name="platform/external/rust/crates/log" />
   <project name="platform/external/rust/crates/lru-cache" />
