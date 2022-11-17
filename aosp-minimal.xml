@@ -729,6 +729,7 @@
   <project name="platform/external/openwrt-prebuilts" />
   <project name="platform/external/oprofile" />
   <project name="platform/external/oss-fuzz" />
+  <project name="platform/external/ow2-asm" />
   <project name="platform/external/owasp/sanitizer" />
   <project name="platform/external/pandora/avatar" />
   <project name="platform/external/pandora/bt-test-interfaces" />
@@ -1075,6 +1076,7 @@
   <project name="platform/external/rust/crates/unicode-xid" />
   <project name="platform/external/rust/crates/untrusted" />
   <project name="platform/external/rust/crates/url" />
+  <project name="platform/external/rust/crates/userfaultfd" />
   <project name="platform/external/rust/crates/uuid" />
   <project name="platform/external/rust/crates/virtio-drivers" />
   <project name="platform/external/rust/crates/vmm_vhost" />
