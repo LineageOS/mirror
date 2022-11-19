@@ -1077,6 +1077,7 @@
   <project name="platform/external/rust/crates/untrusted" />
   <project name="platform/external/rust/crates/url" />
   <project name="platform/external/rust/crates/userfaultfd" />
+  <project name="platform/external/rust/crates/userfaultfd-sys" />
   <project name="platform/external/rust/crates/uuid" />
   <project name="platform/external/rust/crates/virtio-drivers" />
   <project name="platform/external/rust/crates/vmm_vhost" />
