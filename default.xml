@@ -544,6 +544,7 @@
   <project name="LineageOS/android_device_motorola_zeppelin" />
   <project name="LineageOS/android_device_nextbit_ether" />
   <project name="LineageOS/android_device_nintendo_icosa" />
+  <project name="LineageOS/android_device_nintendo_nx" />
   <project name="LineageOS/android_device_nokia_DRG" />
   <project name="LineageOS/android_device_nokia_PL2" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
@@ -1888,6 +1889,7 @@
   <project name="LineageOS/android_kernel_nubia_msm8998" />
   <project name="LineageOS/android_kernel_nubia_sm8150" />
   <project name="LineageOS/android_kernel_nvidia_cypress-fmac" />
+  <project name="LineageOS/android_kernel_nvidia_cypress-fmac-upstream" />
   <project name="LineageOS/android_kernel_nvidia_kernel" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai" />
