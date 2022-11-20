@@ -2390,6 +2390,8 @@
   <project name="LineageOS/android_vendor_qcom_opensource_bluetooth" />
   <project name="LineageOS/android_vendor_qcom_opensource_bluetooth-commonsys-intf" />
   <project name="LineageOS/android_vendor_qcom_opensource_bluetooth_ext" />
+  <project name="LineageOS/android_vendor_qcom_opensource_core-utils-sys" />
+  <project name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" />
   <project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />
   <project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
   <project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
