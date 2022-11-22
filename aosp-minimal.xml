@@ -1106,6 +1106,7 @@
   <project name="platform/external/setupcompat" />
   <project name="platform/external/setupdesign" />
   <project name="platform/external/sfntly" />
+  <project name="platform/external/sg3_utils" />
   <project name="platform/external/shaderc/glslang" />
   <project name="platform/external/shaderc/shaderc" />
   <project name="platform/external/shaderc/spirv-headers" />
