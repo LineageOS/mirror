@@ -1745,6 +1745,7 @@
   <project name="platform/prebuilts/module_sdk/MediaProvider" />
   <project name="platform/prebuilts/module_sdk/OnDevicePersonalization" />
   <project name="platform/prebuilts/module_sdk/Permission" />
+  <project name="platform/prebuilts/module_sdk/RemoteKeyProvisioning" />
   <project name="platform/prebuilts/module_sdk/Scheduling" />
   <project name="platform/prebuilts/module_sdk/SdkExtensions" />
   <project name="platform/prebuilts/module_sdk/StatsD" />
