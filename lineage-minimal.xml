@@ -63,6 +63,7 @@
   <project name="LineageOS/android_external_apache-xml" />
   <project name="LineageOS/android_external_arduino" />
   <project name="LineageOS/android_external_armnn" />
+  <project name="LineageOS/android_external_avb" />
   <project name="LineageOS/android_external_bash" />
   <project name="LineageOS/android_external_bison" />
   <project name="LineageOS/android_external_blktrace" />
