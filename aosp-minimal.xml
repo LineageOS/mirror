@@ -413,6 +413,7 @@
   <project name="platform/external/dokka" />
   <project name="platform/external/donuts" />
   <project name="platform/external/dosfstools" />
+  <project name="platform/external/double-conversion" />
   <project name="platform/external/downloader" />
   <project name="platform/external/drm_gralloc" />
   <project name="platform/external/drm_hwcomposer" />
@@ -1416,6 +1417,7 @@
   <project name="platform/packages/apps/Car/CompanionDeviceSupport" />
   <project name="platform/packages/apps/Car/DebuggingRestrictionController" />
   <project name="platform/packages/apps/Car/Dialer" />
+  <project name="platform/packages/apps/Car/DialerPrebuilt" />
   <project name="platform/packages/apps/Car/Hvac" />
   <project name="platform/packages/apps/Car/LatinIME" />
   <project name="platform/packages/apps/Car/Launcher" />
@@ -1423,7 +1425,9 @@
   <project name="platform/packages/apps/Car/LinkViewer" />
   <project name="platform/packages/apps/Car/LocalMediaPlayer" />
   <project name="platform/packages/apps/Car/Media" />
+  <project name="platform/packages/apps/Car/MediaPrebuilt" />
   <project name="platform/packages/apps/Car/Messenger" />
+  <project name="platform/packages/apps/Car/MessengerPrebuilt" />
   <project name="platform/packages/apps/Car/Notification" />
   <project name="platform/packages/apps/Car/Overview" />
   <project name="platform/packages/apps/Car/Provision" />
@@ -1533,6 +1537,7 @@
   <project name="platform/packages/modules/GeoTZ" />
   <project name="platform/packages/modules/Gki" />
   <project name="platform/packages/modules/IPsec" />
+  <project name="platform/packages/modules/IntentResolver" />
   <project name="platform/packages/modules/Media" />
   <project name="platform/packages/modules/ModuleMetadata" />
   <project name="platform/packages/modules/NetworkPermissionConfig" />
