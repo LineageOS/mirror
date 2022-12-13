@@ -1052,6 +1052,7 @@
   <project name="LineageOS/android_device_xiaomi_gemini" />
   <project name="LineageOS/android_device_xiaomi_ginkgo" />
   <project name="LineageOS/android_device_xiaomi_grus" />
+  <project name="LineageOS/android_device_xiaomi_haydn" />
   <project name="LineageOS/android_device_xiaomi_hydrogen" />
   <project name="LineageOS/android_device_xiaomi_ido" />
   <project name="LineageOS/android_device_xiaomi_jasmine_sprout" />
@@ -1061,6 +1062,7 @@
   <project name="LineageOS/android_device_xiaomi_land" />
   <project name="LineageOS/android_device_xiaomi_lavender" />
   <project name="LineageOS/android_device_xiaomi_libra" />
+  <project name="LineageOS/android_device_xiaomi_lisa" />
   <project name="LineageOS/android_device_xiaomi_lithium" />
   <project name="LineageOS/android_device_xiaomi_lmi" />
   <project name="LineageOS/android_device_xiaomi_miatoll" />
@@ -1081,6 +1083,7 @@
   <project name="LineageOS/android_device_xiaomi_polaris" />
   <project name="LineageOS/android_device_xiaomi_pyxis" />
   <project name="LineageOS/android_device_xiaomi_raphael" />
+  <project name="LineageOS/android_device_xiaomi_renoir" />
   <project name="LineageOS/android_device_xiaomi_rosy" />
   <project name="LineageOS/android_device_xiaomi_sagit" />
   <project name="LineageOS/android_device_xiaomi_santoni" />
@@ -1094,6 +1097,7 @@
   <project name="LineageOS/android_device_xiaomi_sm7250-common" />
   <project name="LineageOS/android_device_xiaomi_sm8150-common" />
   <project name="LineageOS/android_device_xiaomi_sm8250-common" />
+  <project name="LineageOS/android_device_xiaomi_sm8350-common" />
   <project name="LineageOS/android_device_xiaomi_surya" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
   <project name="LineageOS/android_device_xiaomi_twolip" />
@@ -2077,6 +2081,7 @@
   <project name="LineageOS/android_kernel_xiaomi_sm7250" />
   <project name="LineageOS/android_kernel_xiaomi_sm8150" />
   <project name="LineageOS/android_kernel_xiaomi_sm8250" />
+  <project name="LineageOS/android_kernel_xiaomi_sm8350" />
   <project name="LineageOS/android_kernel_xiaomi_surya" />
   <project name="LineageOS/android_kernel_xiaomi_violet" />
   <project name="LineageOS/android_kernel_yandex_sdm660" />
