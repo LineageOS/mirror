@@ -1871,6 +1871,7 @@
   <project name="platform/test/app_compat/csuite" />
   <project name="platform/test/catbox" />
   <project name="platform/test/cts-root" />
+  <project name="platform/test/dittosuite" />
   <project name="platform/test/framework" />
   <project name="platform/test/mlts/benchmark" />
   <project name="platform/test/mlts/models" />
