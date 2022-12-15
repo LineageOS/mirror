@@ -1094,6 +1094,8 @@
   <project name="platform/external/rust/crates/x509-cert" />
   <project name="platform/external/rust/crates/x509-parser" />
   <project name="platform/external/rust/crates/xml-rs" />
+  <project name="platform/external/rust/crates/zerocopy" />
+  <project name="platform/external/rust/crates/zerocopy-derive" />
   <project name="platform/external/rust/crates/zeroize" />
   <project name="platform/external/rust/crates/zeroize_derive" />
   <project name="platform/external/rust/crates/zip" />
