@@ -280,6 +280,7 @@
   <project name="platform/external/adt-infra" />
   <project name="platform/external/aes" />
   <project name="platform/external/android-clat" />
+  <project name="platform/external/android-key-attestation" />
   <project name="platform/external/android-kotlin-demo" />
   <project name="platform/external/android-mock" />
   <project name="platform/external/android-nn-driver" />
@@ -1231,6 +1232,7 @@
   <project name="platform/frameworks/hardware/interfaces" />
   <project name="platform/frameworks/janktesthelper" />
   <project name="platform/frameworks/layoutlib" />
+  <project name="platform/frameworks/libs/binary_translation" />
   <project name="platform/frameworks/libs/modules-utils" />
   <project name="platform/frameworks/libs/native_bridge_support" />
   <project name="platform/frameworks/libs/net" />
