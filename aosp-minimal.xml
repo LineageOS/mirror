@@ -670,6 +670,7 @@
   <project name="platform/external/lzma" />
   <project name="platform/external/marisa-trie" />
   <project name="platform/external/markdown" />
+  <project name="platform/external/mbedtls" />
   <project name="platform/external/mdnsresponder" />
   <project name="platform/external/mesa3d" />
   <project name="platform/external/messageformat" />
