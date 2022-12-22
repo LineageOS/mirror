@@ -1102,6 +1102,7 @@
   <project name="platform/external/rust/crates/zeroize_derive" />
   <project name="platform/external/rust/crates/zip" />
   <project name="platform/external/rust/cxx" />
+  <project name="platform/external/rust/pica" />
   <project name="platform/external/ruy" />
   <project name="platform/external/s2-geometry-library-java" />
   <project name="platform/external/safe-iop" />
