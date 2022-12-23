@@ -1235,6 +1235,7 @@
   <project name="platform/frameworks/janktesthelper" />
   <project name="platform/frameworks/layoutlib" />
   <project name="platform/frameworks/libs/binary_translation" />
+  <project name="platform/frameworks/libs/gsma_services" />
   <project name="platform/frameworks/libs/modules-utils" />
   <project name="platform/frameworks/libs/native_bridge_support" />
   <project name="platform/frameworks/libs/net" />
