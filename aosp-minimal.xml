@@ -391,6 +391,7 @@
   <project name="platform/external/cpu_features" />
   <project name="platform/external/cpuinfo" />
   <project name="platform/external/crcalc" />
+  <project name="platform/external/cronet" />
   <project name="platform/external/cros/system_api" />
   <project name="platform/external/crosvm" />
   <project name="platform/external/curl" />
@@ -864,6 +865,7 @@
   <project name="platform/external/rust/crates/base64" />
   <project name="platform/external/rust/crates/bencher" />
   <project name="platform/external/rust/crates/bindgen" />
+  <project name="platform/external/rust/crates/bindgen-cli" />
   <project name="platform/external/rust/crates/bitflags" />
   <project name="platform/external/rust/crates/bitreader" />
   <project name="platform/external/rust/crates/bstr" />
