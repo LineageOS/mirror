@@ -1133,6 +1133,7 @@
   <project name="platform/external/snakeyaml" />
   <project name="platform/external/sonic" />
   <project name="platform/external/sonivox" />
+  <project name="platform/external/spdx-tools" />
   <project name="platform/external/speex" />
   <project name="platform/external/spirv-llvm" />
   <project name="platform/external/sqlite" />
