@@ -132,6 +132,7 @@
   <project name="LineageOS/android_device_fairphone_FP3" />
   <project name="LineageOS/android_device_fairphone_FP4" />
   <project name="LineageOS/android_device_fxtec_pro1" />
+  <project name="LineageOS/android_device_fxtec_pro1x" />
   <project name="LineageOS/android_device_geeksphone_one" />
   <project name="LineageOS/android_device_geeksphone_zero" />
   <project name="LineageOS/android_device_generic" />
@@ -1796,6 +1797,7 @@
   <project name="LineageOS/android_kernel_fairphone_sdm632" />
   <project name="LineageOS/android_kernel_fairphone_sm7225" />
   <project name="LineageOS/android_kernel_fxtec_msm8998" />
+  <project name="LineageOS/android_kernel_fxtec_sm6115" />
   <project name="LineageOS/android_kernel_goldfish" />
   <project name="LineageOS/android_kernel_google_barbet" />
   <project name="LineageOS/android_kernel_google_bluejay" />
@@ -2237,6 +2239,7 @@
   <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_modules_Permission" />
+  <project name="LineageOS/android_packages_modules_Virtualization" />
   <project name="LineageOS/android_packages_modules_Wifi" />
   <project name="LineageOS/android_packages_modules_adb" />
   <project name="LineageOS/android_packages_modules_common" />
