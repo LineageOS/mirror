@@ -643,6 +643,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_display-commonsys-intf" />
   <project name="LineageOS/android_vendor_qcom_opensource_dpm" />
   <project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" />
+  <project name="LineageOS/android_vendor_qcom_opensource_healthd-ext" />
   <project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
   <project name="LineageOS/android_vendor_qcom_opensource_libfmjni" />
   <project name="LineageOS/android_vendor_qcom_opensource_packages_apps_Bluetooth" />
