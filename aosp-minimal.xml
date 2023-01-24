@@ -861,6 +861,7 @@
   <project name="platform/external/rust/crates/async-stream-impl" />
   <project name="platform/external/rust/crates/async-task" />
   <project name="platform/external/rust/crates/async-trait" />
+  <project name="platform/external/rust/crates/atomic" />
   <project name="platform/external/rust/crates/atty" />
   <project name="platform/external/rust/crates/base64" />
   <project name="platform/external/rust/crates/bencher" />
@@ -986,6 +987,7 @@
   <project name="platform/external/rust/crates/once_cell" />
   <project name="platform/external/rust/crates/oorandom" />
   <project name="platform/external/rust/crates/openssl" />
+  <project name="platform/external/rust/crates/openssl-macros" />
   <project name="platform/external/rust/crates/os_str_bytes" />
   <project name="platform/external/rust/crates/parking_lot" />
   <project name="platform/external/rust/crates/parking_lot_core" />
