@@ -436,6 +436,7 @@
   <project name="LineageOS/android_device_malata_smb_a1011" />
   <project name="LineageOS/android_device_malata_smb_b9701" />
   <project name="LineageOS/android_device_mediatek_sepolicy" />
+  <project name="LineageOS/android_device_mediatek_sepolicy_vndr" />
   <project name="LineageOS/android_device_moto_common" />
   <project name="LineageOS/android_device_moto_everest" />
   <project name="LineageOS/android_device_moto_shamu" />
@@ -993,6 +994,7 @@
   <project name="LineageOS/android_device_sony_nypon" />
   <project name="LineageOS/android_device_sony_odin" />
   <project name="LineageOS/android_device_sony_pdx203" />
+  <project name="LineageOS/android_device_sony_pdx206" />
   <project name="LineageOS/android_device_sony_pepper" />
   <project name="LineageOS/android_device_sony_pioneer" />
   <project name="LineageOS/android_device_sony_pollux" />
@@ -1066,6 +1068,7 @@
   <project name="LineageOS/android_device_xiaomi_lisa" />
   <project name="LineageOS/android_device_xiaomi_lithium" />
   <project name="LineageOS/android_device_xiaomi_lmi" />
+  <project name="LineageOS/android_device_xiaomi_merlinx" />
   <project name="LineageOS/android_device_xiaomi_miatoll" />
   <project name="LineageOS/android_device_xiaomi_mido" />
   <project name="LineageOS/android_device_xiaomi_monet" />
@@ -2173,6 +2176,7 @@
   <project name="LineageOS/android_packages_apps_Messaging" />
   <project name="LineageOS/android_packages_apps_Mms" />
   <project name="LineageOS/android_packages_apps_Mms-caf" />
+  <project name="LineageOS/android_packages_apps_MtkFMRadio" />
   <project name="LineageOS/android_packages_apps_Music" />
   <project name="LineageOS/android_packages_apps_Music3" />
   <project name="LineageOS/android_packages_apps_MusicFX" />
