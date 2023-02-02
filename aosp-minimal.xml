@@ -1117,6 +1117,7 @@
   <project name="platform/external/seccomp-tests" />
   <project name="platform/external/selinux" />
   <project name="platform/external/sepolicy" />
+  <project name="platform/external/setfilters" />
   <project name="platform/external/setupcompat" />
   <project name="platform/external/setupdesign" />
   <project name="platform/external/sfntly" />
