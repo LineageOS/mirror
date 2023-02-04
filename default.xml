@@ -1036,6 +1036,7 @@
   <project name="LineageOS/android_device_wileyfox_porridge" />
   <project name="LineageOS/android_device_wileyfox_porridgek3" />
   <project name="LineageOS/android_device_wingtech_wt88047" />
+  <project name="LineageOS/android_device_xiaomi_Mi439" />
   <project name="LineageOS/android_device_xiaomi_alioth" />
   <project name="LineageOS/android_device_xiaomi_apollon" />
   <project name="LineageOS/android_device_xiaomi_aries" />
@@ -1071,6 +1072,7 @@
   <project name="LineageOS/android_device_xiaomi_merlinx" />
   <project name="LineageOS/android_device_xiaomi_miatoll" />
   <project name="LineageOS/android_device_xiaomi_mido" />
+  <project name="LineageOS/android_device_xiaomi_mithorium-common" />
   <project name="LineageOS/android_device_xiaomi_monet" />
   <project name="LineageOS/android_device_xiaomi_msm8937-common" />
   <project name="LineageOS/android_device_xiaomi_msm8953-common" />
@@ -2078,6 +2080,7 @@
   <project name="LineageOS/android_kernel_xiaomi_mt6785" />
   <project name="LineageOS/android_kernel_xiaomi_onclite" />
   <project name="LineageOS/android_kernel_xiaomi_rosy" />
+  <project name="LineageOS/android_kernel_xiaomi_sdm439" />
   <project name="LineageOS/android_kernel_xiaomi_sdm660" />
   <project name="LineageOS/android_kernel_xiaomi_sdm710" />
   <project name="LineageOS/android_kernel_xiaomi_sdm845" />
