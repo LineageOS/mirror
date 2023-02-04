@@ -2074,6 +2074,7 @@
   <project name="LineageOS/android_kernel_xiaomi_msm8992" />
   <project name="LineageOS/android_kernel_xiaomi_msm8996" />
   <project name="LineageOS/android_kernel_xiaomi_msm8998" />
+  <project name="LineageOS/android_kernel_xiaomi_mt6768" />
   <project name="LineageOS/android_kernel_xiaomi_mt6785" />
   <project name="LineageOS/android_kernel_xiaomi_onclite" />
   <project name="LineageOS/android_kernel_xiaomi_rosy" />
