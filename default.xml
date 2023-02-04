@@ -711,6 +711,7 @@
   <project name="LineageOS/android_device_samsung_gte-common" />
   <project name="LineageOS/android_device_samsung_gtelwifiue" />
   <project name="LineageOS/android_device_samsung_gtesqltespr" />
+  <project name="LineageOS/android_device_samsung_gtowifi" />
   <project name="LineageOS/android_device_samsung_gts2-common" />
   <project name="LineageOS/android_device_samsung_gts210ltexx" />
   <project name="LineageOS/android_device_samsung_gts210velte" />
@@ -2020,6 +2021,7 @@
   <project name="LineageOS/android_kernel_samsung_piranha" />
   <project name="LineageOS/android_kernel_samsung_r5q" />
   <project name="LineageOS/android_kernel_samsung_s3ve3g" />
+  <project name="LineageOS/android_kernel_samsung_sdm429" />
   <project name="LineageOS/android_kernel_samsung_sdm670" />
   <project name="LineageOS/android_kernel_samsung_sm7125" />
   <project name="LineageOS/android_kernel_samsung_sm8250" />
