@@ -1649,6 +1649,7 @@
   <project name="LineageOS/android_hardware_nvidia_platform_t210b01_sif" />
   <project name="LineageOS/android_hardware_nvidia_platform_t23x_common_kernel-dts" />
   <project name="LineageOS/android_hardware_nvidia_platform_t23x_concord_kernel-dts" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t23x_p3768_kernel-dts" />
   <project name="LineageOS/android_hardware_nvidia_platform_tegra_common" />
   <project name="LineageOS/android_hardware_nvidia_power" />
   <project name="LineageOS/android_hardware_nvidia_sensors" />
