@@ -450,6 +450,7 @@
   <project name="LineageOS/android_device_motorola_backflip" />
   <project name="LineageOS/android_device_motorola_beckham" />
   <project name="LineageOS/android_device_motorola_berlin" />
+  <project name="LineageOS/android_device_motorola_berlna" />
   <project name="LineageOS/android_device_motorola_cedric" />
   <project name="LineageOS/android_device_motorola_channel" />
   <project name="LineageOS/android_device_motorola_chef" />
