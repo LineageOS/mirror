@@ -564,6 +564,7 @@
   <project name="platform/external/kernel-headers" />
   <project name="platform/external/kmod" />
   <project name="platform/external/kotlinc" />
+  <project name="platform/external/kotlinpoet" />
   <project name="platform/external/kotlinx.atomicfu" />
   <project name="platform/external/kotlinx.coroutines" />
   <project name="platform/external/kotlinx.metadata" />
