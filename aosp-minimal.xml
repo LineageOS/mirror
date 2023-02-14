@@ -292,10 +292,13 @@
   <project name="platform/external/antlr" />
   <project name="platform/external/apache-commons-bcel" />
   <project name="platform/external/apache-commons-compress" />
+  <project name="platform/external/apache-commons-io" />
+  <project name="platform/external/apache-commons-lang" />
   <project name="platform/external/apache-commons-math" />
   <project name="platform/external/apache-harmony" />
   <project name="platform/external/apache-http" />
   <project name="platform/external/apache-qp" />
+  <project name="platform/external/apache-velocity-engine" />
   <project name="platform/external/apache-xml" />
   <project name="platform/external/archive-patcher" />
   <project name="platform/external/arduino" />
