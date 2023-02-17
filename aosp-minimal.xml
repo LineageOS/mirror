@@ -857,6 +857,7 @@
   <project name="platform/external/rust/crates/aarch64-paging" />
   <project name="platform/external/rust/crates/ahash" />
   <project name="platform/external/rust/crates/aho-corasick" />
+  <project name="platform/external/rust/crates/aliasable" />
   <project name="platform/external/rust/crates/android_log-sys" />
   <project name="platform/external/rust/crates/android_logger" />
   <project name="platform/external/rust/crates/anyhow" />
@@ -913,6 +914,7 @@
   <project name="platform/external/rust/crates/der-oid-macro" />
   <project name="platform/external/rust/crates/der-parser" />
   <project name="platform/external/rust/crates/der_derive" />
+  <project name="platform/external/rust/crates/derive-getters" />
   <project name="platform/external/rust/crates/derive_arbitrary" />
   <project name="platform/external/rust/crates/document-features" />
   <project name="platform/external/rust/crates/downcast-rs" />
@@ -953,6 +955,7 @@
   <project name="platform/external/rust/crates/hex" />
   <project name="platform/external/rust/crates/idna" />
   <project name="platform/external/rust/crates/indexmap" />
+  <project name="platform/external/rust/crates/inflector" />
   <project name="platform/external/rust/crates/instant" />
   <project name="platform/external/rust/crates/intrusive-collections" />
   <project name="platform/external/rust/crates/itertools" />
@@ -997,6 +1000,8 @@
   <project name="platform/external/rust/crates/openssl" />
   <project name="platform/external/rust/crates/openssl-macros" />
   <project name="platform/external/rust/crates/os_str_bytes" />
+  <project name="platform/external/rust/crates/ouroboros" />
+  <project name="platform/external/rust/crates/ouroboros_macro" />
   <project name="platform/external/rust/crates/parking_lot" />
   <project name="platform/external/rust/crates/parking_lot_core" />
   <project name="platform/external/rust/crates/paste" />
