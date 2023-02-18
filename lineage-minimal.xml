@@ -522,7 +522,9 @@
   <project name="LineageOS/android_packages_modules_Connectivity" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
+  <project name="LineageOS/android_packages_modules_NeuralNetworks" />
   <project name="LineageOS/android_packages_modules_Permission" />
+  <project name="LineageOS/android_packages_modules_Virtualization" />
   <project name="LineageOS/android_packages_modules_Wifi" />
   <project name="LineageOS/android_packages_modules_adb" />
   <project name="LineageOS/android_packages_modules_common" />
