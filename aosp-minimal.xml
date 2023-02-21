@@ -860,6 +860,7 @@
   <project name="platform/external/rust/crates/aliasable" />
   <project name="platform/external/rust/crates/android_log-sys" />
   <project name="platform/external/rust/crates/android_logger" />
+  <project name="platform/external/rust/crates/anes" />
   <project name="platform/external/rust/crates/anyhow" />
   <project name="platform/external/rust/crates/arbitrary" />
   <project name="platform/external/rust/crates/argh" />
