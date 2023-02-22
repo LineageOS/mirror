@@ -924,6 +924,7 @@
   <project name="platform/external/rust/crates/env_logger" />
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />
+  <project name="platform/external/rust/crates/fastrand" />
   <project name="platform/external/rust/crates/flagset" />
   <project name="platform/external/rust/crates/flate2" />
   <project name="platform/external/rust/crates/fnv" />
