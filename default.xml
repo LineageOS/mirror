@@ -35,6 +35,7 @@
   <project name="LineageOS/android_cts" />
   <project name="LineageOS/android_dalvik" />
   <project name="LineageOS/android_development" />
+  <project name="LineageOS/android_device_10or_G" />
   <project name="LineageOS/android_device_acer_a100" />
   <project name="LineageOS/android_device_acer_a200" />
   <project name="LineageOS/android_device_acer_a500" />
@@ -1764,6 +1765,7 @@
   <project name="LineageOS/android_hardware_ti_wlan" />
   <project name="LineageOS/android_hardware_ti_wpan" />
   <project name="LineageOS/android_hardware_xiaomi" />
+  <project name="LineageOS/android_kernel_10or_G" />
   <project name="LineageOS/android_kernel_acer_t20-common" />
   <project name="LineageOS/android_kernel_acer_t30" />
   <project name="LineageOS/android_kernel_alcatel_msm8916" />
