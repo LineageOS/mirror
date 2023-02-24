@@ -1471,6 +1471,7 @@
   <project name="LineageOS/android_external_thermal_daemon" />
   <project name="LineageOS/android_external_tinyalsa" />
   <project name="LineageOS/android_external_tinycompress" />
+  <project name="LineageOS/android_external_tinyhal" />
   <project name="LineageOS/android_external_tinyxml" />
   <project name="LineageOS/android_external_tinyxml2" />
   <project name="LineageOS/android_external_toybox" />
