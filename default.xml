@@ -367,12 +367,14 @@
   <project name="LineageOS/android_device_lge_h910" />
   <project name="LineageOS/android_device_lge_h918" />
   <project name="LineageOS/android_device_lge_h930" />
+  <project name="LineageOS/android_device_lge_h932" />
   <project name="LineageOS/android_device_lge_h990" />
   <project name="LineageOS/android_device_lge_hammerhead" />
   <project name="LineageOS/android_device_lge_hammerheadcaf" />
   <project name="LineageOS/android_device_lge_iprj-common" />
   <project name="LineageOS/android_device_lge_jag3gds" />
   <project name="LineageOS/android_device_lge_jagnm" />
+  <project name="LineageOS/android_device_lge_joan" />
   <project name="LineageOS/android_device_lge_joan-common" />
   <project name="LineageOS/android_device_lge_l01f" />
   <project name="LineageOS/android_device_lge_l1m" />
@@ -1617,6 +1619,7 @@
   <project name="LineageOS/android_hardware_interfaces" />
   <project name="LineageOS/android_hardware_invensense" />
   <project name="LineageOS/android_hardware_knowles_athletico_sound_trigger_hal" />
+  <project name="LineageOS/android_hardware_lge" />
   <project name="LineageOS/android_hardware_libhardware" />
   <project name="LineageOS/android_hardware_libhardware_legacy" />
   <project name="LineageOS/android_hardware_lineage_compat" />
