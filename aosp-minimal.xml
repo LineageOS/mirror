@@ -1472,6 +1472,7 @@
   <project name="platform/packages/apps/Car/Stream" />
   <project name="platform/packages/apps/Car/SystemUI" />
   <project name="platform/packages/apps/Car/SystemUpdater" />
+  <project name="platform/packages/apps/Car/Templates" />
   <project name="platform/packages/apps/Car/UserManagement" />
   <project name="platform/packages/apps/Car/externallibs" />
   <project name="platform/packages/apps/Car/libs" />
@@ -1687,13 +1688,21 @@
   <project name="platform/prebuilts/eclipse-build-deps" />
   <project name="platform/prebuilts/eclipse-build-deps-sources" />
   <project name="platform/prebuilts/fuchsia_sdk" />
+  <project name="platform/prebuilts/fullsdk-darwin/build-tools" groups="darwin" />
+  <project name="platform/prebuilts/fullsdk-darwin/platform-tools" groups="darwin" />
+  <project name="platform/prebuilts/fullsdk-darwin/tools" groups="darwin" />
+  <project name="platform/prebuilts/fullsdk-linux/build-tools" path="platform/prebuilts/fullsdk-linux/build-tools.git" />
   <project name="platform/prebuilts/fullsdk-linux/build-tools/26.0.1" />
   <project name="platform/prebuilts/fullsdk-linux/build-tools/28.0.3" />
+  <project name="platform/prebuilts/fullsdk-linux/platform-tools" />
+  <project name="platform/prebuilts/fullsdk-linux/tools" />
   <project name="platform/prebuilts/fullsdk/build-tools/21-darwin" groups="darwin" />
   <project name="platform/prebuilts/fullsdk/build-tools/21-linux" />
   <project name="platform/prebuilts/fullsdk/platforms/android-21" />
   <project name="platform/prebuilts/fullsdk/platforms/android-26" />
   <project name="platform/prebuilts/fullsdk/platforms/android-28" />
+  <project name="platform/prebuilts/fullsdk/platforms/android-32" />
+  <project name="platform/prebuilts/fullsdk/sources/android-32" />
   <project name="platform/prebuilts/gas/linux-x86" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" groups="darwin" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" groups="darwin" />
