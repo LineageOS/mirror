@@ -1990,6 +1990,7 @@
   <project name="LineageOS/android_kernel_qcom_msm8994" />
   <project name="LineageOS/android_kernel_qcom_msm8996" />
   <project name="LineageOS/android_kernel_qcom_msm8998" />
+  <project name="LineageOS/android_kernel_qcom_sdm660" />
   <project name="LineageOS/android_kernel_qcom_sdm845" />
   <project name="LineageOS/android_kernel_qcom_sm8150" />
   <project name="LineageOS/android_kernel_qcom_sm8250" />
