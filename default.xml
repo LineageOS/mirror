@@ -2532,5 +2532,6 @@
   <project name="LineageOS/tribble-tracker" />
   <project name="LineageOS/update_verifier" />
   <project name="LineageOS/www" />
+  <project name="LineageOS/zifnab_test_repo" />
   <project name="LineageOS/zte-kernel-msm7x27" />
 </manifest>
