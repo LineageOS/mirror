@@ -1028,6 +1028,8 @@
   <project name="platform/external/rust/crates/proc-macro2" />
   <project name="platform/external/rust/crates/protobuf" />
   <project name="platform/external/rust/crates/protobuf-codegen" />
+  <project name="platform/external/rust/crates/protobuf-parse" />
+  <project name="platform/external/rust/crates/protobuf-support" />
   <project name="platform/external/rust/crates/psci" />
   <project name="platform/external/rust/crates/quiche" />
   <project name="platform/external/rust/crates/quickcheck" />
