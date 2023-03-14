@@ -1641,6 +1641,7 @@
   <project name="LineageOS/android_hardware_nvidia_interfaces" />
   <project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
   <project name="LineageOS/android_hardware_nvidia_light" />
+  <project name="LineageOS/android_hardware_nvidia_livedisplay" />
   <project name="LineageOS/android_hardware_nvidia_memtrack" />
   <project name="LineageOS/android_hardware_nvidia_platform_t18x_common" />
   <project name="LineageOS/android_hardware_nvidia_platform_t18x_lanai" />
