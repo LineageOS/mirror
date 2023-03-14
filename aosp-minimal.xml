@@ -743,6 +743,7 @@
   <project name="platform/external/oprofile" />
   <project name="platform/external/oss-fuzz" />
   <project name="platform/external/ow2-asm" />
+  <project name="platform/external/owasp/java-encoder" />
   <project name="platform/external/owasp/sanitizer" />
   <project name="platform/external/pandora/avatar" />
   <project name="platform/external/pandora/bt-test-interfaces" />
