@@ -1983,6 +1983,7 @@
   <project name="platform/tools/swt" />
   <project name="platform/tools/test/connectivity" />
   <project name="platform/tools/test/graphicsbenchmark" />
+  <project name="platform/tools/test/mobly_extensions" />
   <project name="platform/tools/test/mobly_snippets" />
   <project name="platform/tools/test/openhst" />
   <project name="platform/tools/tradefederation" path="platform/tools/tradefederation.git" />
