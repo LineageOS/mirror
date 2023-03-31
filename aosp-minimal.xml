@@ -186,6 +186,7 @@
   <project name="kernel/google-modules/video/gchips" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/wlan/wlan_ptracker" groups="kernel-extra,notdefault" />
   <project name="kernel/gs" groups="kernel-extra,notdefault" />
   <project name="kernel/hikey-linaro" groups="kernel-extra,notdefault" />
   <project name="kernel/hikey-modules" groups="kernel-extra,notdefault" />
