@@ -1344,6 +1344,7 @@
   <project name="platform/hardware/google/camera" />
   <project name="platform/hardware/google/easel" />
   <project name="platform/hardware/google/gchips" />
+  <project name="platform/hardware/google/gfxstream" />
   <project name="platform/hardware/google/graphics/common" />
   <project name="platform/hardware/google/graphics/gs101" />
   <project name="platform/hardware/google/graphics/gs201" />
