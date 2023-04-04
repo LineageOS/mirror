@@ -644,6 +644,7 @@
   <project name="LineageOS/android_device_realme_RMX1851" />
   <project name="LineageOS/android_device_sample" />
   <project name="LineageOS/android_device_samsung_a3xelte" />
+  <project name="LineageOS/android_device_samsung_a51" />
   <project name="LineageOS/android_device_samsung_a52q" />
   <project name="LineageOS/android_device_samsung_a5xelte" />
   <project name="LineageOS/android_device_samsung_a5y17lte" />
@@ -920,6 +921,7 @@
   <project name="LineageOS/android_device_samsung_universal7880-common" />
   <project name="LineageOS/android_device_samsung_universal7904-common" />
   <project name="LineageOS/android_device_samsung_universal8890-common" />
+  <project name="LineageOS/android_device_samsung_universal9611-common" />
   <project name="LineageOS/android_device_samsung_universal9810-common" />
   <project name="LineageOS/android_device_samsung_v1awifi" />
   <project name="LineageOS/android_device_samsung_v2awifi" />
@@ -2060,6 +2062,7 @@
   <project name="LineageOS/android_kernel_samsung_universal7880" />
   <project name="LineageOS/android_kernel_samsung_universal7904" />
   <project name="LineageOS/android_kernel_samsung_universal8890" />
+  <project name="LineageOS/android_kernel_samsung_universal9611" />
   <project name="LineageOS/android_kernel_samsung_universal9810" />
   <project name="LineageOS/android_kernel_samsung_v2wifixx" />
   <project name="LineageOS/android_kernel_samsung_victory" />
