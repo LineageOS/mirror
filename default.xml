@@ -1004,6 +1004,7 @@
   <project name="LineageOS/android_device_sony_odin" />
   <project name="LineageOS/android_device_sony_pdx203" />
   <project name="LineageOS/android_device_sony_pdx206" />
+  <project name="LineageOS/android_device_sony_pdx214" />
   <project name="LineageOS/android_device_sony_pdx215" />
   <project name="LineageOS/android_device_sony_pepper" />
   <project name="LineageOS/android_device_sony_pioneer" />
