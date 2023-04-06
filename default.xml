@@ -696,6 +696,7 @@
   <project name="LineageOS/android_device_samsung_expressatt" />
   <project name="LineageOS/android_device_samsung_exynos-common" />
   <project name="LineageOS/android_device_samsung_exynos5420-common" />
+  <project name="LineageOS/android_device_samsung_exynos9810-common" />
   <project name="LineageOS/android_device_samsung_exynos9820-common" />
   <project name="LineageOS/android_device_samsung_fascinate" />
   <project name="LineageOS/android_device_samsung_fascinatemtd" />
@@ -2018,6 +2019,7 @@
   <project name="LineageOS/android_kernel_samsung_exynos5410" />
   <project name="LineageOS/android_kernel_samsung_exynos5420" />
   <project name="LineageOS/android_kernel_samsung_exynos7420" />
+  <project name="LineageOS/android_kernel_samsung_exynos9810" />
   <project name="LineageOS/android_kernel_samsung_exynos9820" />
   <project name="LineageOS/android_kernel_samsung_galaxytab-cdma" />
   <project name="LineageOS/android_kernel_samsung_gta4xl" />
