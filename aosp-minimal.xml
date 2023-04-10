@@ -856,6 +856,7 @@
   <project name="platform/external/rnnoise" />
   <project name="platform/external/robolectric" />
   <project name="platform/external/robolectric-shadows" />
+  <project name="platform/external/roboto-flex-fonts" />
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
   <project name="platform/external/rust/crates/aarch64-paging" />
