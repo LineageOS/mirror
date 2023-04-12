@@ -1163,6 +1163,7 @@
   <project name="LineageOS/android_external_android-mock" />
   <project name="LineageOS/android_external_android-nn-driver" />
   <project name="LineageOS/android_external_android-visualizer" />
+  <project name="LineageOS/android_external_angle" />
   <project name="LineageOS/android_external_ant-glob" />
   <project name="LineageOS/android_external_ant-wireless_ant_client" />
   <project name="LineageOS/android_external_ant-wireless_ant_native" />
