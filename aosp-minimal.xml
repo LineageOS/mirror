@@ -578,6 +578,7 @@
   <project name="platform/external/kotlinx.coroutines" />
   <project name="platform/external/kotlinx.metadata" />
   <project name="platform/external/ksoap2" />
+  <project name="platform/external/ksp" />
   <project name="platform/external/ktfmt" />
   <project name="platform/external/lcc" />
   <project name="platform/external/leveldb" />
@@ -856,6 +857,7 @@
   <project name="platform/external/rnnoise" />
   <project name="platform/external/robolectric" />
   <project name="platform/external/robolectric-shadows" />
+  <project name="platform/external/roboto-flex-fonts" />
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
   <project name="platform/external/rust/crates/aarch64-paging" />
