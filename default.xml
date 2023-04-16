@@ -497,6 +497,7 @@
   <project name="LineageOS/android_device_motorola_msm8960-common" />
   <project name="LineageOS/android_device_motorola_msm8960_jbbl-common" />
   <project name="LineageOS/android_device_motorola_msm8960dt-common" />
+  <project name="LineageOS/android_device_motorola_msm8998-common" />
   <project name="LineageOS/android_device_motorola_nairo" />
   <project name="LineageOS/android_device_motorola_nash" />
   <project name="LineageOS/android_device_motorola_nio" />
