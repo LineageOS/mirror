@@ -1259,6 +1259,7 @@
   <project name="LineageOS/android_external_eclipse-windowbuilder" />
   <project name="LineageOS/android_external_efibootmgr" />
   <project name="LineageOS/android_external_efitools" />
+  <project name="LineageOS/android_external_efivar" />
   <project name="LineageOS/android_external_eigen" />
   <project name="LineageOS/android_external_elfcopy" />
   <project name="LineageOS/android_external_elfutils" />
