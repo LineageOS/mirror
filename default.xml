@@ -607,6 +607,7 @@
   <project name="LineageOS/android_device_oneplus_lemonade" />
   <project name="LineageOS/android_device_oneplus_lemonadep" />
   <project name="LineageOS/android_device_oneplus_lemonades" />
+  <project name="LineageOS/android_device_oneplus_martini" />
   <project name="LineageOS/android_device_oneplus_msm8998-common" />
   <project name="LineageOS/android_device_oneplus_oneplus2" />
   <project name="LineageOS/android_device_oneplus_oneplus3" />
