@@ -540,6 +540,7 @@
   <project name="LineageOS/android_device_motorola_umts_spyder" />
   <project name="LineageOS/android_device_motorola_vanquish-common" />
   <project name="LineageOS/android_device_motorola_victara" />
+  <project name="LineageOS/android_device_motorola_xpeng" />
   <project name="LineageOS/android_device_motorola_xt1053" />
   <project name="LineageOS/android_device_motorola_xt1058" />
   <project name="LineageOS/android_device_motorola_xt1060" />
