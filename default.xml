@@ -409,6 +409,7 @@
   <project name="LineageOS/android_device_lge_thunderc" />
   <project name="LineageOS/android_device_lge_thunderg" />
   <project name="LineageOS/android_device_lge_us996" />
+  <project name="LineageOS/android_device_lge_us996d" />
   <project name="LineageOS/android_device_lge_us997" />
   <project name="LineageOS/android_device_lge_v10-common" />
   <project name="LineageOS/android_device_lge_v20-common" />
