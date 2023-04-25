@@ -1974,6 +1974,7 @@
   <project name="platform/tools/gradle" />
   <project name="platform/tools/gradle-recipes" />
   <project name="platform/tools/idea" />
+  <project name="platform/tools/lint_checks" />
   <project name="platform/tools/loganalysis" />
   <project name="platform/tools/metalava" />
   <project name="platform/tools/motodev" />
