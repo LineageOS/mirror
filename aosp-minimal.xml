@@ -992,6 +992,7 @@
   <project name="platform/external/rust/crates/merge_derive" />
   <project name="platform/external/rust/crates/minimal-lexical" />
   <project name="platform/external/rust/crates/mio" />
+  <project name="platform/external/rust/crates/named-lock" />
   <project name="platform/external/rust/crates/nix" />
   <project name="platform/external/rust/crates/no-panic" />
   <project name="platform/external/rust/crates/nom" />
@@ -1091,6 +1092,7 @@
   <project name="platform/external/rust/crates/thiserror" />
   <project name="platform/external/rust/crates/thiserror-impl" />
   <project name="platform/external/rust/crates/thread_local" />
+  <project name="platform/external/rust/crates/threadpool" />
   <project name="platform/external/rust/crates/time" />
   <project name="platform/external/rust/crates/tinytemplate" />
   <project name="platform/external/rust/crates/tinyvec" />
