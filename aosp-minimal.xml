@@ -321,6 +321,7 @@
   <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-rules_android" />
   <project name="platform/external/bazelbuild-rules_license" />
+  <project name="platform/external/bazelbuild-rules_testing" />
   <project name="platform/external/bc" />
   <project name="platform/external/bcc" />
   <project name="platform/external/bison" />
