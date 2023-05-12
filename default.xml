@@ -703,6 +703,7 @@
   <project name="LineageOS/android_device_samsung_exynos5420-common" />
   <project name="LineageOS/android_device_samsung_exynos9810-common" />
   <project name="LineageOS/android_device_samsung_exynos9820-common" />
+  <project name="LineageOS/android_device_samsung_f62" />
   <project name="LineageOS/android_device_samsung_fascinate" />
   <project name="LineageOS/android_device_samsung_fascinatemtd" />
   <project name="LineageOS/android_device_samsung_galaxy5" />
@@ -1525,6 +1526,7 @@
   <project name="LineageOS/android_external_zip" />
   <project name="LineageOS/android_external_zlib" />
   <project name="LineageOS/android_external_zopfli" />
+  <project name="LineageOS/android_external_zstd" />
   <project name="LineageOS/android_external_zxing" />
   <project name="LineageOS/android_frameworks_av" />
   <project name="LineageOS/android_frameworks_base" />
