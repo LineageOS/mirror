@@ -1111,6 +1111,7 @@
   <project name="LineageOS/android_device_xiaomi_pyxis" />
   <project name="LineageOS/android_device_xiaomi_raphael" />
   <project name="LineageOS/android_device_xiaomi_renoir" />
+  <project name="LineageOS/android_device_xiaomi_rosemary" />
   <project name="LineageOS/android_device_xiaomi_rosy" />
   <project name="LineageOS/android_device_xiaomi_sagit" />
   <project name="LineageOS/android_device_xiaomi_santoni" />
