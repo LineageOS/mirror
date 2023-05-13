@@ -564,6 +564,7 @@
   <project name="platform/external/jemalloc" />
   <project name="platform/external/jemalloc_new" />
   <project name="platform/external/jetbrains/intellij-kotlin" />
+  <project name="platform/external/jetbrains/intellij-rust" />
   <project name="platform/external/jetbrains/kotlin" />
   <project name="platform/external/jetty" />
   <project name="platform/external/jhead" />
