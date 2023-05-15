@@ -302,6 +302,7 @@
   <project name="LineageOS/android_external_yaffs2" />
   <project name="LineageOS/android_external_zip" />
   <project name="LineageOS/android_external_zlib" />
+  <project name="LineageOS/android_external_zstd" />
   <project name="LineageOS/android_external_zxing" />
   <project name="LineageOS/android_frameworks_av" />
   <project name="LineageOS/android_frameworks_base" />
