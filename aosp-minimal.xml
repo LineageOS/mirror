@@ -257,6 +257,7 @@
   <project name="platform/build/kati" />
   <project name="platform/build/orchestrator" />
   <project name="platform/build/pesto" />
+  <project name="platform/build/release" />
   <project name="platform/build/soong" />
   <project name="platform/compatibility/cdd" />
   <project name="platform/cts" />
