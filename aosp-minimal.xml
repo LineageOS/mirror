@@ -330,6 +330,7 @@
   <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-rules_android" />
   <project name="platform/external/bazelbuild-rules_license" />
+  <project name="platform/external/bazelbuild-rules_rust" />
   <project name="platform/external/bazelbuild-rules_testing" />
   <project name="platform/external/bc" />
   <project name="platform/external/bcc" />
@@ -1206,6 +1207,7 @@
   <project name="platform/external/tesseract" />
   <project name="platform/external/testng" />
   <project name="platform/external/tflite-support" />
+  <project name="platform/external/third-party-review" />
   <project name="platform/external/timezone-boundary-builder" />
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tink" />
