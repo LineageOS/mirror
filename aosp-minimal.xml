@@ -1028,6 +1028,7 @@
   <project name="platform/external/rust/crates/parking_lot_core" />
   <project name="platform/external/rust/crates/paste" />
   <project name="platform/external/rust/crates/paste-impl" />
+  <project name="platform/external/rust/crates/pdl-compiler" />
   <project name="platform/external/rust/crates/peeking_take_while" />
   <project name="platform/external/rust/crates/percent-encoding" />
   <project name="platform/external/rust/crates/pest" />
