@@ -1134,6 +1134,7 @@
   <project name="LineageOS/android_device_xiaomi_sm8250-common" />
   <project name="LineageOS/android_device_xiaomi_sm8350-common" />
   <project name="LineageOS/android_device_xiaomi_surya" />
+  <project name="LineageOS/android_device_xiaomi_sweet" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
   <project name="LineageOS/android_device_xiaomi_twolip" />
   <project name="LineageOS/android_device_xiaomi_ursa" />
