@@ -1094,6 +1094,7 @@
   <project name="platform/external/rust/crates/shlex" />
   <project name="platform/external/rust/crates/slab" />
   <project name="platform/external/rust/crates/smallvec" />
+  <project name="platform/external/rust/crates/smccc" />
   <project name="platform/external/rust/crates/socket2" />
   <project name="platform/external/rust/crates/spin" />
   <project name="platform/external/rust/crates/spki" />
@@ -1949,6 +1950,7 @@
   <project name="platform/test/mlts/benchmark" />
   <project name="platform/test/mlts/models" />
   <project name="platform/test/mts" />
+  <project name="platform/test/robolectric-extensions" />
   <project name="platform/test/sts" />
   <project name="platform/test/suite_harness" />
   <project name="platform/test/vti/alert" />
