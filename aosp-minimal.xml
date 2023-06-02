@@ -757,6 +757,7 @@
   <project name="platform/external/openwrt-prebuilts" />
   <project name="platform/external/oprofile" />
   <project name="platform/external/oss-fuzz" />
+  <project name="platform/external/ot-br-posix" />
   <project name="platform/external/ow2-asm" />
   <project name="platform/external/owasp/java-encoder" />
   <project name="platform/external/owasp/sanitizer" />
@@ -993,6 +994,8 @@
   <project name="platform/external/rust/crates/libtest-mimic" />
   <project name="platform/external/rust/crates/libz-sys" />
   <project name="platform/external/rust/crates/linked-hash-map" />
+  <project name="platform/external/rust/crates/linkme" />
+  <project name="platform/external/rust/crates/linkme-impl" />
   <project name="platform/external/rust/crates/litrs" />
   <project name="platform/external/rust/crates/lock_api" />
   <project name="platform/external/rust/crates/log" />
