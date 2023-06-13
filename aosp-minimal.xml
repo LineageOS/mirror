@@ -1462,6 +1462,7 @@
   <project name="platform/hardware/st/nfc" />
   <project name="platform/hardware/st/secure_element" />
   <project name="platform/hardware/st/secure_element2" />
+  <project name="platform/hardware/synaptics/wlan" />
   <project name="platform/hardware/ti/am57x" />
   <project name="platform/hardware/ti/omap3" />
   <project name="platform/hardware/ti/omap4-aah" />
