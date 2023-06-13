@@ -329,6 +329,7 @@
   <project name="platform/external/bazel-skylib" />
   <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-rules_android" />
+  <project name="platform/external/bazelbuild-rules_go" />
   <project name="platform/external/bazelbuild-rules_license" />
   <project name="platform/external/bazelbuild-rules_rust" />
   <project name="platform/external/bazelbuild-rules_testing" />
