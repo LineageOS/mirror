@@ -664,6 +664,7 @@
   <project name="LineageOS/android_device_samsung_a3xelte" />
   <project name="LineageOS/android_device_samsung_a51" />
   <project name="LineageOS/android_device_samsung_a52q" />
+  <project name="LineageOS/android_device_samsung_a52sxq" />
   <project name="LineageOS/android_device_samsung_a5xelte" />
   <project name="LineageOS/android_device_samsung_a5y17lte" />
   <project name="LineageOS/android_device_samsung_a72q" />
@@ -828,6 +829,7 @@
   <project name="LineageOS/android_device_samsung_lt03lte" />
   <project name="LineageOS/android_device_samsung_lt03wifi" />
   <project name="LineageOS/android_device_samsung_m20lte" />
+  <project name="LineageOS/android_device_samsung_m52xq" />
   <project name="LineageOS/android_device_samsung_maguro" />
   <project name="LineageOS/android_device_samsung_manta" />
   <project name="LineageOS/android_device_samsung_mesmerizemtd" />
@@ -903,6 +905,7 @@
   <project name="LineageOS/android_device_samsung_skyrocket" />
   <project name="LineageOS/android_device_samsung_slsi_sepolicy" />
   <project name="LineageOS/android_device_samsung_sm7125-common" />
+  <project name="LineageOS/android_device_samsung_sm7325-common" />
   <project name="LineageOS/android_device_samsung_sm8150-common" />
   <project name="LineageOS/android_device_samsung_sm8250-common" />
   <project name="LineageOS/android_device_samsung_smdk4412-common" />
@@ -2081,6 +2084,7 @@
   <project name="LineageOS/android_kernel_samsung_sdm429" />
   <project name="LineageOS/android_kernel_samsung_sdm670" />
   <project name="LineageOS/android_kernel_samsung_sm7125" />
+  <project name="LineageOS/android_kernel_samsung_sm7325" />
   <project name="LineageOS/android_kernel_samsung_sm8250" />
   <project name="LineageOS/android_kernel_samsung_smdk4210" />
   <project name="LineageOS/android_kernel_samsung_smdk4412" />
