@@ -573,6 +573,8 @@
   <project name="LineageOS/android_device_nubia_nx563j" />
   <project name="LineageOS/android_device_nubia_nx609j" />
   <project name="LineageOS/android_device_nubia_nx611j" />
+  <project name="LineageOS/android_device_nubia_nx619j" />
+  <project name="LineageOS/android_device_nubia_sdm845-common" />
   <project name="LineageOS/android_device_nvidia_dalmore" />
   <project name="LineageOS/android_device_nvidia_foster" />
   <project name="LineageOS/android_device_nvidia_foster_tab" />
@@ -1949,6 +1951,7 @@
   <project name="LineageOS/android_kernel_nubia_msm8996" />
   <project name="LineageOS/android_kernel_nubia_msm8998" />
   <project name="LineageOS/android_kernel_nubia_sdm660" />
+  <project name="LineageOS/android_kernel_nubia_sdm845" />
   <project name="LineageOS/android_kernel_nubia_sm8150" />
   <project name="LineageOS/android_kernel_nvidia_cypress-fmac" />
   <project name="LineageOS/android_kernel_nvidia_cypress-fmac-upstream" />
