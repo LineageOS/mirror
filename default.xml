@@ -566,6 +566,7 @@
   <project name="LineageOS/android_device_nintendo_icosa" />
   <project name="LineageOS/android_device_nintendo_nx" />
   <project name="LineageOS/android_device_nokia_DRG" />
+  <project name="LineageOS/android_device_nokia_NLA" />
   <project name="LineageOS/android_device_nokia_PL2" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
   <project name="LineageOS/android_device_nubia_TP1803" />
@@ -1954,6 +1955,7 @@
   <project name="LineageOS/android_kernel_motorola_sm8250" />
   <project name="LineageOS/android_kernel_motorola_titan" />
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
+  <project name="LineageOS/android_kernel_nokia_msm8998" />
   <project name="LineageOS/android_kernel_nokia_sdm660" />
   <project name="LineageOS/android_kernel_nubia_msm8939" />
   <project name="LineageOS/android_kernel_nubia_msm8996" />
