@@ -157,6 +157,7 @@
   <project name="LineageOS/android_device_google_bonito" />
   <project name="LineageOS/android_device_google_bramble" />
   <project name="LineageOS/android_device_google_cheetah" />
+  <project name="LineageOS/android_device_google_contexthub" />
   <project name="LineageOS/android_device_google_coral" />
   <project name="LineageOS/android_device_google_crosshatch" />
   <project name="LineageOS/android_device_google_dragon" />
