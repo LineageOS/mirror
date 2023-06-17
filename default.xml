@@ -58,6 +58,7 @@
   <project name="LineageOS/android_device_amlogic_common" />
   <project name="LineageOS/android_device_amlogic_g12-common" />
   <project name="LineageOS/android_device_amlogic_gx-common" />
+  <project name="LineageOS/android_device_amlogic_ne-common" />
   <project name="LineageOS/android_device_amlogic_sepolicy" />
   <project name="LineageOS/android_device_ark_msm8916-common" />
   <project name="LineageOS/android_device_ark_peach" />
@@ -304,6 +305,7 @@
   <project name="LineageOS/android_device_huawei_u8160" />
   <project name="LineageOS/android_device_huawei_u8220" />
   <project name="LineageOS/android_device_intel_mixins" />
+  <project name="LineageOS/android_device_khadas_kvim1s" />
   <project name="LineageOS/android_device_leeco_msm8996-common" />
   <project name="LineageOS/android_device_leeco_s2" />
   <project name="LineageOS/android_device_leeco_x2" />
@@ -1598,6 +1600,7 @@
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_dhd-driver" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_mali-driver" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_media" />
+  <project name="LineageOS/android_hardware_amlogic_kernel-modules_media-5.4" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_media-pie" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_optee" />
   <project name="LineageOS/android_hardware_amlogic_kernel-modules_optee-pie" />
@@ -1811,6 +1814,7 @@
   <project name="LineageOS/android_kernel_amazon_otter-common" />
   <project name="LineageOS/android_kernel_amlogic_linux-4.9" />
   <project name="LineageOS/android_kernel_amlogic_linux-4.9-pie" />
+  <project name="LineageOS/android_kernel_amlogic_linux-5.4" />
   <project name="LineageOS/android_kernel_ark_msm8916" />
   <project name="LineageOS/android_kernel_asus_I001" />
   <project name="LineageOS/android_kernel_asus_P024" />
