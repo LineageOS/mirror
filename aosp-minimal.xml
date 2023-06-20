@@ -98,6 +98,9 @@
   <project name="device/google/sunfish-kernel" groups="kernel" />
   <project name="device/google/sunfish-sepolicy" />
   <project name="device/google/taimen" />
+  <project name="device/google/tangorpro" />
+  <project name="device/google/tangorpro-kernel" groups="kernel" />
+  <project name="device/google/tangorpro-sepolicy" />
   <project name="device/google/trout" />
   <project name="device/google/vrservices" />
   <project name="device/google/wahoo" />
