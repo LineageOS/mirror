@@ -188,6 +188,7 @@
   <project name="LineageOS/android_device_google_steelhead" />
   <project name="LineageOS/android_device_google_sunfish" />
   <project name="LineageOS/android_device_google_taimen" />
+  <project name="LineageOS/android_device_google_tangorpro" />
   <project name="LineageOS/android_device_google_wahoo" />
   <project name="LineageOS/android_device_google_walleye" />
   <project name="LineageOS/android_device_google_yellowstone" />
