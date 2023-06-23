@@ -1388,6 +1388,7 @@
   <project name="platform/hardware/google/interfaces" />
   <project name="platform/hardware/google/pixel" />
   <project name="platform/hardware/google/pixel-sepolicy" />
+  <project name="platform/hardware/google/trusty" />
   <project name="platform/hardware/intel/audio_media" />
   <project name="platform/hardware/intel/bootstub" />
   <project name="platform/hardware/intel/common/bd_prov" />
