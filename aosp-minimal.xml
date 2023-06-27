@@ -885,6 +885,7 @@
   <project name="platform/external/roboto-flex-fonts" />
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
+  <project name="platform/external/rust/autocxx" />
   <project name="platform/external/rust/crates/aarch64-paging" />
   <project name="platform/external/rust/crates/ahash" />
   <project name="platform/external/rust/crates/aho-corasick" />
@@ -892,6 +893,7 @@
   <project name="platform/external/rust/crates/android_log-sys" />
   <project name="platform/external/rust/crates/android_logger" />
   <project name="platform/external/rust/crates/anes" />
+  <project name="platform/external/rust/crates/annotate-snippets" />
   <project name="platform/external/rust/crates/anyhow" />
   <project name="platform/external/rust/crates/arbitrary" />
   <project name="platform/external/rust/crates/argh" />
@@ -1022,8 +1024,11 @@
   <project name="platform/external/rust/crates/memoffset" />
   <project name="platform/external/rust/crates/merge" />
   <project name="platform/external/rust/crates/merge_derive" />
+  <project name="platform/external/rust/crates/miette" />
+  <project name="platform/external/rust/crates/miette-derive" />
   <project name="platform/external/rust/crates/minimal-lexical" />
   <project name="platform/external/rust/crates/mio" />
+  <project name="platform/external/rust/crates/moveit" />
   <project name="platform/external/rust/crates/named-lock" />
   <project name="platform/external/rust/crates/nix" />
   <project name="platform/external/rust/crates/no-panic" />
@@ -1046,6 +1051,7 @@
   <project name="platform/external/rust/crates/parking_lot_core" />
   <project name="platform/external/rust/crates/paste" />
   <project name="platform/external/rust/crates/paste-impl" />
+  <project name="platform/external/rust/crates/pathdiff" />
   <project name="platform/external/rust/crates/pdl-compiler" />
   <project name="platform/external/rust/crates/peeking_take_while" />
   <project name="platform/external/rust/crates/percent-encoding" />
