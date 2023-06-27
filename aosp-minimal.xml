@@ -71,6 +71,9 @@
   <project name="device/google/debugcable" />
   <project name="device/google/dragon" />
   <project name="device/google/dragon-kernel" groups="kernel" />
+  <project name="device/google/felix" />
+  <project name="device/google/felix-kernel" groups="kernel" />
+  <project name="device/google/felix-sepolicy" />
   <project name="device/google/fuchsia" />
   <project name="device/google/gs-common" />
   <project name="device/google/gs101" />
@@ -158,6 +161,7 @@
   <project name="kernel/common-patches" groups="kernel-extra,notdefault" />
   <project name="kernel/configs" />
   <project name="kernel/devices/google/bluejay" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/felix" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/lynx" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/tangorpro" groups="kernel-extra,notdefault" />
   <project name="kernel/exynos" groups="kernel-extra,notdefault" />
