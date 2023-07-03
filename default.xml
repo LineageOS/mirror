@@ -577,6 +577,7 @@
   <project name="LineageOS/android_device_nubia_nx512j" />
   <project name="LineageOS/android_device_nubia_nx531j" />
   <project name="LineageOS/android_device_nubia_nx563j" />
+  <project name="LineageOS/android_device_nubia_nx606j" />
   <project name="LineageOS/android_device_nubia_nx609j" />
   <project name="LineageOS/android_device_nubia_nx611j" />
   <project name="LineageOS/android_device_nubia_nx619j" />
