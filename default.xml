@@ -2440,6 +2440,7 @@
   <project name="LineageOS/android_system_wlan_ti" />
   <project name="LineageOS/android_test_sts" />
   <project name="LineageOS/android_test_vts-testcase_vndk" />
+  <project name="LineageOS/android_tools_apksig" />
   <project name="LineageOS/android_tools_base" />
   <project name="LineageOS/android_tools_extract-utils" />
   <project name="LineageOS/android_tools_metalava" />
