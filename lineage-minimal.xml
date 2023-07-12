@@ -623,6 +623,7 @@
   <project name="LineageOS/android_system_update_engine" />
   <project name="LineageOS/android_system_vold" />
   <project name="LineageOS/android_test_vts-testcase_vndk" />
+  <project name="LineageOS/android_tools_apksig" />
   <project name="LineageOS/android_tools_extract-utils" />
   <project name="LineageOS/android_tools_metalava" />
   <project name="LineageOS/android_vendor_cm" />
