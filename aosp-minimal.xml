@@ -341,6 +341,7 @@
   <project name="platform/external/bazel-skylib" />
   <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-rules_android" />
+  <project name="platform/external/bazelbuild-rules_cc" />
   <project name="platform/external/bazelbuild-rules_go" />
   <project name="platform/external/bazelbuild-rules_java" />
   <project name="platform/external/bazelbuild-rules_license" />
