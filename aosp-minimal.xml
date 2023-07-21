@@ -1432,9 +1432,11 @@
   <project name="platform/hardware/msm7k" />
   <project name="platform/hardware/nvidia/audio" />
   <project name="platform/hardware/nvidia/tegra124" />
+  <project name="platform/hardware/nxp/keymint" />
   <project name="platform/hardware/nxp/nfc" />
   <project name="platform/hardware/nxp/secure_element" />
   <project name="platform/hardware/nxp/uwb" />
+  <project name="platform/hardware/nxp/weaver" />
   <project name="platform/hardware/qcom/audio" />
   <project name="platform/hardware/qcom/bootctrl" />
   <project name="platform/hardware/qcom/bt" />
