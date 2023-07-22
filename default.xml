@@ -1673,6 +1673,7 @@
   <project name="LineageOS/android_hardware_motorola" />
   <project name="LineageOS/android_hardware_msm7k" />
   <project name="LineageOS/android_hardware_nintendo_joycond" />
+  <project name="LineageOS/android_hardware_nubia" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_boot_control" />
   <project name="LineageOS/android_hardware_nvidia_hwinc" />
