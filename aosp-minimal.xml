@@ -345,6 +345,7 @@
   <project name="platform/external/bazelbuild-rules_go" />
   <project name="platform/external/bazelbuild-rules_java" />
   <project name="platform/external/bazelbuild-rules_license" />
+  <project name="platform/external/bazelbuild-rules_python" />
   <project name="platform/external/bazelbuild-rules_rust" />
   <project name="platform/external/bazelbuild-rules_testing" />
   <project name="platform/external/bc" />
@@ -986,6 +987,7 @@
   <project name="platform/external/rust/crates/getrandom" />
   <project name="platform/external/rust/crates/glam" />
   <project name="platform/external/rust/crates/glob" />
+  <project name="platform/external/rust/crates/googletest" />
   <project name="platform/external/rust/crates/grpcio" />
   <project name="platform/external/rust/crates/grpcio-compiler" />
   <project name="platform/external/rust/crates/grpcio-sys" />
