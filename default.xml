@@ -1717,6 +1717,7 @@
   <project name="LineageOS/android_hardware_oplus" />
   <project name="LineageOS/android_hardware_qcom-caf_common" />
   <project name="LineageOS/android_hardware_qcom_audio" />
+  <project name="LineageOS/android_hardware_qcom_audio-ar" />
   <project name="LineageOS/android_hardware_qcom_audio-bfam" />
   <project name="LineageOS/android_hardware_qcom_audio-caf" />
   <project name="LineageOS/android_hardware_qcom_bootctrl" />
