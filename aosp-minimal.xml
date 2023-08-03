@@ -1909,6 +1909,7 @@
   <project name="platform/sdk" />
   <project name="platform/system/apex" />
   <project name="platform/system/ashmemd" />
+  <project name="platform/system/authgraph" />
   <project name="platform/system/bluetooth" />
   <project name="platform/system/bpf" />
   <project name="platform/system/bpfprogs" />
