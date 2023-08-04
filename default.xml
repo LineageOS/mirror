@@ -1112,6 +1112,7 @@
   <project name="LineageOS/android_device_xiaomi_lisa" />
   <project name="LineageOS/android_device_xiaomi_lithium" />
   <project name="LineageOS/android_device_xiaomi_lmi" />
+  <project name="LineageOS/android_device_xiaomi_mars" />
   <project name="LineageOS/android_device_xiaomi_merlinx" />
   <project name="LineageOS/android_device_xiaomi_miatoll" />
   <project name="LineageOS/android_device_xiaomi_mido" />
