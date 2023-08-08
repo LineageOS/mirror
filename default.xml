@@ -2274,6 +2274,7 @@
   <project name="LineageOS/android_packages_apps_Profiles" />
   <project name="LineageOS/android_packages_apps_Protips" />
   <project name="LineageOS/android_packages_apps_Provision" />
+  <project name="LineageOS/android_packages_apps_QuickAccessWallet" />
   <project name="LineageOS/android_packages_apps_QuickSearchBox" />
   <project name="LineageOS/android_packages_apps_Recorder" />
   <project name="LineageOS/android_packages_apps_SafetyRegulatoryInfo" />
@@ -2413,6 +2414,7 @@
   <project name="LineageOS/android_system_bluetooth" />
   <project name="LineageOS/android_system_bpf" />
   <project name="LineageOS/android_system_bt" />
+  <project name="LineageOS/android_system_ca-certificates" />
   <project name="LineageOS/android_system_connectivity_wificond" />
   <project name="LineageOS/android_system_core" />
   <project name="LineageOS/android_system_core_old" />
