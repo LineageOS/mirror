@@ -582,6 +582,7 @@
   <project name="LineageOS/android_device_nubia_nx611j" />
   <project name="LineageOS/android_device_nubia_nx619j" />
   <project name="LineageOS/android_device_nubia_nx651j" />
+  <project name="LineageOS/android_device_nubia_nx651j_eea" />
   <project name="LineageOS/android_device_nubia_nx659j" />
   <project name="LineageOS/android_device_nubia_sdm845-common" />
   <project name="LineageOS/android_device_nubia_sm7250-common" />
