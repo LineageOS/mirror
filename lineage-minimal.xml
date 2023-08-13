@@ -485,6 +485,7 @@
   <project name="LineageOS/android_packages_apps_PhoneCommon" />
   <project name="LineageOS/android_packages_apps_Profiles" />
   <project name="LineageOS/android_packages_apps_Provision" />
+  <project name="LineageOS/android_packages_apps_QuickAccessWallet" />
   <project name="LineageOS/android_packages_apps_Recorder" />
   <project name="LineageOS/android_packages_apps_SafetyRegulatoryInfo" />
   <project name="LineageOS/android_packages_apps_Screencast" />
@@ -594,6 +595,7 @@
   <project name="LineageOS/android_system_apex" />
   <project name="LineageOS/android_system_bpf" />
   <project name="LineageOS/android_system_bt" />
+  <project name="LineageOS/android_system_ca-certificates" />
   <project name="LineageOS/android_system_connectivity_wificond" />
   <project name="LineageOS/android_system_core" />
   <project name="LineageOS/android_system_extras" />
