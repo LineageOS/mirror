@@ -1159,6 +1159,7 @@
   <project name="platform/external/rust/crates/tracing" />
   <project name="platform/external/rust/crates/tracing-attributes" />
   <project name="platform/external/rust/crates/tracing-core" />
+  <project name="platform/external/rust/crates/tracing-subscriber" />
   <project name="platform/external/rust/crates/tungstenite" />
   <project name="platform/external/rust/crates/ucd-trie" />
   <project name="platform/external/rust/crates/unicode-bidi" />
