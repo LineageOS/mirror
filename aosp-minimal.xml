@@ -340,6 +340,7 @@
   <project name="platform/external/bart" />
   <project name="platform/external/bazel-skylib" />
   <project name="platform/external/bazelbuild-kotlin-rules" />
+  <project name="platform/external/bazelbuild-platforms" />
   <project name="platform/external/bazelbuild-rules_android" />
   <project name="platform/external/bazelbuild-rules_cc" />
   <project name="platform/external/bazelbuild-rules_go" />
@@ -1148,6 +1149,7 @@
   <project name="platform/external/rust/crates/thread_local" />
   <project name="platform/external/rust/crates/threadpool" />
   <project name="platform/external/rust/crates/time" />
+  <project name="platform/external/rust/crates/tinyjson" />
   <project name="platform/external/rust/crates/tinytemplate" />
   <project name="platform/external/rust/crates/tinyvec" />
   <project name="platform/external/rust/crates/tinyvec_macros" />
