@@ -894,6 +894,7 @@
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
   <project name="platform/external/rust/autocxx" />
+  <project name="platform/external/rust/beto-rust" />
   <project name="platform/external/rust/crates/aarch64-paging" />
   <project name="platform/external/rust/crates/ahash" />
   <project name="platform/external/rust/crates/aho-corasick" />
@@ -992,6 +993,7 @@
   <project name="platform/external/rust/crates/glam" />
   <project name="platform/external/rust/crates/glob" />
   <project name="platform/external/rust/crates/googletest" />
+  <project name="platform/external/rust/crates/googletest_macro" />
   <project name="platform/external/rust/crates/grpcio" />
   <project name="platform/external/rust/crates/grpcio-compiler" />
   <project name="platform/external/rust/crates/grpcio-sys" />
