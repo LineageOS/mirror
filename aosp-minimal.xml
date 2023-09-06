@@ -2028,6 +2028,7 @@
   <project name="platform/tools/build" />
   <project name="platform/tools/buildSrc" />
   <project name="platform/tools/carrier_settings" />
+  <project name="platform/tools/content_addressed_storage/prebuilts" />
   <project name="platform/tools/currysrc" />
   <project name="platform/tools/dexter" />
   <project name="platform/tools/doc_generation" />
