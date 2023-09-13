@@ -2054,6 +2054,7 @@
   <project name="platform/tools/ndkports" />
   <project name="platform/tools/netsim" />
   <project name="platform/tools/repohooks" />
+  <project name="platform/tools/rr_prebuilt" />
   <project name="platform/tools/security" />
   <project name="platform/tools/studio/cloud" />
   <project name="platform/tools/studio/google/appindexing" />
