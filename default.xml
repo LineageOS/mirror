@@ -572,6 +572,7 @@
   <project name="LineageOS/android_device_nokia_NLA" />
   <project name="LineageOS/android_device_nokia_PL2" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
+  <project name="LineageOS/android_device_nothing_Spacewar" />
   <project name="LineageOS/android_device_nubia_TP1803" />
   <project name="LineageOS/android_device_nubia_msm8998-common" />
   <project name="LineageOS/android_device_nubia_nx512j" />
@@ -1682,6 +1683,7 @@
   <project name="LineageOS/android_hardware_motorola" />
   <project name="LineageOS/android_hardware_msm7k" />
   <project name="LineageOS/android_hardware_nintendo_joycond" />
+  <project name="LineageOS/android_hardware_nothing" />
   <project name="LineageOS/android_hardware_nubia" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_boot_control" />
@@ -1973,6 +1975,7 @@
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
   <project name="LineageOS/android_kernel_nokia_msm8998" />
   <project name="LineageOS/android_kernel_nokia_sdm660" />
+  <project name="LineageOS/android_kernel_nothing_sm7325" />
   <project name="LineageOS/android_kernel_nubia_msm8939" />
   <project name="LineageOS/android_kernel_nubia_msm8996" />
   <project name="LineageOS/android_kernel_nubia_msm8998" />
