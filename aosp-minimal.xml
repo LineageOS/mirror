@@ -1667,6 +1667,7 @@
   <project name="platform/packages/modules/CaptivePortalLogin" />
   <project name="platform/packages/modules/CellBroadcastService" />
   <project name="platform/packages/modules/Connectivity" />
+  <project name="platform/packages/modules/CrashRecovery" />
   <project name="platform/packages/modules/Cronet" />
   <project name="platform/packages/modules/DnsResolver" />
   <project name="platform/packages/modules/ExtServices" />
@@ -1890,6 +1891,7 @@
   <project name="platform/prebuilts/module_sdk/AppSearch" />
   <project name="platform/prebuilts/module_sdk/Bluetooth" />
   <project name="platform/prebuilts/module_sdk/Connectivity" />
+  <project name="platform/prebuilts/module_sdk/CrashRecovery" />
   <project name="platform/prebuilts/module_sdk/IPsec" />
   <project name="platform/prebuilts/module_sdk/Media" />
   <project name="platform/prebuilts/module_sdk/MediaProvider" />
