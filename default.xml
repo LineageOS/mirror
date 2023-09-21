@@ -475,6 +475,7 @@
   <project name="LineageOS/android_device_motorola_droid2we" />
   <project name="LineageOS/android_device_motorola_dubai" />
   <project name="LineageOS/android_device_motorola_edison" />
+  <project name="LineageOS/android_device_motorola_eqs" />
   <project name="LineageOS/android_device_motorola_evert" />
   <project name="LineageOS/android_device_motorola_exynos9610-common" />
   <project name="LineageOS/android_device_motorola_falcon" />
@@ -540,6 +541,7 @@
   <project name="LineageOS/android_device_motorola_sm7250-common" />
   <project name="LineageOS/android_device_motorola_sm7325-common" />
   <project name="LineageOS/android_device_motorola_sm8250-common" />
+  <project name="LineageOS/android_device_motorola_sm8475-common" />
   <project name="LineageOS/android_device_motorola_smith" />
   <project name="LineageOS/android_device_motorola_solana" />
   <project name="LineageOS/android_device_motorola_spyder" />
@@ -564,6 +566,7 @@
   <project name="LineageOS/android_device_motorola_xt925" />
   <project name="LineageOS/android_device_motorola_xt925_jbbl" />
   <project name="LineageOS/android_device_motorola_xt926" />
+  <project name="LineageOS/android_device_motorola_zeekr" />
   <project name="LineageOS/android_device_motorola_zeppelin" />
   <project name="LineageOS/android_device_nextbit_ether" />
   <project name="LineageOS/android_device_nintendo_icosa" />
@@ -641,10 +644,12 @@
   <project name="LineageOS/android_device_oneplus_oneplus2" />
   <project name="LineageOS/android_device_oneplus_oneplus3" />
   <project name="LineageOS/android_device_oneplus_onyx" />
+  <project name="LineageOS/android_device_oneplus_salami" />
   <project name="LineageOS/android_device_oneplus_sdm845-common" />
   <project name="LineageOS/android_device_oneplus_sm8150-common" />
   <project name="LineageOS/android_device_oneplus_sm8250-common" />
   <project name="LineageOS/android_device_oneplus_sm8350-common" />
+  <project name="LineageOS/android_device_oneplus_sm8550-common" />
   <project name="LineageOS/android_device_oppo_OP4A7A" />
   <project name="LineageOS/android_device_oppo_apq8064-common" />
   <project name="LineageOS/android_device_oppo_common" />
@@ -1971,6 +1976,7 @@
   <project name="LineageOS/android_kernel_motorola_sm7250" />
   <project name="LineageOS/android_kernel_motorola_sm7325" />
   <project name="LineageOS/android_kernel_motorola_sm8250" />
+  <project name="LineageOS/android_kernel_motorola_sm8475" />
   <project name="LineageOS/android_kernel_motorola_titan" />
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
   <project name="LineageOS/android_kernel_nokia_msm8998" />
@@ -2044,6 +2050,9 @@
   <project name="LineageOS/android_kernel_oneplus_sm8150" />
   <project name="LineageOS/android_kernel_oneplus_sm8250" />
   <project name="LineageOS/android_kernel_oneplus_sm8350" />
+  <project name="LineageOS/android_kernel_oneplus_sm8550" />
+  <project name="LineageOS/android_kernel_oneplus_sm8550-devicetrees" />
+  <project name="LineageOS/android_kernel_oneplus_sm8550-modules" />
   <project name="LineageOS/android_kernel_oppo_find5" />
   <project name="LineageOS/android_kernel_oppo_msm8226" />
   <project name="LineageOS/android_kernel_oppo_msm8939" />
@@ -2053,6 +2062,7 @@
   <project name="LineageOS/android_kernel_oppo_sm8250" />
   <project name="LineageOS/android_kernel_qcom_msm8916" />
   <project name="LineageOS/android_kernel_qcom_msm8974" />
+  <project name="LineageOS/android_kernel_qcom_msm8976" />
   <project name="LineageOS/android_kernel_qcom_msm8994" />
   <project name="LineageOS/android_kernel_qcom_msm8996" />
   <project name="LineageOS/android_kernel_qcom_msm8998" />
