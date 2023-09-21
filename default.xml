@@ -2061,6 +2061,9 @@
   <project name="LineageOS/android_kernel_qcom_sm8150" />
   <project name="LineageOS/android_kernel_qcom_sm8250" />
   <project name="LineageOS/android_kernel_qcom_sm8350" />
+  <project name="LineageOS/android_kernel_qcom_sm8550" />
+  <project name="LineageOS/android_kernel_qcom_sm8550-devicetrees" />
+  <project name="LineageOS/android_kernel_qcom_sm8550-modules" />
   <project name="LineageOS/android_kernel_razer_msm8998" />
   <project name="LineageOS/android_kernel_razer_sdm845" />
   <project name="LineageOS/android_kernel_realme_sdm660" />
