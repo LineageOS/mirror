@@ -1225,6 +1225,7 @@
   <project name="platform/external/scapy" />
   <project name="platform/external/scrypt" />
   <project name="platform/external/scudo" />
+  <project name="platform/external/sdv/vsomeip" />
   <project name="platform/external/seccomp-tests" />
   <project name="platform/external/selinux" />
   <project name="platform/external/sepolicy" />
