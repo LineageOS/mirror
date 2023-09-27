@@ -154,7 +154,6 @@
   <project name="device/ti/beagle-x15" />
   <project name="device/ti/beagle-x15-kernel" groups="kernel" />
   <project name="device/ti/panda" />
-  <project name="kernel/arcvm-modules/common" groups="kernel-extra,notdefault" />
   <project name="kernel/build" />
   <project name="kernel/common" groups="kernel-extra,notdefault" />
   <project name="kernel/common-modules/virtual-device" groups="kernel-extra,notdefault" />
