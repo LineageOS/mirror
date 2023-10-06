@@ -27,6 +27,15 @@
   <project name="LineageOS/android_bootable_diskinstaller" />
   <project name="LineageOS/android_bootable_recovery" />
   <project name="LineageOS/android_bootable_recovery-cm" />
+  <project name="LineageOS/android_bootable_tianocore_cmocka" />
+  <project name="LineageOS/android_bootable_tianocore_edk2" />
+  <project name="LineageOS/android_bootable_tianocore_edk2-non-osi" />
+  <project name="LineageOS/android_bootable_tianocore_edk2-nvidia" />
+  <project name="LineageOS/android_bootable_tianocore_edk2-nvidia-lineage" />
+  <project name="LineageOS/android_bootable_tianocore_edk2-nvidia-non-osi" />
+  <project name="LineageOS/android_bootable_tianocore_edk2-platforms" />
+  <project name="LineageOS/android_bootable_tianocore_jansson" />
+  <project name="LineageOS/android_bootable_tianocore_openssl" />
   <project name="LineageOS/android_bootable_userfastboot" />
   <project name="LineageOS/android_build" />
   <project name="LineageOS/android_build_blueprint" />
