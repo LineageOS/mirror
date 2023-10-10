@@ -97,6 +97,9 @@
   <project name="device/google/redfin" />
   <project name="device/google/redfin-kernel" groups="kernel" />
   <project name="device/google/redfin-sepolicy" />
+  <project name="device/google/shusky" />
+  <project name="device/google/shusky-kernel" groups="kernel" />
+  <project name="device/google/shusky-sepolicy" />
   <project name="device/google/sunfish" />
   <project name="device/google/sunfish-kernel" groups="kernel" />
   <project name="device/google/sunfish-sepolicy" />
@@ -108,6 +111,8 @@
   <project name="device/google/vrservices" />
   <project name="device/google/wahoo" />
   <project name="device/google/wahoo-kernel" groups="kernel" />
+  <project name="device/google/zuma" />
+  <project name="device/google/zuma-sepolicy" />
   <project name="device/google_car" />
   <project name="device/htc/common" />
   <project name="device/htc/dream" />
@@ -1437,6 +1442,7 @@
   <project name="platform/hardware/google/graphics/common" />
   <project name="platform/hardware/google/graphics/gs101" />
   <project name="platform/hardware/google/graphics/gs201" />
+  <project name="platform/hardware/google/graphics/zuma" />
   <project name="platform/hardware/google/interfaces" />
   <project name="platform/hardware/google/pixel" />
   <project name="platform/hardware/google/pixel-sepolicy" />
