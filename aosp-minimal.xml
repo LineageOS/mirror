@@ -165,6 +165,7 @@
   <project name="kernel/common-patches" groups="kernel-extra,notdefault" />
   <project name="kernel/configs" />
   <project name="kernel/devices/google/bluejay" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/eos" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/felix" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/lynx" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/shusky" groups="kernel-extra,notdefault" />
@@ -195,11 +196,15 @@
   <project name="kernel/google-modules/hdcp/samsung" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/lwis" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/misc" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/nanohub" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/nfc" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/power/reset" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/raviole-device" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/rotary-encoders" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/sensors/hall_sensor" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/soc/gs" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/soc/msm" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/sound/mcu_mic_codec" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/touch/common" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/touch/focaltech_touch" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/touch/fts_touch" groups="kernel-extra,notdefault" />
@@ -226,20 +231,38 @@
   <project name="kernel/mediatek" />
   <project name="kernel/msm" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-extra" path="kernel/msm-extra.git" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/audio-devicetree" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/bt-devicetree" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-extra/camera-devicetree" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-extra/camera-kernel" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/data-devicetree" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-extra/dataipa" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-extra/devicetree" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-extra/display-devicetree" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-extra/display-drivers" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/graphics-devicetree" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/mmrm-devicetree" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/nfc-devicetree" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/video-devicetree" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-extra/video-driver" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-extra/wlan-devicetree" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/bt" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-modules/data-kernel" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/datarmnet" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/datarmnet-ext" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-modules/fts_touch" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-modules/fts_touch_s5" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/graphics" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/mm" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/mmrm" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/modem" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-modules/qca-wfi-host-cmn" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-modules/qcacld" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-modules/sec_touch" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/securemsm" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/touch" groups="kernel-extra,notdefault" />
   <project name="kernel/msm-modules/wlan-fw-api" groups="kernel-extra,notdefault" />
+  <project name="kernel/msm-modules/wlan-platform" groups="kernel-extra,notdefault" />
   <project name="kernel/omap" groups="kernel-extra,notdefault" />
   <project name="kernel/prebuilts/4.19/arm64" groups="kernel" />
   <project name="kernel/prebuilts/5.10/arm64" groups="kernel" />
@@ -1821,10 +1844,12 @@
   <project name="platform/prebuilts/fullsdk-linux/tools" />
   <project name="platform/prebuilts/fullsdk/build-tools/21-darwin" groups="darwin" />
   <project name="platform/prebuilts/fullsdk/build-tools/21-linux" />
+  <project name="platform/prebuilts/fullsdk/platforms" path="platform/prebuilts/fullsdk/platforms.git" />
   <project name="platform/prebuilts/fullsdk/platforms/android-21" />
   <project name="platform/prebuilts/fullsdk/platforms/android-26" />
   <project name="platform/prebuilts/fullsdk/platforms/android-28" />
   <project name="platform/prebuilts/fullsdk/platforms/android-32" />
+  <project name="platform/prebuilts/fullsdk/sources" path="platform/prebuilts/fullsdk/sources.git" />
   <project name="platform/prebuilts/fullsdk/sources/android-32" />
   <project name="platform/prebuilts/gas/linux-x86" />
   <project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.8" groups="darwin" />
