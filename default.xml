@@ -110,6 +110,7 @@
   <project name="LineageOS/android_device_asus_tilapia" />
   <project name="LineageOS/android_device_asus_zenfone3" />
   <project name="LineageOS/android_device_bananapi_m5" />
+  <project name="LineageOS/android_device_bananapi_m5_tab" />
   <project name="LineageOS/android_device_bn_acclaim" />
   <project name="LineageOS/android_device_bn_common" />
   <project name="LineageOS/android_device_bn_encore" />
@@ -203,6 +204,7 @@
   <project name="LineageOS/android_device_google_walleye" />
   <project name="LineageOS/android_device_google_yellowstone" />
   <project name="LineageOS/android_device_hardkernel_odroidc4" />
+  <project name="LineageOS/android_device_hardkernel_odroidc4_tab" />
   <project name="LineageOS/android_device_hardkernel_odroidu2" />
   <project name="LineageOS/android_device_hardkernel_samsung" />
   <project name="LineageOS/android_device_hp_tenderloin" />
@@ -684,6 +686,7 @@
   <project name="LineageOS/android_device_qcom_sepolicy-legacy" />
   <project name="LineageOS/android_device_qcom_sepolicy_vndr" />
   <project name="LineageOS/android_device_radxa_radxa0" />
+  <project name="LineageOS/android_device_radxa_radxa0_tab" />
   <project name="LineageOS/android_device_razer_aura" />
   <project name="LineageOS/android_device_razer_cheryl" />
   <project name="LineageOS/android_device_realme_RMX1801" />
