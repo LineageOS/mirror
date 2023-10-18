@@ -33,6 +33,24 @@
       "message": "That said, if this isn\u0027t time-critical, I could test whether we can just omit the `revision` part completely, as I was planning to redo my local mirror setup anyways.",
       "revId": "b9de9f4fbee33025faa7759042441524b50c2c1a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0135c878_2fc6253b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2023-10-18T23:26:04Z",
+      "side": 1,
+      "message": "No harm in just keeping it either IMO",
+      "parentUuid": "4f69a357_08aa5c23",
+      "revId": "b9de9f4fbee33025faa7759042441524b50c2c1a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
