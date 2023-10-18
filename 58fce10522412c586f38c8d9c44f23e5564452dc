@@ -16,6 +16,24 @@
       "message": "I don\u0027t see any reason why an existing mirror wouldn\u0027t take this fine. I\u0027ll try right away.",
       "revId": "58fce10522412c586f38c8d9c44f23e5564452dc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "819e6008_96397d03",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2195
+      },
+      "writtenOn": "2023-10-18T23:43:26Z",
+      "side": 1,
+      "message": "Ahh nvm you\u0027ll have to reinit locally anyways. Works fine.\n\n`repo init -b main`",
+      "parentUuid": "9a418778_4c8ecf32",
+      "revId": "58fce10522412c586f38c8d9c44f23e5564452dc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
