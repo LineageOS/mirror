@@ -16,6 +16,23 @@
       "message": "If I recall correctly, checkouts with `--mirror` don\u0027t care about the default branch name, I just had to add basically anything to keep something else in `repo` from breaking. Although, I guess, no harm in updating it either.\n\nUpdating the \"add by default\" branch for aosp-minimal is obviously a good thing, in case Google ever stops updating the legacy branch name.\n\nCAF can probably be left as-is, it was only really intended for the people who wanted to mirror all the things before the site shut down.",
       "revId": "b9de9f4fbee33025faa7759042441524b50c2c1a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4f69a357_08aa5c23",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2023-10-18T18:39:48Z",
+      "side": 1,
+      "message": "That said, if this isn\u0027t time-critical, I could test whether we can just omit the `revision` part completely, as I was planning to redo my local mirror setup anyways.",
+      "revId": "b9de9f4fbee33025faa7759042441524b50c2c1a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
