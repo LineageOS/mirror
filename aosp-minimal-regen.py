@@ -92,7 +92,7 @@ kernel_manifest = get_git_repo(
 platform_refs = [
     tag for tag in sorted(platform_manifest.git.tag(l=True).splitlines())
 ]  # All the tags...
-platform_refs.append("origin/master")  # ...and master
+platform_refs.append("origin/main")  # ...and main
 kernel_refs = [
     ref.name for ref in kernel_manifest.refs
 ]  # All the refs, repo only has branches no tags...
@@ -129,7 +129,7 @@ file.write("<manifest>\n")
 file.write("\n")
 file.write('  <remote  name="aosp"\n')
 file.write('           fetch="https://android.googlesource.com" />\n')
-file.write('  <default revision="master"\n')
+file.write('  <default revision="main"\n')
 file.write('           remote="aosp"\n')
 file.write('           sync-j="4" />\n')
 file.write("\n")
