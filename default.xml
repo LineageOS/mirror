@@ -173,6 +173,7 @@
   <project name="LineageOS/android_device_google_dragon" />
   <project name="LineageOS/android_device_google_felix" />
   <project name="LineageOS/android_device_google_flame" />
+  <project name="LineageOS/android_device_google_gs-common" />
   <project name="LineageOS/android_device_google_gs101" />
   <project name="LineageOS/android_device_google_gs201" />
   <project name="LineageOS/android_device_google_lynx" />
