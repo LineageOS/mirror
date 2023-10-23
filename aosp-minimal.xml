@@ -349,6 +349,7 @@
   <project name="platform/external/androidplot" />
   <project name="platform/external/angle" />
   <project name="platform/external/annotation-tools" />
+  <project name="platform/external/anonymous-counting-tokens" />
   <project name="platform/external/ant-glob" />
   <project name="platform/external/antlr" />
   <project name="platform/external/apache-commons-bcel" />
@@ -664,6 +665,7 @@
   <project name="platform/external/libcxx" />
   <project name="platform/external/libcxxabi" />
   <project name="platform/external/libdaemon" />
+  <project name="platform/external/libdav1d" />
   <project name="platform/external/libdivsufsort" />
   <project name="platform/external/libdrm" />
   <project name="platform/external/libedit" />
@@ -832,6 +834,7 @@
   <project name="platform/external/pixman" />
   <project name="platform/external/ply" />
   <project name="platform/external/ppp" />
+  <project name="platform/external/private-join-and-compute" />
   <project name="platform/external/proguard" />
   <project name="platform/external/protobuf" />
   <project name="platform/external/protobuf-javalite" />
