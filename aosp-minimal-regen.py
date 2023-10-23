@@ -70,7 +70,7 @@ def parse_all_refs(manifest, refs):
                 )
                 continue
 
-            repos.add(child.attrib["name"])
+            repos.add(child.attrib["name"].rstrip("/"))
 
     return repos
 

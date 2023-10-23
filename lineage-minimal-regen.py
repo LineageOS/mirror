@@ -56,7 +56,7 @@ for index, ref in enumerate(refs, 1):
             if not child.attrib["name"].startswith("LineageOS/"):
                 continue
 
-            repos.add(child.attrib["name"])
+            repos.add(child.attrib["name"].rstrip("/"))
 
 
 file = open("lineage-minimal.xml", "w")
