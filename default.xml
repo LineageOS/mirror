@@ -4,8 +4,7 @@
   <remote  name="github"
            fetch=".." />
 
-  <default revision="main"
-           remote="github"
+  <default remote="github"
            sync-j="4" />
 
   <project name="LineageOS/AR6kSDK.3.1" />

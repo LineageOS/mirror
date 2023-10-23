@@ -3,8 +3,7 @@
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com" />
-  <default revision="main"
-           remote="aosp"
+  <default remote="aosp"
            sync-j="4" />
 
   <project name="assets/android-studio-ux-assets" />
