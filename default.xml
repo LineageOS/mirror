@@ -1722,6 +1722,7 @@
   <project name="LineageOS/android_hardware_nvidia_platform_t210_common" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210_foster" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210_jetson" />
+  <project name="LineageOS/android_hardware_nvidia_platform_t210_nx" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210_porg" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210_smaug" />
   <project name="LineageOS/android_hardware_nvidia_platform_t210_switch" />
