@@ -654,6 +654,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" />
   <project name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" />
   <project name="LineageOS/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
+  <project name="LineageOS/android_vendor_qcom_opensource_dataipa" />
   <project name="LineageOS/android_vendor_qcom_opensource_dataservices" />
   <project name="LineageOS/android_vendor_qcom_opensource_display" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-commonsys" />
