@@ -1261,6 +1261,7 @@
   <project name="platform/external/ruy" />
   <project name="platform/external/s2-geometry-library-java" />
   <project name="platform/external/safe-iop" />
+  <project name="platform/external/sandboxed-api" />
   <project name="platform/external/scapy" />
   <project name="platform/external/scrypt" />
   <project name="platform/external/scudo" />
