@@ -544,6 +544,7 @@
   <project name="LineageOS/android_device_motorola_rhannah" />
   <project name="LineageOS/android_device_motorola_rhode" />
   <project name="LineageOS/android_device_motorola_river" />
+  <project name="LineageOS/android_device_motorola_rtwo" />
   <project name="LineageOS/android_device_motorola_sdm632-common" />
   <project name="LineageOS/android_device_motorola_sdm660-common" />
   <project name="LineageOS/android_device_motorola_shadow" />
@@ -554,6 +555,7 @@
   <project name="LineageOS/android_device_motorola_sm7325-common" />
   <project name="LineageOS/android_device_motorola_sm8250-common" />
   <project name="LineageOS/android_device_motorola_sm8475-common" />
+  <project name="LineageOS/android_device_motorola_sm8550-common" />
   <project name="LineageOS/android_device_motorola_smith" />
   <project name="LineageOS/android_device_motorola_solana" />
   <project name="LineageOS/android_device_motorola_spyder" />
@@ -1992,6 +1994,9 @@
   <project name="LineageOS/android_kernel_motorola_sm7325" />
   <project name="LineageOS/android_kernel_motorola_sm8250" />
   <project name="LineageOS/android_kernel_motorola_sm8475" />
+  <project name="LineageOS/android_kernel_motorola_sm8550" />
+  <project name="LineageOS/android_kernel_motorola_sm8550-devicetrees" />
+  <project name="LineageOS/android_kernel_motorola_sm8550-modules" />
   <project name="LineageOS/android_kernel_motorola_titan" />
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
   <project name="LineageOS/android_kernel_nokia_msm8998" />
