@@ -585,6 +585,7 @@
   <project name="LineageOS/android_device_nextbit_ether" />
   <project name="LineageOS/android_device_nintendo_icosa" />
   <project name="LineageOS/android_device_nintendo_nx" />
+  <project name="LineageOS/android_device_nintendo_nx_tab" />
   <project name="LineageOS/android_device_nokia_DRG" />
   <project name="LineageOS/android_device_nokia_NLA" />
   <project name="LineageOS/android_device_nokia_PL2" />
@@ -1705,7 +1706,9 @@
   <project name="LineageOS/android_hardware_mediatek" />
   <project name="LineageOS/android_hardware_motorola" />
   <project name="LineageOS/android_hardware_msm7k" />
+  <project name="LineageOS/android_hardware_nintendo_arm-trusted-firmware" />
   <project name="LineageOS/android_hardware_nintendo_joycond" />
+  <project name="LineageOS/android_hardware_nintendo_u-boot" />
   <project name="LineageOS/android_hardware_nothing" />
   <project name="LineageOS/android_hardware_nubia" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
