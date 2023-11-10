@@ -767,6 +767,8 @@
   <project name="LineageOS/android_device_samsung_gprimeltespr" />
   <project name="LineageOS/android_device_samsung_gprimeltexx" />
   <project name="LineageOS/android_device_samsung_gracerlte" />
+  <project name="LineageOS/android_device_samsung_gta4l" />
+  <project name="LineageOS/android_device_samsung_gta4l-common" />
   <project name="LineageOS/android_device_samsung_gta4xl" />
   <project name="LineageOS/android_device_samsung_gta4xl-common" />
   <project name="LineageOS/android_device_samsung_gta4xlwifi" />
@@ -2141,6 +2143,7 @@
   <project name="LineageOS/android_kernel_samsung_s3ve3g" />
   <project name="LineageOS/android_kernel_samsung_sdm429" />
   <project name="LineageOS/android_kernel_samsung_sdm670" />
+  <project name="LineageOS/android_kernel_samsung_sm6115" />
   <project name="LineageOS/android_kernel_samsung_sm7125" />
   <project name="LineageOS/android_kernel_samsung_sm7325" />
   <project name="LineageOS/android_kernel_samsung_sm8250" />
