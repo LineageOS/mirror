@@ -2184,6 +2184,7 @@
   <project name="toolchain/prebuilts/ndk/r19" />
   <project name="toolchain/prebuilts/ndk/r20" />
   <project name="toolchain/prebuilts/ndk/r23" groups="kernel-extra,notdefault" />
+  <project name="toolchain/prebuilts/ndk/r26" groups="kernel-extra,notdefault" />
   <project name="toolchain/python" />
   <project name="toolchain/sed" />
   <project name="toolchain/xz" />
