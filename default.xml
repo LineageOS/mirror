@@ -1692,6 +1692,7 @@
   <project name="LineageOS/android_hardware_intel_libmedia_utils" />
   <project name="LineageOS/android_hardware_intel_libva" />
   <project name="LineageOS/android_hardware_intel_pstore-clean" />
+  <project name="LineageOS/android_hardware_intel_sensors-iio" />
   <project name="LineageOS/android_hardware_interfaces" />
   <project name="LineageOS/android_hardware_invensense" />
   <project name="LineageOS/android_hardware_knowles_athletico_sound_trigger_hal" />
