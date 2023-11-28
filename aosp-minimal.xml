@@ -1099,6 +1099,8 @@
   <project name="platform/external/rust/crates/oid-registry" />
   <project name="platform/external/rust/crates/once_cell" />
   <project name="platform/external/rust/crates/oorandom" />
+  <project name="platform/external/rust/crates/openmls" />
+  <project name="platform/external/rust/crates/openmls_traits" />
   <project name="platform/external/rust/crates/openssl" />
   <project name="platform/external/rust/crates/openssl-macros" />
   <project name="platform/external/rust/crates/os_str_bytes" />
@@ -1203,6 +1205,8 @@
   <project name="platform/external/rust/crates/tinytemplate" />
   <project name="platform/external/rust/crates/tinyvec" />
   <project name="platform/external/rust/crates/tinyvec_macros" />
+  <project name="platform/external/rust/crates/tls_codec" />
+  <project name="platform/external/rust/crates/tls_codec_derive" />
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/tokio-macros" />
   <project name="platform/external/rust/crates/tokio-stream" />
