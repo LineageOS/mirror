@@ -711,6 +711,7 @@
   <project name="platform/external/libtextclassifier" />
   <project name="platform/external/libtraceevent" />
   <project name="platform/external/libtracefs" />
+  <project name="platform/external/libultrahdr" />
   <project name="platform/external/libunwind" />
   <project name="platform/external/libunwind_llvm" />
   <project name="platform/external/liburing" />
@@ -1924,6 +1925,7 @@
   <project name="platform/prebuilts/gradle-plugin" />
   <project name="platform/prebuilts/jdk/jdk11" />
   <project name="platform/prebuilts/jdk/jdk17" />
+  <project name="platform/prebuilts/jdk/jdk21" />
   <project name="platform/prebuilts/jdk/jdk8" />
   <project name="platform/prebuilts/jdk/jdk9" />
   <project name="platform/prebuilts/ktlint" />
@@ -2050,6 +2052,7 @@
   <project name="platform/system/netd" />
   <project name="platform/system/nfc" />
   <project name="platform/system/nvram" />
+  <project name="platform/system/secretkeeper" />
   <project name="platform/system/security" />
   <project name="platform/system/sepolicy" />
   <project name="platform/system/server_configurable_flags" />
