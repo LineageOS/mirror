@@ -932,6 +932,7 @@
   <project name="platform/external/roboto-flex-fonts" />
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
+  <project name="platform/external/rules_pkg" groups="kernel-extra,notdefault" />
   <project name="platform/external/rust/autocxx" />
   <project name="platform/external/rust/beto-rust" />
   <project name="platform/external/rust/crates/aarch64-paging" />
