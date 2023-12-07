@@ -703,6 +703,7 @@
   <project name="LineageOS/android_device_samsung_a5xelte" />
   <project name="LineageOS/android_device_samsung_a5y17lte" />
   <project name="LineageOS/android_device_samsung_a72q" />
+  <project name="LineageOS/android_device_samsung_a73xq" />
   <project name="LineageOS/android_device_samsung_a7xelte" />
   <project name="LineageOS/android_device_samsung_a7y17lte" />
   <project name="LineageOS/android_device_samsung_amazing3gcri" />
@@ -770,6 +771,7 @@
   <project name="LineageOS/android_device_samsung_gracerlte" />
   <project name="LineageOS/android_device_samsung_gta4l" />
   <project name="LineageOS/android_device_samsung_gta4l-common" />
+  <project name="LineageOS/android_device_samsung_gta4lwifi" />
   <project name="LineageOS/android_device_samsung_gta4xl" />
   <project name="LineageOS/android_device_samsung_gta4xl-common" />
   <project name="LineageOS/android_device_samsung_gta4xlwifi" />
@@ -1160,6 +1162,7 @@
   <project name="LineageOS/android_device_xiaomi_onclite" />
   <project name="LineageOS/android_device_xiaomi_perseus" />
   <project name="LineageOS/android_device_xiaomi_phoenix" />
+  <project name="LineageOS/android_device_xiaomi_pipa" />
   <project name="LineageOS/android_device_xiaomi_platina" />
   <project name="LineageOS/android_device_xiaomi_polaris" />
   <project name="LineageOS/android_device_xiaomi_pyxis" />
@@ -1715,6 +1718,7 @@
   <project name="LineageOS/android_hardware_nubia" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_boot_control" />
+  <project name="LineageOS/android_hardware_nvidia_hdmi-cec" />
   <project name="LineageOS/android_hardware_nvidia_hwinc" />
   <project name="LineageOS/android_hardware_nvidia_interfaces" />
   <project name="LineageOS/android_hardware_nvidia_libstagefrighthw" />
@@ -2023,6 +2027,7 @@
   <project name="LineageOS/android_kernel_nvidia_cypress-fmac-upstream" />
   <project name="LineageOS/android_kernel_nvidia_display" />
   <project name="LineageOS/android_kernel_nvidia_kernel" />
+  <project name="LineageOS/android_kernel_nvidia_kernel-nx" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_lanai" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_quill" />
@@ -2063,6 +2068,7 @@
   <project name="LineageOS/android_kernel_nvidia_nvethernetrm" />
   <project name="LineageOS/android_kernel_nvidia_nvgpu" />
   <project name="LineageOS/android_kernel_nvidia_nvidia" />
+  <project name="LineageOS/android_kernel_nvidia_nvidia-nx" />
   <project name="LineageOS/android_kernel_nvidia_roth" />
   <project name="LineageOS/android_kernel_nvidia_shield" />
   <project name="LineageOS/android_kernel_nvidia_shieldtablet" />
