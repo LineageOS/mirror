@@ -687,6 +687,7 @@
   <project name="platform/external/liblzf" />
   <project name="platform/external/libmicrohttpd" />
   <project name="platform/external/libmojo" />
+  <project name="platform/external/libmonet" />
   <project name="platform/external/libmpeg2" />
   <project name="platform/external/libmtp" />
   <project name="platform/external/libnetfilter_conntrack" />
@@ -1694,6 +1695,7 @@
   <project name="platform/packages/apps/TimeZoneUpdater" />
   <project name="platform/packages/apps/Traceur" />
   <project name="platform/packages/apps/TvSettings" />
+  <project name="platform/packages/apps/TvSystemUI" />
   <project name="platform/packages/apps/UnifiedEmail" />
   <project name="platform/packages/apps/UniversalMediaPlayer" />
   <project name="platform/packages/apps/Updater" />
