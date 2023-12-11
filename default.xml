@@ -176,6 +176,7 @@
   <project name="LineageOS/android_device_google_gs-common" />
   <project name="LineageOS/android_device_google_gs101" />
   <project name="LineageOS/android_device_google_gs201" />
+  <project name="LineageOS/android_device_google_husky" />
   <project name="LineageOS/android_device_google_lynx" />
   <project name="LineageOS/android_device_google_marlin" />
   <project name="LineageOS/android_device_google_msm8952-common" />
@@ -192,6 +193,8 @@
   <project name="LineageOS/android_device_google_sargo" />
   <project name="LineageOS/android_device_google_seed" />
   <project name="LineageOS/android_device_google_shamrock" />
+  <project name="LineageOS/android_device_google_shiba" />
+  <project name="LineageOS/android_device_google_shusky" />
   <project name="LineageOS/android_device_google_sphynx" />
   <project name="LineageOS/android_device_google_sprout" />
   <project name="LineageOS/android_device_google_sprout-common" />
@@ -204,6 +207,7 @@
   <project name="LineageOS/android_device_google_wahoo" />
   <project name="LineageOS/android_device_google_walleye" />
   <project name="LineageOS/android_device_google_yellowstone" />
+  <project name="LineageOS/android_device_google_zuma" />
   <project name="LineageOS/android_device_hardkernel_odroidc4" />
   <project name="LineageOS/android_device_hardkernel_odroidc4_tab" />
   <project name="LineageOS/android_device_hardkernel_odroidu2" />
