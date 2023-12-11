@@ -99,6 +99,7 @@
   <project name="LineageOS/android_external_connectivity" />
   <project name="LineageOS/android_external_conscrypt" />
   <project name="LineageOS/android_external_crda" />
+  <project name="LineageOS/android_external_cronet" />
   <project name="LineageOS/android_external_curl" />
   <project name="LineageOS/android_external_cyanogen_UICommon" />
   <project name="LineageOS/android_external_deqp" />
