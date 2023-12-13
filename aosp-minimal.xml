@@ -979,6 +979,7 @@
   <project name="platform/external/rust/crates/ciborium-ll" />
   <project name="platform/external/rust/crates/clang-sys" />
   <project name="platform/external/rust/crates/clap" />
+  <project name="platform/external/rust/crates/clap_complete" />
   <project name="platform/external/rust/crates/clap_derive" />
   <project name="platform/external/rust/crates/clap_lex" />
   <project name="platform/external/rust/crates/codespan-reporting" />
@@ -1006,7 +1007,9 @@
   <project name="platform/external/rust/crates/der_derive" />
   <project name="platform/external/rust/crates/derive-getters" />
   <project name="platform/external/rust/crates/derive_arbitrary" />
+  <project name="platform/external/rust/crates/displaydoc" />
   <project name="platform/external/rust/crates/document-features" />
+  <project name="platform/external/rust/crates/downcast" />
   <project name="platform/external/rust/crates/downcast-rs" />
   <project name="platform/external/rust/crates/either" />
   <project name="platform/external/rust/crates/enumn" />
@@ -1021,6 +1024,7 @@
   <project name="platform/external/rust/crates/foreign-types" />
   <project name="platform/external/rust/crates/foreign-types-shared" />
   <project name="platform/external/rust/crates/form_urlencoded" />
+  <project name="platform/external/rust/crates/fragile" />
   <project name="platform/external/rust/crates/futures" />
   <project name="platform/external/rust/crates/futures-channel" />
   <project name="platform/external/rust/crates/futures-core" />
@@ -1088,6 +1092,8 @@
   <project name="platform/external/rust/crates/miette-derive" />
   <project name="platform/external/rust/crates/minimal-lexical" />
   <project name="platform/external/rust/crates/mio" />
+  <project name="platform/external/rust/crates/mockall" />
+  <project name="platform/external/rust/crates/mockall_derive" />
   <project name="platform/external/rust/crates/moveit" />
   <project name="platform/external/rust/crates/named-lock" />
   <project name="platform/external/rust/crates/nix" />
@@ -1132,6 +1138,9 @@
   <project name="platform/external/rust/crates/plotters-backend" />
   <project name="platform/external/rust/crates/plotters-svg" />
   <project name="platform/external/rust/crates/ppv-lite86" />
+  <project name="platform/external/rust/crates/predicates" />
+  <project name="platform/external/rust/crates/predicates-core" />
+  <project name="platform/external/rust/crates/predicates-tree" />
   <project name="platform/external/rust/crates/prettyplease" />
   <project name="platform/external/rust/crates/proc-macro-error" />
   <project name="platform/external/rust/crates/proc-macro-error-attr" />
@@ -1198,6 +1207,7 @@
   <project name="platform/external/rust/crates/tempfile" />
   <project name="platform/external/rust/crates/termcolor" />
   <project name="platform/external/rust/crates/terminal-size" />
+  <project name="platform/external/rust/crates/termtree" />
   <project name="platform/external/rust/crates/textwrap" />
   <project name="platform/external/rust/crates/thiserror" />
   <project name="platform/external/rust/crates/thiserror-impl" />
