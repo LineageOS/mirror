@@ -1750,6 +1750,7 @@
   <project name="platform/packages/modules/NeuralNetworks" />
   <project name="platform/packages/modules/OnDevicePersonalization" />
   <project name="platform/packages/modules/Permission" />
+  <project name="platform/packages/modules/Profiling" />
   <project name="platform/packages/modules/RemoteKeyProvisioning" />
   <project name="platform/packages/modules/RuntimeI18n" />
   <project name="platform/packages/modules/SEPolicy" />
@@ -1973,6 +1974,7 @@
   <project name="platform/prebuilts/module_sdk/MediaProvider" />
   <project name="platform/prebuilts/module_sdk/OnDevicePersonalization" />
   <project name="platform/prebuilts/module_sdk/Permission" />
+  <project name="platform/prebuilts/module_sdk/Profiling" />
   <project name="platform/prebuilts/module_sdk/RemoteKeyProvisioning" />
   <project name="platform/prebuilts/module_sdk/Scheduling" />
   <project name="platform/prebuilts/module_sdk/SdkExtensions" />
