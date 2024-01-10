@@ -497,6 +497,7 @@
   <project name="LineageOS/android_device_motorola_falcon" />
   <project name="LineageOS/android_device_motorola_ghost" />
   <project name="LineageOS/android_device_motorola_griffin" />
+  <project name="LineageOS/android_device_motorola_guamp" />
   <project name="LineageOS/android_device_motorola_hannah" />
   <project name="LineageOS/android_device_motorola_hannah-common" />
   <project name="LineageOS/android_device_motorola_harpia" />
