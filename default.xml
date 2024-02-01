@@ -2309,6 +2309,7 @@
   <project name="LineageOS/android_packages_apps_GalleryNext" />
   <project name="LineageOS/android_packages_apps_GanOptimizer" />
   <project name="LineageOS/android_packages_apps_Gello" />
+  <project name="LineageOS/android_packages_apps_Glimpse" />
   <project name="LineageOS/android_packages_apps_HTMLViewer" />
   <project name="LineageOS/android_packages_apps_InCallUI" />
   <project name="LineageOS/android_packages_apps_Jelly" />
