@@ -64,6 +64,7 @@
   <project name="LineageOS/android_external_apache-qp" />
   <project name="LineageOS/android_external_apache-xml" />
   <project name="LineageOS/android_external_arduino" />
+  <project name="LineageOS/android_external_arm-trusted-firmware" />
   <project name="LineageOS/android_external_armnn" />
   <project name="LineageOS/android_external_avb" />
   <project name="LineageOS/android_external_bash" />
