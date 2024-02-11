@@ -143,6 +143,7 @@
   <project name="LineageOS/android_device_fairphone_FP2" />
   <project name="LineageOS/android_device_fairphone_FP3" />
   <project name="LineageOS/android_device_fairphone_FP4" />
+  <project name="LineageOS/android_device_fairphone_FP5" />
   <project name="LineageOS/android_device_fxtec_pro1" />
   <project name="LineageOS/android_device_fxtec_pro1x" />
   <project name="LineageOS/android_device_geeksphone_one" />
@@ -687,6 +688,7 @@
   <project name="LineageOS/android_device_oppo_r7" />
   <project name="LineageOS/android_device_oppo_r7plus" />
   <project name="LineageOS/android_device_oppo_r7sf" />
+  <project name="LineageOS/android_device_osom_ingot" />
   <project name="LineageOS/android_device_pantech_presto" />
   <project name="LineageOS/android_device_qcom_common" />
   <project name="LineageOS/android_device_qcom_msm8916_64" />
@@ -1915,6 +1917,7 @@
   <project name="LineageOS/android_kernel_cyanogen_mt6735" />
   <project name="LineageOS/android_kernel_essential_msm8998" />
   <project name="LineageOS/android_kernel_fairphone_msm8974" />
+  <project name="LineageOS/android_kernel_fairphone_qcm6490" />
   <project name="LineageOS/android_kernel_fairphone_sdm632" />
   <project name="LineageOS/android_kernel_fairphone_sm7225" />
   <project name="LineageOS/android_kernel_fxtec_msm8998" />
@@ -2101,6 +2104,7 @@
   <project name="LineageOS/android_kernel_oppo_n1" />
   <project name="LineageOS/android_kernel_oppo_n3" />
   <project name="LineageOS/android_kernel_oppo_sm8250" />
+  <project name="LineageOS/android_kernel_osom_sm8475" />
   <project name="LineageOS/android_kernel_qcom_msm8916" />
   <project name="LineageOS/android_kernel_qcom_msm8974" />
   <project name="LineageOS/android_kernel_qcom_msm8976" />
