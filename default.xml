@@ -344,6 +344,8 @@
   <project name="LineageOS/android_device_lenovo_tb-common" />
   <project name="LineageOS/android_device_lenovo_zippo" />
   <project name="LineageOS/android_device_letv_x1na" />
+  <project name="LineageOS/android_device_lge_alphaplus" />
+  <project name="LineageOS/android_device_lge_betalm" />
   <project name="LineageOS/android_device_lge_bullhead" />
   <project name="LineageOS/android_device_lge_c660" />
   <project name="LineageOS/android_device_lge_c800" />
@@ -409,6 +411,7 @@
   <project name="LineageOS/android_device_lge_ls997" />
   <project name="LineageOS/android_device_lge_m216" />
   <project name="LineageOS/android_device_lge_mako" />
+  <project name="LineageOS/android_device_lge_mh2lm" />
   <project name="LineageOS/android_device_lge_ms695" />
   <project name="LineageOS/android_device_lge_msm7x27a-common" />
   <project name="LineageOS/android_device_lge_msm8226-common" />
@@ -427,6 +430,7 @@
   <project name="LineageOS/android_device_lge_p990" />
   <project name="LineageOS/android_device_lge_p999" />
   <project name="LineageOS/android_device_lge_rs988" />
+  <project name="LineageOS/android_device_lge_sm8150-common" />
   <project name="LineageOS/android_device_lge_star-common" />
   <project name="LineageOS/android_device_lge_su640" />
   <project name="LineageOS/android_device_lge_thunderc" />
@@ -1984,6 +1988,7 @@
   <project name="LineageOS/android_kernel_lge_msm8996" />
   <project name="LineageOS/android_kernel_lge_msm8998" />
   <project name="LineageOS/android_kernel_lge_pplus" />
+  <project name="LineageOS/android_kernel_lge_sm8150" />
   <project name="LineageOS/android_kernel_lge_v4xx" />
   <project name="LineageOS/android_kernel_lge_v500" />
   <project name="LineageOS/android_kernel_lge_v909" />
