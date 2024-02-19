@@ -471,6 +471,7 @@
   <project name="LineageOS/android_packages_apps_FlipFlap" />
   <project name="LineageOS/android_packages_apps_Gallery2" />
   <project name="LineageOS/android_packages_apps_Gello" />
+  <project name="LineageOS/android_packages_apps_Glimpse" />
   <project name="LineageOS/android_packages_apps_HTMLViewer" />
   <project name="LineageOS/android_packages_apps_InCallUI" />
   <project name="LineageOS/android_packages_apps_Jelly" />
