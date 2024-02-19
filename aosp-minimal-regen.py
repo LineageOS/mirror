@@ -55,7 +55,13 @@ def parse_all_refs(manifest, refs):
         print("\033[K[{}/{}] Parsing `{}`...".format(index, len(refs), ref), end="\r")
 
         # Load the XML
-        manifest_xml = ET.fromstring(manifest.git.show("{}:default.xml".format(ref)))
+        try:
+            manifest_contents = manifest.git.show("{}:default.xml".format(ref))
+        except git.exc.GitCommandError as e:
+            print("Skipping revision '{}' with non-existing default.xml".format(ref))
+            continue
+
+        manifest_xml = ET.fromstring(manifest_contents)
 
         for child in manifest_xml:
             # Skip all non-project tags
