@@ -273,6 +273,8 @@
   <project name="kernel/prebuilts/5.4/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/6.1/arm64" groups="kernel" />
   <project name="kernel/prebuilts/6.1/x86-64" groups="kernel" />
+  <project name="kernel/prebuilts/6.6/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/6.6/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/build-tools" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" groups="kernel" />
@@ -284,6 +286,8 @@
   <project name="kernel/prebuilts/common-modules/virtual-device/5.4/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.1/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.1/x86-64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/6.6/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/6.6/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/mainline/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/mainline/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/mainline/arm64" groups="kernel" />
@@ -375,6 +379,8 @@
   <project name="platform/external/avb" />
   <project name="platform/external/bart" />
   <project name="platform/external/bazel-skylib" />
+  <project name="platform/external/bazelbuild-apple_support" groups="kernel-extra,notdefault" />
+  <project name="platform/external/bazelbuild-bazel-central-registry" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-platforms" />
   <project name="platform/external/bazelbuild-rules_android" />
@@ -382,6 +388,7 @@
   <project name="platform/external/bazelbuild-rules_go" />
   <project name="platform/external/bazelbuild-rules_java" />
   <project name="platform/external/bazelbuild-rules_license" />
+  <project name="platform/external/bazelbuild-rules_pkg" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazelbuild-rules_python" />
   <project name="platform/external/bazelbuild-rules_rust" />
   <project name="platform/external/bazelbuild-rules_testing" />
@@ -742,6 +749,7 @@
   <project name="platform/external/lldb" />
   <project name="platform/external/lldb-utils" />
   <project name="platform/external/llvm" />
+  <project name="platform/external/llvm-libc" />
   <project name="platform/external/lmfit" />
   <project name="platform/external/lohit-fonts" />
   <project name="platform/external/lottie" />
@@ -831,6 +839,7 @@
   <project name="platform/external/pffft" />
   <project name="platform/external/piex" />
   <project name="platform/external/pigweed" />
+  <project name="platform/external/pigz" groups="kernel-extra,notdefault" />
   <project name="platform/external/ping" />
   <project name="platform/external/ping6" />
   <project name="platform/external/pixman" />
@@ -878,6 +887,7 @@
   <project name="platform/external/python/httplib2" />
   <project name="platform/external/python/ipaddress" />
   <project name="platform/external/python/jinja" />
+  <project name="platform/external/python/mako" />
   <project name="platform/external/python/markupsafe" />
   <project name="platform/external/python/matplotlib" />
   <project name="platform/external/python/mobly" />
@@ -933,7 +943,6 @@
   <project name="platform/external/roboto-flex-fonts" />
   <project name="platform/external/roboto-fonts" />
   <project name="platform/external/rootdev" />
-  <project name="platform/external/rules_pkg" groups="kernel-extra,notdefault" />
   <project name="platform/external/rust/autocxx" />
   <project name="platform/external/rust/beto-rust" />
   <project name="platform/external/rust/crates/aarch64-paging" />
@@ -950,10 +959,8 @@
   <project name="platform/external/rust/crates/argh" />
   <project name="platform/external/rust/crates/argh_derive" />
   <project name="platform/external/rust/crates/argh_shared" />
+  <project name="platform/external/rust/crates/arrayvec" />
   <project name="platform/external/rust/crates/ash" />
-  <project name="platform/external/rust/crates/asn1-rs" />
-  <project name="platform/external/rust/crates/asn1-rs-derive" />
-  <project name="platform/external/rust/crates/asn1-rs-impl" />
   <project name="platform/external/rust/crates/async-stream" />
   <project name="platform/external/rust/crates/async-stream-impl" />
   <project name="platform/external/rust/crates/async-task" />
@@ -1085,10 +1092,12 @@
   <project name="platform/external/rust/crates/lock_api" />
   <project name="platform/external/rust/crates/log" />
   <project name="platform/external/rust/crates/lru-cache" />
+  <project name="platform/external/rust/crates/lz4_flex" />
   <project name="platform/external/rust/crates/macaddr" />
   <project name="platform/external/rust/crates/managed" />
   <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/memchr" />
+  <project name="platform/external/rust/crates/memmap2" />
   <project name="platform/external/rust/crates/memoffset" />
   <project name="platform/external/rust/crates/merge" />
   <project name="platform/external/rust/crates/merge_derive" />
@@ -1119,6 +1128,8 @@
   <project name="platform/external/rust/crates/os_str_bytes" />
   <project name="platform/external/rust/crates/ouroboros" />
   <project name="platform/external/rust/crates/ouroboros_macro" />
+  <project name="platform/external/rust/crates/p9" />
+  <project name="platform/external/rust/crates/p9_wire_format_derive" />
   <project name="platform/external/rust/crates/parking_lot" />
   <project name="platform/external/rust/crates/parking_lot_core" />
   <project name="platform/external/rust/crates/paste" />
@@ -1205,6 +1216,8 @@
   <project name="platform/external/rust/crates/static_assertions" />
   <project name="platform/external/rust/crates/structopt" />
   <project name="platform/external/rust/crates/structopt-derive" />
+  <project name="platform/external/rust/crates/strum" />
+  <project name="platform/external/rust/crates/strum_macros" />
   <project name="platform/external/rust/crates/syn" />
   <project name="platform/external/rust/crates/syn-mid" />
   <project name="platform/external/rust/crates/synstructure" />
@@ -1237,6 +1250,7 @@
   <project name="platform/external/rust/crates/tracing-core" />
   <project name="platform/external/rust/crates/tracing-subscriber" />
   <project name="platform/external/rust/crates/tungstenite" />
+  <project name="platform/external/rust/crates/twox-hash" />
   <project name="platform/external/rust/crates/ucd-trie" />
   <project name="platform/external/rust/crates/unicode-bidi" />
   <project name="platform/external/rust/crates/unicode-ident" />
@@ -2216,4 +2230,28 @@
   <project name="toolchain/xz" />
   <project name="toolchain/yasm" />
   <project name="tools/platform-compat" />
+  <project name="trusty/app/avb" />
+  <project name="trusty/app/cast-auth" />
+  <project name="trusty/app/confirmationui" />
+  <project name="trusty/app/gatekeeper" />
+  <project name="trusty/app/keymaster" />
+  <project name="trusty/app/keymint" />
+  <project name="trusty/app/sample" />
+  <project name="trusty/app/secretkeeper" />
+  <project name="trusty/app/storage" />
+  <project name="trusty/device/arm/generic-arm64" />
+  <project name="trusty/device/arm/vexpress-a15" />
+  <project name="trusty/device/nxp/imx7d" />
+  <project name="trusty/device/x86/generic-x86_64" />
+  <project name="trusty/external/headers" />
+  <project name="trusty/external/musl" />
+  <project name="trusty/external/trusted-firmware-a" />
+  <project name="trusty/external/trusty" />
+  <project name="trusty/host/common" />
+  <project name="trusty/interfaces" />
+  <project name="trusty/lib" />
+  <project name="trusty/lk/common" />
+  <project name="trusty/lk/nxp" />
+  <project name="trusty/lk/trusty" />
+  <project name="trusty/vendor/google/aosp" />
 </manifest>
