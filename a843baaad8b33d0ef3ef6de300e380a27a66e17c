@@ -16,6 +16,24 @@
       "message": "Not sure why this didn\u0027t update automatically yet.",
       "revId": "a843baaad8b33d0ef3ef6de300e380a27a66e17c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f73e3cd9_2662a616",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2024-02-19T22:59:05Z",
+      "side": 1,
+      "message": "Fixed the cronjob, it failed to regenerate aosp-minimal so it never moved on to lineage-minimal.",
+      "parentUuid": "a984c4dd_ee0a7a53",
+      "revId": "a843baaad8b33d0ef3ef6de300e380a27a66e17c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
