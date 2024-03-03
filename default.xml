@@ -1861,6 +1861,7 @@
   <project name="LineageOS/android_hardware_sony_simdetect" />
   <project name="LineageOS/android_hardware_sony_thermanager" />
   <project name="LineageOS/android_hardware_sony_timekeep" />
+  <project name="LineageOS/android_hardware_st_nfc" />
   <project name="LineageOS/android_hardware_stmicroelectronics_sensorhal_iio" />
   <project name="LineageOS/android_hardware_ti_fmradio" />
   <project name="LineageOS/android_hardware_ti_omap3" />
