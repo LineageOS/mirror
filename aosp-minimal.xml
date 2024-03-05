@@ -1216,6 +1216,7 @@
   <project name="platform/external/rust/crates/slab" />
   <project name="platform/external/rust/crates/smallvec" />
   <project name="platform/external/rust/crates/smccc" />
+  <project name="platform/external/rust/crates/smoltcp" groups="kernel-extra,notdefault" />
   <project name="platform/external/rust/crates/socket2" />
   <project name="platform/external/rust/crates/spin" />
   <project name="platform/external/rust/crates/spki" />
