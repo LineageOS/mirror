@@ -350,6 +350,7 @@
   <project name="platform/external/android-mock" />
   <project name="platform/external/android-nn-driver" />
   <project name="platform/external/android-studio-gradle-test" />
+  <project name="platform/external/android_onboarding" />
   <project name="platform/external/androidplot" />
   <project name="platform/external/angle" />
   <project name="platform/external/annotation-tools" />
@@ -530,6 +531,7 @@
   <project name="platform/external/fat32lib" />
   <project name="platform/external/fdlibm" />
   <project name="platform/external/fec" />
+  <project name="platform/external/federated-compute" />
   <project name="platform/external/fft2d" />
   <project name="platform/external/fio" />
   <project name="platform/external/firebase-messaging" />
@@ -595,6 +597,7 @@
   <project name="platform/external/harfbuzz_ng" />
   <project name="platform/external/hcidump" />
   <project name="platform/external/honggfuzz" />
+  <project name="platform/external/horologist" />
   <project name="platform/external/hyphenation" />
   <project name="platform/external/hyphenation-patterns" />
   <project name="platform/external/icing" />
@@ -961,6 +964,9 @@
   <project name="platform/external/rust/crates/argh_shared" />
   <project name="platform/external/rust/crates/arrayvec" />
   <project name="platform/external/rust/crates/ash" />
+  <project name="platform/external/rust/crates/asn1-rs" />
+  <project name="platform/external/rust/crates/asn1-rs-derive" />
+  <project name="platform/external/rust/crates/asn1-rs-impl" />
   <project name="platform/external/rust/crates/async-stream" />
   <project name="platform/external/rust/crates/async-stream-impl" />
   <project name="platform/external/rust/crates/async-task" />
@@ -1722,6 +1728,7 @@
   <project name="platform/packages/apps/TimeZoneData" />
   <project name="platform/packages/apps/TimeZoneUpdater" />
   <project name="platform/packages/apps/Traceur" />
+  <project name="platform/packages/apps/TvFeedbackConsent" />
   <project name="platform/packages/apps/TvSettings" />
   <project name="platform/packages/apps/TvSystemUI" />
   <project name="platform/packages/apps/UnifiedEmail" />
@@ -1774,6 +1781,7 @@
   <project name="platform/packages/modules/Telephony" />
   <project name="platform/packages/modules/TestModule" />
   <project name="platform/packages/modules/ThreadNetwork" />
+  <project name="platform/packages/modules/UprobeStats" />
   <project name="platform/packages/modules/Uwb" />
   <project name="platform/packages/modules/Virtualization" />
   <project name="platform/packages/modules/Wifi" />
