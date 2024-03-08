@@ -2366,6 +2366,7 @@
   <project name="LineageOS/android_packages_apps_SettingsIntelligence" />
   <project name="LineageOS/android_packages_apps_SetupWizard" />
   <project name="LineageOS/android_packages_apps_SimpleDeviceConfig" />
+  <project name="LineageOS/android_packages_apps_SimpleSettingsConfig" />
   <project name="LineageOS/android_packages_apps_SmartCardService" />
   <project name="LineageOS/android_packages_apps_Snap" />
   <project name="LineageOS/android_packages_apps_SoundRecorder" />
