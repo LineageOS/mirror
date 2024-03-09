@@ -707,6 +707,8 @@
   <project name="LineageOS/android_device_razer_cheryl" />
   <project name="LineageOS/android_device_realme_RMX1801" />
   <project name="LineageOS/android_device_realme_RMX1851" />
+  <project name="LineageOS/android_device_realme_oscar" />
+  <project name="LineageOS/android_device_realme_sm6375-common" />
   <project name="LineageOS/android_device_sample" />
   <project name="LineageOS/android_device_samsung_a3xelte" />
   <project name="LineageOS/android_device_samsung_a51" />
@@ -2131,6 +2133,7 @@
   <project name="LineageOS/android_kernel_razer_sdm845" />
   <project name="LineageOS/android_kernel_realme_sdm660" />
   <project name="LineageOS/android_kernel_realme_sdm710" />
+  <project name="LineageOS/android_kernel_realme_sm6375" />
   <project name="LineageOS/android_kernel_samsung_apq8084" />
   <project name="LineageOS/android_kernel_samsung_aries" />
   <project name="LineageOS/android_kernel_samsung_crespo" />
