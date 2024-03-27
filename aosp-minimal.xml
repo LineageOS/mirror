@@ -653,6 +653,7 @@
   <project name="platform/external/kotlinx.atomicfu" />
   <project name="platform/external/kotlinx.coroutines" />
   <project name="platform/external/kotlinx.metadata" />
+  <project name="platform/external/kotlinx.serialization" />
   <project name="platform/external/ksoap2" />
   <project name="platform/external/ksp" />
   <project name="platform/external/ktfmt" />
