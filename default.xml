@@ -2116,6 +2116,7 @@
   <project name="LineageOS/android_kernel_oppo_sm8250" />
   <project name="LineageOS/android_kernel_osom_sm8475" />
   <project name="LineageOS/android_kernel_qcom_msm8916" />
+  <project name="LineageOS/android_kernel_qcom_msm8953" />
   <project name="LineageOS/android_kernel_qcom_msm8974" />
   <project name="LineageOS/android_kernel_qcom_msm8976" />
   <project name="LineageOS/android_kernel_qcom_msm8994" />
