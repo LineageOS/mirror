@@ -951,6 +951,7 @@
   <project name="platform/external/rust/autocxx" />
   <project name="platform/external/rust/beto-rust" />
   <project name="platform/external/rust/crates/aarch64-paging" />
+  <project name="platform/external/rust/crates/acpi" />
   <project name="platform/external/rust/crates/ahash" />
   <project name="platform/external/rust/crates/aho-corasick" />
   <project name="platform/external/rust/crates/aliasable" />
@@ -979,6 +980,7 @@
   <project name="platform/external/rust/crates/bencher" />
   <project name="platform/external/rust/crates/bindgen" />
   <project name="platform/external/rust/crates/bindgen-cli" />
+  <project name="platform/external/rust/crates/bit_field" />
   <project name="platform/external/rust/crates/bitflags" />
   <project name="platform/external/rust/crates/bitreader" />
   <project name="platform/external/rust/crates/bstr" />
