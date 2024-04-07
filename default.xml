@@ -2044,6 +2044,7 @@
   <project name="LineageOS/android_kernel_nvidia_cypress-fmac" />
   <project name="LineageOS/android_kernel_nvidia_cypress-fmac-upstream" />
   <project name="LineageOS/android_kernel_nvidia_display" />
+  <project name="LineageOS/android_kernel_nvidia_exfat" />
   <project name="LineageOS/android_kernel_nvidia_kernel" />
   <project name="LineageOS/android_kernel_nvidia_kernel-nx" />
   <project name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t18x_common" />
