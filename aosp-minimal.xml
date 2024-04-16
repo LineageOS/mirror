@@ -1021,12 +1021,8 @@
   <project name="platform/external/rust/crates/crossbeam-utils" />
   <project name="platform/external/rust/crates/csv" />
   <project name="platform/external/rust/crates/csv-core" />
-  <project name="platform/external/rust/crates/darling" />
-  <project name="platform/external/rust/crates/darling_core" />
-  <project name="platform/external/rust/crates/darling_macro" />
   <project name="platform/external/rust/crates/dashmap" />
   <project name="platform/external/rust/crates/data-encoding" />
-  <project name="platform/external/rust/crates/debug_tree" />
   <project name="platform/external/rust/crates/der" />
   <project name="platform/external/rust/crates/der-oid-macro" />
   <project name="platform/external/rust/crates/der-parser" />
@@ -1085,7 +1081,6 @@
   <project name="platform/external/rust/crates/hex" />
   <project name="platform/external/rust/crates/http" />
   <project name="platform/external/rust/crates/httparse" />
-  <project name="platform/external/rust/crates/ident_case" />
   <project name="platform/external/rust/crates/idna" />
   <project name="platform/external/rust/crates/indexmap" />
   <project name="platform/external/rust/crates/inflector" />
@@ -1118,7 +1113,6 @@
   <project name="platform/external/rust/crates/macaddr" />
   <project name="platform/external/rust/crates/managed" />
   <project name="platform/external/rust/crates/matches" />
-  <project name="platform/external/rust/crates/maybe-async" />
   <project name="platform/external/rust/crates/memchr" />
   <project name="platform/external/rust/crates/memmap2" />
   <project name="platform/external/rust/crates/memoffset" />
@@ -1239,7 +1233,6 @@
   <project name="platform/external/rust/crates/spin" />
   <project name="platform/external/rust/crates/spki" />
   <project name="platform/external/rust/crates/static_assertions" />
-  <project name="platform/external/rust/crates/strsim" />
   <project name="platform/external/rust/crates/structopt" />
   <project name="platform/external/rust/crates/structopt-derive" />
   <project name="platform/external/rust/crates/strum" />
