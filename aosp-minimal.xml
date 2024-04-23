@@ -1129,6 +1129,10 @@
   <project name="platform/external/rust/crates/miette-derive" />
   <project name="platform/external/rust/crates/minimal-lexical" />
   <project name="platform/external/rust/crates/mio" />
+  <project name="platform/external/rust/crates/mls-rs" />
+  <project name="platform/external/rust/crates/mls-rs-codec" />
+  <project name="platform/external/rust/crates/mls-rs-codec-derive" />
+  <project name="platform/external/rust/crates/mls-rs-core" />
   <project name="platform/external/rust/crates/mockall" />
   <project name="platform/external/rust/crates/mockall_derive" />
   <project name="platform/external/rust/crates/moveit" />
@@ -1286,6 +1290,8 @@
   <project name="platform/external/rust/crates/unicode-segmentation" />
   <project name="platform/external/rust/crates/unicode-width" />
   <project name="platform/external/rust/crates/unicode-xid" />
+  <project name="platform/external/rust/crates/uniffi_checksum_derive" />
+  <project name="platform/external/rust/crates/uniffi_core" />
   <project name="platform/external/rust/crates/uniffi_meta" />
   <project name="platform/external/rust/crates/unsafe-libyaml" />
   <project name="platform/external/rust/crates/untrusted" />
@@ -1645,6 +1651,7 @@
   <project name="platform/ndk" />
   <project name="platform/packages/apps/AccountsAndSyncSettings" />
   <project name="platform/packages/apps/AlarmClock" />
+  <project name="platform/packages/apps/AvatarPicker" />
   <project name="platform/packages/apps/BasicSmsReceiver" />
   <project name="platform/packages/apps/Bluetooth" />
   <project name="platform/packages/apps/Browser" />
