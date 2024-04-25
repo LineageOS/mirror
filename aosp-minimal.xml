@@ -580,6 +580,7 @@
   <project name="platform/external/google-smali" />
   <project name="platform/external/google-styleguide" />
   <project name="platform/external/google-tv-pairing-protocol" />
+  <project name="platform/external/googleapis" />
   <project name="platform/external/googleclient" />
   <project name="platform/external/googletest" />
   <project name="platform/external/gptfdisk" />
