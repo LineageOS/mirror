@@ -384,6 +384,7 @@
   <project name="platform/external/bazelbuild-bazel-central-registry" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazelbuild-kotlin-rules" />
   <project name="platform/external/bazelbuild-platforms" />
+  <project name="platform/external/bazelbuild-remote-apis" />
   <project name="platform/external/bazelbuild-rules_android" />
   <project name="platform/external/bazelbuild-rules_cc" />
   <project name="platform/external/bazelbuild-rules_go" />
@@ -1057,6 +1058,7 @@
   <project name="platform/external/rust/crates/foreign-types-shared" />
   <project name="platform/external/rust/crates/form_urlencoded" />
   <project name="platform/external/rust/crates/fragile" />
+  <project name="platform/external/rust/crates/fs-err" />
   <project name="platform/external/rust/crates/futures" />
   <project name="platform/external/rust/crates/futures-channel" />
   <project name="platform/external/rust/crates/futures-core" />
