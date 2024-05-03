@@ -1144,6 +1144,7 @@
   <project name="LineageOS/android_device_xiaomi_chiron" />
   <project name="LineageOS/android_device_xiaomi_davinci" />
   <project name="LineageOS/android_device_xiaomi_dipper" />
+  <project name="LineageOS/android_device_xiaomi_earth" />
   <project name="LineageOS/android_device_xiaomi_equuleus" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
   <project name="LineageOS/android_device_xiaomi_gauguin" />
@@ -2231,6 +2232,7 @@
   <project name="LineageOS/android_kernel_xiaomi_aries" />
   <project name="LineageOS/android_kernel_xiaomi_armani" />
   <project name="LineageOS/android_kernel_xiaomi_cancro" />
+  <project name="LineageOS/android_kernel_xiaomi_earth" />
   <project name="LineageOS/android_kernel_xiaomi_ferrari" />
   <project name="LineageOS/android_kernel_xiaomi_gauguin" />
   <project name="LineageOS/android_kernel_xiaomi_jason" />
