@@ -339,7 +339,10 @@
   <project name="LineageOS/android_device_lenovo_YTX703L" />
   <project name="LineageOS/android_device_lenovo_heart" />
   <project name="LineageOS/android_device_lenovo_kingdom" />
+  <project name="LineageOS/android_device_lenovo_kunlun2" />
+  <project name="LineageOS/android_device_lenovo_kunlun2_row" />
   <project name="LineageOS/android_device_lenovo_kuntao" />
+  <project name="LineageOS/android_device_lenovo_sdm710-common" />
   <project name="LineageOS/android_device_lenovo_sm8150-common" />
   <project name="LineageOS/android_device_lenovo_tb-common" />
   <project name="LineageOS/android_device_lenovo_zippo" />
@@ -1977,6 +1980,7 @@
   <project name="LineageOS/android_kernel_lenovo_msm8953" />
   <project name="LineageOS/android_kernel_lenovo_msm8974" />
   <project name="LineageOS/android_kernel_lenovo_msm8976" />
+  <project name="LineageOS/android_kernel_lenovo_sdm710" />
   <project name="LineageOS/android_kernel_lenovo_sm8150" />
   <project name="LineageOS/android_kernel_letv_msm8994" />
   <project name="LineageOS/android_kernel_lge_bullhead" />
