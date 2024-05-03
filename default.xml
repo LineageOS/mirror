@@ -1205,6 +1205,7 @@
   <project name="LineageOS/android_device_xiaomi_sweet" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
   <project name="LineageOS/android_device_xiaomi_twolip" />
+  <project name="LineageOS/android_device_xiaomi_umi" />
   <project name="LineageOS/android_device_xiaomi_ursa" />
   <project name="LineageOS/android_device_xiaomi_vayu" />
   <project name="LineageOS/android_device_xiaomi_vela" />
