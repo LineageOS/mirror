@@ -1240,6 +1240,7 @@
   <project name="platform/external/rust/crates/shared_child" />
   <project name="platform/external/rust/crates/shared_library" />
   <project name="platform/external/rust/crates/shlex" />
+  <project name="platform/external/rust/crates/siphasher" />
   <project name="platform/external/rust/crates/slab" />
   <project name="platform/external/rust/crates/smallvec" />
   <project name="platform/external/rust/crates/smccc" />
@@ -1293,8 +1294,10 @@
   <project name="platform/external/rust/crates/unicode-segmentation" />
   <project name="platform/external/rust/crates/unicode-width" />
   <project name="platform/external/rust/crates/unicode-xid" />
+  <project name="platform/external/rust/crates/uniffi" />
   <project name="platform/external/rust/crates/uniffi_checksum_derive" />
   <project name="platform/external/rust/crates/uniffi_core" />
+  <project name="platform/external/rust/crates/uniffi_macros" />
   <project name="platform/external/rust/crates/uniffi_meta" />
   <project name="platform/external/rust/crates/unsafe-libyaml" />
   <project name="platform/external/rust/crates/untrusted" />
