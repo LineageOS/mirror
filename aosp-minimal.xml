@@ -1136,6 +1136,7 @@
   <project name="platform/external/rust/crates/mls-rs-codec" />
   <project name="platform/external/rust/crates/mls-rs-codec-derive" />
   <project name="platform/external/rust/crates/mls-rs-core" />
+  <project name="platform/external/rust/crates/mls-rs-crypto-traits" />
   <project name="platform/external/rust/crates/mockall" />
   <project name="platform/external/rust/crates/mockall_derive" />
   <project name="platform/external/rust/crates/moveit" />
