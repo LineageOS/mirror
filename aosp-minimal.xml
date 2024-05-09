@@ -2064,6 +2064,7 @@
   <project name="platform/prebuilts/simpleperf" />
   <project name="platform/prebuilts/studio/jdk" />
   <project name="platform/prebuilts/studio/layoutlib" />
+  <project name="platform/prebuilts/studio/skiaparser" />
   <project name="platform/prebuilts/swig/darwin-x86" groups="darwin" />
   <project name="platform/prebuilts/swig/linux-x86" />
   <project name="platform/prebuilts/swig/windows-x86" groups="windows" />
