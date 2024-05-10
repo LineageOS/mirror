@@ -339,6 +339,7 @@
   <project name="platform/external/abi-compliance-checker" />
   <project name="platform/external/abi-dumper" />
   <project name="platform/external/abseil-cpp" />
+  <project name="platform/external/accompanist" />
   <project name="platform/external/actionbarsherlock" />
   <project name="platform/external/adeb" />
   <project name="platform/external/adhd" />
