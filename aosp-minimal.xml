@@ -43,6 +43,9 @@
   <project name="device/generic/x86_64" />
   <project name="device/google/accessory/arduino" />
   <project name="device/google/accessory/demokit" />
+  <project name="device/google/akita" />
+  <project name="device/google/akita-kernel" groups="kernel" />
+  <project name="device/google/akita-sepolicy" />
   <project name="device/google/atv" />
   <project name="device/google/barbet" />
   <project name="device/google/barbet-kernel" groups="kernel" />
@@ -164,6 +167,7 @@
   <project name="kernel/common-modules/virtual-device" groups="kernel-extra,notdefault" />
   <project name="kernel/common-patches" groups="kernel-extra,notdefault" />
   <project name="kernel/configs" />
+  <project name="kernel/devices/google/akita" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/bluejay" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/eos" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/felix" groups="kernel-extra,notdefault" />
@@ -218,6 +222,7 @@
   <project name="kernel/google-modules/uwb-diags" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/video/gchips" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm4383" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4398" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/qcom/wcn6740/cnss2" groups="kernel-extra,notdefault" />
