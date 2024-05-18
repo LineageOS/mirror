@@ -232,6 +232,7 @@
   <project name="kernel/gs" groups="kernel-extra,notdefault" />
   <project name="kernel/hikey-linaro" groups="kernel-extra,notdefault" />
   <project name="kernel/hikey-modules" groups="kernel-extra,notdefault" />
+  <project name="kernel/lk" groups="kernel-extra,notdefault" />
   <project name="kernel/manifest" groups="kernel-extra,notdefault" />
   <project name="kernel/mediatek" />
   <project name="kernel/msm" groups="kernel-extra,notdefault" />
