@@ -2122,6 +2122,8 @@
   <project name="LineageOS/android_kernel_oppo_n3" />
   <project name="LineageOS/android_kernel_oppo_sm8250" />
   <project name="LineageOS/android_kernel_osom_sm8475" />
+  <project name="LineageOS/android_kernel_osom_sm8475-devicetrees" />
+  <project name="LineageOS/android_kernel_osom_sm8475-modules" />
   <project name="LineageOS/android_kernel_qcom_msm8916" />
   <project name="LineageOS/android_kernel_qcom_msm8953" />
   <project name="LineageOS/android_kernel_qcom_msm8974" />
@@ -2134,6 +2136,9 @@
   <project name="LineageOS/android_kernel_qcom_sm8150" />
   <project name="LineageOS/android_kernel_qcom_sm8250" />
   <project name="LineageOS/android_kernel_qcom_sm8350" />
+  <project name="LineageOS/android_kernel_qcom_sm8450" />
+  <project name="LineageOS/android_kernel_qcom_sm8450-devicetrees" />
+  <project name="LineageOS/android_kernel_qcom_sm8450-modules" />
   <project name="LineageOS/android_kernel_qcom_sm8550" />
   <project name="LineageOS/android_kernel_qcom_sm8550-devicetrees" />
   <project name="LineageOS/android_kernel_qcom_sm8550-modules" />
