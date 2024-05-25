@@ -1276,6 +1276,8 @@
   <project name="platform/external/rust/crates/thiserror-impl" />
   <project name="platform/external/rust/crates/thread_local" />
   <project name="platform/external/rust/crates/threadpool" />
+  <project name="platform/external/rust/crates/tikv-jemalloc-sys" />
+  <project name="platform/external/rust/crates/tikv-jemallocator" />
   <project name="platform/external/rust/crates/time" />
   <project name="platform/external/rust/crates/tinyjson" />
   <project name="platform/external/rust/crates/tinytemplate" />
