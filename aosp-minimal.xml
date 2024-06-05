@@ -336,7 +336,9 @@
   <project name="platform/external/ImageMagick" />
   <project name="platform/external/MPAndroidChart" />
   <project name="platform/external/Microsoft-GSL" />
+  <project name="platform/external/OpenCL-CLHPP" />
   <project name="platform/external/OpenCL-CTS" />
+  <project name="platform/external/OpenCL-Headers" />
   <project name="platform/external/OpenCSD" />
   <project name="platform/external/Reactive-Extensions/RxCpp" />
   <project name="platform/external/TestParameterInjector" />
