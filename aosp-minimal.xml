@@ -164,6 +164,7 @@
   <project name="device/ti/panda" />
   <project name="kernel/build" />
   <project name="kernel/common" groups="kernel-extra,notdefault" />
+  <project name="kernel/common-modules/trusty" groups="kernel-extra,notdefault" />
   <project name="kernel/common-modules/virtual-device" groups="kernel-extra,notdefault" />
   <project name="kernel/common-patches" groups="kernel-extra,notdefault" />
   <project name="kernel/configs" />
@@ -1142,6 +1143,7 @@
   <project name="platform/external/rust/crates/merge_derive" />
   <project name="platform/external/rust/crates/miette" />
   <project name="platform/external/rust/crates/miette-derive" />
+  <project name="platform/external/rust/crates/mime" />
   <project name="platform/external/rust/crates/minimal-lexical" />
   <project name="platform/external/rust/crates/mio" />
   <project name="platform/external/rust/crates/mls-rs" />
@@ -1853,6 +1855,7 @@
   <project name="platform/packages/providers/BookmarkProvider" />
   <project name="platform/packages/providers/CalendarProvider" />
   <project name="platform/packages/providers/CallLogProvider" />
+  <project name="platform/packages/providers/ContactsKeysProvider" />
   <project name="platform/packages/providers/ContactsProvider" />
   <project name="platform/packages/providers/DownloadProvider" />
   <project name="platform/packages/providers/DrmProvider" />
