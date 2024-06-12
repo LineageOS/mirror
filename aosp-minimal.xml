@@ -162,6 +162,7 @@
   <project name="device/ti/beagle-x15" />
   <project name="device/ti/beagle-x15-kernel" groups="kernel" />
   <project name="device/ti/panda" />
+  <project name="kernel//google-modules/uwb/qorvo/dw3000" groups="kernel-extra,notdefault" />
   <project name="kernel/build" />
   <project name="kernel/common" groups="kernel-extra,notdefault" />
   <project name="kernel/common-modules/trusty" groups="kernel-extra,notdefault" />
@@ -199,6 +200,7 @@
   <project name="kernel/google-modules/gxp/gs201" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/gxp/zuma" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/hdcp/samsung" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/i3c/exynos" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/lwis" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/misc" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/nanohub" groups="kernel-extra,notdefault" />
@@ -219,8 +221,11 @@
   <project name="kernel/google-modules/touch/sec_touch" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/touch/synaptics_touch" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/trusty" groups="kernel-extra,notdefault" />
-  <project name="kernel/google-modules/uwb" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/typec" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/uwb" path="kernel/google-modules/uwb.git" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/uwb-diags" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/uwb/qorvo/dw3000" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/uwb/qorvo/qm35" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/video/gchips" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4383" groups="kernel-extra,notdefault" />
@@ -989,6 +994,8 @@
   <project name="platform/external/rust/crates/async-trait" />
   <project name="platform/external/rust/crates/atomic" />
   <project name="platform/external/rust/crates/atty" />
+  <project name="platform/external/rust/crates/axum" />
+  <project name="platform/external/rust/crates/axum-core" />
   <project name="platform/external/rust/crates/base64" />
   <project name="platform/external/rust/crates/bencher" />
   <project name="platform/external/rust/crates/bincode" />
@@ -1093,6 +1100,7 @@
   <project name="platform/external/rust/crates/grpcio" />
   <project name="platform/external/rust/crates/grpcio-compiler" />
   <project name="platform/external/rust/crates/grpcio-sys" />
+  <project name="platform/external/rust/crates/h2" />
   <project name="platform/external/rust/crates/half" />
   <project name="platform/external/rust/crates/hashbrown" />
   <project name="platform/external/rust/crates/hashlink" />
@@ -1102,6 +1110,8 @@
   <project name="platform/external/rust/crates/http-body" />
   <project name="platform/external/rust/crates/httparse" />
   <project name="platform/external/rust/crates/httpdate" />
+  <project name="platform/external/rust/crates/hyper" />
+  <project name="platform/external/rust/crates/hyper-timeout" />
   <project name="platform/external/rust/crates/ident_case" />
   <project name="platform/external/rust/crates/idna" />
   <project name="platform/external/rust/crates/indexmap" />
@@ -1135,6 +1145,7 @@
   <project name="platform/external/rust/crates/macaddr" />
   <project name="platform/external/rust/crates/managed" />
   <project name="platform/external/rust/crates/matches" />
+  <project name="platform/external/rust/crates/matchit" />
   <project name="platform/external/rust/crates/maybe-async" />
   <project name="platform/external/rust/crates/memchr" />
   <project name="platform/external/rust/crates/memmap2" />
@@ -1273,6 +1284,7 @@
   <project name="platform/external/rust/crates/strum_macros" />
   <project name="platform/external/rust/crates/syn" />
   <project name="platform/external/rust/crates/syn-mid" />
+  <project name="platform/external/rust/crates/sync_wrapper" />
   <project name="platform/external/rust/crates/synstructure" />
   <project name="platform/external/rust/crates/tempfile" />
   <project name="platform/external/rust/crates/termcolor" />
@@ -1293,6 +1305,7 @@
   <project name="platform/external/rust/crates/tls_codec" />
   <project name="platform/external/rust/crates/tls_codec_derive" />
   <project name="platform/external/rust/crates/tokio" />
+  <project name="platform/external/rust/crates/tokio-io-timeout" />
   <project name="platform/external/rust/crates/tokio-macros" />
   <project name="platform/external/rust/crates/tokio-stream" />
   <project name="platform/external/rust/crates/tokio-test" />
@@ -1300,6 +1313,7 @@
   <project name="platform/external/rust/crates/toml" />
   <project name="platform/external/rust/crates/toml_datetime" />
   <project name="platform/external/rust/crates/toml_edit" />
+  <project name="platform/external/rust/crates/tonic" />
   <project name="platform/external/rust/crates/tower" />
   <project name="platform/external/rust/crates/tower-layer" />
   <project name="platform/external/rust/crates/tower-service" />
