@@ -76,7 +76,13 @@ def parse_all_refs(manifest, refs):
                 )
                 continue
 
-            repos.add(child.attrib["name"].rstrip("/"))
+            name = child.attrib["name"].rstrip("/")
+
+            # Fix a typo introduced in 5932ee3fa06190382680a4c804a54b45df5e3070
+            if name == "kernel//google-modules/uwb/qorvo/dw3000":
+                name = "kernel/google-modules/uwb/qorvo/dw3000"
+
+            repos.add(name)
 
     return repos
 
