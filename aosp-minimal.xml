@@ -393,6 +393,7 @@
   <project name="platform/external/avahi" />
   <project name="platform/external/avb" />
   <project name="platform/external/bart" />
+  <project name="platform/external/bazel-contrib-bazel_features" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazel-skylib" />
   <project name="platform/external/bazelbuild-apple_support" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazelbuild-bazel-central-registry" groups="kernel-extra,notdefault" />
