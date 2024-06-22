@@ -261,6 +261,7 @@
   <project name="LineageOS/android_external_qrngd" />
   <project name="LineageOS/android_external_regex-re2" />
   <project name="LineageOS/android_external_replicaisland" />
+  <project name="LineageOS/android_external_robolectric" />
   <project name="LineageOS/android_external_robolectric-shadows" />
   <project name="LineageOS/android_external_rsync" />
   <project name="LineageOS/android_external_safe-iop" />
