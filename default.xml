@@ -160,6 +160,7 @@
   <project name="LineageOS/android_device_generic_x86" />
   <project name="LineageOS/android_device_google_accessory_arduino" />
   <project name="LineageOS/android_device_google_accessory_demokit" />
+  <project name="LineageOS/android_device_google_akita" />
   <project name="LineageOS/android_device_google_atv" />
   <project name="LineageOS/android_device_google_barbet" />
   <project name="LineageOS/android_device_google_beast" />
@@ -505,6 +506,7 @@
   <project name="LineageOS/android_device_motorola_falcon" />
   <project name="LineageOS/android_device_motorola_ghost" />
   <project name="LineageOS/android_device_motorola_griffin" />
+  <project name="LineageOS/android_device_motorola_guam" />
   <project name="LineageOS/android_device_motorola_guamp" />
   <project name="LineageOS/android_device_motorola_hannah" />
   <project name="LineageOS/android_device_motorola_hannah-common" />
@@ -2410,6 +2412,7 @@
   <project name="LineageOS/android_packages_apps_Traceur" />
   <project name="LineageOS/android_packages_apps_Trebuchet" />
   <project name="LineageOS/android_packages_apps_TvSettings" />
+  <project name="LineageOS/android_packages_apps_TvSystemUI" />
   <project name="LineageOS/android_packages_apps_UnifiedEmail" />
   <project name="LineageOS/android_packages_apps_Updater" />
   <project name="LineageOS/android_packages_apps_Usb" />
