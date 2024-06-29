@@ -405,6 +405,9 @@
   <project name="LineageOS/android_device_lge_jagnm" />
   <project name="LineageOS/android_device_lge_joan" />
   <project name="LineageOS/android_device_lge_joan-common" />
+  <project name="LineageOS/android_device_lge_judyln" />
+  <project name="LineageOS/android_device_lge_judyp" />
+  <project name="LineageOS/android_device_lge_judypn" />
   <project name="LineageOS/android_device_lge_l01f" />
   <project name="LineageOS/android_device_lge_l1m" />
   <project name="LineageOS/android_device_lge_lgl55c" />
@@ -434,6 +437,7 @@
   <project name="LineageOS/android_device_lge_p990" />
   <project name="LineageOS/android_device_lge_p999" />
   <project name="LineageOS/android_device_lge_rs988" />
+  <project name="LineageOS/android_device_lge_sdm845-common" />
   <project name="LineageOS/android_device_lge_sm8150-common" />
   <project name="LineageOS/android_device_lge_star-common" />
   <project name="LineageOS/android_device_lge_su640" />
@@ -2020,6 +2024,7 @@
   <project name="LineageOS/android_kernel_lge_msm8996" />
   <project name="LineageOS/android_kernel_lge_msm8998" />
   <project name="LineageOS/android_kernel_lge_pplus" />
+  <project name="LineageOS/android_kernel_lge_sdm845" />
   <project name="LineageOS/android_kernel_lge_sm8150" />
   <project name="LineageOS/android_kernel_lge_v4xx" />
   <project name="LineageOS/android_kernel_lge_v500" />
