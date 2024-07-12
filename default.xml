@@ -1155,6 +1155,7 @@
   <project name="LineageOS/android_device_xiaomi_capricorn" />
   <project name="LineageOS/android_device_xiaomi_cepheus" />
   <project name="LineageOS/android_device_xiaomi_chiron" />
+  <project name="LineageOS/android_device_xiaomi_cmi" />
   <project name="LineageOS/android_device_xiaomi_cupid" />
   <project name="LineageOS/android_device_xiaomi_dagda" />
   <project name="LineageOS/android_device_xiaomi_davinci" />
