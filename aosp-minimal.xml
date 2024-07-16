@@ -1246,6 +1246,7 @@
   <project name="platform/external/rust/crates/ring" />
   <project name="platform/external/rust/crates/ron" />
   <project name="platform/external/rust/crates/rusqlite" />
+  <project name="platform/external/rust/crates/rust-stemmers" />
   <project name="platform/external/rust/crates/rustc-demangle" />
   <project name="platform/external/rust/crates/rustc-demangle-capi" />
   <project name="platform/external/rust/crates/rustc-hash" />
