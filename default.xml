@@ -384,6 +384,8 @@
   <project name="LineageOS/android_device_lge_g4-common" />
   <project name="LineageOS/android_device_lge_g5-common" />
   <project name="LineageOS/android_device_lge_g6-common" />
+  <project name="LineageOS/android_device_lge_g710n" />
+  <project name="LineageOS/android_device_lge_g710ulm" />
   <project name="LineageOS/android_device_lge_gpad83-common" />
   <project name="LineageOS/android_device_lge_gproj-common" />
   <project name="LineageOS/android_device_lge_h811" />
@@ -406,6 +408,7 @@
   <project name="LineageOS/android_device_lge_joan" />
   <project name="LineageOS/android_device_lge_joan-common" />
   <project name="LineageOS/android_device_lge_judyln" />
+  <project name="LineageOS/android_device_lge_judyln-common" />
   <project name="LineageOS/android_device_lge_judyp" />
   <project name="LineageOS/android_device_lge_judypn" />
   <project name="LineageOS/android_device_lge_l01f" />
@@ -1202,6 +1205,7 @@
   <project name="LineageOS/android_device_xiaomi_msm8998-common" />
   <project name="LineageOS/android_device_xiaomi_mt6768-common" />
   <project name="LineageOS/android_device_xiaomi_mt6785-common" />
+  <project name="LineageOS/android_device_xiaomi_munch" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_xiaomi_onclite" />
   <project name="LineageOS/android_device_xiaomi_perseus" />
