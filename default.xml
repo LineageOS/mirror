@@ -1136,6 +1136,11 @@
   <project name="LineageOS/android_device_sony_z3dual" />
   <project name="LineageOS/android_device_ti_panda" />
   <project name="LineageOS/android_device_toshiba_betelgeuse" />
+  <project name="LineageOS/android_device_virt_virtio-common" />
+  <project name="LineageOS/android_device_virt_virtio_arm64" />
+  <project name="LineageOS/android_device_virt_virtio_x86_64" />
+  <project name="LineageOS/android_device_virt_virtio_x86_64_car" />
+  <project name="LineageOS/android_device_virt_virtio_x86_64_tv" />
   <project name="LineageOS/android_device_wileyfox_crackling" />
   <project name="LineageOS/android_device_wileyfox_kipper" />
   <project name="LineageOS/android_device_wileyfox_porridge" />
@@ -2265,6 +2270,7 @@
   <project name="LineageOS/android_kernel_sony_tianchi" />
   <project name="LineageOS/android_kernel_ti_omap4" />
   <project name="LineageOS/android_kernel_toshiba_betelgeuse" />
+  <project name="LineageOS/android_kernel_virt_virtio" />
   <project name="LineageOS/android_kernel_wingtech_msm8916" />
   <project name="LineageOS/android_kernel_xiaomi_aries" />
   <project name="LineageOS/android_kernel_xiaomi_armani" />
