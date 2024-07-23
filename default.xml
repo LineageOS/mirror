@@ -622,6 +622,7 @@
   <project name="LineageOS/android_device_nubia_nx606j" />
   <project name="LineageOS/android_device_nubia_nx609j" />
   <project name="LineageOS/android_device_nubia_nx611j" />
+  <project name="LineageOS/android_device_nubia_nx616j" />
   <project name="LineageOS/android_device_nubia_nx619j" />
   <project name="LineageOS/android_device_nubia_nx651j" />
   <project name="LineageOS/android_device_nubia_nx651j_eea" />
@@ -758,6 +759,7 @@
   <project name="LineageOS/android_device_samsung_crespo4g" />
   <project name="LineageOS/android_device_samsung_crownlte" />
   <project name="LineageOS/android_device_samsung_d1" />
+  <project name="LineageOS/android_device_samsung_d1x" />
   <project name="LineageOS/android_device_samsung_d2-common" />
   <project name="LineageOS/android_device_samsung_d2att" />
   <project name="LineageOS/android_device_samsung_d2cri" />
