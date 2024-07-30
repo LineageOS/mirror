@@ -1736,6 +1736,7 @@
   <project name="platform/packages/apps/Car/SystemUpdater" />
   <project name="platform/packages/apps/Car/Templates" />
   <project name="platform/packages/apps/Car/UserManagement" />
+  <project name="platform/packages/apps/Car/VoiceControl" />
   <project name="platform/packages/apps/Car/externallibs" />
   <project name="platform/packages/apps/Car/libs" />
   <project name="platform/packages/apps/Car/systemlibs" />
