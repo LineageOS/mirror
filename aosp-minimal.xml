@@ -1200,6 +1200,7 @@
   <project name="platform/external/rust/crates/pdl-runtime" />
   <project name="platform/external/rust/crates/peeking_take_while" />
   <project name="platform/external/rust/crates/percent-encoding" />
+  <project name="platform/external/rust/crates/percore" />
   <project name="platform/external/rust/crates/pest" />
   <project name="platform/external/rust/crates/pest_derive" />
   <project name="platform/external/rust/crates/pest_generator" />
