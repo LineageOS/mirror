@@ -970,6 +970,7 @@
   <project name="platform/external/rust/android-crates-io" />
   <project name="platform/external/rust/autocxx" />
   <project name="platform/external/rust/beto-rust" />
+  <project name="platform/external/rust/crabbyavif" />
   <project name="platform/external/rust/crates/aarch64-paging" />
   <project name="platform/external/rust/crates/acpi" />
   <project name="platform/external/rust/crates/ahash" />
