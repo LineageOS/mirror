@@ -732,6 +732,8 @@
   <project name="LineageOS/android_device_samsung_a5y17lte" />
   <project name="LineageOS/android_device_samsung_a70q" />
   <project name="LineageOS/android_device_samsung_a70s" />
+  <project name="LineageOS/android_device_samsung_a71" />
+  <project name="LineageOS/android_device_samsung_a71-common" />
   <project name="LineageOS/android_device_samsung_a72q" />
   <project name="LineageOS/android_device_samsung_a73xq" />
   <project name="LineageOS/android_device_samsung_a7xelte" />
@@ -1143,6 +1145,7 @@
   <project name="LineageOS/android_device_toshiba_betelgeuse" />
   <project name="LineageOS/android_device_virt_virtio-common" />
   <project name="LineageOS/android_device_virt_virtio_arm64" />
+  <project name="LineageOS/android_device_virt_virtio_arm64only" />
   <project name="LineageOS/android_device_virt_virtio_x86_64" />
   <project name="LineageOS/android_device_virt_virtio_x86_64_car" />
   <project name="LineageOS/android_device_virt_virtio_x86_64_tv" />
@@ -1235,6 +1238,7 @@
   <project name="LineageOS/android_device_xiaomi_sm8250-common" />
   <project name="LineageOS/android_device_xiaomi_sm8350-common" />
   <project name="LineageOS/android_device_xiaomi_sm8450-common" />
+  <project name="LineageOS/android_device_xiaomi_socrates" />
   <project name="LineageOS/android_device_xiaomi_surya" />
   <project name="LineageOS/android_device_xiaomi_sweet" />
   <project name="LineageOS/android_device_xiaomi_taranis" />
@@ -2187,6 +2191,7 @@
   <project name="LineageOS/android_kernel_realme_sdm660" />
   <project name="LineageOS/android_kernel_realme_sdm710" />
   <project name="LineageOS/android_kernel_realme_sm6375" />
+  <project name="LineageOS/android_kernel_samsung_a71" />
   <project name="LineageOS/android_kernel_samsung_apq8084" />
   <project name="LineageOS/android_kernel_samsung_aries" />
   <project name="LineageOS/android_kernel_samsung_crespo" />
@@ -2313,6 +2318,9 @@
   <project name="LineageOS/android_kernel_xiaomi_sm8450" />
   <project name="LineageOS/android_kernel_xiaomi_sm8450-devicetrees" />
   <project name="LineageOS/android_kernel_xiaomi_sm8450-modules" />
+  <project name="LineageOS/android_kernel_xiaomi_sm8550" />
+  <project name="LineageOS/android_kernel_xiaomi_sm8550-devicetrees" />
+  <project name="LineageOS/android_kernel_xiaomi_sm8550-modules" />
   <project name="LineageOS/android_kernel_xiaomi_surya" />
   <project name="LineageOS/android_kernel_xiaomi_vayu" />
   <project name="LineageOS/android_kernel_xiaomi_violet" />
