@@ -721,6 +721,7 @@
   <project name="LineageOS/android_device_razer_cheryl" />
   <project name="LineageOS/android_device_realme_RMX1801" />
   <project name="LineageOS/android_device_realme_RMX1851" />
+  <project name="LineageOS/android_device_realme_luigi" />
   <project name="LineageOS/android_device_realme_oscar" />
   <project name="LineageOS/android_device_realme_sm6375-common" />
   <project name="LineageOS/android_device_sample" />
