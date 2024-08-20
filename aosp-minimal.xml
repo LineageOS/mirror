@@ -552,7 +552,6 @@
   <project name="platform/external/fio" />
   <project name="platform/external/firebase-messaging" />
   <project name="platform/external/flac" />
-  <project name="platform/external/flashrom" />
   <project name="platform/external/flatbuffers" />
   <project name="platform/external/fmtlib" />
   <project name="platform/external/fonttools" />
@@ -855,7 +854,6 @@
   <project name="platform/external/pandora/bt-test-interfaces" />
   <project name="platform/external/pandora/mmi2grpc" />
   <project name="platform/external/parameter-framework" />
-  <project name="platform/external/pciutils" />
   <project name="platform/external/pcre" />
   <project name="platform/external/pdfium" />
   <project name="platform/external/perf_data_converter" />
@@ -1377,6 +1375,7 @@
   <project name="platform/external/rust/crates/zeroize" />
   <project name="platform/external/rust/crates/zeroize_derive" />
   <project name="platform/external/rust/crates/zip" />
+  <project name="platform/external/rust/crates/zune-inflate" groups="kernel-extra,notdefault" />
   <project name="platform/external/rust/cxx" />
   <project name="platform/external/rust/pica" />
   <project name="platform/external/ruy" />
