@@ -59,6 +59,9 @@
   <project name="device/google/bramble" />
   <project name="device/google/bramble-kernel" groups="kernel" />
   <project name="device/google/bramble-sepolicy" />
+  <project name="device/google/caimito" />
+  <project name="device/google/caimito-kernels/6.1" groups="kernel" />
+  <project name="device/google/caimito-sepolicy" />
   <project name="device/google/contexthub" />
   <project name="device/google/coral" />
   <project name="device/google/coral-kernel" groups="kernel" />
@@ -116,6 +119,8 @@
   <project name="device/google/wahoo-kernel" groups="kernel" />
   <project name="device/google/zuma" />
   <project name="device/google/zuma-sepolicy" />
+  <project name="device/google/zumapro" />
+  <project name="device/google/zumapro-sepolicy" />
   <project name="device/google_car" />
   <project name="device/htc/common" />
   <project name="device/htc/dream" />
@@ -170,11 +175,15 @@
   <project name="kernel/configs" />
   <project name="kernel/devices/google/akita" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/bluejay" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/caimito" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/common" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/eos" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/felix" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/lynx" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/shusky" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/tangorpro" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/zuma" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/zumapro" groups="kernel-extra,notdefault" />
   <project name="kernel/exynos" groups="kernel-extra,notdefault" />
   <project name="kernel/exynos-modules/config" groups="kernel-extra,notdefault" />
   <project name="kernel/exynos-modules/devicetree" groups="kernel-extra,notdefault" />
@@ -187,13 +196,17 @@
   <project name="kernel/google-modules/bluetooth/qcom" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/bluetooth/synaptics" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/bms" groups="kernel-extra,notdefault" />
-  <project name="kernel/google-modules/display" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/display" path="kernel/google-modules/display.git" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/display/common" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/display/panels/caimito" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/display/samsung" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/edgetpu" path="kernel/google-modules/edgetpu.git" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/edgetpu/abrolhos" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/edgetpu/janeiro" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/edgetpu/rio" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/fingerprint/fpc" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/fingerprint/goodix" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/fingerprint/qcom/qfs4008" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/gps/broadcom/bcm47765" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/gpu" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/gxp/gs201" groups="kernel-extra,notdefault" />
@@ -204,7 +217,11 @@
   <project name="kernel/google-modules/misc" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/nanohub" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/nfc" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/perf" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/power/mitigation" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/power/reset" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/radio/samsung/s5300" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/radio/samsung/s5400" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/raviole-device" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/rotary-encoders" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/sensors/hall_sensor" groups="kernel-extra,notdefault" />
@@ -229,6 +246,7 @@
   <project name="kernel/google-modules/wlan/bcmdhd/bcm43752" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4383" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4389" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/wlan/bcmdhd/bcm4390" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/bcmdhd/bcm4398" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/qcom/wcn6740/cnss2" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/qcom/wcn6740/wlan" groups="kernel-extra,notdefault" />
@@ -392,6 +410,8 @@
   <project name="platform/external/autotest" />
   <project name="platform/external/avahi" />
   <project name="platform/external/avb" />
+  <project name="platform/external/aws-crt-java" />
+  <project name="platform/external/aws-eventstream-java" />
   <project name="platform/external/bart" />
   <project name="platform/external/bazel-contrib-bazel_features" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazel-skylib" />
@@ -1599,6 +1619,7 @@
   <project name="platform/hardware/google/graphics/gs101" />
   <project name="platform/hardware/google/graphics/gs201" />
   <project name="platform/hardware/google/graphics/zuma" />
+  <project name="platform/hardware/google/graphics/zumapro" />
   <project name="platform/hardware/google/interfaces" />
   <project name="platform/hardware/google/pixel" />
   <project name="platform/hardware/google/pixel-sepolicy" />
@@ -1718,6 +1739,7 @@
   <project name="platform/packages/apps/Car/DebuggingRestrictionController" />
   <project name="platform/packages/apps/Car/Dialer" />
   <project name="platform/packages/apps/Car/DialerPrebuilt" />
+  <project name="platform/packages/apps/Car/DriverUIPrebuilt" />
   <project name="platform/packages/apps/Car/Hvac" />
   <project name="platform/packages/apps/Car/LatinIME" />
   <project name="platform/packages/apps/Car/Launcher" />
@@ -2180,6 +2202,7 @@
   <project name="platform/system/nvram" />
   <project name="platform/system/secretkeeper" />
   <project name="platform/system/security" />
+  <project name="platform/system/see/authmgr" />
   <project name="platform/system/sepolicy" />
   <project name="platform/system/server_configurable_flags" />
   <project name="platform/system/teeui" />
