@@ -497,6 +497,7 @@
   <project name="LineageOS/android_device_motorola_berlna" />
   <project name="LineageOS/android_device_motorola_borneo" />
   <project name="LineageOS/android_device_motorola_caprip" />
+  <project name="LineageOS/android_device_motorola_cebu" />
   <project name="LineageOS/android_device_motorola_cedric" />
   <project name="LineageOS/android_device_motorola_channel" />
   <project name="LineageOS/android_device_motorola_chef" />
