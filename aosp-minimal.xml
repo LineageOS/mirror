@@ -572,6 +572,7 @@
   <project name="platform/external/fio" />
   <project name="platform/external/firebase-messaging" />
   <project name="platform/external/flac" />
+  <project name="platform/external/flashrom" />
   <project name="platform/external/flatbuffers" />
   <project name="platform/external/fmtlib" />
   <project name="platform/external/fonttools" />
@@ -874,6 +875,7 @@
   <project name="platform/external/pandora/bt-test-interfaces" />
   <project name="platform/external/pandora/mmi2grpc" />
   <project name="platform/external/parameter-framework" />
+  <project name="platform/external/pciutils" />
   <project name="platform/external/pcre" />
   <project name="platform/external/pdfium" />
   <project name="platform/external/perf_data_converter" />
@@ -2357,6 +2359,7 @@
   <project name="trusty/app/storage" />
   <project name="trusty/device/arm/generic-arm64" />
   <project name="trusty/device/arm/vexpress-a15" />
+  <project name="trusty/device/desktop" />
   <project name="trusty/device/nxp/imx7d" />
   <project name="trusty/device/x86/generic-x86_64" />
   <project name="trusty/external/headers" />
@@ -2369,5 +2372,6 @@
   <project name="trusty/lk/common" />
   <project name="trusty/lk/nxp" />
   <project name="trusty/lk/trusty" />
+  <project name="trusty/user/desktop" />
   <project name="trusty/vendor/google/aosp" />
 </manifest>
