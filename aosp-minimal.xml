@@ -176,6 +176,7 @@
   <project name="kernel/devices/google/akita" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/bluejay" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/caimito" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/comet" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/common" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/eos" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/felix" groups="kernel-extra,notdefault" />
