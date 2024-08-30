@@ -591,6 +591,7 @@
   <project name="platform/external/gfxstream-protocols" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
+  <project name="platform/external/gmmlib" />
   <project name="platform/external/gmock" />
   <project name="platform/external/go-cmp" />
   <project name="platform/external/golang-protobuf" />
@@ -645,6 +646,7 @@
   <project name="platform/external/igt-gpu-tools" />
   <project name="platform/external/image_io" />
   <project name="platform/external/ims" />
+  <project name="platform/external/intel-media-driver" />
   <project name="platform/external/iosched" />
   <project name="platform/external/iperf3" />
   <project name="platform/external/iproute2" />
@@ -772,6 +774,7 @@
   <project name="platform/external/libusb-compat" />
   <project name="platform/external/libusb_aah" />
   <project name="platform/external/libutf" />
+  <project name="platform/external/libva" />
   <project name="platform/external/libvncserver" />
   <project name="platform/external/libvorbis" />
   <project name="platform/external/libvpx" />
