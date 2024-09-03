@@ -45,6 +45,7 @@
   <project name="device/google/accessory/demokit" />
   <project name="device/google/akita" />
   <project name="device/google/akita-kernel" groups="kernel" />
+  <project name="device/google/akita-kernels/5.15" groups="kernel" />
   <project name="device/google/akita-sepolicy" />
   <project name="device/google/atv" />
   <project name="device/google/barbet" />
@@ -52,6 +53,7 @@
   <project name="device/google/barbet-sepolicy" />
   <project name="device/google/bluejay" />
   <project name="device/google/bluejay-kernel" groups="kernel" />
+  <project name="device/google/bluejay-kernels/5.10" groups="kernel" />
   <project name="device/google/bluejay-sepolicy" />
   <project name="device/google/bonito" />
   <project name="device/google/bonito-kernel" groups="kernel" />
@@ -62,6 +64,10 @@
   <project name="device/google/caimito" />
   <project name="device/google/caimito-kernels/6.1" groups="kernel" />
   <project name="device/google/caimito-sepolicy" />
+  <project name="device/google/comet" />
+  <project name="device/google/comet-kernels/6.1" groups="kernel" />
+  <project name="device/google/comet-sepolicy" />
+  <project name="device/google/common/etm" />
   <project name="device/google/contexthub" />
   <project name="device/google/coral" />
   <project name="device/google/coral-kernel" groups="kernel" />
@@ -79,6 +85,7 @@
   <project name="device/google/dragon-kernel" groups="kernel" />
   <project name="device/google/felix" />
   <project name="device/google/felix-kernel" groups="kernel" />
+  <project name="device/google/felix-kernels/5.10" groups="kernel" />
   <project name="device/google/felix-sepolicy" />
   <project name="device/google/fuchsia" />
   <project name="device/google/gs-common" />
@@ -88,15 +95,18 @@
   <project name="device/google/gs201-sepolicy" />
   <project name="device/google/lynx" />
   <project name="device/google/lynx-kernel" groups="kernel" />
+  <project name="device/google/lynx-kernels/5.10" groups="kernel" />
   <project name="device/google/lynx-sepolicy" />
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" groups="kernel" />
   <project name="device/google/muskie" />
   <project name="device/google/pantah" />
   <project name="device/google/pantah-kernel" groups="kernel" />
+  <project name="device/google/pantah-kernels/5.10" groups="kernel" />
   <project name="device/google/pantah-sepolicy" />
   <project name="device/google/raviole" />
   <project name="device/google/raviole-kernel" groups="kernel" />
+  <project name="device/google/raviole-kernels/5.10" groups="kernel" />
   <project name="device/google/redbull" />
   <project name="device/google/redbull-kernel" groups="kernel" />
   <project name="device/google/redbull-sepolicy" />
@@ -105,6 +115,7 @@
   <project name="device/google/redfin-sepolicy" />
   <project name="device/google/shusky" />
   <project name="device/google/shusky-kernel" groups="kernel" />
+  <project name="device/google/shusky-kernels/5.15" groups="kernel" />
   <project name="device/google/shusky-sepolicy" />
   <project name="device/google/sunfish" />
   <project name="device/google/sunfish-kernel" groups="kernel" />
@@ -112,6 +123,7 @@
   <project name="device/google/taimen" />
   <project name="device/google/tangorpro" />
   <project name="device/google/tangorpro-kernel" groups="kernel" />
+  <project name="device/google/tangorpro-kernels/5.10" groups="kernel" />
   <project name="device/google/tangorpro-sepolicy" />
   <project name="device/google/trout" />
   <project name="device/google/vrservices" />
@@ -328,6 +340,7 @@
   <project name="platform/art" />
   <project name="platform/bionic" />
   <project name="platform/bootable/bootloader/legacy" />
+  <project name="platform/bootable/deprecated-ota" />
   <project name="platform/bootable/diskinstaller" />
   <project name="platform/bootable/libbootloader" />
   <project name="platform/bootable/recovery" />
@@ -371,6 +384,7 @@
   <project name="platform/external/abi-compliance-checker" />
   <project name="platform/external/abi-dumper" />
   <project name="platform/external/abseil-cpp" />
+  <project name="platform/external/accessibility-test-framework" />
   <project name="platform/external/accompanist" />
   <project name="platform/external/actionbarsherlock" />
   <project name="platform/external/adeb" />
@@ -413,6 +427,7 @@
   <project name="platform/external/avb" />
   <project name="platform/external/aws-crt-java" />
   <project name="platform/external/aws-eventstream-java" />
+  <project name="platform/external/aws-sdk-java-v2" />
   <project name="platform/external/bart" />
   <project name="platform/external/bazel-contrib-bazel_features" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazel-skylib" />
@@ -596,8 +611,10 @@
   <project name="platform/external/go-cmp" />
   <project name="platform/external/golang-protobuf" />
   <project name="platform/external/google-api-services-storage" />
+  <project name="platform/external/google-auth-library-java" />
   <project name="platform/external/google-benchmark" />
   <project name="platform/external/google-breakpad" />
+  <project name="platform/external/google-cloud-java" />
   <project name="platform/external/google-diff-match-patch" />
   <project name="platform/external/google-fonts/arbutus-slab" />
   <project name="platform/external/google-fonts/arvo" />
@@ -683,6 +700,8 @@
   <project name="platform/external/jsilver" />
   <project name="platform/external/jsmn" />
   <project name="platform/external/jsoncpp" />
+  <project name="platform/external/jsoup" />
+  <project name="platform/external/jsoup-1p-stubs" />
   <project name="platform/external/jsr305" />
   <project name="platform/external/jsr330" />
   <project name="platform/external/junit" />
@@ -1411,6 +1430,7 @@
   <project name="platform/external/scapy" />
   <project name="platform/external/scrypt" />
   <project name="platform/external/scudo" />
+  <project name="platform/external/sdk-platform-java" />
   <project name="platform/external/sdv/vsomeip" />
   <project name="platform/external/seccomp-tests" />
   <project name="platform/external/selinux" />
@@ -1462,6 +1482,7 @@
   <project name="platform/external/testng" />
   <project name="platform/external/tflite-support" />
   <project name="platform/external/third-party-review" />
+  <project name="platform/external/threetenbp" />
   <project name="platform/external/timezone-boundary-builder" />
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tink" />
@@ -1742,6 +1763,7 @@
   <project name="platform/packages/apps/Car/CalendarPrebuilt" />
   <project name="platform/packages/apps/Car/Cluster" />
   <project name="platform/packages/apps/Car/CompanionDeviceSupport" />
+  <project name="platform/packages/apps/Car/DataSubscriptionReference" />
   <project name="platform/packages/apps/Car/DebuggingRestrictionController" />
   <project name="platform/packages/apps/Car/Dialer" />
   <project name="platform/packages/apps/Car/DialerPrebuilt" />
@@ -1760,6 +1782,7 @@
   <project name="platform/packages/apps/Car/Overview" />
   <project name="platform/packages/apps/Car/Provision" />
   <project name="platform/packages/apps/Car/Radio" />
+  <project name="platform/packages/apps/Car/RadioPrebuilt" />
   <project name="platform/packages/apps/Car/RotaryController" />
   <project name="platform/packages/apps/Car/Settings" />
   <project name="platform/packages/apps/Car/SettingsIntelligence" />
