@@ -376,6 +376,7 @@
   <project name="platform/external/OpenCL-CLHPP" />
   <project name="platform/external/OpenCL-CTS" />
   <project name="platform/external/OpenCL-Headers" />
+  <project name="platform/external/OpenCL-ICD-Loader" />
   <project name="platform/external/OpenCSD" />
   <project name="platform/external/Reactive-Extensions/RxCpp" />
   <project name="platform/external/TestParameterInjector" />
@@ -646,6 +647,7 @@
   <project name="platform/external/grub" />
   <project name="platform/external/gson" />
   <project name="platform/external/gtest" />
+  <project name="platform/external/gturri-jISO8601" />
   <project name="platform/external/guava" />
   <project name="platform/external/guice" />
   <project name="platform/external/gwp_asan" />
