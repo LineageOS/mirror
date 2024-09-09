@@ -24,6 +24,7 @@
   <project name="LineageOS/android_bootable_cboot_lk" />
   <project name="LineageOS/android_bootable_cboot_t18x" />
   <project name="LineageOS/android_bootable_cboot_t19x" />
+  <project name="LineageOS/android_bootable_deprecated-ota" />
   <project name="LineageOS/android_bootable_diskinstaller" />
   <project name="LineageOS/android_bootable_recovery" />
   <project name="LineageOS/android_bootable_recovery-cm" />
