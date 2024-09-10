@@ -562,6 +562,7 @@
   <project name="platform/external/easymock" />
   <project name="platform/external/eclipse-basebuilder" />
   <project name="platform/external/eclipse-windowbuilder" />
+  <project name="platform/external/edid-decode" />
   <project name="platform/external/effcee" />
   <project name="platform/external/eglib" />
   <project name="platform/external/eigen" />
