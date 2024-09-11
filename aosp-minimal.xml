@@ -847,6 +847,7 @@
   <project name="platform/external/mockito-kotlin" />
   <project name="platform/external/mockwebserver" />
   <project name="platform/external/modp_b64" />
+  <project name="platform/external/moshi" />
   <project name="platform/external/mp4parser" />
   <project name="platform/external/ms-tpm-20-ref" />
   <project name="platform/external/mtools" />
@@ -2187,6 +2188,7 @@
   <project name="platform/prebuilts/vndk/v33" />
   <project name="platform/prebuilts/vndk/v34" />
   <project name="platform/sdk" />
+  <project name="platform/system/acpi/bert_collector" />
   <project name="platform/system/apex" />
   <project name="platform/system/ashmemd" />
   <project name="platform/system/authgraph" />
