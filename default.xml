@@ -2549,6 +2549,7 @@
   <project name="LineageOS/android_platform_testing" />
   <project name="LineageOS/android_prebuilt" />
   <project name="LineageOS/android_prebuilts_abi-dumps_vndk" />
+  <project name="LineageOS/android_prebuilts_bootmgr" />
   <project name="LineageOS/android_prebuilts_build-tools" />
   <project name="LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b" />
   <project name="LineageOS/android_prebuilts_cmsdk" />
