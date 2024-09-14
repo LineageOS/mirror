@@ -1084,6 +1084,7 @@
   <project name="platform/external/rust/crates/const-oid" />
   <project name="platform/external/rust/crates/const_fn" />
   <project name="platform/external/rust/crates/coset" />
+  <project name="platform/external/rust/crates/cov-mark" />
   <project name="platform/external/rust/crates/crc32fast" />
   <project name="platform/external/rust/crates/criterion" />
   <project name="platform/external/rust/crates/criterion-plot" />
