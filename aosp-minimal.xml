@@ -646,8 +646,10 @@
   <project name="platform/external/grpc-grpc" />
   <project name="platform/external/grpc-grpc-java" />
   <project name="platform/external/grub" />
+  <project name="platform/external/gsc-utils" />
   <project name="platform/external/gson" />
   <project name="platform/external/gtest" />
+  <project name="platform/external/gturri-aXMLRPC" />
   <project name="platform/external/gturri-jISO8601" />
   <project name="platform/external/guava" />
   <project name="platform/external/guice" />
