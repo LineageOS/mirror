@@ -193,6 +193,7 @@
   <project name="kernel/devices/google/eos" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/felix" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/lynx" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/seluna" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/shusky" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/tangorpro" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/zuma" groups="kernel-extra,notdefault" />
@@ -213,6 +214,7 @@
   <project name="kernel/google-modules/display/common" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/display/panels/caimito" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/display/samsung" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/display/watch/mcu-offload" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/edgetpu" path="kernel/google-modules/edgetpu.git" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/edgetpu/abrolhos" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/edgetpu/janeiro" groups="kernel-extra,notdefault" />
@@ -264,6 +266,7 @@
   <project name="kernel/google-modules/wlan/qcom/wcn6740/cnss2" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/qcom/wcn6740/wlan" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/syna/dhd43752p" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/wlan/syna/dhd4381" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/wlan/wlan_ptracker" groups="kernel-extra,notdefault" />
   <project name="kernel/gs" groups="kernel-extra,notdefault" />
   <project name="kernel/hikey-linaro" groups="kernel-extra,notdefault" />
