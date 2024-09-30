@@ -14,6 +14,7 @@
   <project name="LineageOS/android_abi_cpp" />
   <project name="LineageOS/android_art" />
   <project name="LineageOS/android_bionic" />
+  <project name="LineageOS/android_bootable_deprecated-ota" />
   <project name="LineageOS/android_bootable_diskinstaller" />
   <project name="LineageOS/android_bootable_recovery" />
   <project name="LineageOS/android_bootable_recovery-cm" />
