@@ -612,8 +612,10 @@
   <project name="LineageOS/android_device_nintendo_nx" />
   <project name="LineageOS/android_device_nintendo_nx_tab" />
   <project name="LineageOS/android_device_nokia_DRG" />
+  <project name="LineageOS/android_device_nokia_NB1" />
   <project name="LineageOS/android_device_nokia_NLA" />
   <project name="LineageOS/android_device_nokia_PL2" />
+  <project name="LineageOS/android_device_nokia_msm8998-common" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
   <project name="LineageOS/android_device_nothing_Spacewar" />
   <project name="LineageOS/android_device_nubia_TP1803" />
