@@ -1178,7 +1178,6 @@
   <project name="LineageOS/android_device_xiaomi_chiron" />
   <project name="LineageOS/android_device_xiaomi_cmi" />
   <project name="LineageOS/android_device_xiaomi_cupid" />
-  <project name="LineageOS/android_device_xiaomi_dagda" />
   <project name="LineageOS/android_device_xiaomi_davinci" />
   <project name="LineageOS/android_device_xiaomi_dipper" />
   <project name="LineageOS/android_device_xiaomi_diting" />
@@ -1249,7 +1248,7 @@
   <project name="LineageOS/android_device_xiaomi_socrates" />
   <project name="LineageOS/android_device_xiaomi_surya" />
   <project name="LineageOS/android_device_xiaomi_sweet" />
-  <project name="LineageOS/android_device_xiaomi_taranis" />
+  <project name="LineageOS/android_device_xiaomi_thor" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
   <project name="LineageOS/android_device_xiaomi_twolip" />
   <project name="LineageOS/android_device_xiaomi_umi" />
@@ -1265,6 +1264,7 @@
   <project name="LineageOS/android_device_xiaomi_wt88047x" />
   <project name="LineageOS/android_device_xiaomi_xmsirius" />
   <project name="LineageOS/android_device_xiaomi_yudi" />
+  <project name="LineageOS/android_device_xiaomi_zeus" />
   <project name="LineageOS/android_device_xiaomi_ziyi" />
   <project name="LineageOS/android_device_xiaomi_zizhan" />
   <project name="LineageOS/android_device_yandex_Amber" />
