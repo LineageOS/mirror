@@ -2268,6 +2268,7 @@
   <project name="platform/system/ucontainer" />
   <project name="platform/system/unwinding" />
   <project name="platform/system/update_engine" />
+  <project name="platform/system/usb_info_tools" />
   <project name="platform/system/vold" />
   <project name="platform/system/weaved" />
   <project name="platform/system/webservd" />
