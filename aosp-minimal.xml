@@ -1126,6 +1126,7 @@
   <project name="platform/external/rust/crates/epoll" />
   <project name="platform/external/rust/crates/equivalent" />
   <project name="platform/external/rust/crates/errno" />
+  <project name="platform/external/rust/crates/etherparse" />
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />
   <project name="platform/external/rust/crates/fastrand" />
