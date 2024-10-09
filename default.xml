@@ -41,6 +41,7 @@
   <project name="LineageOS/android_build" />
   <project name="LineageOS/android_build_blueprint" />
   <project name="LineageOS/android_build_kati" />
+  <project name="LineageOS/android_build_release" />
   <project name="LineageOS/android_build_soong" />
   <project name="LineageOS/android_cts" />
   <project name="LineageOS/android_dalvik" />
@@ -70,6 +71,7 @@
   <project name="LineageOS/android_device_amlogic_gx-common" />
   <project name="LineageOS/android_device_amlogic_ne-common" />
   <project name="LineageOS/android_device_amlogic_sepolicy" />
+  <project name="LineageOS/android_device_amlogic_sm1-common" />
   <project name="LineageOS/android_device_ark_msm8916-common" />
   <project name="LineageOS/android_device_ark_peach" />
   <project name="LineageOS/android_device_askey_deadpool" />
@@ -169,7 +171,10 @@
   <project name="LineageOS/android_device_google_blueline" />
   <project name="LineageOS/android_device_google_bonito" />
   <project name="LineageOS/android_device_google_bramble" />
+  <project name="LineageOS/android_device_google_caiman" />
+  <project name="LineageOS/android_device_google_caimito" />
   <project name="LineageOS/android_device_google_cheetah" />
+  <project name="LineageOS/android_device_google_comet" />
   <project name="LineageOS/android_device_google_contexthub" />
   <project name="LineageOS/android_device_google_coral" />
   <project name="LineageOS/android_device_google_crosshatch" />
@@ -180,6 +185,7 @@
   <project name="LineageOS/android_device_google_gs101" />
   <project name="LineageOS/android_device_google_gs201" />
   <project name="LineageOS/android_device_google_husky" />
+  <project name="LineageOS/android_device_google_komodo" />
   <project name="LineageOS/android_device_google_lynx" />
   <project name="LineageOS/android_device_google_marlin" />
   <project name="LineageOS/android_device_google_msm8952-common" />
@@ -207,10 +213,12 @@
   <project name="LineageOS/android_device_google_sunfish" />
   <project name="LineageOS/android_device_google_taimen" />
   <project name="LineageOS/android_device_google_tangorpro" />
+  <project name="LineageOS/android_device_google_tokay" />
   <project name="LineageOS/android_device_google_wahoo" />
   <project name="LineageOS/android_device_google_walleye" />
   <project name="LineageOS/android_device_google_yellowstone" />
   <project name="LineageOS/android_device_google_zuma" />
+  <project name="LineageOS/android_device_google_zumapro" />
   <project name="LineageOS/android_device_hardkernel_odroidc4" />
   <project name="LineageOS/android_device_hardkernel_odroidc4_tab" />
   <project name="LineageOS/android_device_hardkernel_odroidu2" />
@@ -2490,6 +2498,7 @@
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
   <project name="LineageOS/android_packages_modules_Connectivity" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
+  <project name="LineageOS/android_packages_modules_IntentResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
   <project name="LineageOS/android_packages_modules_Permission" />
