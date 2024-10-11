@@ -1825,6 +1825,7 @@
   <project name="platform/packages/apps/ContactsCommon" />
   <project name="platform/packages/apps/DeskClock" />
   <project name="platform/packages/apps/DevCamera" />
+  <project name="platform/packages/apps/DeviceDiagnostics" />
   <project name="platform/packages/apps/Dialer" />
   <project name="platform/packages/apps/DocumentsUI" />
   <project name="platform/packages/apps/Email" />
