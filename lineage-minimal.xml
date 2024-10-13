@@ -21,6 +21,7 @@
   <project name="LineageOS/android_build" />
   <project name="LineageOS/android_build_blueprint" />
   <project name="LineageOS/android_build_kati" />
+  <project name="LineageOS/android_build_release" />
   <project name="LineageOS/android_build_soong" />
   <project name="LineageOS/android_cts" />
   <project name="LineageOS/android_dalvik" />
@@ -538,6 +539,7 @@
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
   <project name="LineageOS/android_packages_modules_Connectivity" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
+  <project name="LineageOS/android_packages_modules_IntentResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
   <project name="LineageOS/android_packages_modules_Permission" />
