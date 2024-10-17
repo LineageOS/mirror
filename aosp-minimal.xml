@@ -1005,6 +1005,7 @@
   <project name="platform/external/python/typing" />
   <project name="platform/external/python/typing_extensions" />
   <project name="platform/external/python/uritemplates" />
+  <project name="platform/external/python/watchdog" />
   <project name="platform/external/qemu" />
   <project name="platform/external/qemu-android" />
   <project name="platform/external/qemu-pc-bios" />
