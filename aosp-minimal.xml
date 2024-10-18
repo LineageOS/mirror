@@ -1536,6 +1536,7 @@
   <project name="platform/external/valgrind" />
   <project name="platform/external/vboot_reference" />
   <project name="platform/external/virglrenderer" />
+  <project name="platform/external/virtio-media" />
   <project name="platform/external/vixl" />
   <project name="platform/external/vm_tools/p9" />
   <project name="platform/external/vogar" />
@@ -2401,6 +2402,7 @@
   <project name="toolchain/xz" />
   <project name="toolchain/yasm" />
   <project name="tools/platform-compat" />
+  <project name="trusty/app/authmgr" />
   <project name="trusty/app/avb" />
   <project name="trusty/app/cast-auth" />
   <project name="trusty/app/confirmationui" />
