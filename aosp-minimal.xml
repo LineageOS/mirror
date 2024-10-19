@@ -779,6 +779,7 @@
   <project name="platform/external/libnl" />
   <project name="platform/external/libnl-headers" />
   <project name="platform/external/libogg" />
+  <project name="platform/external/libopenapv" />
   <project name="platform/external/libopus" />
   <project name="platform/external/libpalmrejection" />
   <project name="platform/external/libpcap" />
