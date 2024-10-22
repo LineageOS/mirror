@@ -1379,6 +1379,7 @@
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/tokio-io-timeout" />
   <project name="platform/external/rust/crates/tokio-macros" />
+  <project name="platform/external/rust/crates/tokio-openssl" />
   <project name="platform/external/rust/crates/tokio-stream" />
   <project name="platform/external/rust/crates/tokio-test" />
   <project name="platform/external/rust/crates/tokio-util" />
