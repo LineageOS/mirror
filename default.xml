@@ -1356,6 +1356,7 @@
   <project name="LineageOS/android_external_chromium-webview_prebuilt_x86" />
   <project name="LineageOS/android_external_chromium-webview_prebuilt_x86_64" />
   <project name="LineageOS/android_external_chromium_org" />
+  <project name="LineageOS/android_external_chromium_org_third_party_WebKit" />
   <project name="LineageOS/android_external_chromium_org_third_party_boringssl_src" />
   <project name="LineageOS/android_external_chromium_org_third_party_brotli_src" />
   <project name="LineageOS/android_external_chromium_org_third_party_libaddressinput_src" />
