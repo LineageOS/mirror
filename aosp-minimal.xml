@@ -711,6 +711,7 @@
   <project name="platform/external/jsoncpp" />
   <project name="platform/external/jsoup" />
   <project name="platform/external/jsoup-1p-stubs" />
+  <project name="platform/external/jspecify" />
   <project name="platform/external/jsr305" />
   <project name="platform/external/jsr330" />
   <project name="platform/external/junit" />
