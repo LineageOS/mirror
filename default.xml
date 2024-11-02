@@ -1485,6 +1485,9 @@
   <project name="LineageOS/android_external_kernel-headers" />
   <project name="LineageOS/android_external_kexec-tools" />
   <project name="LineageOS/android_external_kissfft" />
+  <project name="LineageOS/android_external_kotlinc" />
+  <project name="LineageOS/android_external_kotlinx.coroutines" />
+  <project name="LineageOS/android_external_kotlinx.serialization" />
   <project name="LineageOS/android_external_ksoap2" />
   <project name="LineageOS/android_external_libaom" />
   <project name="LineageOS/android_external_libavc" />
@@ -2480,6 +2483,7 @@
   <project name="LineageOS/android_packages_apps_Trebuchet" />
   <project name="LineageOS/android_packages_apps_TvSettings" />
   <project name="LineageOS/android_packages_apps_TvSystemUI" />
+  <project name="LineageOS/android_packages_apps_Twelve" />
   <project name="LineageOS/android_packages_apps_UnifiedEmail" />
   <project name="LineageOS/android_packages_apps_Updater" />
   <project name="LineageOS/android_packages_apps_Usb" />
