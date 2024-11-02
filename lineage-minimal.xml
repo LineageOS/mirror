@@ -175,6 +175,9 @@
   <project name="LineageOS/android_external_junit" />
   <project name="LineageOS/android_external_kernel-headers" />
   <project name="LineageOS/android_external_kissfft" />
+  <project name="LineageOS/android_external_kotlinc" />
+  <project name="LineageOS/android_external_kotlinx.coroutines" />
+  <project name="LineageOS/android_external_kotlinx.serialization" />
   <project name="LineageOS/android_external_libaom" />
   <project name="LineageOS/android_external_libavc" />
   <project name="LineageOS/android_external_libbrillo" />
