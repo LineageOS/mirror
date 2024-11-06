@@ -2607,6 +2607,7 @@
   <project name="LineageOS/android_system_hwservicemanager" />
   <project name="LineageOS/android_system_incremental_delivery" />
   <project name="LineageOS/android_system_keymaster" />
+  <project name="LineageOS/android_system_keymint" />
   <project name="LineageOS/android_system_libfmq" />
   <project name="LineageOS/android_system_libhidl" />
   <project name="LineageOS/android_system_libhwbinder" />
