@@ -1554,6 +1554,7 @@
   <project name="LineageOS/android_external_lzo" />
   <project name="LineageOS/android_external_markdown" />
   <project name="LineageOS/android_external_mdnsresponder" />
+  <project name="LineageOS/android_external_mesa" />
   <project name="LineageOS/android_external_mesa3d" />
   <project name="LineageOS/android_external_messageformat" />
   <project name="LineageOS/android_external_mksh" />
