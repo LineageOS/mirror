@@ -1294,6 +1294,8 @@
   <project name="platform/external/rust/crates/protobuf-parse" />
   <project name="platform/external/rust/crates/protobuf-support" />
   <project name="platform/external/rust/crates/psci" />
+  <project name="platform/external/rust/crates/ptr_meta" />
+  <project name="platform/external/rust/crates/ptr_meta_derive" />
   <project name="platform/external/rust/crates/quiche" />
   <project name="platform/external/rust/crates/quickcheck" />
   <project name="platform/external/rust/crates/quote" />
@@ -1392,6 +1394,11 @@
   <project name="platform/external/rust/crates/tungstenite" />
   <project name="platform/external/rust/crates/twox-hash" />
   <project name="platform/external/rust/crates/ucd-trie" />
+  <project name="platform/external/rust/crates/ucs2" />
+  <project name="platform/external/rust/crates/uefi" />
+  <project name="platform/external/rust/crates/uefi-macros" />
+  <project name="platform/external/rust/crates/uefi-raw" />
+  <project name="platform/external/rust/crates/uguid" />
   <project name="platform/external/rust/crates/unicode-bidi" />
   <project name="platform/external/rust/crates/unicode-ident" />
   <project name="platform/external/rust/crates/unicode-normalization" />
