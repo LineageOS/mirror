@@ -1199,6 +1199,7 @@
   <project name="platform/external/rust/crates/libm" />
   <project name="platform/external/rust/crates/libsqlite3-sys" />
   <project name="platform/external/rust/crates/libtest-mimic" />
+  <project name="platform/external/rust/crates/libusb1-sys" />
   <project name="platform/external/rust/crates/libz-sys" />
   <project name="platform/external/rust/crates/linked-hash-map" />
   <project name="platform/external/rust/crates/linkme" />
