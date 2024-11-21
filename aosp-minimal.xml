@@ -1192,7 +1192,6 @@
   <project name="platform/external/rust/crates/kernlog" />
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
-  <project name="platform/external/rust/crates/libbpf-sys" />
   <project name="platform/external/rust/crates/libc" />
   <project name="platform/external/rust/crates/libfuzzer-sys" />
   <project name="platform/external/rust/crates/libloading" />
@@ -1528,6 +1527,7 @@
   <project name="platform/external/truth" />
   <project name="platform/external/turbine" />
   <project name="platform/external/u-boot" />
+  <project name="platform/external/ublksrv" />
   <project name="platform/external/ukey2" />
   <project name="platform/external/unicode" />
   <project name="platform/external/universal-tween-engine" />
