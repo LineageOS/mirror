@@ -588,6 +588,7 @@
   <project name="platform/external/f2fs-tools" />
   <project name="platform/external/fastrpc" />
   <project name="platform/external/fat32lib" />
+  <project name="platform/external/fbjni" />
   <project name="platform/external/fdlibm" />
   <project name="platform/external/fec" />
   <project name="platform/external/federated-compute" />
@@ -674,6 +675,7 @@
   <project name="platform/external/image_io" />
   <project name="platform/external/ims" />
   <project name="platform/external/intel-media-driver" />
+  <project name="platform/external/intellij-plugins" />
   <project name="platform/external/iosched" />
   <project name="platform/external/iperf3" />
   <project name="platform/external/iproute2" />
@@ -1182,6 +1184,8 @@
   <project name="platform/external/rust/crates/indexmap" />
   <project name="platform/external/rust/crates/inflector" />
   <project name="platform/external/rust/crates/ini" />
+  <project name="platform/external/rust/crates/inotify" />
+  <project name="platform/external/rust/crates/inotify-sys" />
   <project name="platform/external/rust/crates/instant" />
   <project name="platform/external/rust/crates/intrusive-collections" />
   <project name="platform/external/rust/crates/itertools" />
@@ -1210,6 +1214,7 @@
   <project name="platform/external/rust/crates/lz4_flex" />
   <project name="platform/external/rust/crates/macaddr" />
   <project name="platform/external/rust/crates/managed" />
+  <project name="platform/external/rust/crates/maplit" />
   <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/matchit" />
   <project name="platform/external/rust/crates/maybe-async" />
