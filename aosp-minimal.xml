@@ -519,12 +519,14 @@
   <project name="platform/external/clang" />
   <project name="platform/external/cldr" />
   <project name="platform/external/clearsilver" />
+  <project name="platform/external/clpeak" />
   <project name="platform/external/cmockery" />
   <project name="platform/external/cn-cbor" />
   <project name="platform/external/collada" />
   <project name="platform/external/compiler-rt" />
   <project name="platform/external/connectedappssdk" />
   <project name="platform/external/conscrypt" />
+  <project name="platform/external/coreboot" />
   <project name="platform/external/cpu_features" />
   <project name="platform/external/cpuinfo" />
   <project name="platform/external/crcalc" />
@@ -572,6 +574,7 @@
   <project name="platform/external/eigen" />
   <project name="platform/external/elfcopy" />
   <project name="platform/external/elfutils" />
+  <project name="platform/external/emboss" />
   <project name="platform/external/embunit" />
   <project name="platform/external/emma" />
   <project name="platform/external/epid-sdk" />
@@ -1099,6 +1102,7 @@
   <project name="platform/external/rust/crates/const-oid" />
   <project name="platform/external/rust/crates/const_fn" />
   <project name="platform/external/rust/crates/coset" />
+  <project name="platform/external/rust/crates/cov-mark" />
   <project name="platform/external/rust/crates/crc32fast" />
   <project name="platform/external/rust/crates/criterion" />
   <project name="platform/external/rust/crates/criterion-plot" />
@@ -1132,10 +1136,12 @@
   <project name="platform/external/rust/crates/enumn" />
   <project name="platform/external/rust/crates/env_logger" />
   <project name="platform/external/rust/crates/epoll" />
+  <project name="platform/external/rust/crates/equivalent" />
   <project name="platform/external/rust/crates/errno" />
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />
   <project name="platform/external/rust/crates/fastrand" />
+  <project name="platform/external/rust/crates/fixedbitset" />
   <project name="platform/external/rust/crates/flagset" />
   <project name="platform/external/rust/crates/flate2" />
   <project name="platform/external/rust/crates/fnv" />
@@ -1173,6 +1179,7 @@
   <project name="platform/external/rust/crates/hashlink" />
   <project name="platform/external/rust/crates/heck" />
   <project name="platform/external/rust/crates/hex" />
+  <project name="platform/external/rust/crates/hound" />
   <project name="platform/external/rust/crates/http" />
   <project name="platform/external/rust/crates/http-body" />
   <project name="platform/external/rust/crates/httparse" />
@@ -1196,6 +1203,8 @@
   <project name="platform/external/rust/crates/kernlog" />
   <project name="platform/external/rust/crates/lazy_static" />
   <project name="platform/external/rust/crates/lazycell" />
+  <project name="platform/external/rust/crates/libbpf-rs" />
+  <project name="platform/external/rust/crates/libbpf-sys" />
   <project name="platform/external/rust/crates/libc" />
   <project name="platform/external/rust/crates/libfuzzer-sys" />
   <project name="platform/external/rust/crates/libloading" />
@@ -1247,6 +1256,8 @@
   <project name="platform/external/rust/crates/num-integer" />
   <project name="platform/external/rust/crates/num-traits" />
   <project name="platform/external/rust/crates/num_cpus" />
+  <project name="platform/external/rust/crates/num_enum" />
+  <project name="platform/external/rust/crates/num_enum_derive" />
   <project name="platform/external/rust/crates/octets" />
   <project name="platform/external/rust/crates/oid-registry" />
   <project name="platform/external/rust/crates/once_cell" />
@@ -1270,10 +1281,12 @@
   <project name="platform/external/rust/crates/pdl-runtime" />
   <project name="platform/external/rust/crates/peeking_take_while" />
   <project name="platform/external/rust/crates/percent-encoding" />
+  <project name="platform/external/rust/crates/percore" />
   <project name="platform/external/rust/crates/pest" />
   <project name="platform/external/rust/crates/pest_derive" />
   <project name="platform/external/rust/crates/pest_generator" />
   <project name="platform/external/rust/crates/pest_meta" />
+  <project name="platform/external/rust/crates/petgraph" />
   <project name="platform/external/rust/crates/pin-project" />
   <project name="platform/external/rust/crates/pin-project-internal" />
   <project name="platform/external/rust/crates/pin-project-lite" />
@@ -1435,6 +1448,7 @@
   <project name="platform/external/rust/crates/vmm-sys-util" />
   <project name="platform/external/rust/crates/vmm_vhost" />
   <project name="platform/external/rust/crates/vsock" />
+  <project name="platform/external/rust/crates/vsprintf" />
   <project name="platform/external/rust/crates/vulkano" />
   <project name="platform/external/rust/crates/walkdir" />
   <project name="platform/external/rust/crates/want" />
