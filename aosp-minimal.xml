@@ -1466,6 +1466,7 @@
   <project name="platform/external/rust/crates/zeroize_derive" />
   <project name="platform/external/rust/crates/zip" />
   <project name="platform/external/rust/crates/zune-inflate" groups="kernel-extra,notdefault" />
+  <project name="platform/external/rust/cros-libva" />
   <project name="platform/external/rust/cxx" />
   <project name="platform/external/rust/pica" />
   <project name="platform/external/ruy" />
