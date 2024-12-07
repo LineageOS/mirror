@@ -459,6 +459,7 @@
   <project name="LineageOS/android_packages_apps_CMWallpapers" />
   <project name="LineageOS/android_packages_apps_Calculator" />
   <project name="LineageOS/android_packages_apps_Calendar" />
+  <project name="LineageOS/android_packages_apps_Camelot" />
   <project name="LineageOS/android_packages_apps_Camera2" />
   <project name="LineageOS/android_packages_apps_Car_Settings" />
   <project name="LineageOS/android_packages_apps_CarrierConfig" />
