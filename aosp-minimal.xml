@@ -756,6 +756,7 @@
   <project name="platform/external/libcxxabi" />
   <project name="platform/external/libdaemon" />
   <project name="platform/external/libdav1d" />
+  <project name="platform/external/libdisplay-info" />
   <project name="platform/external/libdivsufsort" />
   <project name="platform/external/libdrm" />
   <project name="platform/external/libedit" />
