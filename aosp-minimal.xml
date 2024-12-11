@@ -192,7 +192,11 @@
   <project name="kernel/devices/google/common" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/eos" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/felix" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/gs101" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/gs201" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/lynx" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/pantah" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/raviole" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/seluna" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/shusky" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/tangorpro" groups="kernel-extra,notdefault" />
@@ -1212,7 +1216,6 @@
   <project name="platform/external/rust/crates/libm" />
   <project name="platform/external/rust/crates/libsqlite3-sys" />
   <project name="platform/external/rust/crates/libtest-mimic" />
-  <project name="platform/external/rust/crates/libusb1-sys" />
   <project name="platform/external/rust/crates/libz-sys" />
   <project name="platform/external/rust/crates/linked-hash-map" />
   <project name="platform/external/rust/crates/linkme" />
@@ -1313,8 +1316,6 @@
   <project name="platform/external/rust/crates/protobuf-parse" />
   <project name="platform/external/rust/crates/protobuf-support" />
   <project name="platform/external/rust/crates/psci" />
-  <project name="platform/external/rust/crates/ptr_meta" />
-  <project name="platform/external/rust/crates/ptr_meta_derive" />
   <project name="platform/external/rust/crates/quiche" />
   <project name="platform/external/rust/crates/quickcheck" />
   <project name="platform/external/rust/crates/quote" />
@@ -1331,7 +1332,6 @@
   <project name="platform/external/rust/crates/remove_dir_all" />
   <project name="platform/external/rust/crates/ring" />
   <project name="platform/external/rust/crates/ron" />
-  <project name="platform/external/rust/crates/rusb" />
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rust-stemmers" />
   <project name="platform/external/rust/crates/rustc-demangle" />
@@ -1414,11 +1414,6 @@
   <project name="platform/external/rust/crates/tungstenite" />
   <project name="platform/external/rust/crates/twox-hash" />
   <project name="platform/external/rust/crates/ucd-trie" />
-  <project name="platform/external/rust/crates/ucs2" />
-  <project name="platform/external/rust/crates/uefi" />
-  <project name="platform/external/rust/crates/uefi-macros" />
-  <project name="platform/external/rust/crates/uefi-raw" />
-  <project name="platform/external/rust/crates/uguid" />
   <project name="platform/external/rust/crates/unicode-bidi" />
   <project name="platform/external/rust/crates/unicode-ident" />
   <project name="platform/external/rust/crates/unicode-normalization" />
