@@ -817,6 +817,7 @@
   <project name="platform/external/libusb_aah" />
   <project name="platform/external/libutf" />
   <project name="platform/external/libva" />
+  <project name="platform/external/libva-utils" />
   <project name="platform/external/libvncserver" />
   <project name="platform/external/libvorbis" />
   <project name="platform/external/libvpx" />
