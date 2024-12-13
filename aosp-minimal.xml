@@ -718,6 +718,7 @@
   <project name="platform/external/jpeg" />
   <project name="platform/external/jsilver" />
   <project name="platform/external/jsmn" />
+  <project name="platform/external/json-schema-validator" />
   <project name="platform/external/jsoncpp" />
   <project name="platform/external/jsoup" />
   <project name="platform/external/jsoup-1p-stubs" />
