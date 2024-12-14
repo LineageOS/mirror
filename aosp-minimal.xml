@@ -46,6 +46,7 @@
   <project name="device/google/akita" />
   <project name="device/google/akita-kernel" groups="kernel" />
   <project name="device/google/akita-kernels/5.15" groups="kernel" />
+  <project name="device/google/akita-kernels/6.1" groups="kernel" />
   <project name="device/google/akita-sepolicy" />
   <project name="device/google/atv" />
   <project name="device/google/barbet" />
@@ -54,6 +55,7 @@
   <project name="device/google/bluejay" />
   <project name="device/google/bluejay-kernel" groups="kernel" />
   <project name="device/google/bluejay-kernels/5.10" groups="kernel" />
+  <project name="device/google/bluejay-kernels/6.1" groups="kernel" />
   <project name="device/google/bluejay-sepolicy" />
   <project name="device/google/bonito" />
   <project name="device/google/bonito-kernel" groups="kernel" />
@@ -86,6 +88,7 @@
   <project name="device/google/felix" />
   <project name="device/google/felix-kernel" groups="kernel" />
   <project name="device/google/felix-kernels/5.10" groups="kernel" />
+  <project name="device/google/felix-kernels/6.1" groups="kernel" />
   <project name="device/google/felix-sepolicy" />
   <project name="device/google/fuchsia" />
   <project name="device/google/gs-common" />
@@ -96,6 +99,7 @@
   <project name="device/google/lynx" />
   <project name="device/google/lynx-kernel" groups="kernel" />
   <project name="device/google/lynx-kernels/5.10" groups="kernel" />
+  <project name="device/google/lynx-kernels/6.1" groups="kernel" />
   <project name="device/google/lynx-sepolicy" />
   <project name="device/google/marlin" />
   <project name="device/google/marlin-kernel" groups="kernel" />
@@ -103,10 +107,12 @@
   <project name="device/google/pantah" />
   <project name="device/google/pantah-kernel" groups="kernel" />
   <project name="device/google/pantah-kernels/5.10" groups="kernel" />
+  <project name="device/google/pantah-kernels/6.1" groups="kernel" />
   <project name="device/google/pantah-sepolicy" />
   <project name="device/google/raviole" />
   <project name="device/google/raviole-kernel" groups="kernel" />
   <project name="device/google/raviole-kernels/5.10" groups="kernel" />
+  <project name="device/google/raviole-kernels/6.1" groups="kernel" />
   <project name="device/google/redbull" />
   <project name="device/google/redbull-kernel" groups="kernel" />
   <project name="device/google/redbull-sepolicy" />
@@ -116,6 +122,7 @@
   <project name="device/google/shusky" />
   <project name="device/google/shusky-kernel" groups="kernel" />
   <project name="device/google/shusky-kernels/5.15" groups="kernel" />
+  <project name="device/google/shusky-kernels/6.1" groups="kernel" />
   <project name="device/google/shusky-sepolicy" />
   <project name="device/google/sunfish" />
   <project name="device/google/sunfish-kernel" groups="kernel" />
@@ -124,6 +131,7 @@
   <project name="device/google/tangorpro" />
   <project name="device/google/tangorpro-kernel" groups="kernel" />
   <project name="device/google/tangorpro-kernels/5.10" groups="kernel" />
+  <project name="device/google/tangorpro-kernels/6.1" groups="kernel" />
   <project name="device/google/tangorpro-sepolicy" />
   <project name="device/google/trout" />
   <project name="device/google/vrservices" />
@@ -1829,6 +1837,7 @@
   <project name="platform/packages/apps/Car/Provision" />
   <project name="platform/packages/apps/Car/Radio" />
   <project name="platform/packages/apps/Car/RadioPrebuilt" />
+  <project name="platform/packages/apps/Car/References" />
   <project name="platform/packages/apps/Car/RotaryController" />
   <project name="platform/packages/apps/Car/Settings" />
   <project name="platform/packages/apps/Car/SettingsIntelligence" />
@@ -2185,6 +2194,7 @@
   <project name="platform/prebuilts/module_sdk/Scheduling" />
   <project name="platform/prebuilts/module_sdk/SdkExtensions" />
   <project name="platform/prebuilts/module_sdk/StatsD" />
+  <project name="platform/prebuilts/module_sdk/UprobeStats" />
   <project name="platform/prebuilts/module_sdk/Uwb" />
   <project name="platform/prebuilts/module_sdk/Wifi" />
   <project name="platform/prebuilts/module_sdk/art" />
@@ -2341,6 +2351,7 @@
   <project name="platform/tools/base" />
   <project name="platform/tools/build" />
   <project name="platform/tools/buildSrc" />
+  <project name="platform/tools/camera" />
   <project name="platform/tools/carrier_settings" />
   <project name="platform/tools/content_addressed_storage/prebuilts" />
   <project name="platform/tools/currysrc" />
