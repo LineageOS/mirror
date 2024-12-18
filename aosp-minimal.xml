@@ -487,6 +487,7 @@
   <project name="platform/external/checkpolicy" />
   <project name="platform/external/chromite" />
   <project name="platform/external/chromium" />
+  <project name="platform/external/chromium-crossbench" />
   <project name="platform/external/chromium-libpac" />
   <project name="platform/external/chromium-trace" />
   <project name="platform/external/chromium-webview" groups="chromium" />
@@ -2247,6 +2248,7 @@
   <project name="platform/system/connectivity/wificond" />
   <project name="platform/system/connectivity/wifilogd" />
   <project name="platform/system/core" />
+  <project name="platform/system/cros-codecs" />
   <project name="platform/system/dmesgd" />
   <project name="platform/system/extras" />
   <project name="platform/system/firewalld" />
