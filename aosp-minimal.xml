@@ -330,6 +330,8 @@
   <project name="kernel/prebuilts/5.4/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/6.1/arm64" groups="kernel" />
   <project name="kernel/prebuilts/6.1/x86-64" groups="kernel" />
+  <project name="kernel/prebuilts/6.12/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/6.12/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/6.6/arm64" groups="kernel" />
   <project name="kernel/prebuilts/6.6/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/build-tools" groups="kernel" />
@@ -344,6 +346,8 @@
   <project name="kernel/prebuilts/common-modules/virtual-device/5.4/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.1/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.1/x86-64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/6.12/arm64" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/virtual-device/6.12/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.6/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/6.6/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/mainline/arm64" groups="kernel" />
@@ -461,6 +465,7 @@
   <project name="platform/external/bazelbuild-rules_pkg" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazelbuild-rules_python" />
   <project name="platform/external/bazelbuild-rules_rust" />
+  <project name="platform/external/bazelbuild-rules_shell" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazelbuild-rules_testing" />
   <project name="platform/external/bc" />
   <project name="platform/external/bcc" />
