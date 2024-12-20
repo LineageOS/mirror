@@ -614,6 +614,7 @@
   <project name="LineageOS/android_system_bpf" />
   <project name="LineageOS/android_system_bt" />
   <project name="LineageOS/android_system_ca-certificates" />
+  <project name="LineageOS/android_system_chre" />
   <project name="LineageOS/android_system_connectivity_wificond" />
   <project name="LineageOS/android_system_core" />
   <project name="LineageOS/android_system_extras" />
