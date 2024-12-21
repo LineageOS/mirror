@@ -745,6 +745,8 @@
   <project name="LineageOS/android_device_realme_oscar" />
   <project name="LineageOS/android_device_realme_sm6375-common" />
   <project name="LineageOS/android_device_sample" />
+  <project name="LineageOS/android_device_samsung_a21s" />
+  <project name="LineageOS/android_device_samsung_a21s-common" />
   <project name="LineageOS/android_device_samsung_a3xelte" />
   <project name="LineageOS/android_device_samsung_a51" />
   <project name="LineageOS/android_device_samsung_a52q" />
@@ -2248,6 +2250,7 @@
   <project name="LineageOS/android_kernel_samsung_exynos5410" />
   <project name="LineageOS/android_kernel_samsung_exynos5420" />
   <project name="LineageOS/android_kernel_samsung_exynos7420" />
+  <project name="LineageOS/android_kernel_samsung_exynos850" />
   <project name="LineageOS/android_kernel_samsung_exynos9810" />
   <project name="LineageOS/android_kernel_samsung_exynos9820" />
   <project name="LineageOS/android_kernel_samsung_galaxytab-cdma" />
