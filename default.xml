@@ -606,6 +606,7 @@
   <project name="LineageOS/android_device_motorola_titan" />
   <project name="LineageOS/android_device_motorola_triumph" />
   <project name="LineageOS/android_device_motorola_troika" />
+  <project name="LineageOS/android_device_motorola_tundra" />
   <project name="LineageOS/android_device_motorola_umts_spyder" />
   <project name="LineageOS/android_device_motorola_vanquish-common" />
   <project name="LineageOS/android_device_motorola_victara" />
