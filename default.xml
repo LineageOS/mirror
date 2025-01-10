@@ -738,6 +738,8 @@
   <project name="LineageOS/android_device_qcom_sepolicy_vndr" />
   <project name="LineageOS/android_device_radxa_radxa0" />
   <project name="LineageOS/android_device_radxa_radxa02" />
+  <project name="LineageOS/android_device_radxa_radxa02_car" />
+  <project name="LineageOS/android_device_radxa_radxa02_tab" />
   <project name="LineageOS/android_device_radxa_radxa02pro" />
   <project name="LineageOS/android_device_radxa_radxa0_car" />
   <project name="LineageOS/android_device_radxa_radxa0_tab" />
