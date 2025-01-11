@@ -709,6 +709,7 @@
   <project name="platform/external/jackson-core" />
   <project name="platform/external/jackson-databind" />
   <project name="platform/external/jacoco" />
+  <project name="platform/external/jakarta.inject" />
   <project name="platform/external/jarjar" />
   <project name="platform/external/javaparser" />
   <project name="platform/external/javapoet" />
@@ -744,6 +745,7 @@
   <project name="platform/external/kernel-headers" />
   <project name="platform/external/kmod" />
   <project name="platform/external/kotlin-compose-compiler" />
+  <project name="platform/external/kotlin.metadata" />
   <project name="platform/external/kotlinc" />
   <project name="platform/external/kotlinpoet" />
   <project name="platform/external/kotlinx.atomicfu" />
