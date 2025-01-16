@@ -689,6 +689,7 @@
   <project name="LineageOS/android_device_oneplus_fajita" />
   <project name="LineageOS/android_device_oneplus_guacamole" />
   <project name="LineageOS/android_device_oneplus_guacamoleb" />
+  <project name="LineageOS/android_device_oneplus_gunnar" />
   <project name="LineageOS/android_device_oneplus_hotdog" />
   <project name="LineageOS/android_device_oneplus_hotdogb" />
   <project name="LineageOS/android_device_oneplus_instantnoodle" />
