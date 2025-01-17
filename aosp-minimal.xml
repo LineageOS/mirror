@@ -2280,6 +2280,7 @@
   <project name="platform/system/librustutils" />
   <project name="platform/system/libsysprop" />
   <project name="platform/system/libufdt" />
+  <project name="platform/system/liburingutils" />
   <project name="platform/system/libvintf" />
   <project name="platform/system/libziparchive" />
   <project name="platform/system/linkerconfig" />
