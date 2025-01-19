@@ -506,6 +506,7 @@
   <project name="LineageOS/android_device_motorola_asanti" />
   <project name="LineageOS/android_device_motorola_athene" />
   <project name="LineageOS/android_device_motorola_backflip" />
+  <project name="LineageOS/android_device_motorola_bangkk" />
   <project name="LineageOS/android_device_motorola_beckham" />
   <project name="LineageOS/android_device_motorola_berlin" />
   <project name="LineageOS/android_device_motorola_berlna" />
@@ -528,6 +529,7 @@
   <project name="LineageOS/android_device_motorola_evert" />
   <project name="LineageOS/android_device_motorola_exynos9610-common" />
   <project name="LineageOS/android_device_motorola_falcon" />
+  <project name="LineageOS/android_device_motorola_fogos" />
   <project name="LineageOS/android_device_motorola_ghost" />
   <project name="LineageOS/android_device_motorola_griffin" />
   <project name="LineageOS/android_device_motorola_guam" />
@@ -590,6 +592,7 @@
   <project name="LineageOS/android_device_motorola_sholes" />
   <project name="LineageOS/android_device_motorola_sm6150-common" />
   <project name="LineageOS/android_device_motorola_sm6225-common" />
+  <project name="LineageOS/android_device_motorola_sm6375-common" />
   <project name="LineageOS/android_device_motorola_sm7250-common" />
   <project name="LineageOS/android_device_motorola_sm7325-common" />
   <project name="LineageOS/android_device_motorola_sm8250-common" />
@@ -2122,6 +2125,7 @@
   <project name="LineageOS/android_kernel_motorola_sdm632" />
   <project name="LineageOS/android_kernel_motorola_sm6150" />
   <project name="LineageOS/android_kernel_motorola_sm6225" />
+  <project name="LineageOS/android_kernel_motorola_sm6375" />
   <project name="LineageOS/android_kernel_motorola_sm7250" />
   <project name="LineageOS/android_kernel_motorola_sm7325" />
   <project name="LineageOS/android_kernel_motorola_sm8250" />
