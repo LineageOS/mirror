@@ -550,6 +550,7 @@
   <project name="LineageOS/android_device_motorola_mb886" />
   <project name="LineageOS/android_device_motorola_merlin" />
   <project name="LineageOS/android_device_motorola_messi" />
+  <project name="LineageOS/android_device_motorola_miami" />
   <project name="LineageOS/android_device_motorola_montana" />
   <project name="LineageOS/android_device_motorola_morrison" />
   <project name="LineageOS/android_device_motorola_moto_msm8960" />
@@ -584,6 +585,7 @@
   <project name="LineageOS/android_device_motorola_racer" />
   <project name="LineageOS/android_device_motorola_rhannah" />
   <project name="LineageOS/android_device_motorola_rhode" />
+  <project name="LineageOS/android_device_motorola_rhodep" />
   <project name="LineageOS/android_device_motorola_river" />
   <project name="LineageOS/android_device_motorola_rtwo" />
   <project name="LineageOS/android_device_motorola_sdm632-common" />
