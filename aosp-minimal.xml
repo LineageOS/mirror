@@ -336,6 +336,7 @@
   <project name="kernel/prebuilts/6.6/arm64" groups="kernel" />
   <project name="kernel/prebuilts/6.6/x86-64" groups="kernel" />
   <project name="kernel/prebuilts/build-tools" groups="kernel" />
+  <project name="kernel/prebuilts/common-modules/trusty/6.12/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/trusty/6.6/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/arm64" groups="kernel" />
   <project name="kernel/prebuilts/common-modules/virtual-device/4.19/x86-64" groups="kernel" />
