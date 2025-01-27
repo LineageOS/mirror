@@ -1940,6 +1940,7 @@
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos7880" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos8890" />
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" />
+  <project name="LineageOS/android_hardware_samsung_slsi-linaro_camera" />
   <project name="LineageOS/android_hardware_samsung_slsi-linaro_codec2" />
   <project name="LineageOS/android_hardware_samsung_slsi-linaro_config" />
   <project name="LineageOS/android_hardware_samsung_slsi-linaro_exynos" />
