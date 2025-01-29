@@ -392,6 +392,7 @@
   <project name="LineageOS/android_device_lge_e975" />
   <project name="LineageOS/android_device_lge_e980" />
   <project name="LineageOS/android_device_lge_f400" />
+  <project name="LineageOS/android_device_lge_flashlmdd" />
   <project name="LineageOS/android_device_lge_g2-common" />
   <project name="LineageOS/android_device_lge_g2m" />
   <project name="LineageOS/android_device_lge_g3-common" />
@@ -710,12 +711,14 @@
   <project name="LineageOS/android_device_oneplus_oneplus3" />
   <project name="LineageOS/android_device_oneplus_onyx" />
   <project name="LineageOS/android_device_oneplus_oscaro" />
+  <project name="LineageOS/android_device_oneplus_ovaltine" />
   <project name="LineageOS/android_device_oneplus_salami" />
   <project name="LineageOS/android_device_oneplus_sdm845-common" />
   <project name="LineageOS/android_device_oneplus_sm6375-common" />
   <project name="LineageOS/android_device_oneplus_sm8150-common" />
   <project name="LineageOS/android_device_oneplus_sm8250-common" />
   <project name="LineageOS/android_device_oneplus_sm8350-common" />
+  <project name="LineageOS/android_device_oneplus_sm8450-common" />
   <project name="LineageOS/android_device_oneplus_sm8550-common" />
   <project name="LineageOS/android_device_oppo_OP4A7A" />
   <project name="LineageOS/android_device_oppo_apq8064-common" />
@@ -2220,6 +2223,9 @@
   <project name="LineageOS/android_kernel_oneplus_sm8150" />
   <project name="LineageOS/android_kernel_oneplus_sm8250" />
   <project name="LineageOS/android_kernel_oneplus_sm8350" />
+  <project name="LineageOS/android_kernel_oneplus_sm8450" />
+  <project name="LineageOS/android_kernel_oneplus_sm8450-devicetrees" />
+  <project name="LineageOS/android_kernel_oneplus_sm8450-modules" />
   <project name="LineageOS/android_kernel_oneplus_sm8550" />
   <project name="LineageOS/android_kernel_oneplus_sm8550-devicetrees" />
   <project name="LineageOS/android_kernel_oneplus_sm8550-modules" />
