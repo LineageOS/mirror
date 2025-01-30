@@ -668,6 +668,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar" />
+  <project name="LineageOS/android_vendor_qcom_opensource_audioreach-graphservices" />
   <project name="LineageOS/android_vendor_qcom_opensource_bluetooth" />
   <project name="LineageOS/android_vendor_qcom_opensource_bluetooth-commonsys-intf" />
   <project name="LineageOS/android_vendor_qcom_opensource_bluetooth_ext" />
