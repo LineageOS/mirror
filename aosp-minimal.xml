@@ -890,6 +890,7 @@
   <project name="platform/external/modp_b64" />
   <project name="platform/external/moshi" />
   <project name="platform/external/mp4parser" />
+  <project name="platform/external/mpdecimal" />
   <project name="platform/external/ms-tpm-20-ref" />
   <project name="platform/external/mtools" />
   <project name="platform/external/mtpd" />
