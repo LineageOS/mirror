@@ -1164,6 +1164,7 @@
   <project name="platform/external/rust/crates/epoll" />
   <project name="platform/external/rust/crates/equivalent" />
   <project name="platform/external/rust/crates/errno" />
+  <project name="platform/external/rust/crates/etherparse" />
   <project name="platform/external/rust/crates/fallible-iterator" />
   <project name="platform/external/rust/crates/fallible-streaming-iterator" />
   <project name="platform/external/rust/crates/fastrand" />
@@ -1235,6 +1236,7 @@
   <project name="platform/external/rust/crates/libm" />
   <project name="platform/external/rust/crates/libsqlite3-sys" />
   <project name="platform/external/rust/crates/libtest-mimic" />
+  <project name="platform/external/rust/crates/libusb1-sys" />
   <project name="platform/external/rust/crates/libz-sys" />
   <project name="platform/external/rust/crates/linked-hash-map" />
   <project name="platform/external/rust/crates/linkme" />
@@ -1318,6 +1320,7 @@
   <project name="platform/external/rust/crates/plotters" />
   <project name="platform/external/rust/crates/plotters-backend" />
   <project name="platform/external/rust/crates/plotters-svg" />
+  <project name="platform/external/rust/crates/poll_token_derive" />
   <project name="platform/external/rust/crates/ppv-lite86" />
   <project name="platform/external/rust/crates/predicates" />
   <project name="platform/external/rust/crates/predicates-core" />
@@ -1334,6 +1337,8 @@
   <project name="platform/external/rust/crates/protobuf-parse" />
   <project name="platform/external/rust/crates/protobuf-support" />
   <project name="platform/external/rust/crates/psci" />
+  <project name="platform/external/rust/crates/ptr_meta" />
+  <project name="platform/external/rust/crates/ptr_meta_derive" />
   <project name="platform/external/rust/crates/quiche" />
   <project name="platform/external/rust/crates/quickcheck" />
   <project name="platform/external/rust/crates/quote" />
@@ -1350,6 +1355,7 @@
   <project name="platform/external/rust/crates/remove_dir_all" />
   <project name="platform/external/rust/crates/ring" />
   <project name="platform/external/rust/crates/ron" />
+  <project name="platform/external/rust/crates/rusb" />
   <project name="platform/external/rust/crates/rusqlite" />
   <project name="platform/external/rust/crates/rust-stemmers" />
   <project name="platform/external/rust/crates/rustc-demangle" />
@@ -1414,6 +1420,7 @@
   <project name="platform/external/rust/crates/tokio" />
   <project name="platform/external/rust/crates/tokio-io-timeout" />
   <project name="platform/external/rust/crates/tokio-macros" />
+  <project name="platform/external/rust/crates/tokio-openssl" />
   <project name="platform/external/rust/crates/tokio-stream" />
   <project name="platform/external/rust/crates/tokio-test" />
   <project name="platform/external/rust/crates/tokio-util" />
@@ -1432,6 +1439,11 @@
   <project name="platform/external/rust/crates/tungstenite" />
   <project name="platform/external/rust/crates/twox-hash" />
   <project name="platform/external/rust/crates/ucd-trie" />
+  <project name="platform/external/rust/crates/ucs2" />
+  <project name="platform/external/rust/crates/uefi" />
+  <project name="platform/external/rust/crates/uefi-macros" />
+  <project name="platform/external/rust/crates/uefi-raw" />
+  <project name="platform/external/rust/crates/uguid" />
   <project name="platform/external/rust/crates/unicode-bidi" />
   <project name="platform/external/rust/crates/unicode-ident" />
   <project name="platform/external/rust/crates/unicode-normalization" />
@@ -1891,6 +1903,7 @@
   <project name="platform/packages/apps/ManagedProvisioning" />
   <project name="platform/packages/apps/Messaging" />
   <project name="platform/packages/apps/Mms" />
+  <project name="platform/packages/apps/Multiuser" />
   <project name="platform/packages/apps/Music" />
   <project name="platform/packages/apps/MusicFX" />
   <project name="platform/packages/apps/Nfc" />
