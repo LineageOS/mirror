@@ -864,7 +864,10 @@
   <project name="LineageOS/android_device_samsung_gts4lv-common" />
   <project name="LineageOS/android_device_samsung_gts4lv_car" />
   <project name="LineageOS/android_device_samsung_gts4lvwifi" />
+  <project name="LineageOS/android_device_samsung_gts7l" />
   <project name="LineageOS/android_device_samsung_gts7lwifi" />
+  <project name="LineageOS/android_device_samsung_gts7xl" />
+  <project name="LineageOS/android_device_samsung_gts7xlwifi" />
   <project name="LineageOS/android_device_samsung_h3gduoschn" />
   <project name="LineageOS/android_device_samsung_ha3g" />
   <project name="LineageOS/android_device_samsung_hercules" />
