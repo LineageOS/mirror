@@ -691,6 +691,7 @@
   <project name="platform/external/horologist" />
   <project name="platform/external/hyphenation" />
   <project name="platform/external/hyphenation-patterns" />
+  <project name="platform/external/iamf_tools" />
   <project name="platform/external/icing" />
   <project name="platform/external/icu" />
   <project name="platform/external/icu4c" />
