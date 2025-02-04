@@ -2474,6 +2474,7 @@
   <project name="trusty/app/storage" />
   <project name="trusty/device/arm/generic-arm64" />
   <project name="trusty/device/arm/vexpress-a15" />
+  <project name="trusty/device/common" />
   <project name="trusty/device/desktop" />
   <project name="trusty/device/nxp/imx7d" />
   <project name="trusty/device/x86/generic-x86_64" />
