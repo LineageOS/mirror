@@ -1960,6 +1960,7 @@
   <project name="LineageOS/android_hardware_samsung_slsi-linaro_graphics" />
   <project name="LineageOS/android_hardware_samsung_slsi-linaro_interfaces" />
   <project name="LineageOS/android_hardware_samsung_slsi-linaro_openmax" />
+  <project name="LineageOS/android_hardware_samsung_slsi-linaro_strongswan" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5" />
   <project name="LineageOS/android_hardware_samsung_slsi_exynos5-insignal" />
