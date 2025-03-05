@@ -535,6 +535,7 @@
   <project name="platform/external/chromium_org/tools/grit" />
   <project name="platform/external/chromium_org/tools/gyp" />
   <project name="platform/external/chromium_org/v8" />
+  <project name="platform/external/chromiumos-config" />
   <project name="platform/external/cibu-fonts" />
   <project name="platform/external/clang" />
   <project name="platform/external/cldr" />
@@ -616,6 +617,7 @@
   <project name="platform/external/fec" />
   <project name="platform/external/federated-compute" />
   <project name="platform/external/fft2d" />
+  <project name="platform/external/fhir/spec/r4" />
   <project name="platform/external/fio" />
   <project name="platform/external/firebase-messaging" />
   <project name="platform/external/flac" />
@@ -1219,6 +1221,8 @@
   <project name="platform/external/rust/crates/indexmap" />
   <project name="platform/external/rust/crates/inflector" />
   <project name="platform/external/rust/crates/ini" />
+  <project name="platform/external/rust/crates/inotify" />
+  <project name="platform/external/rust/crates/inotify-sys" />
   <project name="platform/external/rust/crates/instant" />
   <project name="platform/external/rust/crates/intrusive-collections" />
   <project name="platform/external/rust/crates/itertools" />
@@ -1249,6 +1253,7 @@
   <project name="platform/external/rust/crates/lz4_flex" />
   <project name="platform/external/rust/crates/macaddr" />
   <project name="platform/external/rust/crates/managed" />
+  <project name="platform/external/rust/crates/maplit" />
   <project name="platform/external/rust/crates/matches" />
   <project name="platform/external/rust/crates/matchit" />
   <project name="platform/external/rust/crates/maybe-async" />
@@ -1559,6 +1564,7 @@
   <project name="platform/external/timezone-boundary-builder" />
   <project name="platform/external/timezonepicker-support" />
   <project name="platform/external/tink" />
+  <project name="platform/external/tink-java" />
   <project name="platform/external/tinyalsa" />
   <project name="platform/external/tinyalsa_new" />
   <project name="platform/external/tinycompress" />
@@ -1838,10 +1844,12 @@
   <project name="platform/packages/apps/Car/CalendarPrebuilt" />
   <project name="platform/packages/apps/Car/Cluster" />
   <project name="platform/packages/apps/Car/CompanionDeviceSupport" />
+  <project name="platform/packages/apps/Car/Dashcam" />
   <project name="platform/packages/apps/Car/DataSubscriptionReference" />
   <project name="platform/packages/apps/Car/DebuggingRestrictionController" />
   <project name="platform/packages/apps/Car/Dialer" />
   <project name="platform/packages/apps/Car/DialerPrebuilt" />
+  <project name="platform/packages/apps/Car/DriverUI" />
   <project name="platform/packages/apps/Car/DriverUIPrebuilt" />
   <project name="platform/packages/apps/Car/Hvac" />
   <project name="platform/packages/apps/Car/LatinIME" />
@@ -1860,6 +1868,7 @@
   <project name="platform/packages/apps/Car/RadioPrebuilt" />
   <project name="platform/packages/apps/Car/References" />
   <project name="platform/packages/apps/Car/RotaryController" />
+  <project name="platform/packages/apps/Car/RotaryImePrebuilt" />
   <project name="platform/packages/apps/Car/Settings" />
   <project name="platform/packages/apps/Car/SettingsIntelligence" />
   <project name="platform/packages/apps/Car/Stream" />
@@ -2315,6 +2324,7 @@
   <project name="platform/system/nfc" />
   <project name="platform/system/nvram" />
   <project name="platform/system/secretkeeper" />
+  <project name="platform/system/secure_element" />
   <project name="platform/system/security" />
   <project name="platform/system/see/authmgr" />
   <project name="platform/system/sepolicy" />
@@ -2456,7 +2466,7 @@
   <project name="toolchain/prebuilts/ndk/r19" />
   <project name="toolchain/prebuilts/ndk/r20" />
   <project name="toolchain/prebuilts/ndk/r23" groups="kernel-extra,notdefault" />
-  <project name="toolchain/prebuilts/ndk/r26" groups="kernel-extra,notdefault" />
+  <project name="toolchain/prebuilts/ndk/r26" />
   <project name="toolchain/python" />
   <project name="toolchain/sed" />
   <project name="toolchain/xz" />
