@@ -1625,6 +1625,7 @@
   <project name="LineageOS/android_external_pcre" />
   <project name="LineageOS/android_external_pdfium" />
   <project name="LineageOS/android_external_perfetto" />
+  <project name="LineageOS/android_external_pigweed" />
   <project name="LineageOS/android_external_pigz" />
   <project name="LineageOS/android_external_ping" />
   <project name="LineageOS/android_external_ping6" />
