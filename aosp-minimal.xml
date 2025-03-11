@@ -1588,6 +1588,7 @@
   <project name="platform/external/universal-tween-engine" />
   <project name="platform/external/usrsctp" />
   <project name="platform/external/uwb" />
+  <project name="platform/external/v4l-utils" />
   <project name="platform/external/v4l2_codec2" />
   <project name="platform/external/v8" />
   <project name="platform/external/valgrind" />
@@ -1720,6 +1721,7 @@
   <project name="platform/hardware/google/apf" />
   <project name="platform/hardware/google/av" />
   <project name="platform/hardware/google/camera" />
+  <project name="platform/hardware/google/display/common" />
   <project name="platform/hardware/google/easel" />
   <project name="platform/hardware/google/gchips" />
   <project name="platform/hardware/google/gfxstream" />
