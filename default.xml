@@ -1238,6 +1238,7 @@
   <project name="LineageOS/android_device_xiaomi_kenzo" />
   <project name="LineageOS/android_device_xiaomi_lancelot" />
   <project name="LineageOS/android_device_xiaomi_land" />
+  <project name="LineageOS/android_device_xiaomi_laurel_sprout" />
   <project name="LineageOS/android_device_xiaomi_lavender" />
   <project name="LineageOS/android_device_xiaomi_libra" />
   <project name="LineageOS/android_device_xiaomi_lisa" />
