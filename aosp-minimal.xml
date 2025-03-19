@@ -2349,6 +2349,7 @@
   <project name="platform/system/weaved" />
   <project name="platform/system/webservd" />
   <project name="platform/system/wlan/ti" />
+  <project name="platform/system/zygote" />
   <project name="platform/test/AfwTestHarness" />
   <project name="platform/test/app_compat/csuite" />
   <project name="platform/test/catbox" />
