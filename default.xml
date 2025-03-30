@@ -530,6 +530,7 @@
   <project name="LineageOS/android_device_motorola_evert" />
   <project name="LineageOS/android_device_motorola_exynos9610-common" />
   <project name="LineageOS/android_device_motorola_falcon" />
+  <project name="LineageOS/android_device_motorola_fogo" />
   <project name="LineageOS/android_device_motorola_fogos" />
   <project name="LineageOS/android_device_motorola_ghost" />
   <project name="LineageOS/android_device_motorola_griffin" />
