@@ -1053,6 +1053,7 @@
   <project name="platform/external/r8" />
   <project name="platform/external/rapidjson" />
   <project name="platform/external/rappor" />
+  <project name="platform/external/redhat-developer/lsp4ij" />
   <project name="platform/external/regex-re2" />
   <project name="platform/external/renderscript-intrinsics-replacement-toolkit" />
   <project name="platform/external/replicaisland" />
