@@ -849,6 +849,9 @@
   <project name="LineageOS/android_device_samsung_gta4lwifi" />
   <project name="LineageOS/android_device_samsung_gta4xl" />
   <project name="LineageOS/android_device_samsung_gta4xl-common" />
+  <project name="LineageOS/android_device_samsung_gta4xls" />
+  <project name="LineageOS/android_device_samsung_gta4xls-common" />
+  <project name="LineageOS/android_device_samsung_gta4xlswifi" />
   <project name="LineageOS/android_device_samsung_gta4xlwifi" />
   <project name="LineageOS/android_device_samsung_gte-common" />
   <project name="LineageOS/android_device_samsung_gtelwifiue" />
@@ -2301,6 +2304,7 @@
   <project name="LineageOS/android_kernel_samsung_exynos9820" />
   <project name="LineageOS/android_kernel_samsung_galaxytab-cdma" />
   <project name="LineageOS/android_kernel_samsung_gta4xl" />
+  <project name="LineageOS/android_kernel_samsung_gta4xls" />
   <project name="LineageOS/android_kernel_samsung_gts2" />
   <project name="LineageOS/android_kernel_samsung_hlte" />
   <project name="LineageOS/android_kernel_samsung_jf" />
