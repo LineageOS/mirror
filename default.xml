@@ -633,6 +633,7 @@
   <project name="LineageOS/android_device_nintendo_icosa" />
   <project name="LineageOS/android_device_nintendo_nx" />
   <project name="LineageOS/android_device_nintendo_nx_tab" />
+  <project name="LineageOS/android_device_nokia_B2N" />
   <project name="LineageOS/android_device_nokia_DRG" />
   <project name="LineageOS/android_device_nokia_NB1" />
   <project name="LineageOS/android_device_nokia_NLA" />
