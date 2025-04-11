@@ -212,6 +212,7 @@
   <project name="kernel/devices/google/seluna" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/shusky" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/tangorpro" groups="kernel-extra,notdefault" />
+  <project name="kernel/devices/google/tegu" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/zuma" groups="kernel-extra,notdefault" />
   <project name="kernel/devices/google/zumapro" groups="kernel-extra,notdefault" />
   <project name="kernel/exynos" groups="kernel-extra,notdefault" />
@@ -229,6 +230,7 @@
   <project name="kernel/google-modules/display" path="kernel/google-modules/display.git" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/display/common" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/display/panels/caimito" groups="kernel-extra,notdefault" />
+  <project name="kernel/google-modules/display/panels/tegu" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/display/samsung" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/display/watch/mcu-offload" groups="kernel-extra,notdefault" />
   <project name="kernel/google-modules/edgetpu" path="kernel/google-modules/edgetpu.git" groups="kernel-extra,notdefault" />
