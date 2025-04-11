@@ -133,6 +133,9 @@
   <project name="device/google/tangorpro-kernels/5.10" groups="kernel" />
   <project name="device/google/tangorpro-kernels/6.1" groups="kernel" />
   <project name="device/google/tangorpro-sepolicy" />
+  <project name="device/google/tegu" />
+  <project name="device/google/tegu-kernels/6.1" groups="kernel" />
+  <project name="device/google/tegu-sepolicy" />
   <project name="device/google/trout" />
   <project name="device/google/vrservices" />
   <project name="device/google/wahoo" />
