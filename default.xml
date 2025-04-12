@@ -513,6 +513,7 @@
   <project name="LineageOS/android_device_motorola_berlna" />
   <project name="LineageOS/android_device_motorola_borneo" />
   <project name="LineageOS/android_device_motorola_bronco" />
+  <project name="LineageOS/android_device_motorola_capri" />
   <project name="LineageOS/android_device_motorola_caprip" />
   <project name="LineageOS/android_device_motorola_cebu" />
   <project name="LineageOS/android_device_motorola_cedric" />
