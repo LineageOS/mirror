@@ -679,6 +679,7 @@
   <project name="platform/external/googletest" />
   <project name="platform/external/gptfdisk" />
   <project name="platform/external/gradle-perf-android-medium" />
+  <project name="platform/external/gradle-profiler" />
   <project name="platform/external/grpc-grpc" />
   <project name="platform/external/grpc-grpc-java" />
   <project name="platform/external/grub" />
