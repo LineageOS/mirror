@@ -489,6 +489,8 @@
   <project name="LineageOS/android_device_lineage_atv" />
   <project name="LineageOS/android_device_lineage_car" />
   <project name="LineageOS/android_device_lineage_sepolicy" />
+  <project name="LineageOS/android_device_mainline_common" />
+  <project name="LineageOS/android_device_mainline_qcom-common" />
   <project name="LineageOS/android_device_malata_smb-common" />
   <project name="LineageOS/android_device_malata_smb_a1002" />
   <project name="LineageOS/android_device_malata_smb_a1004" />
@@ -744,6 +746,7 @@
   <project name="LineageOS/android_device_oppo_r7sf" />
   <project name="LineageOS/android_device_osom_ingot" />
   <project name="LineageOS/android_device_pantech_presto" />
+  <project name="LineageOS/android_device_pc_basic_x86_64_pc" />
   <project name="LineageOS/android_device_qcom_common" />
   <project name="LineageOS/android_device_qcom_msm8916_64" />
   <project name="LineageOS/android_device_qcom_msm8996" />
@@ -1259,6 +1262,8 @@
   <project name="LineageOS/android_device_xiaomi_mars" />
   <project name="LineageOS/android_device_xiaomi_mayfly" />
   <project name="LineageOS/android_device_xiaomi_merlinx" />
+  <project name="LineageOS/android_device_xiaomi_mi7150-mainline" />
+  <project name="LineageOS/android_device_xiaomi_mi89xx-mainline" />
   <project name="LineageOS/android_device_xiaomi_miatoll" />
   <project name="LineageOS/android_device_xiaomi_mido" />
   <project name="LineageOS/android_device_xiaomi_mithorium-common" />
@@ -1589,8 +1594,10 @@
   <project name="LineageOS/android_external_libxslt" />
   <project name="LineageOS/android_external_libyuv" />
   <project name="LineageOS/android_external_lineage-sdk-api-coverage" />
+  <project name="LineageOS/android_external_linux-firmware-mainline" />
   <project name="LineageOS/android_external_linux-tools-perf" />
   <project name="LineageOS/android_external_littlemock" />
+  <project name="LineageOS/android_external_lk2nd" />
   <project name="LineageOS/android_external_lldb" />
   <project name="LineageOS/android_external_llvm" />
   <project name="LineageOS/android_external_lohit-fonts" />
@@ -1843,6 +1850,7 @@
   <project name="LineageOS/android_hardware_lineage_lineagehw" />
   <project name="LineageOS/android_hardware_lineage_livedisplay" />
   <project name="LineageOS/android_hardware_lineage_telephony" />
+  <project name="LineageOS/android_hardware_mainline" />
   <project name="LineageOS/android_hardware_mediatek" />
   <project name="LineageOS/android_hardware_motorola" />
   <project name="LineageOS/android_hardware_msm7k" />
@@ -2130,6 +2138,7 @@
   <project name="LineageOS/android_kernel_lge_v4xx" />
   <project name="LineageOS/android_kernel_lge_v500" />
   <project name="LineageOS/android_kernel_lge_v909" />
+  <project name="LineageOS/android_kernel_mainline_configs" />
   <project name="LineageOS/android_kernel_mediatek_sprout" />
   <project name="LineageOS/android_kernel_moto_shamu" />
   <project name="LineageOS/android_kernel_motorola_apq8084" />
