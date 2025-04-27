@@ -2636,6 +2636,7 @@
   <project name="LineageOS/android_packages_services_CMStatusBarManagerService" />
   <project name="LineageOS/android_packages_services_CMTelephonyService" />
   <project name="LineageOS/android_packages_services_Car" />
+  <project name="LineageOS/android_packages_services_DeviceAsWebcam" />
   <project name="LineageOS/android_packages_services_LineageAudioService" />
   <project name="LineageOS/android_packages_services_LiveLockScreenService" />
   <project name="LineageOS/android_packages_services_Mms" />
