@@ -578,6 +578,7 @@
   <project name="LineageOS/android_packages_services_BuiltInPrintService" />
   <project name="LineageOS/android_packages_services_CMAudioService" />
   <project name="LineageOS/android_packages_services_Car" />
+  <project name="LineageOS/android_packages_services_DeviceAsWebcam" />
   <project name="LineageOS/android_packages_services_LiveLockScreenService" />
   <project name="LineageOS/android_packages_services_Mms" />
   <project name="LineageOS/android_packages_services_Telecomm" />
