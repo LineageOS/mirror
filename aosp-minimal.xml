@@ -444,6 +444,7 @@
   <project name="platform/external/apache-xml" />
   <project name="platform/external/archive-patcher" />
   <project name="platform/external/arduino" />
+  <project name="platform/external/argp-standalone" groups="kernel-extra,notdefault" />
   <project name="platform/external/arm-neon-tests" />
   <project name="platform/external/arm-optimized-routines" />
   <project name="platform/external/arm-trusted-firmware" />
