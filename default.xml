@@ -694,6 +694,7 @@
   <project name="LineageOS/android_device_oneplus_billie2" />
   <project name="LineageOS/android_device_oneplus_cheeseburger" />
   <project name="LineageOS/android_device_oneplus_common" />
+  <project name="LineageOS/android_device_oneplus_dodge" />
   <project name="LineageOS/android_device_oneplus_dre" />
   <project name="LineageOS/android_device_oneplus_dumpling" />
   <project name="LineageOS/android_device_oneplus_enchilada" />
@@ -726,6 +727,7 @@
   <project name="LineageOS/android_device_oneplus_sm8450-common" />
   <project name="LineageOS/android_device_oneplus_sm8550-common" />
   <project name="LineageOS/android_device_oneplus_sm8650-common" />
+  <project name="LineageOS/android_device_oneplus_sm8750-common" />
   <project name="LineageOS/android_device_oneplus_waffle" />
   <project name="LineageOS/android_device_oppo_OP4A7A" />
   <project name="LineageOS/android_device_oppo_apq8064-common" />
