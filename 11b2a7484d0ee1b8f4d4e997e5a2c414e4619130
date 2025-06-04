@@ -33,6 +33,23 @@
       "message": "They would get added back at the next refresh anyway.",
       "revId": "11b2a7484d0ee1b8f4d4e997e5a2c414e4619130",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6df6ba89_c5fef424",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2025-06-04T06:29:28Z",
+      "side": 1,
+      "message": "(Also, evidently, some branches are actually cloning these if they are listed in aosp-minimal.)",
+      "revId": "11b2a7484d0ee1b8f4d4e997e5a2c414e4619130",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
