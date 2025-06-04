@@ -26,12 +26,8 @@
   <project name="device/generic/goldfish" />
   <project name="device/generic/goldfish-opengl" />
   <project name="device/generic/lionhead" />
-  <project name="device/generic/mini-emulator-arm64" />
-  <project name="device/generic/mini-emulator-armv7-a-neon" />
   <project name="device/generic/mini-emulator-mips" groups="mips" />
   <project name="device/generic/mini-emulator-mips64" groups="mips" />
-  <project name="device/generic/mini-emulator-x86" />
-  <project name="device/generic/mini-emulator-x86_64" />
   <project name="device/generic/mips" groups="mips" />
   <project name="device/generic/mips64" groups="mips" />
   <project name="device/generic/opengl-transport" />
