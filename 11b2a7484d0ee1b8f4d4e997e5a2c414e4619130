@@ -16,6 +16,23 @@
       "message": "mirror is for replicating everything, no matter how useful it is",
       "revId": "11b2a7484d0ee1b8f4d4e997e5a2c414e4619130",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5f9b6c6d_24e1c4f2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2025-06-04T06:28:13Z",
+      "side": 1,
+      "message": "They would get added back at the next refresh anyway.",
+      "revId": "11b2a7484d0ee1b8f4d4e997e5a2c414e4619130",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
