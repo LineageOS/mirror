@@ -825,6 +825,7 @@
   <project name="platform/external/libopus" />
   <project name="platform/external/libpalmrejection" />
   <project name="platform/external/libpcap" />
+  <project name="platform/external/libpciaccess" />
   <project name="platform/external/libphonenumber" />
   <project name="platform/external/libpng" />
   <project name="platform/external/libppp" />
@@ -889,6 +890,7 @@
   <project name="platform/external/minigbm" />
   <project name="platform/external/minijail" />
   <project name="platform/external/mksh" />
+  <project name="platform/external/ml_dtypes" />
   <project name="platform/external/mmc-utils" />
   <project name="platform/external/mobile-data-download" />
   <project name="platform/external/mobly-bundled-snippets" />
@@ -1594,6 +1596,7 @@
   <project name="platform/external/ukey2" />
   <project name="platform/external/unicode" />
   <project name="platform/external/universal-tween-engine" />
+  <project name="platform/external/usb-ids" />
   <project name="platform/external/usrsctp" />
   <project name="platform/external/uwb" />
   <project name="platform/external/v4l-utils" />
@@ -1932,6 +1935,7 @@
   <project name="platform/packages/apps/PackageInstaller" />
   <project name="platform/packages/apps/Phone" />
   <project name="platform/packages/apps/PhoneCommon" />
+  <project name="platform/packages/apps/PrivateSpace" />
   <project name="platform/packages/apps/Protips" />
   <project name="platform/packages/apps/Provision" />
   <project name="platform/packages/apps/QuickAccessWallet" />
@@ -2019,6 +2023,7 @@
   <project name="platform/packages/modules/Wifi" />
   <project name="platform/packages/modules/adb" />
   <project name="platform/packages/modules/common" />
+  <project name="platform/packages/modules/desktop/Serviceability" />
   <project name="platform/packages/modules/vndk" />
   <project name="platform/packages/providers/ApplicationsProvider" />
   <project name="platform/packages/providers/BlockedNumberProvider" />
