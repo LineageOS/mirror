@@ -218,6 +218,7 @@
   <project name="LineageOS/android_device_google_sunfish" />
   <project name="LineageOS/android_device_google_taimen" />
   <project name="LineageOS/android_device_google_tangorpro" />
+  <project name="LineageOS/android_device_google_tegu" />
   <project name="LineageOS/android_device_google_tokay" />
   <project name="LineageOS/android_device_google_wahoo" />
   <project name="LineageOS/android_device_google_walleye" />
@@ -1243,6 +1244,7 @@
   <project name="LineageOS/android_device_xiaomi_earth" />
   <project name="LineageOS/android_device_xiaomi_equuleus" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
+  <project name="LineageOS/android_device_xiaomi_fuxi" />
   <project name="LineageOS/android_device_xiaomi_gauguin" />
   <project name="LineageOS/android_device_xiaomi_gemini" />
   <project name="LineageOS/android_device_xiaomi_ginkgo" />
@@ -1307,6 +1309,7 @@
   <project name="LineageOS/android_device_xiaomi_sm8250-common" />
   <project name="LineageOS/android_device_xiaomi_sm8350-common" />
   <project name="LineageOS/android_device_xiaomi_sm8450-common" />
+  <project name="LineageOS/android_device_xiaomi_sm8550-common" />
   <project name="LineageOS/android_device_xiaomi_socrates" />
   <project name="LineageOS/android_device_xiaomi_surya" />
   <project name="LineageOS/android_device_xiaomi_sweet" />
@@ -1319,6 +1322,7 @@
   <project name="LineageOS/android_device_xiaomi_ursa" />
   <project name="LineageOS/android_device_xiaomi_vayu" />
   <project name="LineageOS/android_device_xiaomi_vela" />
+  <project name="LineageOS/android_device_xiaomi_venus" />
   <project name="LineageOS/android_device_xiaomi_vince" />
   <project name="LineageOS/android_device_xiaomi_violet" />
   <project name="LineageOS/android_device_xiaomi_wayne" />
@@ -2603,6 +2607,7 @@
   <project name="LineageOS/android_packages_modules_IntentResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
+  <project name="LineageOS/android_packages_modules_Nfc" />
   <project name="LineageOS/android_packages_modules_Permission" />
   <project name="LineageOS/android_packages_modules_StatsD" />
   <project name="LineageOS/android_packages_modules_Virtualization" />
