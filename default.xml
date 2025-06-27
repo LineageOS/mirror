@@ -461,6 +461,7 @@
   <project name="LineageOS/android_device_lge_sdm845-common" />
   <project name="LineageOS/android_device_lge_sm8150-common" />
   <project name="LineageOS/android_device_lge_star-common" />
+  <project name="LineageOS/android_device_lge_style3lm" />
   <project name="LineageOS/android_device_lge_su640" />
   <project name="LineageOS/android_device_lge_thunderc" />
   <project name="LineageOS/android_device_lge_thunderg" />
