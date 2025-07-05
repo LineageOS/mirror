@@ -2781,6 +2781,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_agm" />
   <project name="LineageOS/android_vendor_qcom_opensource_arpal-lx" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio" />
+  <project name="LineageOS/android_vendor_qcom_opensource_audio-commonsys-intf" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal" />
   <project name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar" />
   <project name="LineageOS/android_vendor_qcom_opensource_audioreach-graphservices" />
@@ -2796,7 +2797,9 @@
   <project name="LineageOS/android_vendor_qcom_opensource_display" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-commonsys" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-commonsys-intf" />
+  <project name="LineageOS/android_vendor_qcom_opensource_display-core" />
   <project name="LineageOS/android_vendor_qcom_opensource_display-frameworks" />
+  <project name="LineageOS/android_vendor_qcom_opensource_display-intf" />
   <project name="LineageOS/android_vendor_qcom_opensource_dpm" />
   <project name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" />
   <project name="LineageOS/android_vendor_qcom_opensource_healthd-ext" />
