@@ -646,6 +646,7 @@
   <project name="LineageOS/android_device_nokia_PL2" />
   <project name="LineageOS/android_device_nokia_msm8998-common" />
   <project name="LineageOS/android_device_nokia_sdm660-common" />
+  <project name="LineageOS/android_device_nothing_Pong" />
   <project name="LineageOS/android_device_nothing_Spacewar" />
   <project name="LineageOS/android_device_nubia_TP1803" />
   <project name="LineageOS/android_device_nubia_msm8998-common" />
@@ -2186,6 +2187,9 @@
   <project name="LineageOS/android_kernel_nokia_msm8998" />
   <project name="LineageOS/android_kernel_nokia_sdm660" />
   <project name="LineageOS/android_kernel_nothing_sm7325" />
+  <project name="LineageOS/android_kernel_nothing_sm8475" />
+  <project name="LineageOS/android_kernel_nothing_sm8475-devicetrees" />
+  <project name="LineageOS/android_kernel_nothing_sm8475-modules" />
   <project name="LineageOS/android_kernel_nubia_msm8939" />
   <project name="LineageOS/android_kernel_nubia_msm8996" />
   <project name="LineageOS/android_kernel_nubia_msm8998" />
