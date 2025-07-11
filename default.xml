@@ -1285,6 +1285,7 @@
   <project name="LineageOS/android_device_xiaomi_mt6785-common" />
   <project name="LineageOS/android_device_xiaomi_munch" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
+  <project name="LineageOS/android_device_xiaomi_nuwa" />
   <project name="LineageOS/android_device_xiaomi_onclite" />
   <project name="LineageOS/android_device_xiaomi_perseus" />
   <project name="LineageOS/android_device_xiaomi_phoenix" />
