@@ -1345,6 +1345,7 @@
   <project name="LineageOS/android_device_yu_tomato" />
   <project name="LineageOS/android_device_yuhua_x2" />
   <project name="LineageOS/android_device_zte_V8000" />
+  <project name="LineageOS/android_device_zte_akershus" />
   <project name="LineageOS/android_device_zte_axon7" />
   <project name="LineageOS/android_device_zte_blade" />
   <project name="LineageOS/android_device_zte_jasmine" />
@@ -2456,6 +2457,7 @@
   <project name="LineageOS/android_kernel_zte_msm8952" />
   <project name="LineageOS/android_kernel_zte_msm8994" />
   <project name="LineageOS/android_kernel_zte_msm8996" />
+  <project name="LineageOS/android_kernel_zte_sdm845" />
   <project name="LineageOS/android_kernel_zuk_msm8996" />
   <project name="LineageOS/android_libcore" />
   <project name="LineageOS/android_libnativehelper" />
