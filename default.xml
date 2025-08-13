@@ -560,6 +560,7 @@
   <project name="LineageOS/android_device_motorola_merlin" />
   <project name="LineageOS/android_device_motorola_messi" />
   <project name="LineageOS/android_device_motorola_miami" />
+  <project name="LineageOS/android_device_motorola_milanf" />
   <project name="LineageOS/android_device_motorola_montana" />
   <project name="LineageOS/android_device_motorola_morrison" />
   <project name="LineageOS/android_device_motorola_moto_msm8960" />
