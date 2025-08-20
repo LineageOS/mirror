@@ -170,6 +170,8 @@
   <project name="LineageOS/android_device_google_accessory_demokit" />
   <project name="LineageOS/android_device_google_akita" />
   <project name="LineageOS/android_device_google_atv" />
+  <project name="LineageOS/android_device_google_baracus" />
+  <project name="LineageOS/android_device_google_baracus_tab" />
   <project name="LineageOS/android_device_google_barbet" />
   <project name="LineageOS/android_device_google_beast" />
   <project name="LineageOS/android_device_google_bluejay" />
@@ -1872,6 +1874,7 @@
   <project name="LineageOS/android_hardware_nintendo_u-boot" />
   <project name="LineageOS/android_hardware_nothing" />
   <project name="LineageOS/android_hardware_nubia" />
+  <project name="LineageOS/android_hardware_nvidia_arm-trusted-firmware" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_boot_control" />
   <project name="LineageOS/android_hardware_nvidia_hdmi-cec" />
@@ -1921,6 +1924,7 @@
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
   <project name="LineageOS/android_hardware_nvidia_tegra_nv-public" />
   <project name="LineageOS/android_hardware_nvidia_thermal" />
+  <project name="LineageOS/android_hardware_nvidia_u-boot" />
   <project name="LineageOS/android_hardware_nxp_nfc" />
   <project name="LineageOS/android_hardware_oneplus" />
   <project name="LineageOS/android_hardware_oplus" />
