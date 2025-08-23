@@ -530,6 +530,7 @@
   <project name="LineageOS/android_device_motorola_clark" />
   <project name="LineageOS/android_device_motorola_common" />
   <project name="LineageOS/android_device_motorola_condor" />
+  <project name="LineageOS/android_device_motorola_denver" />
   <project name="LineageOS/android_device_motorola_devon" />
   <project name="LineageOS/android_device_motorola_droid2" />
   <project name="LineageOS/android_device_motorola_droid2we" />
