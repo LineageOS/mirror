@@ -590,6 +590,7 @@
   <project name="LineageOS/android_device_motorola_otus" />
   <project name="LineageOS/android_device_motorola_parker" />
   <project name="LineageOS/android_device_motorola_payton" />
+  <project name="LineageOS/android_device_motorola_penang" />
   <project name="LineageOS/android_device_motorola_peregrine" />
   <project name="LineageOS/android_device_motorola_potter" />
   <project name="LineageOS/android_device_motorola_pstar" />
