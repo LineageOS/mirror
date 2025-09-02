@@ -1326,6 +1326,7 @@
   <project name="LineageOS/android_device_xiaomi_thor" />
   <project name="LineageOS/android_device_xiaomi_thyme" />
   <project name="LineageOS/android_device_xiaomi_tissot" />
+  <project name="LineageOS/android_device_xiaomi_tucana" />
   <project name="LineageOS/android_device_xiaomi_twolip" />
   <project name="LineageOS/android_device_xiaomi_umi" />
   <project name="LineageOS/android_device_xiaomi_unicorn" />
