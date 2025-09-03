@@ -2621,6 +2621,7 @@
   <project name="LineageOS/android_packages_inputmethods_PinyinIME" />
   <project name="LineageOS/android_packages_modules_Bluetooth" />
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
+  <project name="LineageOS/android_packages_modules_CellBroadcastService" />
   <project name="LineageOS/android_packages_modules_Connectivity" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_IntentResolver" />
@@ -2629,6 +2630,7 @@
   <project name="LineageOS/android_packages_modules_Nfc" />
   <project name="LineageOS/android_packages_modules_Permission" />
   <project name="LineageOS/android_packages_modules_StatsD" />
+  <project name="LineageOS/android_packages_modules_UprobeStats" />
   <project name="LineageOS/android_packages_modules_Virtualization" />
   <project name="LineageOS/android_packages_modules_Wifi" />
   <project name="LineageOS/android_packages_modules_adb" />
