@@ -592,6 +592,7 @@
   <project name="LineageOS/android_device_motorola_payton" />
   <project name="LineageOS/android_device_motorola_penang" />
   <project name="LineageOS/android_device_motorola_peregrine" />
+  <project name="LineageOS/android_device_motorola_pnangn" />
   <project name="LineageOS/android_device_motorola_potter" />
   <project name="LineageOS/android_device_motorola_pstar" />
   <project name="LineageOS/android_device_motorola_qcom-common" />
