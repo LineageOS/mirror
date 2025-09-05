@@ -553,6 +553,7 @@
   <project name="LineageOS/android_packages_modules_Nfc" />
   <project name="LineageOS/android_packages_modules_Permission" />
   <project name="LineageOS/android_packages_modules_StatsD" />
+  <project name="LineageOS/android_packages_modules_UprobeStats" />
   <project name="LineageOS/android_packages_modules_Virtualization" />
   <project name="LineageOS/android_packages_modules_Wifi" />
   <project name="LineageOS/android_packages_modules_adb" />
