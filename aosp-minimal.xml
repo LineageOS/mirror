@@ -460,6 +460,7 @@
   <project name="platform/external/bart" />
   <project name="platform/external/bazel-contrib-bazel_features" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazel-contrib-rules_devicetree" groups="kernel-extra,notdefault" />
+  <project name="platform/external/bazel-contrib-supply-chain" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazel-skylib" />
   <project name="platform/external/bazelbuild-apple_support" groups="kernel-extra,notdefault" />
   <project name="platform/external/bazelbuild-bazel-central-registry" groups="kernel-extra,notdefault" />
@@ -900,6 +901,7 @@
   <project name="platform/external/mockito" />
   <project name="platform/external/mockito-kotlin" />
   <project name="platform/external/mockwebserver" />
+  <project name="platform/external/modelcontextprotocol/kotlin-sdk" />
   <project name="platform/external/modp_b64" />
   <project name="platform/external/moshi" />
   <project name="platform/external/mp4parser" />
@@ -2421,6 +2423,7 @@
   <project name="platform/tools/external_updater" />
   <project name="platform/tools/google_prebuilts/studio/sdk/remote" />
   <project name="platform/tools/gpu" />
+  <project name="platform/tools/gpu-profiler/idea" />
   <project name="platform/tools/gradle" />
   <project name="platform/tools/gradle-recipes" />
   <project name="platform/tools/idea" />
