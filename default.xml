@@ -152,6 +152,7 @@
   <project name="LineageOS/android_device_fairphone_FP3" />
   <project name="LineageOS/android_device_fairphone_FP4" />
   <project name="LineageOS/android_device_fairphone_FP5" />
+  <project name="LineageOS/android_device_freebox_nicepool" />
   <project name="LineageOS/android_device_fxtec_pro1" />
   <project name="LineageOS/android_device_fxtec_pro1x" />
   <project name="LineageOS/android_device_geeksphone_one" />
@@ -709,6 +710,7 @@
   <project name="LineageOS/android_device_oneplus_dre" />
   <project name="LineageOS/android_device_oneplus_dumpling" />
   <project name="LineageOS/android_device_oneplus_enchilada" />
+  <project name="LineageOS/android_device_oneplus_erhai" />
   <project name="LineageOS/android_device_oneplus_fajita" />
   <project name="LineageOS/android_device_oneplus_guacamole" />
   <project name="LineageOS/android_device_oneplus_guacamoleb" />
@@ -2289,6 +2291,9 @@
   <project name="LineageOS/android_kernel_oneplus_sm8650" />
   <project name="LineageOS/android_kernel_oneplus_sm8650-devicetrees" />
   <project name="LineageOS/android_kernel_oneplus_sm8650-modules" />
+  <project name="LineageOS/android_kernel_oneplus_sm8750" />
+  <project name="LineageOS/android_kernel_oneplus_sm8750-devicetrees" />
+  <project name="LineageOS/android_kernel_oneplus_sm8750-modules" />
   <project name="LineageOS/android_kernel_oppo_find5" />
   <project name="LineageOS/android_kernel_oppo_msm8226" />
   <project name="LineageOS/android_kernel_oppo_msm8939" />
@@ -2320,6 +2325,9 @@
   <project name="LineageOS/android_kernel_qcom_sm8650" />
   <project name="LineageOS/android_kernel_qcom_sm8650-devicetrees" />
   <project name="LineageOS/android_kernel_qcom_sm8650-modules" />
+  <project name="LineageOS/android_kernel_qcom_sm8750" />
+  <project name="LineageOS/android_kernel_qcom_sm8750-devicetrees" />
+  <project name="LineageOS/android_kernel_qcom_sm8750-modules" />
   <project name="LineageOS/android_kernel_razer_msm8998" />
   <project name="LineageOS/android_kernel_razer_sdm845" />
   <project name="LineageOS/android_kernel_realme_sdm660" />
