@@ -700,8 +700,10 @@
   <project name="LineageOS/android_device_nvidia_t234-common" />
   <project name="LineageOS/android_device_nvidia_tegra-common" />
   <project name="LineageOS/android_device_nvidia_touch" />
+  <project name="LineageOS/android_device_oneplus_aston" />
   <project name="LineageOS/android_device_oneplus_avicii" />
   <project name="LineageOS/android_device_oneplus_bacon" />
+  <project name="LineageOS/android_device_oneplus_benz" />
   <project name="LineageOS/android_device_oneplus_billie" />
   <project name="LineageOS/android_device_oneplus_billie2" />
   <project name="LineageOS/android_device_oneplus_cheeseburger" />
