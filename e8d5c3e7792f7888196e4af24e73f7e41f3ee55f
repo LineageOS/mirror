@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "53399304_1581a6d3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15734
+      },
+      "writtenOn": "2025-09-21T04:29:23Z",
+      "side": 1,
+      "message": "Thanks for fixing this up, not sure what happened there. Logs don\u0027t show anything interesting other than that files suddenly went missing while creating the commit.",
+      "revId": "e8d5c3e7792f7888196e4af24e73f7e41f3ee55f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
