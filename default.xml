@@ -1796,6 +1796,7 @@
   <project name="LineageOS/android_frameworks_opt_timezonepicker" />
   <project name="LineageOS/android_frameworks_opt_vcard" />
   <project name="LineageOS/android_frameworks_policies_base" />
+  <project name="LineageOS/android_frameworks_proto_logging" />
   <project name="LineageOS/android_frameworks_rs" />
   <project name="LineageOS/android_frameworks_support" />
   <project name="LineageOS/android_frameworks_testing" />
