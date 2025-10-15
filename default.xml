@@ -1097,6 +1097,7 @@
   <project name="LineageOS/android_device_samsung_universal8890-common" />
   <project name="LineageOS/android_device_samsung_universal9611-common" />
   <project name="LineageOS/android_device_samsung_universal9810-common" />
+  <project name="LineageOS/android_device_samsung_universal9830-common" />
   <project name="LineageOS/android_device_samsung_v1awifi" />
   <project name="LineageOS/android_device_samsung_v2awifi" />
   <project name="LineageOS/android_device_samsung_v2wifixx" />
@@ -1104,9 +1105,12 @@
   <project name="LineageOS/android_device_samsung_vibrantmtd" />
   <project name="LineageOS/android_device_samsung_vzwtab" />
   <project name="LineageOS/android_device_samsung_x1q" />
+  <project name="LineageOS/android_device_samsung_x1s" />
   <project name="LineageOS/android_device_samsung_y2q" />
+  <project name="LineageOS/android_device_samsung_y2s" />
   <project name="LineageOS/android_device_samsung_ypg1" />
   <project name="LineageOS/android_device_samsung_z3q" />
+  <project name="LineageOS/android_device_samsung_z3s" />
   <project name="LineageOS/android_device_samsung_zenlte" />
   <project name="LineageOS/android_device_samsung_zero-common" />
   <project name="LineageOS/android_device_samsung_zerofltecan" />
@@ -2402,6 +2406,7 @@
   <project name="LineageOS/android_kernel_samsung_universal8890" />
   <project name="LineageOS/android_kernel_samsung_universal9611" />
   <project name="LineageOS/android_kernel_samsung_universal9810" />
+  <project name="LineageOS/android_kernel_samsung_universal9830" />
   <project name="LineageOS/android_kernel_samsung_v2wifixx" />
   <project name="LineageOS/android_kernel_samsung_victory" />
   <project name="LineageOS/android_kernel_samsung_zenltexx" />
