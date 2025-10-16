@@ -1346,6 +1346,7 @@
   <project name="LineageOS/android_device_xiaomi_vayu" />
   <project name="LineageOS/android_device_xiaomi_vela" />
   <project name="LineageOS/android_device_xiaomi_venus" />
+  <project name="LineageOS/android_device_xiaomi_vermeer" />
   <project name="LineageOS/android_device_xiaomi_vince" />
   <project name="LineageOS/android_device_xiaomi_violet" />
   <project name="LineageOS/android_device_xiaomi_wayne" />
