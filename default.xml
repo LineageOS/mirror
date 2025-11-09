@@ -1492,6 +1492,7 @@
   <project name="LineageOS/android_external_doclava" />
   <project name="LineageOS/android_external_dosfstools" />
   <project name="LineageOS/android_external_drm" />
+  <project name="LineageOS/android_external_drm_hwcomposer-upstream" />
   <project name="LineageOS/android_external_dropbear" />
   <project name="LineageOS/android_external_dtc" />
   <project name="LineageOS/android_external_e2fsprogs" />
@@ -1592,6 +1593,7 @@
   <project name="LineageOS/android_external_libcups" />
   <project name="LineageOS/android_external_libcxx" />
   <project name="LineageOS/android_external_libcxxabi" />
+  <project name="LineageOS/android_external_libdisplay-info-upstream" />
   <project name="LineageOS/android_external_libdrm" />
   <project name="LineageOS/android_external_libedit" />
   <project name="LineageOS/android_external_libevdev" />
