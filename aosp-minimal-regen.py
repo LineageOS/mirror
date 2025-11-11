@@ -102,8 +102,12 @@ kernel_manifest = get_git_repo(
 
 # Get all the refs
 platform_refs = [
+    # All the tags...
     tag for tag in sorted(platform_manifest.git.tag(l=True).splitlines())
-]  # All the tags...
+] + [
+    # All the release branches...
+    ref.name for ref in platform_manifest.remote().refs if re.match(r"origin/android\d+(-(qpr\d+|s\d+|security))?-release", ref.name)
+]
 platform_refs.append("origin/main")  # ...and main
 kernel_refs = [
     ref.name for ref in kernel_manifest.refs
