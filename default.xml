@@ -1539,6 +1539,7 @@
   <project name="LineageOS/android_external_google-fonts_coming-soon" />
   <project name="LineageOS/android_external_google-fonts_cutive-mono" />
   <project name="LineageOS/android_external_google-fonts_dancing-script" />
+  <project name="LineageOS/android_external_google-fonts_google-sans-flex" />
   <project name="LineageOS/android_external_google-tv-pairing-protocol" />
   <project name="LineageOS/android_external_gptfdisk" />
   <project name="LineageOS/android_external_grub" />
