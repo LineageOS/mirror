@@ -2294,6 +2294,7 @@
   <project name="platform/prebuilts/renderscript/host/windows-x86" groups="windows" />
   <project name="platform/prebuilts/runtime" />
   <project name="platform/prebuilts/rust" />
+  <project name="platform/prebuilts/rust-toolchain/linux-x86" groups="kernel-extra,notdefault" />
   <project name="platform/prebuilts/sdk" />
   <project name="platform/prebuilts/simpleperf" />
   <project name="platform/prebuilts/studio/jdk" />
