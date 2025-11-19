@@ -1902,6 +1902,7 @@
   <project name="platform/packages/apps/Car/MediaPrebuilt" />
   <project name="platform/packages/apps/Car/Messenger" />
   <project name="platform/packages/apps/Car/MessengerPrebuilt" />
+  <project name="platform/packages/apps/Car/MultiDisplay" />
   <project name="platform/packages/apps/Car/Notification" />
   <project name="platform/packages/apps/Car/Overview" />
   <project name="platform/packages/apps/Car/Provision" />
@@ -1910,6 +1911,7 @@
   <project name="platform/packages/apps/Car/References" />
   <project name="platform/packages/apps/Car/RotaryController" />
   <project name="platform/packages/apps/Car/RotaryImePrebuilt" />
+  <project name="platform/packages/apps/Car/SensitiveAppLock" />
   <project name="platform/packages/apps/Car/Settings" />
   <project name="platform/packages/apps/Car/SettingsIntelligence" />
   <project name="platform/packages/apps/Car/Stream" />
