@@ -479,6 +479,7 @@
   <project name="LineageOS/android_device_lge_su640" />
   <project name="LineageOS/android_device_lge_thunderc" />
   <project name="LineageOS/android_device_lge_thunderg" />
+  <project name="LineageOS/android_device_lge_timelm" />
   <project name="LineageOS/android_device_lge_us996" />
   <project name="LineageOS/android_device_lge_us996d" />
   <project name="LineageOS/android_device_lge_us997" />
@@ -1850,6 +1851,8 @@
   <project name="LineageOS/android_hardware_amlogic_usbctrl" />
   <project name="LineageOS/android_hardware_amlogic_wifi" />
   <project name="LineageOS/android_hardware_atheros_wlan" />
+  <project name="LineageOS/android_hardware_baylibre_audio" />
+  <project name="LineageOS/android_hardware_baylibre_hdmi" />
   <project name="LineageOS/android_hardware_broadcom_fm" />
   <project name="LineageOS/android_hardware_broadcom_libbt" />
   <project name="LineageOS/android_hardware_broadcom_nfc" />
@@ -2042,6 +2045,7 @@
   <project name="LineageOS/android_hardware_samsung_slsi_exynos7880" />
   <project name="LineageOS/android_hardware_samsung_slsi_fm" />
   <project name="LineageOS/android_hardware_samsung_slsi_libbt" />
+  <project name="LineageOS/android_hardware_samsung_slsi_nfc" />
   <project name="LineageOS/android_hardware_samsung_slsi_openmax" />
   <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" />
   <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" />
@@ -2188,6 +2192,7 @@
   <project name="LineageOS/android_kernel_lge_pplus" />
   <project name="LineageOS/android_kernel_lge_sdm845" />
   <project name="LineageOS/android_kernel_lge_sm8150" />
+  <project name="LineageOS/android_kernel_lge_sm8250" />
   <project name="LineageOS/android_kernel_lge_v4xx" />
   <project name="LineageOS/android_kernel_lge_v500" />
   <project name="LineageOS/android_kernel_lge_v909" />
