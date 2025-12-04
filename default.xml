@@ -526,6 +526,7 @@
   <project name="LineageOS/android_device_motorola_albus" />
   <project name="LineageOS/android_device_motorola_asanti" />
   <project name="LineageOS/android_device_motorola_athene" />
+  <project name="LineageOS/android_device_motorola_avatrn" />
   <project name="LineageOS/android_device_motorola_backflip" />
   <project name="LineageOS/android_device_motorola_bangkk" />
   <project name="LineageOS/android_device_motorola_bathena" />
@@ -625,6 +626,7 @@
   <project name="LineageOS/android_device_motorola_sm6375-common" />
   <project name="LineageOS/android_device_motorola_sm7250-common" />
   <project name="LineageOS/android_device_motorola_sm7325-common" />
+  <project name="LineageOS/android_device_motorola_sm7435-common" />
   <project name="LineageOS/android_device_motorola_sm8250-common" />
   <project name="LineageOS/android_device_motorola_sm8475-common" />
   <project name="LineageOS/android_device_motorola_sm8550-common" />
@@ -2224,6 +2226,9 @@
   <project name="LineageOS/android_kernel_motorola_sm6375" />
   <project name="LineageOS/android_kernel_motorola_sm7250" />
   <project name="LineageOS/android_kernel_motorola_sm7325" />
+  <project name="LineageOS/android_kernel_motorola_sm7435" />
+  <project name="LineageOS/android_kernel_motorola_sm7435-devicetrees" />
+  <project name="LineageOS/android_kernel_motorola_sm7435-modules" />
   <project name="LineageOS/android_kernel_motorola_sm8250" />
   <project name="LineageOS/android_kernel_motorola_sm8475" />
   <project name="LineageOS/android_kernel_motorola_sm8475-devicetrees" />
