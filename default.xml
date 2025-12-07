@@ -1661,6 +1661,7 @@
   <project name="LineageOS/android_external_mesa" />
   <project name="LineageOS/android_external_mesa3d" />
   <project name="LineageOS/android_external_messageformat" />
+  <project name="LineageOS/android_external_minigbm-upstream" />
   <project name="LineageOS/android_external_mksh" />
   <project name="LineageOS/android_external_mm-dash" />
   <project name="LineageOS/android_external_mockito" />
@@ -1904,6 +1905,8 @@
   <project name="LineageOS/android_hardware_lineage_livedisplay" />
   <project name="LineageOS/android_hardware_lineage_telephony" />
   <project name="LineageOS/android_hardware_mainline" />
+  <project name="LineageOS/android_hardware_mainline_common" />
+  <project name="LineageOS/android_hardware_mainline_qcom" />
   <project name="LineageOS/android_hardware_mediatek" />
   <project name="LineageOS/android_hardware_motorola" />
   <project name="LineageOS/android_hardware_msm7k" />
