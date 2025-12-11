@@ -1053,6 +1053,7 @@
   <project name="LineageOS/android_device_samsung_quincytmo" />
   <project name="LineageOS/android_device_samsung_r5q" />
   <project name="LineageOS/android_device_samsung_r8q" />
+  <project name="LineageOS/android_device_samsung_r8s" />
   <project name="LineageOS/android_device_samsung_r950" />
   <project name="LineageOS/android_device_samsung_s3ve3g" />
   <project name="LineageOS/android_device_samsung_s3ve3g-common" />
