@@ -1283,6 +1283,7 @@
   <project name="LineageOS/android_device_xiaomi_equuleus" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
   <project name="LineageOS/android_device_xiaomi_fuxi" />
+  <project name="LineageOS/android_device_xiaomi_garnet" />
   <project name="LineageOS/android_device_xiaomi_gauguin" />
   <project name="LineageOS/android_device_xiaomi_gemini" />
   <project name="LineageOS/android_device_xiaomi_ginkgo" />
@@ -2506,6 +2507,9 @@
   <project name="LineageOS/android_kernel_xiaomi_sm6150" />
   <project name="LineageOS/android_kernel_xiaomi_sm6250" />
   <project name="LineageOS/android_kernel_xiaomi_sm7250" />
+  <project name="LineageOS/android_kernel_xiaomi_sm7435" />
+  <project name="LineageOS/android_kernel_xiaomi_sm7435-devicetrees" />
+  <project name="LineageOS/android_kernel_xiaomi_sm7435-modules" />
   <project name="LineageOS/android_kernel_xiaomi_sm8150" />
   <project name="LineageOS/android_kernel_xiaomi_sm8250" />
   <project name="LineageOS/android_kernel_xiaomi_sm8350" />
