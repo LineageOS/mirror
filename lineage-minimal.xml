@@ -141,6 +141,7 @@
   <project name="LineageOS/android_external_gmock" />
   <project name="LineageOS/android_external_google" />
   <project name="LineageOS/android_external_google-diff-match-patch" />
+  <project name="LineageOS/android_external_google-fonts_google-sans-flex" />
   <project name="LineageOS/android_external_gptfdisk" />
   <project name="LineageOS/android_external_grub" />
   <project name="LineageOS/android_external_gson" />
