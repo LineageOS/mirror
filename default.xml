@@ -732,6 +732,8 @@
   <project name="LineageOS/android_device_oneplus_enchilada" />
   <project name="LineageOS/android_device_oneplus_erhai" />
   <project name="LineageOS/android_device_oneplus_fajita" />
+  <project name="LineageOS/android_device_oneplus_giulia" />
+  <project name="LineageOS/android_device_oneplus_giuliac" />
   <project name="LineageOS/android_device_oneplus_guacamole" />
   <project name="LineageOS/android_device_oneplus_guacamoleb" />
   <project name="LineageOS/android_device_oneplus_gunnar" />
@@ -744,6 +746,7 @@
   <project name="LineageOS/android_device_oneplus_lemonade" />
   <project name="LineageOS/android_device_oneplus_lemonadep" />
   <project name="LineageOS/android_device_oneplus_lemonades" />
+  <project name="LineageOS/android_device_oneplus_lexus" />
   <project name="LineageOS/android_device_oneplus_martini" />
   <project name="LineageOS/android_device_oneplus_msm8998-common" />
   <project name="LineageOS/android_device_oneplus_oneplus2" />
