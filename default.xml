@@ -766,6 +766,7 @@
   <project name="LineageOS/android_device_oneplus_sm8650-common" />
   <project name="LineageOS/android_device_oneplus_sm8750-common" />
   <project name="LineageOS/android_device_oneplus_waffle" />
+  <project name="LineageOS/android_device_oneplus_xueying" />
   <project name="LineageOS/android_device_oppo_OP4A7A" />
   <project name="LineageOS/android_device_oppo_apq8064-common" />
   <project name="LineageOS/android_device_oppo_common" />
