@@ -1208,6 +1208,8 @@
   <project name="LineageOS/android_device_sony_pdx206" />
   <project name="LineageOS/android_device_sony_pdx214" />
   <project name="LineageOS/android_device_sony_pdx215" />
+  <project name="LineageOS/android_device_sony_pdx223" />
+  <project name="LineageOS/android_device_sony_pdx224" />
   <project name="LineageOS/android_device_sony_pdx225" />
   <project name="LineageOS/android_device_sony_pdx234" />
   <project name="LineageOS/android_device_sony_pdx235" />
@@ -1228,6 +1230,7 @@
   <project name="LineageOS/android_device_sony_sm6375-common" />
   <project name="LineageOS/android_device_sony_sm8250-common" />
   <project name="LineageOS/android_device_sony_sm8350-common" />
+  <project name="LineageOS/android_device_sony_sm8450-common" />
   <project name="LineageOS/android_device_sony_sm8550-common" />
   <project name="LineageOS/android_device_sony_sumire" />
   <project name="LineageOS/android_device_sony_suzu" />
@@ -2476,6 +2479,9 @@
   <project name="LineageOS/android_kernel_sony_sm6375" />
   <project name="LineageOS/android_kernel_sony_sm8250" />
   <project name="LineageOS/android_kernel_sony_sm8350" />
+  <project name="LineageOS/android_kernel_sony_sm8450" />
+  <project name="LineageOS/android_kernel_sony_sm8450-devicetrees" />
+  <project name="LineageOS/android_kernel_sony_sm8450-modules" />
   <project name="LineageOS/android_kernel_sony_sm8550" />
   <project name="LineageOS/android_kernel_sony_sm8550-devicetrees" />
   <project name="LineageOS/android_kernel_sony_sm8550-modules" />
@@ -2589,6 +2595,7 @@
   <project name="LineageOS/android_packages_apps_Email" />
   <project name="LineageOS/android_packages_apps_EmergencyInfo" />
   <project name="LineageOS/android_packages_apps_Etar" />
+  <project name="LineageOS/android_packages_apps_EuiccPolicy" />
   <project name="LineageOS/android_packages_apps_ExactCalculator" />
   <project name="LineageOS/android_packages_apps_Exchange" />
   <project name="LineageOS/android_packages_apps_FM" />
