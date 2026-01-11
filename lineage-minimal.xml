@@ -479,6 +479,7 @@
   <project name="LineageOS/android_packages_apps_Email" />
   <project name="LineageOS/android_packages_apps_EmergencyInfo" />
   <project name="LineageOS/android_packages_apps_Etar" />
+  <project name="LineageOS/android_packages_apps_EuiccPolicy" />
   <project name="LineageOS/android_packages_apps_ExactCalculator" />
   <project name="LineageOS/android_packages_apps_Exchange" />
   <project name="LineageOS/android_packages_apps_FMRadio" />
