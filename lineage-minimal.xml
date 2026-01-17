@@ -37,6 +37,7 @@
   <project name="LineageOS/android_device_google_accessory_arduino" />
   <project name="LineageOS/android_device_google_accessory_demokit" />
   <project name="LineageOS/android_device_google_atv" />
+  <project name="LineageOS/android_device_google_car" />
   <project name="LineageOS/android_device_google_contexthub" />
   <project name="LineageOS/android_device_lineage_atv" />
   <project name="LineageOS/android_device_lineage_car" />
