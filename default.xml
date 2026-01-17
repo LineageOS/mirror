@@ -184,6 +184,7 @@
   <project name="LineageOS/android_device_google_caiman" />
   <project name="LineageOS/android_device_google_caimito" />
   <project name="LineageOS/android_device_google_caimito-kernels" />
+  <project name="LineageOS/android_device_google_car" />
   <project name="LineageOS/android_device_google_cheetah" />
   <project name="LineageOS/android_device_google_comet" />
   <project name="LineageOS/android_device_google_comet-kernels" />
