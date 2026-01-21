@@ -193,6 +193,7 @@
   <project name="LineageOS/android_external_libgsm" />
   <project name="LineageOS/android_external_libhevc" />
   <project name="LineageOS/android_external_libjpeg-turbo" />
+  <project name="LineageOS/android_external_libjxl" />
   <project name="LineageOS/android_external_liblzf" />
   <project name="LineageOS/android_external_libmpeg2" />
   <project name="LineageOS/android_external_libmtp" />
