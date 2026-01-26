@@ -117,6 +117,9 @@
   <project name="LineageOS/android_device_asus_tf701t" />
   <project name="LineageOS/android_device_asus_tilapia" />
   <project name="LineageOS/android_device_asus_zenfone3" />
+  <project name="LineageOS/android_device_ayn_odin2_ack" />
+  <project name="LineageOS/android_device_ayn_odin2_tab_ack" />
+  <project name="LineageOS/android_device_ayn_qcs8550-ack" />
   <project name="LineageOS/android_device_bananapi_m5" />
   <project name="LineageOS/android_device_bananapi_m5_tab" />
   <project name="LineageOS/android_device_bn_acclaim" />
@@ -2123,6 +2126,10 @@
   <project name="LineageOS/android_kernel_asus_tf300t" />
   <project name="LineageOS/android_kernel_asus_tf700t" />
   <project name="LineageOS/android_kernel_asus_tf701t" />
+  <project name="LineageOS/android_kernel_ayn_kernel-ack" />
+  <project name="LineageOS/android_kernel_ayn_modules-ack" />
+  <project name="LineageOS/android_kernel_ayn_qcs8550-build-ack" />
+  <project name="LineageOS/android_kernel_ayn_qcs8550-devicetrees-ack" />
   <project name="LineageOS/android_kernel_bn_acclaim" />
   <project name="LineageOS/android_kernel_bn_encore" />
   <project name="LineageOS/android_kernel_bn_omap" />
