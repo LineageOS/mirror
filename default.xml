@@ -866,6 +866,7 @@
   <project name="LineageOS/android_device_samsung_d2vzw" />
   <project name="LineageOS/android_device_samsung_d2x" />
   <project name="LineageOS/android_device_samsung_d710" />
+  <project name="LineageOS/android_device_samsung_dm1q" />
   <project name="LineageOS/android_device_samsung_epic4g" />
   <project name="LineageOS/android_device_samsung_epicmtd" />
   <project name="LineageOS/android_device_samsung_espresso-common" />
@@ -1086,6 +1087,7 @@
   <project name="LineageOS/android_device_samsung_sm7325-common" />
   <project name="LineageOS/android_device_samsung_sm8150-common" />
   <project name="LineageOS/android_device_samsung_sm8250-common" />
+  <project name="LineageOS/android_device_samsung_sm8550-common" />
   <project name="LineageOS/android_device_samsung_smdk4412-common" />
   <project name="LineageOS/android_device_samsung_smdk4412-qcom-common" />
   <project name="LineageOS/android_device_samsung_smdk5260-common" />
@@ -2448,6 +2450,9 @@
   <project name="LineageOS/android_kernel_samsung_sm7125" />
   <project name="LineageOS/android_kernel_samsung_sm7325" />
   <project name="LineageOS/android_kernel_samsung_sm8250" />
+  <project name="LineageOS/android_kernel_samsung_sm8550" />
+  <project name="LineageOS/android_kernel_samsung_sm8550-devicetrees" />
+  <project name="LineageOS/android_kernel_samsung_sm8550-modules" />
   <project name="LineageOS/android_kernel_samsung_smdk4210" />
   <project name="LineageOS/android_kernel_samsung_smdk4412" />
   <project name="LineageOS/android_kernel_samsung_smdk5260" />
