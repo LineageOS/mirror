@@ -1988,6 +1988,7 @@
   <project name="LineageOS/android_hardware_nxp_nfc" />
   <project name="LineageOS/android_hardware_oneplus" />
   <project name="LineageOS/android_hardware_oplus" />
+  <project name="LineageOS/android_hardware_pixelworks_interfaces" />
   <project name="LineageOS/android_hardware_qcom-caf_common" />
   <project name="LineageOS/android_hardware_qcom_audio" />
   <project name="LineageOS/android_hardware_qcom_audio-ar" />
