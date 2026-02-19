@@ -195,6 +195,7 @@
   <project name="kernel/common-modules/binder" groups="kernel-extra,notdefault" />
   <project name="kernel/common-modules/trusty" groups="kernel-extra,notdefault" />
   <project name="kernel/common-modules/virtual-device" groups="kernel-extra,notdefault" />
+  <project name="kernel/common-modules/wonder" groups="kernel-extra,notdefault" />
   <project name="kernel/common-patches" groups="kernel-extra,notdefault" />
   <project name="kernel/configs" />
   <project name="kernel/devices/google/akita" groups="kernel-extra,notdefault" />
