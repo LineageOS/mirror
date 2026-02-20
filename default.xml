@@ -1879,6 +1879,7 @@
   <project name="LineageOS/android_hardware_amlogic_usbctrl" />
   <project name="LineageOS/android_hardware_amlogic_wifi" />
   <project name="LineageOS/android_hardware_atheros_wlan" />
+  <project name="LineageOS/android_hardware_ayn" />
   <project name="LineageOS/android_hardware_baylibre_audio" />
   <project name="LineageOS/android_hardware_baylibre_hdmi" />
   <project name="LineageOS/android_hardware_broadcom_fm" />
