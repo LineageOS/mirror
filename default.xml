@@ -1992,6 +1992,7 @@
   <project name="LineageOS/android_hardware_nvidia_thermal" />
   <project name="LineageOS/android_hardware_nvidia_u-boot" />
   <project name="LineageOS/android_hardware_nxp_nfc" />
+  <project name="LineageOS/android_hardware_nxp_uwb" />
   <project name="LineageOS/android_hardware_oneplus" />
   <project name="LineageOS/android_hardware_oplus" />
   <project name="LineageOS/android_hardware_pixelworks_interfaces" />
