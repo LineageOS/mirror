@@ -1327,6 +1327,7 @@
   <project name="LineageOS/android_device_xiaomi_mars" />
   <project name="LineageOS/android_device_xiaomi_mayfly" />
   <project name="LineageOS/android_device_xiaomi_merlinx" />
+  <project name="LineageOS/android_device_xiaomi_mi710-mainline" />
   <project name="LineageOS/android_device_xiaomi_mi7150-mainline" />
   <project name="LineageOS/android_device_xiaomi_mi89xx-mainline" />
   <project name="LineageOS/android_device_xiaomi_miatoll" />
@@ -1351,6 +1352,7 @@
   <project name="LineageOS/android_device_xiaomi_platina" />
   <project name="LineageOS/android_device_xiaomi_polaris" />
   <project name="LineageOS/android_device_xiaomi_pyxis" />
+  <project name="LineageOS/android_device_xiaomi_pyxis_mainline" />
   <project name="LineageOS/android_device_xiaomi_raphael" />
   <project name="LineageOS/android_device_xiaomi_renoir" />
   <project name="LineageOS/android_device_xiaomi_rosemary" />
