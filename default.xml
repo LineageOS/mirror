@@ -2733,6 +2733,7 @@
   <project name="LineageOS/android_packages_modules_StatsD" />
   <project name="LineageOS/android_packages_modules_UprobeStats" />
   <project name="LineageOS/android_packages_modules_Virtualization" />
+  <project name="LineageOS/android_packages_modules_Virtualization_old" />
   <project name="LineageOS/android_packages_modules_Wifi" />
   <project name="LineageOS/android_packages_modules_adb" />
   <project name="LineageOS/android_packages_modules_common" />
