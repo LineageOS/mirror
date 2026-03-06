@@ -77,6 +77,7 @@
   <project name="LineageOS/android_device_amlogic_ne-common" />
   <project name="LineageOS/android_device_amlogic_sepolicy" />
   <project name="LineageOS/android_device_amlogic_sm1-common" />
+  <project name="LineageOS/android_device_apple_snowcastle" />
   <project name="LineageOS/android_device_ark_msm8916-common" />
   <project name="LineageOS/android_device_ark_peach" />
   <project name="LineageOS/android_device_askey_deadpool" />
@@ -818,6 +819,7 @@
   <project name="LineageOS/android_device_realme_oscar" />
   <project name="LineageOS/android_device_realme_piloti" />
   <project name="LineageOS/android_device_realme_sm6375-common" />
+  <project name="LineageOS/android_device_retroidpocket_RP6" />
   <project name="LineageOS/android_device_sample" />
   <project name="LineageOS/android_device_samsung_a21s" />
   <project name="LineageOS/android_device_samsung_a21s-common" />
