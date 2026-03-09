@@ -2006,6 +2006,7 @@
   <project name="LineageOS/android_hardware_qcom_audio-ar" />
   <project name="LineageOS/android_hardware_qcom_audio-bfam" />
   <project name="LineageOS/android_hardware_qcom_audio-caf" />
+  <project name="LineageOS/android_hardware_qcom_audioreach-topology" />
   <project name="LineageOS/android_hardware_qcom_bootctrl" />
   <project name="LineageOS/android_hardware_qcom_bt" />
   <project name="LineageOS/android_hardware_qcom_camera" />
