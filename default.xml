@@ -818,6 +818,7 @@
   <project name="LineageOS/android_device_realme_luigi" />
   <project name="LineageOS/android_device_realme_oscar" />
   <project name="LineageOS/android_device_realme_piloti" />
+  <project name="LineageOS/android_device_realme_pista" />
   <project name="LineageOS/android_device_realme_sm6375-common" />
   <project name="LineageOS/android_device_retroidpocket_RP6" />
   <project name="LineageOS/android_device_sample" />
