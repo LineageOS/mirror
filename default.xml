@@ -1229,6 +1229,7 @@
   <project name="LineageOS/android_device_sony_pdx234" />
   <project name="LineageOS/android_device_sony_pdx235" />
   <project name="LineageOS/android_device_sony_pdx237" />
+  <project name="LineageOS/android_device_sony_pdx257" />
   <project name="LineageOS/android_device_sony_pepper" />
   <project name="LineageOS/android_device_sony_pioneer" />
   <project name="LineageOS/android_device_sony_pollux" />
@@ -2509,6 +2510,9 @@
   <project name="LineageOS/android_kernel_sony_sdm660" />
   <project name="LineageOS/android_kernel_sony_sdm845" />
   <project name="LineageOS/android_kernel_sony_sm6375" />
+  <project name="LineageOS/android_kernel_sony_sm6475" />
+  <project name="LineageOS/android_kernel_sony_sm6475-devicetrees" />
+  <project name="LineageOS/android_kernel_sony_sm6475-modules" />
   <project name="LineageOS/android_kernel_sony_sm8250" />
   <project name="LineageOS/android_kernel_sony_sm8350" />
   <project name="LineageOS/android_kernel_sony_sm8450" />
