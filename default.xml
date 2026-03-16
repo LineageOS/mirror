@@ -1285,6 +1285,7 @@
   <project name="LineageOS/android_device_wileyfox_porridge" />
   <project name="LineageOS/android_device_wileyfox_porridgek3" />
   <project name="LineageOS/android_device_wingtech_wt88047" />
+  <project name="LineageOS/android_device_xelex_Q25" />
   <project name="LineageOS/android_device_xiaomi_Mi439" />
   <project name="LineageOS/android_device_xiaomi_Mi8917" />
   <project name="LineageOS/android_device_xiaomi_Mi8937" />
@@ -2527,6 +2528,7 @@
   <project name="LineageOS/android_kernel_virt_virtio" />
   <project name="LineageOS/android_kernel_vsmart_msm8953" />
   <project name="LineageOS/android_kernel_wingtech_msm8916" />
+  <project name="LineageOS/android_kernel_xelex_mt6789" />
   <project name="LineageOS/android_kernel_xiaomi_aries" />
   <project name="LineageOS/android_kernel_xiaomi_armani" />
   <project name="LineageOS/android_kernel_xiaomi_cancro" />
