@@ -805,6 +805,7 @@
   <project name="LineageOS/android_device_oppo_r7plus" />
   <project name="LineageOS/android_device_oppo_r7sf" />
   <project name="LineageOS/android_device_osom_ingot" />
+  <project name="LineageOS/android_device_osom_pyrite" />
   <project name="LineageOS/android_device_pantech_presto" />
   <project name="LineageOS/android_device_pc_basic_x86_64_pc" />
   <project name="LineageOS/android_device_qcom_common" />
@@ -2401,6 +2402,7 @@
   <project name="LineageOS/android_kernel_oppo_n1" />
   <project name="LineageOS/android_kernel_oppo_n3" />
   <project name="LineageOS/android_kernel_oppo_sm8250" />
+  <project name="LineageOS/android_kernel_osom_sm8350" />
   <project name="LineageOS/android_kernel_osom_sm8475" />
   <project name="LineageOS/android_kernel_osom_sm8475-devicetrees" />
   <project name="LineageOS/android_kernel_osom_sm8475-modules" />
