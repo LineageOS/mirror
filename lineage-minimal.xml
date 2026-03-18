@@ -29,6 +29,7 @@
   <project name="LineageOS/android_device_common" />
   <project name="LineageOS/android_device_generic_arm64" />
   <project name="LineageOS/android_device_generic_armv7-a-neon" />
+  <project name="LineageOS/android_device_generic_car" />
   <project name="LineageOS/android_device_generic_common" />
   <project name="LineageOS/android_device_generic_goldfish" />
   <project name="LineageOS/android_device_generic_goldfish-opengl" />
@@ -465,6 +466,7 @@
   <project name="LineageOS/android_packages_apps_Calendar" />
   <project name="LineageOS/android_packages_apps_Camelot" />
   <project name="LineageOS/android_packages_apps_Camera2" />
+  <project name="LineageOS/android_packages_apps_Car_References" />
   <project name="LineageOS/android_packages_apps_Car_Settings" />
   <project name="LineageOS/android_packages_apps_Car_SystemUI" />
   <project name="LineageOS/android_packages_apps_CarrierConfig" />
