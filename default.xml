@@ -3012,6 +3012,7 @@
   <project name="LineageOS/hudson" />
   <project name="LineageOS/ion" />
   <project name="LineageOS/issues" />
+  <project name="LineageOS/issues-infra" />
   <project name="LineageOS/kernel-omap" />
   <project name="LineageOS/lge-kernel-e400" />
   <project name="LineageOS/lge-kernel-gproj" />
