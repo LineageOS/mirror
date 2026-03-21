@@ -585,6 +585,7 @@
   <project name="LineageOS/android_device_motorola_hannah-common" />
   <project name="LineageOS/android_device_motorola_harpia" />
   <project name="LineageOS/android_device_motorola_hawao" />
+  <project name="LineageOS/android_device_motorola_ibiza" />
   <project name="LineageOS/android_device_motorola_jordan" />
   <project name="LineageOS/android_device_motorola_jordan-common" />
   <project name="LineageOS/android_device_motorola_jordan_plus" />
