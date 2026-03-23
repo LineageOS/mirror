@@ -1364,6 +1364,7 @@
   <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_xiaomi_nuwa" />
   <project name="LineageOS/android_device_xiaomi_onclite" />
+  <project name="LineageOS/android_device_xiaomi_peridot" />
   <project name="LineageOS/android_device_xiaomi_perseus" />
   <project name="LineageOS/android_device_xiaomi_phoenix" />
   <project name="LineageOS/android_device_xiaomi_pipa" />
@@ -2587,6 +2588,9 @@
   <project name="LineageOS/android_kernel_xiaomi_sm8550" />
   <project name="LineageOS/android_kernel_xiaomi_sm8550-devicetrees" />
   <project name="LineageOS/android_kernel_xiaomi_sm8550-modules" />
+  <project name="LineageOS/android_kernel_xiaomi_sm8635" />
+  <project name="LineageOS/android_kernel_xiaomi_sm8635-devicetrees" />
+  <project name="LineageOS/android_kernel_xiaomi_sm8635-modules" />
   <project name="LineageOS/android_kernel_xiaomi_surya" />
   <project name="LineageOS/android_kernel_xiaomi_vayu" />
   <project name="LineageOS/android_kernel_xiaomi_violet" />
