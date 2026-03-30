@@ -828,6 +828,7 @@
   <project name="LineageOS/android_device_razer_nicole" />
   <project name="LineageOS/android_device_realme_RMX1801" />
   <project name="LineageOS/android_device_realme_RMX1851" />
+  <project name="LineageOS/android_device_realme_bale" />
   <project name="LineageOS/android_device_realme_luigi" />
   <project name="LineageOS/android_device_realme_oscar" />
   <project name="LineageOS/android_device_realme_piloti" />
