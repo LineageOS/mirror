@@ -1243,6 +1243,7 @@
   <project name="LineageOS/android_device_sony_pdx234" />
   <project name="LineageOS/android_device_sony_pdx235" />
   <project name="LineageOS/android_device_sony_pdx237" />
+  <project name="LineageOS/android_device_sony_pdx245" />
   <project name="LineageOS/android_device_sony_pdx257" />
   <project name="LineageOS/android_device_sony_pepper" />
   <project name="LineageOS/android_device_sony_pioneer" />
@@ -1262,6 +1263,7 @@
   <project name="LineageOS/android_device_sony_sm8350-common" />
   <project name="LineageOS/android_device_sony_sm8450-common" />
   <project name="LineageOS/android_device_sony_sm8550-common" />
+  <project name="LineageOS/android_device_sony_sm8650-common" />
   <project name="LineageOS/android_device_sony_sumire" />
   <project name="LineageOS/android_device_sony_suzu" />
   <project name="LineageOS/android_device_sony_suzuran" />
@@ -1946,6 +1948,7 @@
   <project name="LineageOS/android_hardware_lge" />
   <project name="LineageOS/android_hardware_libhardware" />
   <project name="LineageOS/android_hardware_libhardware_legacy" />
+  <project name="LineageOS/android_hardware_linaro_libpm" />
   <project name="LineageOS/android_hardware_lineage_compat" />
   <project name="LineageOS/android_hardware_lineage_interfaces" />
   <project name="LineageOS/android_hardware_lineage_libperfmgr" />
@@ -2542,6 +2545,9 @@
   <project name="LineageOS/android_kernel_sony_sm8550" />
   <project name="LineageOS/android_kernel_sony_sm8550-devicetrees" />
   <project name="LineageOS/android_kernel_sony_sm8550-modules" />
+  <project name="LineageOS/android_kernel_sony_sm8650" />
+  <project name="LineageOS/android_kernel_sony_sm8650-devicetrees" />
+  <project name="LineageOS/android_kernel_sony_sm8650-modules" />
   <project name="LineageOS/android_kernel_sony_tianchi" />
   <project name="LineageOS/android_kernel_ti_omap4" />
   <project name="LineageOS/android_kernel_toshiba_betelgeuse" />
