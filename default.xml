@@ -529,6 +529,7 @@
   <project name="LineageOS/android_device_lineage_car" />
   <project name="LineageOS/android_device_lineage_sepolicy" />
   <project name="LineageOS/android_device_mainline_common" />
+  <project name="LineageOS/android_device_mainline_generic" />
   <project name="LineageOS/android_device_mainline_qcom-common" />
   <project name="LineageOS/android_device_malata_smb-common" />
   <project name="LineageOS/android_device_malata_smb_a1002" />
