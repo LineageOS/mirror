@@ -1192,6 +1192,7 @@
   <project name="LineageOS/android_device_shift_axolotl" />
   <project name="LineageOS/android_device_shift_otter" />
   <project name="LineageOS/android_device_smartfren_rendang" />
+  <project name="LineageOS/android_device_smartisan_trident" />
   <project name="LineageOS/android_device_sony_akari" />
   <project name="LineageOS/android_device_sony_akatsuki" />
   <project name="LineageOS/android_device_sony_amami" />
@@ -2517,6 +2518,7 @@
   <project name="LineageOS/android_kernel_shift_qcm6490" />
   <project name="LineageOS/android_kernel_shift_sdm845" />
   <project name="LineageOS/android_kernel_smartfren_msm8916" />
+  <project name="LineageOS/android_kernel_smartisan_sdm845" />
   <project name="LineageOS/android_kernel_sony_apq8064" />
   <project name="LineageOS/android_kernel_sony_flamingo" />
   <project name="LineageOS/android_kernel_sony_mam7x27a-legacy" />
