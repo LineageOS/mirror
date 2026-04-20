@@ -118,12 +118,14 @@
   <project name="LineageOS/android_device_asus_tf701t" />
   <project name="LineageOS/android_device_asus_tilapia" />
   <project name="LineageOS/android_device_asus_zenfone3" />
+  <project name="LineageOS/android_device_ayn_cq8725s-common" />
   <project name="LineageOS/android_device_ayn_odin2" />
   <project name="LineageOS/android_device_ayn_odin2_ack" />
   <project name="LineageOS/android_device_ayn_odin2_tab_ack" />
   <project name="LineageOS/android_device_ayn_odin2mini" />
   <project name="LineageOS/android_device_ayn_odin2portal" />
   <project name="LineageOS/android_device_ayn_odin2thor" />
+  <project name="LineageOS/android_device_ayn_odin3" />
   <project name="LineageOS/android_device_ayn_qcs8550-ack" />
   <project name="LineageOS/android_device_ayn_qcs8550-common" />
   <project name="LineageOS/android_device_bananapi_m5" />
@@ -2165,6 +2167,9 @@
   <project name="LineageOS/android_kernel_asus_tf300t" />
   <project name="LineageOS/android_kernel_asus_tf700t" />
   <project name="LineageOS/android_kernel_asus_tf701t" />
+  <project name="LineageOS/android_kernel_ayn_cq8725s" />
+  <project name="LineageOS/android_kernel_ayn_cq8725s-devicetrees" />
+  <project name="LineageOS/android_kernel_ayn_cq8725s-modules" />
   <project name="LineageOS/android_kernel_ayn_kernel-ack" />
   <project name="LineageOS/android_kernel_ayn_modules-ack" />
   <project name="LineageOS/android_kernel_ayn_qcs8550" />
