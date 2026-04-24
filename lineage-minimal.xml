@@ -392,6 +392,8 @@
   <project name="LineageOS/android_hardware_lineage_lineagehw" />
   <project name="LineageOS/android_hardware_lineage_livedisplay" />
   <project name="LineageOS/android_hardware_lineage_telephony" />
+  <project name="LineageOS/android_hardware_marvell_bt" />
+  <project name="LineageOS/android_hardware_marvell_wlan" />
   <project name="LineageOS/android_hardware_nvidia_audio" />
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
   <project name="LineageOS/android_hardware_nxp_nfc" />
