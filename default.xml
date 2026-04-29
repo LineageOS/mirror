@@ -581,6 +581,7 @@
   <project name="LineageOS/android_device_motorola_falcon" />
   <project name="LineageOS/android_device_motorola_fogo" />
   <project name="LineageOS/android_device_motorola_fogos" />
+  <project name="LineageOS/android_device_motorola_genevn" />
   <project name="LineageOS/android_device_motorola_ghost" />
   <project name="LineageOS/android_device_motorola_griffin" />
   <project name="LineageOS/android_device_motorola_guam" />
