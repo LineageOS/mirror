@@ -2019,6 +2019,7 @@
   <project name="LineageOS/android_hardware_nvidia_t18x_lineage" />
   <project name="LineageOS/android_hardware_nvidia_t19x_lineage" />
   <project name="LineageOS/android_hardware_nvidia_t21x_lineage" />
+  <project name="LineageOS/android_hardware_nvidia_t21x_nx" />
   <project name="LineageOS/android_hardware_nvidia_t23x_lineage" />
   <project name="LineageOS/android_hardware_nvidia_t23x_nv-public" />
   <project name="LineageOS/android_hardware_nvidia_tegra124" />
@@ -2387,6 +2388,7 @@
   <project name="LineageOS/android_kernel_nvidia_roth" />
   <project name="LineageOS/android_kernel_nvidia_shield" />
   <project name="LineageOS/android_kernel_nvidia_shieldtablet" />
+  <project name="LineageOS/android_kernel_nvidia_tegra-build" />
   <project name="LineageOS/android_kernel_nvidia_wireguard" />
   <project name="LineageOS/android_kernel_oneplus_msm8974" />
   <project name="LineageOS/android_kernel_oneplus_msm8994" />
