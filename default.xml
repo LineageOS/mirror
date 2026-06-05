@@ -2172,6 +2172,7 @@
   <project name="LineageOS/android_kernel_asus_tf300t" />
   <project name="LineageOS/android_kernel_asus_tf700t" />
   <project name="LineageOS/android_kernel_asus_tf701t" />
+  <project name="LineageOS/android_kernel_ayn_common-modules" />
   <project name="LineageOS/android_kernel_ayn_cq8725s" />
   <project name="LineageOS/android_kernel_ayn_cq8725s-devicetrees" />
   <project name="LineageOS/android_kernel_ayn_cq8725s-modules" />
