@@ -656,6 +656,7 @@
   <project name="platform/external/geonames" />
   <project name="platform/external/gflags" />
   <project name="platform/external/gfxstream-protocols" />
+  <project name="platform/external/ggml-org/llama.cpp" />
   <project name="platform/external/giflib" />
   <project name="platform/external/glide" />
   <project name="platform/external/gmmlib" />
