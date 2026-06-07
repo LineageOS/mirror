@@ -497,6 +497,7 @@
   <project name="LineageOS/android_packages_apps_InCallUI" />
   <project name="LineageOS/android_packages_apps_Jelly" />
   <project name="LineageOS/android_packages_apps_KeyChain" />
+  <project name="LineageOS/android_packages_apps_Keychain" />
   <project name="LineageOS/android_packages_apps_Launcher3" />
   <project name="LineageOS/android_packages_apps_LineageCustomizer" />
   <project name="LineageOS/android_packages_apps_LineageParts" />
