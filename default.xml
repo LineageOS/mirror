@@ -380,6 +380,7 @@
   <project name="LineageOS/android_device_huawei_u8220" />
   <project name="LineageOS/android_device_intel_mixins" />
   <project name="LineageOS/android_device_khadas_kvim1s" />
+  <project name="LineageOS/android_device_khadas_kvim3l" />
   <project name="LineageOS/android_device_leeco_msm8996-common" />
   <project name="LineageOS/android_device_leeco_s2" />
   <project name="LineageOS/android_device_leeco_x2" />
