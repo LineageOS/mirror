@@ -163,6 +163,7 @@
   <project name="LineageOS/android_device_fairphone_FP3" />
   <project name="LineageOS/android_device_fairphone_FP4" />
   <project name="LineageOS/android_device_fairphone_FP5" />
+  <project name="LineageOS/android_device_fairphone_FP6" />
   <project name="LineageOS/android_device_freebox_nicepool" />
   <project name="LineageOS/android_device_fxtec_pro1" />
   <project name="LineageOS/android_device_fxtec_pro1x" />
@@ -2203,6 +2204,9 @@
   <project name="LineageOS/android_kernel_fairphone_qcm6490" />
   <project name="LineageOS/android_kernel_fairphone_sdm632" />
   <project name="LineageOS/android_kernel_fairphone_sm7225" />
+  <project name="LineageOS/android_kernel_fairphone_sm7635" />
+  <project name="LineageOS/android_kernel_fairphone_sm7635-devicetrees" />
+  <project name="LineageOS/android_kernel_fairphone_sm7635-modules" />
   <project name="LineageOS/android_kernel_fxtec_msm8998" />
   <project name="LineageOS/android_kernel_fxtec_sm6115" />
   <project name="LineageOS/android_kernel_goldfish" />
