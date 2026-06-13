@@ -302,6 +302,7 @@
   <project name="LineageOS/android_external_tremolo" />
   <project name="LineageOS/android_external_unrar" />
   <project name="LineageOS/android_external_unzip" />
+  <project name="LineageOS/android_external_v4l2_codec2" />
   <project name="LineageOS/android_external_v8" />
   <project name="LineageOS/android_external_valgrind" />
   <project name="LineageOS/android_external_vim" />
