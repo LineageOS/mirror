@@ -843,6 +843,7 @@
   <project name="LineageOS/android_device_realme_pista" />
   <project name="LineageOS/android_device_realme_sm6375-common" />
   <project name="LineageOS/android_device_retroidpocket_RP6" />
+  <project name="LineageOS/android_device_retroidpocket_nova" />
   <project name="LineageOS/android_device_sample" />
   <project name="LineageOS/android_device_samsung_a21s" />
   <project name="LineageOS/android_device_samsung_a21s-common" />
