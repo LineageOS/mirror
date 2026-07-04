@@ -710,6 +710,8 @@
   <project name="LineageOS/android_vendor_qcom_opensource_healthd-ext" />
   <project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
   <project name="LineageOS/android_vendor_qcom_opensource_libfmjni" />
+  <project name="LineageOS/android_vendor_qcom_opensource_libqspa" />
+  <project name="LineageOS/android_vendor_qcom_opensource_libvmmem" />
   <project name="LineageOS/android_vendor_qcom_opensource_packages_apps_Bluetooth" />
   <project name="LineageOS/android_vendor_qcom_opensource_power" />
   <project name="LineageOS/android_vendor_qcom_opensource_rcs-service" />
