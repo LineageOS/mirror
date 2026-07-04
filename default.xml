@@ -2997,6 +2997,8 @@
   <project name="LineageOS/android_vendor_qcom_opensource_interfaces" />
   <project name="LineageOS/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_libfmjni" />
+  <project name="LineageOS/android_vendor_qcom_opensource_libqspa" />
+  <project name="LineageOS/android_vendor_qcom_opensource_libvmmem" />
   <project name="LineageOS/android_vendor_qcom_opensource_location" />
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-audio" />
   <project name="LineageOS/android_vendor_qcom_opensource_omx_mm-core" />
