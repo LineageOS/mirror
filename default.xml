@@ -600,6 +600,8 @@
   <project name="LineageOS/android_device_motorola_kane" />
   <project name="LineageOS/android_device_motorola_kiev" />
   <project name="LineageOS/android_device_motorola_lake" />
+  <project name="LineageOS/android_device_motorola_lamu" />
+  <project name="LineageOS/android_device_motorola_lamu-kernels" />
   <project name="LineageOS/android_device_motorola_liber" />
   <project name="LineageOS/android_device_motorola_lux" />
   <project name="LineageOS/android_device_motorola_maserati" />
@@ -622,6 +624,7 @@
   <project name="LineageOS/android_device_motorola_msm8960_jbbl-common" />
   <project name="LineageOS/android_device_motorola_msm8960dt-common" />
   <project name="LineageOS/android_device_motorola_msm8998-common" />
+  <project name="LineageOS/android_device_motorola_mt6768-common" />
   <project name="LineageOS/android_device_motorola_nairo" />
   <project name="LineageOS/android_device_motorola_nash" />
   <project name="LineageOS/android_device_motorola_nio" />
@@ -2197,6 +2200,7 @@
   <project name="LineageOS/android_kernel_bq_msm8953" />
   <project name="LineageOS/android_kernel_bq_msm8976" />
   <project name="LineageOS/android_kernel_bq_sdm660" />
+  <project name="LineageOS/android_kernel_build_bazel_mgk_rules" />
   <project name="LineageOS/android_kernel_configs" />
   <project name="LineageOS/android_kernel_cyanogen_msm8916" />
   <project name="LineageOS/android_kernel_cyanogen_msm8974" />
@@ -2295,6 +2299,9 @@
   <project name="LineageOS/android_kernel_motorola_apq8084" />
   <project name="LineageOS/android_kernel_motorola_exynos9610" />
   <project name="LineageOS/android_kernel_motorola_ghost" />
+  <project name="LineageOS/android_kernel_motorola_lamu-mediatek_modules" />
+  <project name="LineageOS/android_kernel_motorola_lamu-modules" />
+  <project name="LineageOS/android_kernel_motorola_lamu_manifest" />
   <project name="LineageOS/android_kernel_motorola_msm8226" />
   <project name="LineageOS/android_kernel_motorola_msm8610" />
   <project name="LineageOS/android_kernel_motorola_msm8916" />
