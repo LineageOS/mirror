@@ -1327,6 +1327,7 @@
   <project name="LineageOS/android_device_xiaomi_beryllium" />
   <project name="LineageOS/android_device_xiaomi_cancro" />
   <project name="LineageOS/android_device_xiaomi_capricorn" />
+  <project name="LineageOS/android_device_xiaomi_cas" />
   <project name="LineageOS/android_device_xiaomi_cepheus" />
   <project name="LineageOS/android_device_xiaomi_chiron" />
   <project name="LineageOS/android_device_xiaomi_cmi" />
