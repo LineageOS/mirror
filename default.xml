@@ -126,8 +126,11 @@
   <project name="LineageOS/android_device_ayn_odin2portal" />
   <project name="LineageOS/android_device_ayn_odin2thor" />
   <project name="LineageOS/android_device_ayn_odin3" />
+  <project name="LineageOS/android_device_ayn_odin_m0" />
+  <project name="LineageOS/android_device_ayn_odin_m2" />
   <project name="LineageOS/android_device_ayn_qcs8550-ack" />
   <project name="LineageOS/android_device_ayn_qcs8550-common" />
+  <project name="LineageOS/android_device_ayn_sdm845-common" />
   <project name="LineageOS/android_device_bananapi_m5" />
   <project name="LineageOS/android_device_bananapi_m5_tab" />
   <project name="LineageOS/android_device_bn_acclaim" />
@@ -2192,6 +2195,7 @@
   <project name="LineageOS/android_kernel_ayn_qcs8550-devicetrees" />
   <project name="LineageOS/android_kernel_ayn_qcs8550-devicetrees-ack" />
   <project name="LineageOS/android_kernel_ayn_qcs8550-modules" />
+  <project name="LineageOS/android_kernel_ayn_sdm845" />
   <project name="LineageOS/android_kernel_bn_acclaim" />
   <project name="LineageOS/android_kernel_bn_encore" />
   <project name="LineageOS/android_kernel_bn_omap" />
