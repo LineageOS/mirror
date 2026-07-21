@@ -2175,6 +2175,7 @@
   <project name="platform/prebuilts/bazel/common" />
   <project name="platform/prebuilts/bazel/darwin-x86_64" groups="darwin" />
   <project name="platform/prebuilts/bazel/linux-x86_64" />
+  <project name="platform/prebuilts/bazel/windows-x86_64" groups="windows" />
   <project name="platform/prebuilts/boot-artifacts" groups="kernel-extra,notdefault" />
   <project name="platform/prebuilts/build-tools" />
   <project name="platform/prebuilts/bundletool" />
