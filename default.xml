@@ -75,6 +75,7 @@
   <project name="LineageOS/android_device_amlogic_g12-common" />
   <project name="LineageOS/android_device_amlogic_gx-common" />
   <project name="LineageOS/android_device_amlogic_ne-common" />
+  <project name="LineageOS/android_device_amlogic_ohm" />
   <project name="LineageOS/android_device_amlogic_sepolicy" />
   <project name="LineageOS/android_device_amlogic_sm1-common" />
   <project name="LineageOS/android_device_apple_snowcastle" />
@@ -2161,9 +2162,16 @@
   <project name="LineageOS/android_kernel_amazon_bowser-common" />
   <project name="LineageOS/android_kernel_amazon_hdx-common" />
   <project name="LineageOS/android_kernel_amazon_otter-common" />
+  <project name="LineageOS/android_kernel_amlogic_bt-modules" />
+  <project name="LineageOS/android_kernel_amlogic_common_drivers" />
+  <project name="LineageOS/android_kernel_amlogic_dhd-driver" />
+  <project name="LineageOS/android_kernel_amlogic_gpu-modules" />
+  <project name="LineageOS/android_kernel_amlogic_kernel-5.15" />
   <project name="LineageOS/android_kernel_amlogic_linux-4.9" />
   <project name="LineageOS/android_kernel_amlogic_linux-4.9-pie" />
   <project name="LineageOS/android_kernel_amlogic_linux-5.4" />
+  <project name="LineageOS/android_kernel_amlogic_media-modules" />
+  <project name="LineageOS/android_kernel_amlogic_ohm-build" />
   <project name="LineageOS/android_kernel_ark_msm8916" />
   <project name="LineageOS/android_kernel_asus_I001" />
   <project name="LineageOS/android_kernel_asus_P024" />
@@ -2269,6 +2277,7 @@
   <project name="LineageOS/android_kernel_huawei_msm8226" />
   <project name="LineageOS/android_kernel_huawei_msm8916" />
   <project name="LineageOS/android_kernel_huawei_msm8928" />
+  <project name="LineageOS/android_kernel_khadas_kvim1s-build" />
   <project name="LineageOS/android_kernel_leeco_msm8952" />
   <project name="LineageOS/android_kernel_leeco_msm8976" />
   <project name="LineageOS/android_kernel_leeco_msm8996" />
