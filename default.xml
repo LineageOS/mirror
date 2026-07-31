@@ -1942,6 +1942,7 @@
   <project name="LineageOS/android_hardware_google_pixel" />
   <project name="LineageOS/android_hardware_google_pixel-sepolicy" />
   <project name="LineageOS/android_hardware_gpsshim" />
+  <project name="LineageOS/android_hardware_huawei" />
   <project name="LineageOS/android_hardware_intel_audio_media" />
   <project name="LineageOS/android_hardware_intel_audiocomms_utilities" />
   <project name="LineageOS/android_hardware_intel_bootstub" />
