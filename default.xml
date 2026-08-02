@@ -2173,6 +2173,7 @@
   <project name="LineageOS/android_kernel_amlogic_linux-5.4" />
   <project name="LineageOS/android_kernel_amlogic_media-modules" />
   <project name="LineageOS/android_kernel_amlogic_ohm-build" />
+  <project name="LineageOS/android_kernel_amlogic_qca6174-driver" />
   <project name="LineageOS/android_kernel_ark_msm8916" />
   <project name="LineageOS/android_kernel_asus_I001" />
   <project name="LineageOS/android_kernel_asus_P024" />
