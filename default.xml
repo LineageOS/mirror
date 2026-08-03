@@ -76,6 +76,7 @@
   <project name="LineageOS/android_device_amlogic_gx-common" />
   <project name="LineageOS/android_device_amlogic_ne-common" />
   <project name="LineageOS/android_device_amlogic_ohm" />
+  <project name="LineageOS/android_device_amlogic_oppen" />
   <project name="LineageOS/android_device_amlogic_sepolicy" />
   <project name="LineageOS/android_device_amlogic_sm1-common" />
   <project name="LineageOS/android_device_apple_snowcastle" />
@@ -2173,6 +2174,7 @@
   <project name="LineageOS/android_kernel_amlogic_linux-5.4" />
   <project name="LineageOS/android_kernel_amlogic_media-modules" />
   <project name="LineageOS/android_kernel_amlogic_ohm-build" />
+  <project name="LineageOS/android_kernel_amlogic_oppen-build" />
   <project name="LineageOS/android_kernel_amlogic_qca6174-driver" />
   <project name="LineageOS/android_kernel_ark_msm8916" />
   <project name="LineageOS/android_kernel_asus_I001" />
