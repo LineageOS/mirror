@@ -2299,6 +2299,8 @@
   <project name="LineageOS/android_kernel_huawei_msm8916" />
   <project name="LineageOS/android_kernel_huawei_msm8928" />
   <project name="LineageOS/android_kernel_khadas_kvim1s-build" />
+  <project name="LineageOS/android_kernel_khadas_kvim3-build" />
+  <project name="LineageOS/android_kernel_khadas_kvim3l-build" />
   <project name="LineageOS/android_kernel_leeco_msm8952" />
   <project name="LineageOS/android_kernel_leeco_msm8976" />
   <project name="LineageOS/android_kernel_leeco_msm8996" />
@@ -2838,6 +2840,7 @@
   <project name="LineageOS/android_packages_modules_Nfc" />
   <project name="LineageOS/android_packages_modules_Permission" />
   <project name="LineageOS/android_packages_modules_StatsD" />
+  <project name="LineageOS/android_packages_modules_Telephony" />
   <project name="LineageOS/android_packages_modules_UprobeStats" />
   <project name="LineageOS/android_packages_modules_Virtualization" />
   <project name="LineageOS/android_packages_modules_Virtualization_old" />
