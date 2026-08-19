@@ -1669,6 +1669,7 @@
   <project name="LineageOS/android_external_libcap-ng" />
   <project name="LineageOS/android_external_libchrome" />
   <project name="LineageOS/android_external_libcups" />
+  <project name="LineageOS/android_external_libcupsfilters" />
   <project name="LineageOS/android_external_libcxx" />
   <project name="LineageOS/android_external_libcxxabi" />
   <project name="LineageOS/android_external_libdisplay-info-upstream" />
@@ -1692,12 +1693,14 @@
   <project name="LineageOS/android_external_libnl" />
   <project name="LineageOS/android_external_libnl-headers" />
   <project name="LineageOS/android_external_libogg" />
+  <project name="LineageOS/android_external_libopenapv" />
   <project name="LineageOS/android_external_libopus" />
   <project name="LineageOS/android_external_libpcap" />
   <project name="LineageOS/android_external_libpciaccess" />
   <project name="LineageOS/android_external_libphonenumber" />
   <project name="LineageOS/android_external_libphonenumbergoogle" />
   <project name="LineageOS/android_external_libpng" />
+  <project name="LineageOS/android_external_libppd" />
   <project name="LineageOS/android_external_libppp" />
   <project name="LineageOS/android_external_libsamsung-ipc" />
   <project name="LineageOS/android_external_libseccomp-helper" />
@@ -2048,6 +2051,7 @@
   <project name="LineageOS/android_hardware_nvidia_thermal" />
   <project name="LineageOS/android_hardware_nvidia_u-boot" />
   <project name="LineageOS/android_hardware_nxp_nfc" />
+  <project name="LineageOS/android_hardware_nxp_secure_element" />
   <project name="LineageOS/android_hardware_nxp_uwb" />
   <project name="LineageOS/android_hardware_oneplus" />
   <project name="LineageOS/android_hardware_oplus" />
@@ -2725,6 +2729,7 @@
   <project name="LineageOS/android_packages_apps_CertInstaller" />
   <project name="LineageOS/android_packages_apps_Contacts" />
   <project name="LineageOS/android_packages_apps_ContactsCommon" />
+  <project name="LineageOS/android_packages_apps_ContactsPicker" />
   <project name="LineageOS/android_packages_apps_CustomTiles" />
   <project name="LineageOS/android_packages_apps_DSPManager" />
   <project name="LineageOS/android_packages_apps_DesignerTools" />
@@ -2847,6 +2852,7 @@
   <project name="LineageOS/android_packages_modules_StatsD" />
   <project name="LineageOS/android_packages_modules_Telephony" />
   <project name="LineageOS/android_packages_modules_UprobeStats" />
+  <project name="LineageOS/android_packages_modules_Uwb" />
   <project name="LineageOS/android_packages_modules_Virtualization" />
   <project name="LineageOS/android_packages_modules_Virtualization_old" />
   <project name="LineageOS/android_packages_modules_Wifi" />
