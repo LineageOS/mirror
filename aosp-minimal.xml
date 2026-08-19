@@ -962,6 +962,7 @@
   <project name="platform/external/musl" />
   <project name="platform/external/nanohttpd" />
   <project name="platform/external/nanopb-c" />
+  <project name="platform/external/nasm" groups="kernel-extra,notdefault" />
   <project name="platform/external/naver-fonts" />
   <project name="platform/external/neon_2_sse" />
   <project name="platform/external/netcat" />
