@@ -2175,6 +2175,7 @@
   <project name="LineageOS/android_kernel_amazon_otter-common" />
   <project name="LineageOS/android_kernel_amlogic_amlogic-drivers_w1" />
   <project name="LineageOS/android_kernel_amlogic_amlogic-drivers_w1l" />
+  <project name="LineageOS/android_kernel_amlogic_amlogic-drivers_w1u" />
   <project name="LineageOS/android_kernel_amlogic_amlogic-drivers_w2" />
   <project name="LineageOS/android_kernel_amlogic_amlogic-drivers_w2l" />
   <project name="LineageOS/android_kernel_amlogic_amlogic-drivers_wifi_comm" />
