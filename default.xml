@@ -161,8 +161,10 @@
   <project name="LineageOS/android_device_cyanogen_msm8916-common" />
   <project name="LineageOS/android_device_cyanogen_msm8939-common" />
   <project name="LineageOS/android_device_cyanogen_mt6735-common" />
+  <project name="LineageOS/android_device_daylight_jagar" />
   <project name="LineageOS/android_device_dell_streak7" />
   <project name="LineageOS/android_device_elocity_a7" />
+  <project name="LineageOS/android_device_essential_gem" />
   <project name="LineageOS/android_device_essential_mata" />
   <project name="LineageOS/android_device_fairphone_FP2" />
   <project name="LineageOS/android_device_fairphone_FP3" />
@@ -2252,7 +2254,9 @@
   <project name="LineageOS/android_kernel_cyanogen_msm8974" />
   <project name="LineageOS/android_kernel_cyanogen_msm8994" />
   <project name="LineageOS/android_kernel_cyanogen_mt6735" />
+  <project name="LineageOS/android_kernel_daylight_mt6789" />
   <project name="LineageOS/android_kernel_essential_msm8998" />
+  <project name="LineageOS/android_kernel_essential_sm7150" />
   <project name="LineageOS/android_kernel_fairphone_msm8974" />
   <project name="LineageOS/android_kernel_fairphone_qcm6490" />
   <project name="LineageOS/android_kernel_fairphone_sdm632" />
