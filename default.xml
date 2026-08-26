@@ -172,6 +172,7 @@
   <project name="LineageOS/android_device_fairphone_FP5" />
   <project name="LineageOS/android_device_fairphone_FP6" />
   <project name="LineageOS/android_device_freebox_nicepool" />
+  <project name="LineageOS/android_device_freebox_nicepool_rtk" />
   <project name="LineageOS/android_device_fxtec_pro1" />
   <project name="LineageOS/android_device_fxtec_pro1x" />
   <project name="LineageOS/android_device_geeksphone_one" />
