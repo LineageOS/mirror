@@ -2208,6 +2208,9 @@
   <project name="LineageOS/android_kernel_amlogic_realtek-drivers_8852be" />
   <project name="LineageOS/android_kernel_amlogic_realtek-drivers_8852bs" />
   <project name="LineageOS/android_kernel_ark_msm8916" />
+  <project name="LineageOS/android_kernel_askey_deadpool-build" />
+  <project name="LineageOS/android_kernel_askey_dopinder-build" />
+  <project name="LineageOS/android_kernel_askey_wade-build" />
   <project name="LineageOS/android_kernel_asus_I001" />
   <project name="LineageOS/android_kernel_asus_P024" />
   <project name="LineageOS/android_kernel_asus_X01AD" />
@@ -2240,6 +2243,7 @@
   <project name="LineageOS/android_kernel_ayn_qcs8550-devicetrees-ack" />
   <project name="LineageOS/android_kernel_ayn_qcs8550-modules" />
   <project name="LineageOS/android_kernel_ayn_sdm845" />
+  <project name="LineageOS/android_kernel_bananapi_m5-build" />
   <project name="LineageOS/android_kernel_bn_acclaim" />
   <project name="LineageOS/android_kernel_bn_encore" />
   <project name="LineageOS/android_kernel_bn_omap" />
@@ -2265,6 +2269,7 @@
   <project name="LineageOS/android_kernel_fairphone_sm7635" />
   <project name="LineageOS/android_kernel_fairphone_sm7635-devicetrees" />
   <project name="LineageOS/android_kernel_fairphone_sm7635-modules" />
+  <project name="LineageOS/android_kernel_freebox_nicepool-build" />
   <project name="LineageOS/android_kernel_fxtec_msm8998" />
   <project name="LineageOS/android_kernel_fxtec_sm6115" />
   <project name="LineageOS/android_kernel_goldfish" />
@@ -2290,6 +2295,7 @@
   <project name="LineageOS/android_kernel_google_msm-4.9" />
   <project name="LineageOS/android_kernel_google_raviole" />
   <project name="LineageOS/android_kernel_google_redbull" />
+  <project name="LineageOS/android_kernel_google_sabrina-build" />
   <project name="LineageOS/android_kernel_google_seed" />
   <project name="LineageOS/android_kernel_google_shamrock" />
   <project name="LineageOS/android_kernel_google_steelhead" />
@@ -2297,6 +2303,7 @@
   <project name="LineageOS/android_kernel_google_wahoo" />
   <project name="LineageOS/android_kernel_google_yellowstone" />
   <project name="LineageOS/android_kernel_hardkernel_odroidc1" />
+  <project name="LineageOS/android_kernel_hardkernel_odroidc4-build" />
   <project name="LineageOS/android_kernel_htc_endeavoru" />
   <project name="LineageOS/android_kernel_htc_enrc2b" />
   <project name="LineageOS/android_kernel_htc_flounder" />
@@ -2522,6 +2529,9 @@
   <project name="LineageOS/android_kernel_qcom_sm8750" />
   <project name="LineageOS/android_kernel_qcom_sm8750-devicetrees" />
   <project name="LineageOS/android_kernel_qcom_sm8750-modules" />
+  <project name="LineageOS/android_kernel_radxa_radxa0-build" />
+  <project name="LineageOS/android_kernel_radxa_radxa02-build" />
+  <project name="LineageOS/android_kernel_radxa_radxa02pro-build" />
   <project name="LineageOS/android_kernel_razer_msm8998" />
   <project name="LineageOS/android_kernel_razer_sdm845" />
   <project name="LineageOS/android_kernel_razer_sg8175p" />
