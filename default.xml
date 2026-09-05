@@ -844,6 +844,7 @@
   <project name="LineageOS/android_device_radxa_radxa02_car" />
   <project name="LineageOS/android_device_radxa_radxa02_tab" />
   <project name="LineageOS/android_device_radxa_radxa02pro" />
+  <project name="LineageOS/android_device_radxa_radxa02pro_tab" />
   <project name="LineageOS/android_device_radxa_radxa0_car" />
   <project name="LineageOS/android_device_radxa_radxa0_tab" />
   <project name="LineageOS/android_device_razer_aura" />
@@ -1935,6 +1936,8 @@
   <project name="LineageOS/android_hardware_amlogic_tools_dtbtool" />
   <project name="LineageOS/android_hardware_amlogic_tools_imagepacker" />
   <project name="LineageOS/android_hardware_amlogic_tools_respacker" />
+  <project name="LineageOS/android_hardware_amlogic_u-boot" />
+  <project name="LineageOS/android_hardware_amlogic_u-boot_build" />
   <project name="LineageOS/android_hardware_amlogic_usbctrl" />
   <project name="LineageOS/android_hardware_amlogic_wifi" />
   <project name="LineageOS/android_hardware_atheros_wlan" />
