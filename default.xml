@@ -916,6 +916,7 @@
   <project name="LineageOS/android_device_samsung_d2x" />
   <project name="LineageOS/android_device_samsung_d710" />
   <project name="LineageOS/android_device_samsung_dm1q" />
+  <project name="LineageOS/android_device_samsung_dm3q" />
   <project name="LineageOS/android_device_samsung_epic4g" />
   <project name="LineageOS/android_device_samsung_epicmtd" />
   <project name="LineageOS/android_device_samsung_espresso-common" />
