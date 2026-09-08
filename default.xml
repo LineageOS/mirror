@@ -601,6 +601,7 @@
   <project name="LineageOS/android_device_motorola_ghost" />
   <project name="LineageOS/android_device_motorola_griffin" />
   <project name="LineageOS/android_device_motorola_guam" />
+  <project name="LineageOS/android_device_motorola_guamna" />
   <project name="LineageOS/android_device_motorola_guamp" />
   <project name="LineageOS/android_device_motorola_hannah" />
   <project name="LineageOS/android_device_motorola_hannah-common" />
