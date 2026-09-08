@@ -417,6 +417,7 @@
   <project name="LineageOS/android_device_lge_bullhead" />
   <project name="LineageOS/android_device_lge_c660" />
   <project name="LineageOS/android_device_lge_c800" />
+  <project name="LineageOS/android_device_lge_caymanlm" />
   <project name="LineageOS/android_device_lge_caymanslm" />
   <project name="LineageOS/android_device_lge_common" />
   <project name="LineageOS/android_device_lge_d800" />
@@ -510,6 +511,7 @@
   <project name="LineageOS/android_device_lge_p999" />
   <project name="LineageOS/android_device_lge_rs988" />
   <project name="LineageOS/android_device_lge_sdm845-common" />
+  <project name="LineageOS/android_device_lge_sm7250-common" />
   <project name="LineageOS/android_device_lge_sm8150-common" />
   <project name="LineageOS/android_device_lge_star-common" />
   <project name="LineageOS/android_device_lge_style3lm" />
@@ -540,6 +542,7 @@
   <project name="LineageOS/android_device_lge_vs995" />
   <project name="LineageOS/android_device_lge_w5" />
   <project name="LineageOS/android_device_lge_w7" />
+  <project name="LineageOS/android_device_lge_winglm" />
   <project name="LineageOS/android_device_lge_zee" />
   <project name="LineageOS/android_device_lineage_atv" />
   <project name="LineageOS/android_device_lineage_car" />
@@ -2353,6 +2356,7 @@
   <project name="LineageOS/android_kernel_lge_msm8998" />
   <project name="LineageOS/android_kernel_lge_pplus" />
   <project name="LineageOS/android_kernel_lge_sdm845" />
+  <project name="LineageOS/android_kernel_lge_sm7250" />
   <project name="LineageOS/android_kernel_lge_sm8150" />
   <project name="LineageOS/android_kernel_lge_sm8250" />
   <project name="LineageOS/android_kernel_lge_v4xx" />
