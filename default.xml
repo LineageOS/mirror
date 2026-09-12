@@ -859,6 +859,8 @@
   <project name="LineageOS/android_device_realme_bale" />
   <project name="LineageOS/android_device_realme_luigi" />
   <project name="LineageOS/android_device_realme_oscar" />
+  <project name="LineageOS/android_device_realme_oscarc" />
+  <project name="LineageOS/android_device_realme_oscarru" />
   <project name="LineageOS/android_device_realme_piloti" />
   <project name="LineageOS/android_device_realme_pista" />
   <project name="LineageOS/android_device_realme_sm6375-common" />
@@ -1485,6 +1487,7 @@
   <project name="LineageOS/android_external_aac" />
   <project name="LineageOS/android_external_ahbottomnavigation" />
   <project name="LineageOS/android_external_alsa-lib" />
+  <project name="LineageOS/android_external_alsa-ucm-conf" />
   <project name="LineageOS/android_external_alsa-utils" />
   <project name="LineageOS/android_external_android-clat" />
   <project name="LineageOS/android_external_android-mock" />
