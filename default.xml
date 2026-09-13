@@ -388,6 +388,7 @@
   <project name="LineageOS/android_device_huawei_u8160" />
   <project name="LineageOS/android_device_huawei_u8220" />
   <project name="LineageOS/android_device_intel_mixins" />
+  <project name="LineageOS/android_device_khadas_kvim" />
   <project name="LineageOS/android_device_khadas_kvim1s" />
   <project name="LineageOS/android_device_khadas_kvim3" />
   <project name="LineageOS/android_device_khadas_kvim3l" />
