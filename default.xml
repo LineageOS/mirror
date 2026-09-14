@@ -895,6 +895,7 @@
   <project name="LineageOS/android_device_samsung_beyondx" />
   <project name="LineageOS/android_device_samsung_bmlunlock" />
   <project name="LineageOS/android_device_samsung_c1-common" />
+  <project name="LineageOS/android_device_samsung_c2s" />
   <project name="LineageOS/android_device_samsung_captivatemtd" />
   <project name="LineageOS/android_device_samsung_celox-common" />
   <project name="LineageOS/android_device_samsung_chagall-common" />
