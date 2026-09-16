@@ -392,6 +392,7 @@
   <project name="LineageOS/android_hardware_libhardware" />
   <project name="LineageOS/android_hardware_libhardware_legacy" />
   <project name="LineageOS/android_hardware_lineage_compat" />
+  <project name="LineageOS/android_hardware_lineage_generic-ims" />
   <project name="LineageOS/android_hardware_lineage_interfaces" />
   <project name="LineageOS/android_hardware_lineage_lineagehw" />
   <project name="LineageOS/android_hardware_lineage_livedisplay" />
@@ -564,6 +565,7 @@
   <project name="LineageOS/android_packages_modules_CellBroadcastService" />
   <project name="LineageOS/android_packages_modules_Connectivity" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
+  <project name="LineageOS/android_packages_modules_ImsMedia" />
   <project name="LineageOS/android_packages_modules_IntentResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
