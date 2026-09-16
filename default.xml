@@ -790,6 +790,7 @@
   <project name="LineageOS/android_device_oneplus_gunnar" />
   <project name="LineageOS/android_device_oneplus_hotdog" />
   <project name="LineageOS/android_device_oneplus_hotdogb" />
+  <project name="LineageOS/android_device_oneplus_hummer" />
   <project name="LineageOS/android_device_oneplus_instantnoodle" />
   <project name="LineageOS/android_device_oneplus_instantnoodlep" />
   <project name="LineageOS/android_device_oneplus_kebab" />
@@ -1999,6 +2000,7 @@
   <project name="LineageOS/android_hardware_libhardware_legacy" />
   <project name="LineageOS/android_hardware_linaro_libpm" />
   <project name="LineageOS/android_hardware_lineage_compat" />
+  <project name="LineageOS/android_hardware_lineage_generic-ims" />
   <project name="LineageOS/android_hardware_lineage_interfaces" />
   <project name="LineageOS/android_hardware_lineage_libperfmgr" />
   <project name="LineageOS/android_hardware_lineage_lineagehw" />
@@ -2879,6 +2881,7 @@
   <project name="LineageOS/android_packages_modules_CellBroadcastService" />
   <project name="LineageOS/android_packages_modules_Connectivity" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
+  <project name="LineageOS/android_packages_modules_ImsMedia" />
   <project name="LineageOS/android_packages_modules_IntentResolver" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
