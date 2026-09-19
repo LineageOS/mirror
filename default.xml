@@ -1207,6 +1207,7 @@
   <project name="LineageOS/android_device_samsung_zerofltecan" />
   <project name="LineageOS/android_device_samsung_zerofltexx" />
   <project name="LineageOS/android_device_samsung_zeroltexx" />
+  <project name="LineageOS/android_device_sdmc_tifa" />
   <project name="LineageOS/android_device_semc_anzu" />
   <project name="LineageOS/android_device_semc_coconut" />
   <project name="LineageOS/android_device_semc_es209ra" />
@@ -2223,6 +2224,7 @@
   <project name="LineageOS/android_kernel_amlogic_realtek-drivers_8822es" />
   <project name="LineageOS/android_kernel_amlogic_realtek-drivers_8852be" />
   <project name="LineageOS/android_kernel_amlogic_realtek-drivers_8852bs" />
+  <project name="LineageOS/android_kernel_amlogic_unisoc-drivers_uwe5621ds" />
   <project name="LineageOS/android_kernel_ark_msm8916" />
   <project name="LineageOS/android_kernel_askey_deadpool-build" />
   <project name="LineageOS/android_kernel_askey_dopinder-build" />
@@ -2626,6 +2628,7 @@
   <project name="LineageOS/android_kernel_samsung_v2wifixx" />
   <project name="LineageOS/android_kernel_samsung_victory" />
   <project name="LineageOS/android_kernel_samsung_zenltexx" />
+  <project name="LineageOS/android_kernel_sdmc_tifa-build" />
   <project name="LineageOS/android_kernel_shift_qcm6490" />
   <project name="LineageOS/android_kernel_shift_sdm845" />
   <project name="LineageOS/android_kernel_smartfren_msm8916" />
