@@ -2549,6 +2549,9 @@
   <project name="LineageOS/android_kernel_qcom_sm8750" />
   <project name="LineageOS/android_kernel_qcom_sm8750-devicetrees" />
   <project name="LineageOS/android_kernel_qcom_sm8750-modules" />
+  <project name="LineageOS/android_kernel_qcom_sm8850" />
+  <project name="LineageOS/android_kernel_qcom_sm8850-devicetrees" />
+  <project name="LineageOS/android_kernel_qcom_sm8850-modules" />
   <project name="LineageOS/android_kernel_radxa_radxa0-build" />
   <project name="LineageOS/android_kernel_radxa_radxa02-build" />
   <project name="LineageOS/android_kernel_radxa_radxa02pro-build" />
