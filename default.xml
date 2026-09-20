@@ -794,6 +794,7 @@
   <project name="LineageOS/android_device_oneplus_instantnoodle" />
   <project name="LineageOS/android_device_oneplus_instantnoodlep" />
   <project name="LineageOS/android_device_oneplus_kebab" />
+  <project name="LineageOS/android_device_oneplus_ktm" />
   <project name="LineageOS/android_device_oneplus_larry" />
   <project name="LineageOS/android_device_oneplus_lemonade" />
   <project name="LineageOS/android_device_oneplus_lemonadep" />
