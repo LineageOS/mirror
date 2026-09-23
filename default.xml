@@ -1618,6 +1618,7 @@
   <project name="LineageOS/android_external_fat32lib" />
   <project name="LineageOS/android_external_fdlibm" />
   <project name="LineageOS/android_external_ffmpeg" />
+  <project name="LineageOS/android_external_ffmpeg_codec2" />
   <project name="LineageOS/android_external_fio" />
   <project name="LineageOS/android_external_flac" />
   <project name="LineageOS/android_external_fonttools" />
