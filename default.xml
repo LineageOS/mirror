@@ -900,6 +900,7 @@
   <project name="LineageOS/android_device_samsung_beyondx" />
   <project name="LineageOS/android_device_samsung_bmlunlock" />
   <project name="LineageOS/android_device_samsung_c1-common" />
+  <project name="LineageOS/android_device_samsung_c1s" />
   <project name="LineageOS/android_device_samsung_c2s" />
   <project name="LineageOS/android_device_samsung_captivatemtd" />
   <project name="LineageOS/android_device_samsung_celox-common" />
@@ -1764,6 +1765,7 @@
   <project name="LineageOS/android_external_messageformat" />
   <project name="LineageOS/android_external_minigbm-upstream" />
   <project name="LineageOS/android_external_mksh" />
+  <project name="LineageOS/android_external_mls-rs" />
   <project name="LineageOS/android_external_mm-dash" />
   <project name="LineageOS/android_external_mockito" />
   <project name="LineageOS/android_external_mockwebserver" />
@@ -1903,6 +1905,7 @@
   <project name="LineageOS/android_frameworks_opt_bitmap" />
   <project name="LineageOS/android_frameworks_opt_bluetooth" />
   <project name="LineageOS/android_frameworks_opt_calendar" />
+  <project name="LineageOS/android_frameworks_opt_car_services" />
   <project name="LineageOS/android_frameworks_opt_carddav" />
   <project name="LineageOS/android_frameworks_opt_chips" />
   <project name="LineageOS/android_frameworks_opt_colorpicker" />
