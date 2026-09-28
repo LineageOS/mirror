@@ -338,6 +338,7 @@
   <project name="LineageOS/android_frameworks_opt_bitmap" />
   <project name="LineageOS/android_frameworks_opt_bluetooth" />
   <project name="LineageOS/android_frameworks_opt_calendar" />
+  <project name="LineageOS/android_frameworks_opt_car_services" />
   <project name="LineageOS/android_frameworks_opt_carddav" />
   <project name="LineageOS/android_frameworks_opt_chips" />
   <project name="LineageOS/android_frameworks_opt_colorpicker" />
