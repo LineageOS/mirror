@@ -1411,6 +1411,7 @@
   <project name="LineageOS/android_device_xiaomi_msm8998-common" />
   <project name="LineageOS/android_device_xiaomi_mt6768-common" />
   <project name="LineageOS/android_device_xiaomi_mt6785-common" />
+  <project name="LineageOS/android_device_xiaomi_mt6895-common" />
   <project name="LineageOS/android_device_xiaomi_munch" />
   <project name="LineageOS/android_device_xiaomi_natrium" />
   <project name="LineageOS/android_device_xiaomi_nuwa" />
@@ -1464,6 +1465,7 @@
   <project name="LineageOS/android_device_xiaomi_wayne-common" />
   <project name="LineageOS/android_device_xiaomi_whyred" />
   <project name="LineageOS/android_device_xiaomi_wt88047x" />
+  <project name="LineageOS/android_device_xiaomi_xaga" />
   <project name="LineageOS/android_device_xiaomi_xmsirius" />
   <project name="LineageOS/android_device_xiaomi_yudi" />
   <project name="LineageOS/android_device_xiaomi_zeus" />
@@ -2704,6 +2706,7 @@
   <project name="LineageOS/android_kernel_xiaomi_msm8998" />
   <project name="LineageOS/android_kernel_xiaomi_mt6768" />
   <project name="LineageOS/android_kernel_xiaomi_mt6785" />
+  <project name="LineageOS/android_kernel_xiaomi_mt6895" />
   <project name="LineageOS/android_kernel_xiaomi_onclite" />
   <project name="LineageOS/android_kernel_xiaomi_rosy" />
   <project name="LineageOS/android_kernel_xiaomi_sdm439" />
