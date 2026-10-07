@@ -792,6 +792,7 @@
   <project name="LineageOS/android_device_oneplus_hotdog" />
   <project name="LineageOS/android_device_oneplus_hotdogb" />
   <project name="LineageOS/android_device_oneplus_hummer" />
+  <project name="LineageOS/android_device_oneplus_iceland" />
   <project name="LineageOS/android_device_oneplus_infiniti" />
   <project name="LineageOS/android_device_oneplus_instantnoodle" />
   <project name="LineageOS/android_device_oneplus_instantnoodlep" />
