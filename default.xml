@@ -2533,6 +2533,7 @@
   <project name="LineageOS/android_kernel_oppo_n1" />
   <project name="LineageOS/android_kernel_oppo_n3" />
   <project name="LineageOS/android_kernel_oppo_sm8250" />
+  <project name="LineageOS/android_kernel_osom_ingot-build" />
   <project name="LineageOS/android_kernel_osom_sm8350" />
   <project name="LineageOS/android_kernel_osom_sm8475" />
   <project name="LineageOS/android_kernel_osom_sm8475-devicetrees" />
