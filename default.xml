@@ -69,6 +69,7 @@
   <project name="LineageOS/android_device_amazon_otter-common" />
   <project name="LineageOS/android_device_amazon_otter2" />
   <project name="LineageOS/android_device_amazon_otterx" />
+  <project name="LineageOS/android_device_amazon_sunstone" />
   <project name="LineageOS/android_device_amazon_tate" />
   <project name="LineageOS/android_device_amazon_thor" />
   <project name="LineageOS/android_device_amlogic_common" />
@@ -1940,6 +1941,7 @@
   <project name="LineageOS/android_gdk" />
   <project name="LineageOS/android_hardware_akm" />
   <project name="LineageOS/android_hardware_alsa_sound" />
+  <project name="LineageOS/android_hardware_amazon" />
   <project name="LineageOS/android_hardware_amlogic_audio" />
   <project name="LineageOS/android_hardware_amlogic_camera" />
   <project name="LineageOS/android_hardware_amlogic_gralloc" />
@@ -2205,6 +2207,7 @@
   <project name="LineageOS/android_kernel_alcatel_msm8916" />
   <project name="LineageOS/android_kernel_amazon_bowser-common" />
   <project name="LineageOS/android_kernel_amazon_hdx-common" />
+  <project name="LineageOS/android_kernel_amazon_mt8188" />
   <project name="LineageOS/android_kernel_amazon_otter-common" />
   <project name="LineageOS/android_kernel_amlogic_amlogic-drivers_w1" />
   <project name="LineageOS/android_kernel_amlogic_amlogic-drivers_w1l" />
