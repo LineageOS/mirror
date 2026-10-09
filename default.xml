@@ -1982,6 +1982,7 @@
   <project name="LineageOS/android_hardware_google_camera" />
   <project name="LineageOS/android_hardware_google_gchips" />
   <project name="LineageOS/android_hardware_google_graphics_common" />
+  <project name="LineageOS/android_hardware_google_interfaces" />
   <project name="LineageOS/android_hardware_google_pixel" />
   <project name="LineageOS/android_hardware_google_pixel-sepolicy" />
   <project name="LineageOS/android_hardware_gpsshim" />
@@ -3046,6 +3047,7 @@
   <project name="LineageOS/android_system_tools_hidl" />
   <project name="LineageOS/android_system_tools_mkbootimg" />
   <project name="LineageOS/android_system_update_engine" />
+  <project name="LineageOS/android_system_usb" />
   <project name="LineageOS/android_system_vold" />
   <project name="LineageOS/android_system_wlan_ti" />
   <project name="LineageOS/android_test_sts" />
