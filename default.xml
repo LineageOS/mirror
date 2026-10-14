@@ -1657,6 +1657,7 @@
   <project name="LineageOS/android_external_harfbuzz" />
   <project name="LineageOS/android_external_heimdall" />
   <project name="LineageOS/android_external_hostapd" />
+  <project name="LineageOS/android_external_hplip" />
   <project name="LineageOS/android_external_htop" />
   <project name="LineageOS/android_external_hyphenation" />
   <project name="LineageOS/android_external_icu" />
@@ -2914,6 +2915,7 @@
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
   <project name="LineageOS/android_packages_modules_Nfc" />
   <project name="LineageOS/android_packages_modules_Permission" />
+  <project name="LineageOS/android_packages_modules_Profiling" />
   <project name="LineageOS/android_packages_modules_StatsD" />
   <project name="LineageOS/android_packages_modules_Telephony" />
   <project name="LineageOS/android_packages_modules_UprobeStats" />
@@ -3056,6 +3058,7 @@
   <project name="LineageOS/android_tools_base" />
   <project name="LineageOS/android_tools_extract-utils" />
   <project name="LineageOS/android_tools_metalava" />
+  <project name="LineageOS/android_trusty_user_base" />
   <project name="LineageOS/android_vendor_apn" />
   <project name="LineageOS/android_vendor_apple" />
   <project name="LineageOS/android_vendor_chromium" />
