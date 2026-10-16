@@ -593,6 +593,7 @@
   <project name="LineageOS/android_device_motorola_droid2we" />
   <project name="LineageOS/android_device_motorola_dubai" />
   <project name="LineageOS/android_device_motorola_edison" />
+  <project name="LineageOS/android_device_motorola_ellis" />
   <project name="LineageOS/android_device_motorola_eqs" />
   <project name="LineageOS/android_device_motorola_evert" />
   <project name="LineageOS/android_device_motorola_exynos9610-common" />
@@ -641,6 +642,7 @@
   <project name="LineageOS/android_device_motorola_msm8960_jbbl-common" />
   <project name="LineageOS/android_device_motorola_msm8960dt-common" />
   <project name="LineageOS/android_device_motorola_msm8998-common" />
+  <project name="LineageOS/android_device_motorola_mt6765-common" />
   <project name="LineageOS/android_device_motorola_mt6768-common" />
   <project name="LineageOS/android_device_motorola_mt6879-common" />
   <project name="LineageOS/android_device_motorola_nairo" />
@@ -2411,6 +2413,7 @@
   <project name="LineageOS/android_kernel_motorola_msm8996" />
   <project name="LineageOS/android_kernel_motorola_msm8998" />
   <project name="LineageOS/android_kernel_motorola_mt6735" />
+  <project name="LineageOS/android_kernel_motorola_mt6765" />
   <project name="LineageOS/android_kernel_motorola_mt6879" />
   <project name="LineageOS/android_kernel_motorola_omap4-common" />
   <project name="LineageOS/android_kernel_motorola_omap4-kexec-common" />
