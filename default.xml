@@ -1130,6 +1130,7 @@
   <project name="LineageOS/android_device_samsung_picassowifi" />
   <project name="LineageOS/android_device_samsung_piranha" />
   <project name="LineageOS/android_device_samsung_prevail2spr" />
+  <project name="LineageOS/android_device_samsung_q5q" />
   <project name="LineageOS/android_device_samsung_qcom-common" />
   <project name="LineageOS/android_device_samsung_quincy-common" />
   <project name="LineageOS/android_device_samsung_quincyatt" />
