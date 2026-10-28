@@ -621,6 +621,8 @@
   <project name="LineageOS/android_device_motorola_lamu-kernels" />
   <project name="LineageOS/android_device_motorola_liber" />
   <project name="LineageOS/android_device_motorola_lux" />
+  <project name="LineageOS/android_device_motorola_lyriq" />
+  <project name="LineageOS/android_device_motorola_lyriq-kernels" />
   <project name="LineageOS/android_device_motorola_manaus" />
   <project name="LineageOS/android_device_motorola_maserati" />
   <project name="LineageOS/android_device_motorola_mb886" />
@@ -885,6 +887,7 @@
   <project name="LineageOS/android_device_samsung_a51" />
   <project name="LineageOS/android_device_samsung_a52q" />
   <project name="LineageOS/android_device_samsung_a52sxq" />
+  <project name="LineageOS/android_device_samsung_a53x" />
   <project name="LineageOS/android_device_samsung_a5xelte" />
   <project name="LineageOS/android_device_samsung_a5y17lte" />
   <project name="LineageOS/android_device_samsung_a70q" />
@@ -996,6 +999,7 @@
   <project name="LineageOS/android_device_samsung_gts7lwifi" />
   <project name="LineageOS/android_device_samsung_gts7xl" />
   <project name="LineageOS/android_device_samsung_gts7xlwifi" />
+  <project name="LineageOS/android_device_samsung_gts9wifi" />
   <project name="LineageOS/android_device_samsung_h3gduoschn" />
   <project name="LineageOS/android_device_samsung_ha3g" />
   <project name="LineageOS/android_device_samsung_hercules" />
@@ -1146,6 +1150,7 @@
   <project name="LineageOS/android_device_samsung_s3ve3gjv" />
   <project name="LineageOS/android_device_samsung_s3ve3gxx" />
   <project name="LineageOS/android_device_samsung_s5670" />
+  <project name="LineageOS/android_device_samsung_s5e8825-common" />
   <project name="LineageOS/android_device_samsung_s5e9925-common" />
   <project name="LineageOS/android_device_samsung_s5neolte" />
   <project name="LineageOS/android_device_samsung_sc02c" />
@@ -2405,6 +2410,10 @@
   <project name="LineageOS/android_kernel_motorola_lamu-mediatek_modules" />
   <project name="LineageOS/android_kernel_motorola_lamu-modules" />
   <project name="LineageOS/android_kernel_motorola_lamu_manifest" />
+  <project name="LineageOS/android_kernel_motorola_lyriq-mediatek_modules" />
+  <project name="LineageOS/android_kernel_motorola_lyriq-modules" />
+  <project name="LineageOS/android_kernel_motorola_lyriq-motorola_modules" />
+  <project name="LineageOS/android_kernel_motorola_lyriq_manifest" />
   <project name="LineageOS/android_kernel_motorola_msm8226" />
   <project name="LineageOS/android_kernel_motorola_msm8610" />
   <project name="LineageOS/android_kernel_motorola_msm8916" />
@@ -2634,6 +2643,7 @@
   <project name="LineageOS/android_kernel_samsung_piranha" />
   <project name="LineageOS/android_kernel_samsung_r5q" />
   <project name="LineageOS/android_kernel_samsung_s3ve3g" />
+  <project name="LineageOS/android_kernel_samsung_s5e8825" />
   <project name="LineageOS/android_kernel_samsung_s5e9925" />
   <project name="LineageOS/android_kernel_samsung_sdm429" />
   <project name="LineageOS/android_kernel_samsung_sdm670" />
