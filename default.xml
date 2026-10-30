@@ -2324,6 +2324,7 @@
   <project name="LineageOS/android_kernel_fxtec_sm6115" />
   <project name="LineageOS/android_kernel_goldfish" />
   <project name="LineageOS/android_kernel_google_barbet" />
+  <project name="LineageOS/android_kernel_google_beast-build" />
   <project name="LineageOS/android_kernel_google_bluejay" />
   <project name="LineageOS/android_kernel_google_bonito" />
   <project name="LineageOS/android_kernel_google_coral" />
@@ -2371,6 +2372,7 @@
   <project name="LineageOS/android_kernel_huawei_msm8226" />
   <project name="LineageOS/android_kernel_huawei_msm8916" />
   <project name="LineageOS/android_kernel_huawei_msm8928" />
+  <project name="LineageOS/android_kernel_khadas_kvim-build" />
   <project name="LineageOS/android_kernel_khadas_kvim1s-build" />
   <project name="LineageOS/android_kernel_khadas_kvim3-build" />
   <project name="LineageOS/android_kernel_khadas_kvim3l-build" />
