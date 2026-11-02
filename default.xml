@@ -2935,9 +2935,11 @@
   <project name="LineageOS/android_packages_modules_CaptivePortalLogin" />
   <project name="LineageOS/android_packages_modules_CellBroadcastService" />
   <project name="LineageOS/android_packages_modules_Connectivity" />
+  <project name="LineageOS/android_packages_modules_CrashRecovery" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_ImsMedia" />
   <project name="LineageOS/android_packages_modules_IntentResolver" />
+  <project name="LineageOS/android_packages_modules_Media" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
   <project name="LineageOS/android_packages_modules_Nfc" />
@@ -3048,6 +3050,7 @@
   <project name="LineageOS/android_system_extras_su" />
   <project name="LineageOS/android_system_fs_fs_mgr" />
   <project name="LineageOS/android_system_gatekeeper" />
+  <project name="LineageOS/android_system_gsid" />
   <project name="LineageOS/android_system_hardware_interfaces" />
   <project name="LineageOS/android_system_hwservicemanager" />
   <project name="LineageOS/android_system_incremental_delivery" />
