@@ -890,6 +890,7 @@
   <project name="LineageOS/android_device_samsung_a52q" />
   <project name="LineageOS/android_device_samsung_a52sxq" />
   <project name="LineageOS/android_device_samsung_a53x" />
+  <project name="LineageOS/android_device_samsung_a55x" />
   <project name="LineageOS/android_device_samsung_a5xelte" />
   <project name="LineageOS/android_device_samsung_a5y17lte" />
   <project name="LineageOS/android_device_samsung_a70q" />
@@ -2606,6 +2607,7 @@
   <project name="LineageOS/android_kernel_realme_sdm660" />
   <project name="LineageOS/android_kernel_realme_sdm710" />
   <project name="LineageOS/android_kernel_realme_sm6375" />
+  <project name="LineageOS/android_kernel_samsung_a55x" />
   <project name="LineageOS/android_kernel_samsung_a71" />
   <project name="LineageOS/android_kernel_samsung_apq8084" />
   <project name="LineageOS/android_kernel_samsung_aries" />
