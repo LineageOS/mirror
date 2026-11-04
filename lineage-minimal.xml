@@ -153,6 +153,7 @@
   <project name="LineageOS/android_external_hamcrest" />
   <project name="LineageOS/android_external_harfbuzz" />
   <project name="LineageOS/android_external_heimdall" />
+  <project name="LineageOS/android_external_hplip" />
   <project name="LineageOS/android_external_htop" />
   <project name="LineageOS/android_external_hyphenation" />
   <project name="LineageOS/android_external_icu" />
@@ -574,6 +575,7 @@
   <project name="LineageOS/android_packages_modules_NeuralNetworks" />
   <project name="LineageOS/android_packages_modules_Nfc" />
   <project name="LineageOS/android_packages_modules_Permission" />
+  <project name="LineageOS/android_packages_modules_Profiling" />
   <project name="LineageOS/android_packages_modules_StatsD" />
   <project name="LineageOS/android_packages_modules_Telephony" />
   <project name="LineageOS/android_packages_modules_UprobeStats" />
@@ -652,6 +654,7 @@
   <project name="LineageOS/android_system_extras_su" />
   <project name="LineageOS/android_system_fs_fs_mgr" />
   <project name="LineageOS/android_system_gatekeeper" />
+  <project name="LineageOS/android_system_gsid" />
   <project name="LineageOS/android_system_hardware_interfaces" />
   <project name="LineageOS/android_system_hwservicemanager" />
   <project name="LineageOS/android_system_incremental_delivery" />
@@ -684,6 +687,7 @@
   <project name="LineageOS/android_tools_apksig" />
   <project name="LineageOS/android_tools_extract-utils" />
   <project name="LineageOS/android_tools_metalava" />
+  <project name="LineageOS/android_trusty_user_base" />
   <project name="LineageOS/android_vendor_apn" />
   <project name="LineageOS/android_vendor_cm" />
   <project name="LineageOS/android_vendor_codeaurora_telephony" />
