@@ -818,6 +818,7 @@
   <project name="LineageOS/android_device_oneplus_onyx" />
   <project name="LineageOS/android_device_oneplus_oscaro" />
   <project name="LineageOS/android_device_oneplus_ovaltine" />
+  <project name="LineageOS/android_device_oneplus_paganic" />
   <project name="LineageOS/android_device_oneplus_salami" />
   <project name="LineageOS/android_device_oneplus_sdm845-common" />
   <project name="LineageOS/android_device_oneplus_sm6375-common" />
