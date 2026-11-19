@@ -1444,6 +1444,7 @@
   <project name="LineageOS/android_device_xiaomi_phoenix" />
   <project name="LineageOS/android_device_xiaomi_pipa" />
   <project name="LineageOS/android_device_xiaomi_platina" />
+  <project name="LineageOS/android_device_xiaomi_plato" />
   <project name="LineageOS/android_device_xiaomi_polaris" />
   <project name="LineageOS/android_device_xiaomi_pyxis" />
   <project name="LineageOS/android_device_xiaomi_pyxis_mainline" />
