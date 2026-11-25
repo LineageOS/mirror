@@ -1396,6 +1396,8 @@
   <project name="LineageOS/android_device_xiaomi_equuleus" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
   <project name="LineageOS/android_device_xiaomi_fuxi" />
+  <project name="LineageOS/android_device_xiaomi_gale" />
+  <project name="LineageOS/android_device_xiaomi_gale-kernels" />
   <project name="LineageOS/android_device_xiaomi_garnet" />
   <project name="LineageOS/android_device_xiaomi_gauguin" />
   <project name="LineageOS/android_device_xiaomi_gemini" />
@@ -2736,6 +2738,9 @@
   <project name="LineageOS/android_kernel_xiaomi_cancro" />
   <project name="LineageOS/android_kernel_xiaomi_earth" />
   <project name="LineageOS/android_kernel_xiaomi_ferrari" />
+  <project name="LineageOS/android_kernel_xiaomi_gale-mediatek_modules" />
+  <project name="LineageOS/android_kernel_xiaomi_gale-modules" />
+  <project name="LineageOS/android_kernel_xiaomi_gale_manifest" />
   <project name="LineageOS/android_kernel_xiaomi_gauguin" />
   <project name="LineageOS/android_kernel_xiaomi_jason" />
   <project name="LineageOS/android_kernel_xiaomi_jaws-build" />
