@@ -2741,6 +2741,7 @@
   <project name="LineageOS/android_kernel_xiaomi_armani" />
   <project name="LineageOS/android_kernel_xiaomi_cancro" />
   <project name="LineageOS/android_kernel_xiaomi_earth" />
+  <project name="LineageOS/android_kernel_xiaomi_enuma" />
   <project name="LineageOS/android_kernel_xiaomi_ferrari" />
   <project name="LineageOS/android_kernel_xiaomi_gale-mediatek_modules" />
   <project name="LineageOS/android_kernel_xiaomi_gale-modules" />
