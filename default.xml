@@ -1396,6 +1396,7 @@
   <project name="LineageOS/android_device_xiaomi_dipper" />
   <project name="LineageOS/android_device_xiaomi_diting" />
   <project name="LineageOS/android_device_xiaomi_earth" />
+  <project name="LineageOS/android_device_xiaomi_enuma" />
   <project name="LineageOS/android_device_xiaomi_equuleus" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
   <project name="LineageOS/android_device_xiaomi_fuxi" />
