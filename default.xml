@@ -677,6 +677,7 @@
   <project name="LineageOS/android_device_motorola_rhode" />
   <project name="LineageOS/android_device_motorola_rhodep" />
   <project name="LineageOS/android_device_motorola_river" />
+  <project name="LineageOS/android_device_motorola_roadstr" />
   <project name="LineageOS/android_device_motorola_rtwo" />
   <project name="LineageOS/android_device_motorola_sdm632-common" />
   <project name="LineageOS/android_device_motorola_sdm660-common" />
@@ -692,6 +693,7 @@
   <project name="LineageOS/android_device_motorola_sm8250-common" />
   <project name="LineageOS/android_device_motorola_sm8475-common" />
   <project name="LineageOS/android_device_motorola_sm8550-common" />
+  <project name="LineageOS/android_device_motorola_sm8750-common" />
   <project name="LineageOS/android_device_motorola_smith" />
   <project name="LineageOS/android_device_motorola_solana" />
   <project name="LineageOS/android_device_motorola_spyder" />
@@ -1396,6 +1398,7 @@
   <project name="LineageOS/android_device_xiaomi_dipper" />
   <project name="LineageOS/android_device_xiaomi_diting" />
   <project name="LineageOS/android_device_xiaomi_earth" />
+  <project name="LineageOS/android_device_xiaomi_elish" />
   <project name="LineageOS/android_device_xiaomi_enuma" />
   <project name="LineageOS/android_device_xiaomi_equuleus" />
   <project name="LineageOS/android_device_xiaomi_ferrari" />
@@ -2472,6 +2475,9 @@
   <project name="LineageOS/android_kernel_motorola_sm8550" />
   <project name="LineageOS/android_kernel_motorola_sm8550-devicetrees" />
   <project name="LineageOS/android_kernel_motorola_sm8550-modules" />
+  <project name="LineageOS/android_kernel_motorola_sm8750" />
+  <project name="LineageOS/android_kernel_motorola_sm8750-devicetrees" />
+  <project name="LineageOS/android_kernel_motorola_sm8750-modules" />
   <project name="LineageOS/android_kernel_motorola_titan" />
   <project name="LineageOS/android_kernel_nextbit_msm8992" />
   <project name="LineageOS/android_kernel_nokia_msm8998" />
@@ -2958,6 +2964,7 @@
   <project name="LineageOS/android_packages_modules_CrashRecovery" />
   <project name="LineageOS/android_packages_modules_DnsResolver" />
   <project name="LineageOS/android_packages_modules_ImsMedia" />
+  <project name="LineageOS/android_packages_modules_ImsStack" />
   <project name="LineageOS/android_packages_modules_IntentResolver" />
   <project name="LineageOS/android_packages_modules_Media" />
   <project name="LineageOS/android_packages_modules_NetworkStack" />
@@ -3194,6 +3201,7 @@
   <project name="LineageOS/android_vendor_qcom_opensource_wfd-commonsys" />
   <project name="LineageOS/android_vendor_qcom_opensource_wlan_prima" />
   <project name="LineageOS/android_vendor_qcom_opensource_wlan_qcacld-2.0" />
+  <project name="LineageOS/android_vendor_st_opensource_keymaster" />
   <project name="LineageOS/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project name="LineageOS/android_vendor_tmobile_products_themes" />
   <project name="LineageOS/android_vendor_tmobile_providers_ThemeManager" />
